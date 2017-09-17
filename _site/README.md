@@ -13,6 +13,7 @@
 ## Física 2
 
 ### [Unitat 1: Les ones i el so](06_ones/ones.md){:target="_blank"}
+* [Problemes](06_ones/problemes_ones.md){:target="_blank"}
 ### Unitat 2: Gravitació
 ### Unitat 3: La nova visió de l'univers
 ### Unitat 4: Camp elèctric
