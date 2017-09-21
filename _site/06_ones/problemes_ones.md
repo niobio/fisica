@@ -1,6 +1,10 @@
 
 # Problemes Unitat 1: Les ones i el so
 
+<style type="text/css">
+    ol ol { list-style-type: lower-alpha; }
+</style>
+
 ## Moviment Vibratori Harmònic Simple
 
 1. Sigui un m.v.h.s. amb equació $x=2\sin\left(4\pi t+\frac{\pi}{4}\right)$ en què $x$ s'expressa en cm i $t$ en s. Digues quina de les següents respostes és la correcta: 
@@ -42,7 +46,7 @@ $$v=\frac{4\pi}{3}\cos\left(\frac{\pi}{3}t+\frac{\pi}{2}\right)\,\mathrm{m/s}$$
     4. El període d'un és $2\pi$ vegades el de l'altre. 
     5. No es pot dir res de la relació entre períodes si no se sap el valor de la massa dels pèndols.
 
-8. Un pèndol està composat per una massa de 10 kg i un fil d’1 m de longitud. ($\left|g\right|=9,8\,\mathrm{m/s^{2}}$): 
+8. Un pèndol està composat per una massa de 10 kg i un fil d’1 m de longitud. ($\lvert g \rvert=9,8\,\mathrm{m/s^{2}}$): 
     1. Troba el seu període d’oscil·lació per a petites oscil·lacions. 
     2. Quina constant elàstica hauria de tenir una molla amb la mateixa massa penjada per tenir el mateix període d’oscil·lació? 
     3. Si es dugués el mateix pèndol a un planeta on l’acceleració de la gravetat fos la meitat de la de la Terra, com canviaria el període d’oscil·lació? Si es dugués la mateixa molla del apartat (B) al mateix planeta: canviaria el seu període en la mateixa proporció? Justifica-ho.
