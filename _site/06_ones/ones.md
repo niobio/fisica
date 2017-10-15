@@ -76,7 +76,7 @@ $$
 
 Entre els moviments oscil·latoris el més senzill de descriure matemàticament és el moviment harmònic simple. El físic i matemàtic francès [Jean Baptiste Fourier](http://ca.wikipedia.org/wiki/Jean_Baptiste_Joseph_Fourier) va demostrar que qualsevol moviment oscil·latori es pot descompondre en una suma de moviments harmònics simples, això fa que el seu estudi sigui fonamental per a la comprensió de qualsevol moviment oscil·latori.
 
-Definim el MHS com la projecció d'un moviment circular uniforme sobre la recta continguda en el pla de la seva trajectòria. En la Figura [fig:mhs_def] podem veure las posicions que adopta un mòbil amb MHS per a diferents instants de temps. Si tenim en compte que cada punt està separat del següent per un interval de temps sempre igual ens podem adonar que el MHS té velocitat més gran en la part central que en els extrems.
+Definim el MHS com la projecció d'un moviment circular uniforme sobre la recta continguda en el pla de la seva trajectòria. En la figura següent podem veure las posicions que adopta un mòbil amb MHS per a diferents instants de temps. Si tenim en compte que cada punt està separat del següent per un interval de temps sempre igual ens podem adonar que el MHS té velocitat més gran en la part central que en els extrems.
 
 
 <figure>
@@ -121,13 +121,13 @@ Veiem que la velocitat també varia periòdicament amb el temps i prenent com a 
 
 $$\begin{equation}\label{eq:vmax}
 v_{\mathrm{max}}=A\omega
-\end{equation}$$
+\end{equation}$$  
 
 Si ara prenem la derivada de la velocitat obtindrem l'acceleració com a funció del temps
 
 $$\begin{equation}\label{eq:acceleracio}
 a=\frac{dv}{dt}=-A\omega^{2}\sin(\omega t+\varphi_{0})
-\end{equation}$$
+\end{equation}$$  
 
 En aquest cas obtenim que l'acceleració es comporta de manera contraria a l'elongació, quan l'elongació pren el seu valor màxim positiu, l'acceleració pren el valor màxim però negatiu. L'acceleració pren el seu valor màxim
 
@@ -141,7 +141,7 @@ Si comparem l'equació $\eqref{eq:acceleracio}$ amb l'equació $\eqref{eq:eq_mov
 
 $$\begin{equation}\label{eq:a_vs_x}
 a=-\omega^{2}x
-\end{equation}$$
+\end{equation}$$  
 
 Si multipliquem l'acceleració per la massa del cos que es mou seguint un MHS i apliquem la segona llei de Newton obtenim la força que actua sobre la massa
 

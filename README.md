@@ -1,9 +1,6 @@
 ## Física 1
 
-### Unitat 0: Introducció a la Física
-
-* [El métode científic](00_intro_fisica/metode_cientific.md){:target="_blank"}
-
+### [Unitat 0: Introducció a la Física](00_intro_fisica/intro_fisica.md){:target="_blank"}
 ### Unitat 1: Imatges
 ### Unitat 2: Moviment
 ### Unitat 3: L'univers mecànic
