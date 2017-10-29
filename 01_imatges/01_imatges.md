@@ -22,7 +22,7 @@ Per a l'estudi de la formació d'imatges tindrem en compte un parell de fets ben
 Podem destacar dos tipus de reflexió. Quan la superfície especular és plana tenim reflexió especular i l'exemple més clar és el mirall o una superfície metàl·lica polida i, fins i tot la superfície d'aigua quan està quieta. En cas de tenir una superfície rugosa la reflexió és difusa i no podem formar una imatge. La llei de la reflexió es compleix a nivell local però como l'angle d'incidència de cada raig és diferent respecte a la superfície, els raigs emergents no són pas paral·lels.
 
 <figure>
-  <img src="img/especular_difusa.svg" alt="" width="50%">
+  <img src="img/especular_difusa.svg" alt="" width="80%">
   <figcaption> <strong>Reflexió especular i difusa. La llei de la reflexió es verifica localment en ambdues superfícies però només a la imatge de l'esquerra tots els raigs tenen el mateix angle d'incidència i de reflexió.</strong> </figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ $$\alpha_{r}=\alpha_{i}$$
 Els angles d'incidència i reflexió es mesuren respecte de la línia perpendicular a la superfície de reflexió anomenada recta normal, com es veu a la figura següent.
 
 <figure>
-  <img src="img/llei_reflex.svg" alt="" width="30%">
+  <img src="img/llei_reflex.svg" alt="" width="60%">
   <figcaption> <strong> Llei de la reflexió. L'angle de reflexió és igual a l'angle d'incidència. Mesurem els alngles respecte de la recta normal.</strong> </figcaption>
 </figure>
 
@@ -42,7 +42,7 @@ Els angles d'incidència i reflexió es mesuren respecte de la línia perpendicu
 Com ja ho hem dit, la llum es propaga en un medi homogeni a una velocitat constant, però quan la llum passa d'un medi a un altre la seva velocitat de propagació canvia i això pot produir un canvi en la direcció de propagació de la llum. Aquest canvi en la direcció de propagació de la llum l'anomenen refracció de la llum. A la Figura [fig:refrac] es pot veure un raig de llum que incideix des d'una medi 1 amb un angle $\alpha_{1}$ respecte a la normal de la superfície de separació dels dos medis. Quan travessa la superfície passa a propagar-se en el medi 2 amb un angle $\alpha_{2}$ respecte a la mateixa recta normal. També es pot veure un raig reflectit. Sempre que hi ha una superfície de separació de dos medis hi haurà llum reflectida què, com ja hem vist, segueix la llei de la reflexió $(\alpha_{1}=\alpha_{1}^{,})$.
 
 <figure>
-  <img src="img/llei_refrac.svg" alt="" width="30%">
+  <img src="img/llei_refrac.svg" alt="" width="60%">
   <figcaption> <strong>Refracció de la llum. La llum es propaga per un medi 1 i passa a un medi 2 amb propietats òptiques diferents, com a conseqüència, la direcció de propagació canvia. La llei que descriu aquest comportament és la llei de Snell.</strong> </figcaption>
 </figure>
 
@@ -92,7 +92,7 @@ A la taula següent es pot observar el llistat dels índex de refracció d'algun
 Ja hem vist que quan la llum travessa una superfície de separació entre dos medis transparents de diferent índex de refracció es produeix un canvi en la direcció de la llum al passar d'un medi a l'altre. 
 
 <figure>
-  <img src="img/angle_limit.svg" alt="" width="70%">
+  <img src="img/angle_limit.svg" alt="" width="100%">
   <figcaption> <strong>Reflexió total interna. Quan la llum passa de l'aigua a l'aire, l'angle refractat, $\alpha_{2}^{,}$, resulta més gran que l'angle d'incidència, $\alpha_{1}$. Si augmentem l'angle $\alpha_{1}$ arribarà a un valor per al qual l'angle de refracció és rasant $(\alpha_{2}^{,}=90^{\circ})$. Aquest angle d'incidència es diu angle límit, $\alpha_{L}$, i a partir d'aquest valor no hi ha raig refractat i només tenim llum reflectida.</strong></figcaption>
 </figure>
 
@@ -101,7 +101,7 @@ Aquest fenomen es diu refracció i hem vist que quan la llum passa d'un medi a u
 Si continuem augmentant l'angle d'incidència trobarem que hi arribarà el moment que per a un angle $\alpha_{1}<90^{\circ}$, tindrem un angle de refracció $\alpha_{2}^{,}=90^{\circ}$. A aquest angle l'anomenen angle límit $(\alpha_{L})$ i, a partir d'aquest angle, només hi haurà llum reflectida. Aquest fenomen es coneix com a reflexió total interna i és el que utilitzen les fibres òptiques per a transmetre informació en forma de polsos lumínics al llarg de grans distàncies sense tenir pèrdues d'energia.
 
 <figure>
-  <img src="img/fibra_optica.svg" alt="" width="20%">
+  <img src="img/fibra_optica.svg" alt="" width="40%">
   <figcaption><strong>Les fibres òptiques utilitzen el fenomen de reflexió total per a transmetre informació sense pèrdues.</strong></figcaption>
 </figure>
 
@@ -124,7 +124,7 @@ La relació $\eqref{eq:angle_limit}$ és la condició d'angle límit. A partir d
 Els miralls esfèrics són superfícies reflectants de forma esfèrica que, per les seves característiques que estudiarem a continuació, es fan servir en diverses aplicacions, com ser els miralls que hi ha en les cantonades on hi ha entrecreuaments de carrers amb poca visibilitat, miralls retrovisors dels cotxes, telescopis reflectors, etc.
 
 <figure>
-  <img src="img/mirall_concau_focus.svg" alt="" width="50%">
+  <img src="img/mirall_concau_focus.svg" alt="" width="80%">
   <figcaption><strong>El punt F correspon al focus del mirall còncau i és per un passen tots els raigs que venen paral·lels a l'eix òptic. L'eix òptic divideix el mirall en dues parts iguals i passa pel punt O anomenat vèrtes del mirall.</strong> </figcaption>
 </figure>
 
@@ -144,7 +144,7 @@ Per a estudiar la formació d'imatges utilitzarem un mètode gràfic basat en l'
 Introduirem el mètode per a un mirall còncau amb l'objecte a una distància del mirall més gran que el radi de curvatura, R, del mirall. Per a indicar l'objecte farem servir una fletxa amb la seva cua sobre l'eix òptic i la seva punta a una altura igual a la de l'objecte. Tractarem de trobar la posició i la mida de la imatge i, per fer això, només necessitem trobar la imatge de la punta de la fletxa. Per a trobar la imatge farem servir els raigs principals que es podem veure a la figura següent.
 
 <figure>
-  <img src="img/mirall_concau_1.svg" alt="" width="50%">
+  <img src="img/mirall_concau_1.svg" alt="" width="80%">
   <figcaption><strong>Marxa de raigs per a un objecte ubicat a una distància més gran que el radi de curvatura del mirall còncau.</strong> </figcaption>
 </figure>
 
@@ -165,14 +165,14 @@ La regla per a la construcció de la marxa de raig amb els raigs principals són
 Veurem ara, seguint la mateixa metodologia constructiva com és la imatge quan l'objecte es troba entre el centre de curvatura i el focus. A la figura inferior es pot veure la marxa de raigs. Podem observar que els raigs convergeixen en un punt per a formar la imatge, per aquest motiu la imatge és real. També veiem que és invertida i major.
 
 <figure>
-  <img src="img/mirall_concau_2.svg" alt="" width="50%">
+  <img src="img/mirall_concau_2.svg" alt="" width="80%">
   <figcaption><strong>Formació de la imatge quan l'objecte es troba a una distància entre la focal i el radi del mirall. Les seves característiques són: Real, invertida i major.</strong> </figcaption>
 </figure>
 
 Si l'objecte es troba a una distància menor que la distància focal trobem que els raigs reflectits no convergeixen enlloc, sinó que, al contrari divergeixen al sortir del mirall. Per aquest motiu no podem trobar la imatge posant una pantalla perquè hi ha una posició on es pugui formar. Però com és que veiem la imatge si no es forma enlloc? En realitat nosaltres veiem la imatge perquè els nostres ulls formen una imatge real sobre la retina dels nostres ulls que juga el paper de pantalla. Això és possible perquè l'ull forma un sistema convergent que acaba tancant els raigs fins que convergeixen sobre la retina (estudiarem l'ull humà amb cert detall més endavant). I on veurem la imatge? Doncs, la veurem com si vingués de una posició que es troba darrere del mirall, com si estigués en la posició on convergeixen els raig reflectits si els prolonguem cap enrere. Direm en aquest cas que la imatge és virtual, dreta i major.
 
 <figure>
-  <img src="img/mirall_concau_3.svg" alt="" width="70%">
+  <img src="img/mirall_concau_3.svg" alt="" width="90%">
   <figcaption>Marxa de raigs quan l'objecte es troba a una distància és menor a la distància focal. La imatge és <strong>virtual</strong>, <strong>dreta</strong> i <strong>major</strong>.  </figcaption>
 </figure>
 
@@ -181,21 +181,21 @@ Si l'objecte es troba a una distància menor que la distància focal trobem que 
 En el cas dels miralls convexos, els raigs que hi arriben paral·lels a a l'eix òptic no convergeixen sinó al contrari, divergeixen i, per aquest motiu, aquests miralls també es coneixem com **miralls divergents**. El focus d'aquests miralls es troba on semblen provenir els raigs paral·lels un cop s'han reflectit al mirall, com es pot observar a la figura inferior.
 
 <figure>
-  <img src="img/focus_mirall_convex.svg" alt="" width="70%">
+  <img src="img/focus_mirall_convex.svg" alt="" width="90%">
   <figcaption><strong>Definició de focus per a un mirall convex. El focus és el punt d'on semblen procedir un feix de raigs paral·lels després de reflectir-s'hi.</strong></figcaption>
 </figure>
 
 Quant a la formació de la imatge d'un objecte veurem que sempre té les mateixes característiques. A la figura següent es poden veure els raigs principals provinents de l'extrem d'un objecte ubicat a una distància més gran que la distància focal. El raig que va paral·lel a l'eix òptic surt reflectit en una direcció, la prolongació de la qual passa pel focus (raig blau). El raig que va en direcció del focus (raig verd), es reflecteix paral·lel a l'eix òptic. El raig que va en direcció del radi de curvatura (raig vermell), surt reflectit en la mateixa direcció, ja que incideix perpendicular a la superfície del mirall. Per últim el raig que incideix en el vèrtex, O, del mirall surt amb el mateix angle respecte a l'eix òptic, ja que l'eix òptic és normal a la superfície en aquell punt. La imatge es forma en el punt on convergeixen la prolongació dels raigs reflectits, darrere el mirall, on la llum no hi arriba. Direm que la imatge és virtual per aquest motiu. També observem que la imatge està dreta i té una mira menor a la del objecte.
 
 <figure>
-  <img src="img/mirall_convex_1.svg" alt="" width="50%">
+  <img src="img/mirall_convex_1.svg" alt="" width="90%">
   <figcaption><strong>Mirall convex. Marxa de raigs per a un objecte ubicat a una distància més gran que la distància focal. La imatge formada és virtual, dreta i més petita que l'objecte.</strong></figcaption>
 </figure>
 
 El cas on l'objecte es troba a una distància més petita a la distància focal és molt semblant i la marxa de raigs es construeix de la mateixa manera. Podem observar que la imatge té les mateixes característiques (virtual, dreta i menor), però que a mesura que l'objecte s'apropa al mirall la imatge es va fent més gran (Figura següent). 
 
 <figure>
-  <img src="img/mirall_convex_2.svg" alt="" width="50%">
+  <img src="img/mirall_convex_2.svg" alt="" width="90%">
   <figcaption><strong>Mirall convex. Marxa de raigs per a un objecte ubicat a una distància més petita que la distància focal. La imatge formada és virtual, dreta i més petita que l'objecte.</strong></figcaption>
 </figure>
 
@@ -211,7 +211,7 @@ m=\frac{y'}{y}
 \end{equation}
 $$
 
-El valor de $y'$ serà positiu quan la imatge estigui dreta i negatiu quan la imatge estigui invertida. Per altra banda si la imatge és més gran que l'objecte tindrem que $\left|y'\right|>y$, i quan la imatge sigui més petita que l'objecte tindrem que $\left|y'\right|<y$.
+El valor de $y'$ serà positiu quan la imatge estigui dreta i negatiu quan la imatge estigui invertida. Per altra banda si la imatge és més gran que l'objecte tindrem que $\lvert y'\rvert > y$, i quan la imatge sigui més petita que l'objecte tindrem que $\lvert y' \rvert <y$.
 
 ## Les matemàtiques dels miralls
 
@@ -228,7 +228,7 @@ on $s$ és la distància objecte, $s'$ és la distància imatge i $f$ és la dis
 Si observem la figura de sota, observem que els dos triangles que queden definits són semblants, ja que els angles d'incidència i reflexió són congruents $(\theta=\theta')$ degut a la llei de a reflexió i a que l'eix òptic és normal a la superfície en el punt O.
 
 <figure>
-  <img src="img/mirall_triang.svg" alt="" width="50%">
+  <img src="img/mirall_triang.svg" alt="" width="90%">
   <figcaption>Degut a que l'angle de reflexió és igual a l'angle d'incidència, tenim que els dos triangles són semblants i, per tant, podem deduir que $y/s=y'/s'$.</figcaption>
 </figure>
 
@@ -254,7 +254,7 @@ Les lents són sistemes òptics formades per dues superfícies, una de les quals
 A la figura següent es pot veure diferents tipus de lents. Les lents que són més gruixudes al centre són del tipus convergent i les que són més primes a la part central són lents divergents.
 
 <figure>
-  <img src="img/lents.svg" alt="" width="70%">
+  <img src="img/lents.svg" alt="" width="100%">
   <figcaption><strong>Diferents tipus de lents. Les lents de la primera fila s'anomenen lents convergent i la fila de sota s'anomenen lents divergents.</strong></figcaption>
 </figure>
 
@@ -263,14 +263,14 @@ A la figura següent es pot veure diferents tipus de lents. Les lents que són m
 De manera anàloga a com hem definit el focus d'un mirall, definirem el focus d'una lent, amb la diferència que en les lents la llum travessa les seves superfícies. En el cas d'una lent convergent, els raigs que hi arriben paral·lels a l'eix òptic, després de travessar la lent, convergeixen tots en un punt al que anomenarem focus principal o focus imatge de la lent (Figura següent). En la pràctica podem trobar el focus posant la lent als raigs del Sol i cercant amb un paper el punt on tots el raigs convergeixen, això és possible perquè els raigs del Sol ens hi arriben paral·lels degut a la gran distància que tenim del Sol.
 
 <figure>
-  <img src="img/lent_convergent_focus_i.svg" alt="" width="70%">
+  <img src="img/lent_convergent_focus_i.svg" alt="" width="90%">
   <figcaption>Definició de focus imatge per a una lent convergent.</figcaption>
 </figure>
 
 De la mateixa manera, definirem focus objecte al punt per al qual si posem una font puntual emissora de llum en aquella posició, els raigs que sortirien de la lent anirien paral·lels a l'eix òptic.
 
 <figure>
-  <img src="img/lent_convergent_focus_o.svg" alt="" width="70%">
+  <img src="img/lent_convergent_focus_o.svg" alt="" width="90%">
   <figcaption>Definició de focus objecte per a una lent convergent.</figcaption>
 </figure>
 
@@ -302,21 +302,21 @@ Per a començar estudiarem el cas d'un objecte ubicat a una distància més gran
 La reversibilitat del camí òptic fa que si posem l'objecte en la posició on es troba la imatge, veurem que la imatge passa a formar-se en la posició on abans estava l'objecte. Així doncs, podem deduir que si l'objecte es troba a una distància més gran que la distància focal però més petita que dues vegades la distància focal, la imatge també serà real, invertida però, en aquest cas, serà més gran que l'objecte.
 
 <figure>
-  <img src="img/lent_convergent_1.svg" alt="" width="70%">
+  <img src="img/lent_convergent_1.svg" alt="" width="90%">
   <figcaption>Marxa de raigs per a un objecte a una distància més gran que dues vegades la distància focal. Les característiques de la imatge són: real, invertida i més petita que l'objecte.</figcaption>
 </figure>
 
 Per a confirmar el que acabem de deduir a partir de la reversibilitat del camí òptic, traçarem la marxa de raigs ubicant l'objecte a una distància propera al focus encara que més gran. El resultat es pot veure a la figura inferior.
 
 <figure>
-  <img src="img/lent_convergent_2.svg" alt="" width="70%">
+  <img src="img/lent_convergent_2.svg" alt="" width="90%">
   <figcaption>Marxa de raigs per a un objecte a una distància entre una i dues distàncies focals de la lent. Les característiques de la imatge són: real, invertida i més gran que l'objecte.</figcaption>
 </figure>
 
 Un cas diferent el tenim quan l'objecte es troba a una distància més petita que la focal respecte de la lent. Podem veure a la figura inferior la marxa dels raigs principals. En aquest cas els raigs refractats surten divergint de la lent, raó per la qual no es poden trobar per a formar una imatge. La imatge la podem trobar a partir de la prolongació enrere dels raigs refractats. El punt on convergeixen els raigs és el punt on es formarà una imatge virtual, ja que la llum no hi arriba allí però, si posem l'ull a la part dreta de la lent veurem la imatge formada en aquella posició degut a que el nostre cervell està condicionat a pensar que la llum es propaga en línia recta i això ens porta a la posició de la imatge.<sup><a href="#fn9" id="ref9">9</a></sup>
 
 <figure>
-  <img src="img/lent_convergent_3.svg" alt="" width="70%">
+  <img src="img/lent_convergent_3.svg" alt="" width="90%">
   <figcaption>Marxa de raigs per a un objecte a una distància més petita que la focal. Les característiques de la imatge són: virtual, dreta i més gran que l'objecte. Aquest és el cas d'una lupa.</figcaption>
 </figure>
 
@@ -325,14 +325,14 @@ Un cas diferent el tenim quan l'objecte es troba a una distància més petita qu
 Les lents divergents tenen el comportament contrari a les lents convergents. En aquest cas els raigs que entren a la lent paral·lels surten d'ella obrint-se de tal manera que si prolonguem els raigs refractats enrere trobem que tots ells es troben un un punt al que anomenarem focus imatge F' com es veu a la figura inferior. 
   
 <figure>
-  <img src="img/lent_divergent_focus_i.svg" alt="" width="70%">
+  <img src="img/lent_divergent_focus_i.svg" alt="" width="90%">
   <figcaption>Focus principal o focus imatge d'una lent divergent.</figcaption>
 </figure>
 
 Si tenim en compte la reversibilitat del camí òptic i invertim el cas anterior podem definir el focus objecte. es tracta del punt on hauríem de dirigir un feix de llum per tal de que, quan surtin de la lent ho fessin paral·lels a l'eix òptic, com es veu a la figura següent.
 
 <figure>
-  <img src="img/lent_divergent_focus_o.svg" alt="" width="70%">
+  <img src="img/lent_divergent_focus_o.svg" alt="" width="90%">
   <figcaption>Focus objecte d'una lent divergent.</figcaption>
 </figure>
 
@@ -349,14 +349,14 @@ Per a estudiar la formació d'imatges per una lent divergent hem de tenir en com
 4. La imatge es troba en el entrecreuament de les prolongacions enrere dels raigs que han travessat les lents. La imatge que es forma és virtual, dreta i menor com es veu a la figura següent.
 
 <figure>
-  <img src="img/lent_divergent_1.svg" alt="" width="70%">
+  <img src="img/lent_divergent_1.svg" alt="" width="90%">
   <figcaption>Marxa de raigs per a un objecte a una distància més gran que la focal. Les característiques de la imatge són: virtual, dreta i més petita que l'objecte.</figcaption>
 </figure>
 
 Quan l'objecte es troba a una distància més petita que la focal, com és el cas de la figura inferior, la imatge que es forma té les mateixes característiques que en el cas anterior amb la diferència que, quant més a prop de la lent estigui l'objecte, més gran es veurà la imatge. La construcció de la marxa de raigs és anàloga al cas anterior. 
 
 <figure>
-  <img src="img/lent_divergent_2.svg" alt="" width="50%">
+  <img src="img/lent_divergent_2.svg" alt="" width="90%">
   <figcaption>Marxa de raigs per a un objecte a una distància més petita que la focal. Les característiques de la imatge no canvien, continua sent virtual, dreta i més petita que l'objecte.</figcaption>
 </figure>
 
@@ -383,7 +383,7 @@ L'ull és un dels aparells més meravellosos que es poden trobar a la natura, ha
 Per arribar a la retina la llum ha de travessar una sèrie de medis refringents que s'encarreguen de desviar els raigs de llum i formar la imatge sobre la retina. Les diferents parts de l'ull humà es poden observar a la figura inferior. El major desviament es produeix quan la llum passa de l'aire a la còrnia, ja que aquí és on tenim el canvi més brusc de índex de refracció. Després la llum travessa l'humor aquós, passa per la pupil·la (furat rodejat per l'iris i que canvia de diàmetre segons la necessitat de l'ull de rebre més o menys llum). Els següent que fa la llum és travessar el cristal·lí, una lent que controlada pels músculs ciliars i que pot canviar el seu gruix i, amb això, la seva distància focal. El cristal·lí és l'encarregat d'enfocar “acomodant” l'ull per veure els objectes que es troben a diferents distàncies. 
 
 <figure>
-  <img src="img/ull.svg" alt="" width="80%">
+  <img src="img/ull.svg" alt="" width="100%">
   <figcaption>Ull humà. La llum travessa diferents capes transparents abans d'arribar a formar una imatge real sobre la retina. </figcaption>
 </figure>
 
@@ -391,7 +391,7 @@ A continuació la llum travessa l'humor vitri que, com l'humor aquós, és un l�
   anomenada fòvea ubicada on està l'eix òptic de l'ull (allà on va a parar la imatge quan fixem la mirada) i és la regió d'alta resolució de l'ull on podem apreciar detalls fins de la imatge. Més enllà de la fòvea s'ubiquen els cons que no poden percebre els colors i són les que es fan servir amb poca llum (visió nocturna) i ens donen la visió perifèrica. Podem veure a la figura una gràfica amb la densitat de bastons i cons de la retina. 
   
 <figure>
-  <img src="img/densitat_receptors.svg" alt="" width="60%">
+  <img src="img/densitat_receptors.svg" alt="" width="70%">
   <figcaption>Densitat de receptors de la retina. Els cons s'ubiquen fonamentalment a la fòvea i són els responsables de la visió allà on enfoquem la mirada i de la visió dels colors. Els bastons no poden distingir els colors i són responsables de la visió nocturna i perifèrica. </figcaption>
 </figure>
 
@@ -402,21 +402,21 @@ Al punt cec no hi ha bastons ni cons i és que allí és d'on surt el nervi òpt
 No sempre l'ull produeix una bona imatge sobre la retina i moltes vegades hem de recórrer a l'oftalmòleg per tal de corregir alguns defectes o poder veure bé. Un dels problemes més usuals de la visió és la miopia (Figura següent), que es produeix quan som incapaços de enfocar objectes llunyans. En aquest cas, la imatge es forma abans de la retina. La correcció d'aquest defecte s'aconsegueix amb una lent divergent, de manera que fa disminuir la potència del sistema refractiu de l'ull obrint els raigs per a que acabin formant la imatge a la retina.
 
 <figure>
-  <img src="img/ull_miop.svg" alt="" width="50%">
+  <img src="img/ull_miop.svg" alt="" width="70%">
   <figcaption>Miopia. (a) La imatge d'objectes llunyans es forma abans de la retina. (b) La correcció es fa amb lents divergents que obren els raigs. </figcaption>
 </figure>
 
 Una altre problema comú és el contrari a la miopia anomenat hipermetropia, en aquest cas la imatge d'objectes propers no es forma a la retina, sinó que es forma darrera la retina i la manera de corregir aquest problema és amb lents convergents que augmentes la potència refractiva de l'ull fent que els raigs es tanquin més com es veu a la figura inferior.
 
 <figure>
-  <img src="img/ull_hiper.svg" alt="" width="50%">
+  <img src="img/ull_hiper.svg" alt="" width="70%">
   <figcaption>Hipermetropia. (a) La imatge d'objectes propers es forma després de la retina. (b) La correcció es fa amb lents convergents que tanquen els raigs. </figcaption>
 </figure>
 
 Un tercer defecte molt comú de la visió és l'astigmatisme, aquest defecte es deu a que l'ull no té una simetria axial i desvia els raigs de llum més en una direcció que en altra, per tant quan enfoquem en un eix no podem veure en focus en un altre. La manera de corregir aquest defecte és amb lents cilíndriques o esferotòriques quan hi ha també miopia o hipermetropia associada. Una altra manera de corregir aquests defectes és amb cirurgia refractiva, que consisteix en la utilització de làser per a produir una modificació de la curvatura de la còrnia.
 
 <figure>
-  <img src="img/cercle_astigmatic.png" alt="" width="50%">
+  <img src="img/cercle_astigmatic.png" alt="" width="70%">
   <figcaption>Cercle astigmàtic. Quan tenim astigmatisme es resulta impossible enfocar totes les ratlles del cercle alhora.</figcaption>
 </figure>
 
