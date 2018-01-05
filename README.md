@@ -14,6 +14,10 @@
 
 ### [Unitat 2: Planetes i Satèl·lits](07_gravitacio/gravitacio.md){:target="_blank"}
 * [Problemes](07_gravitacio/problemes_gravitacio.md){:target="_blank"}
-### Unitat 3: La nova visió de l'univers
+
+### [Unitat 3: La nova visió de l'univers](08_fisica_moderna/moderna.md){:target="_blank"}
+* [Problemes](08_fisica_moderna/problemes_moderna.md){:target="_blank"}
+
 ### Unitat 4: Camp elèctric
+
 ### Unitat 5: Les màquines electromagnètiques
