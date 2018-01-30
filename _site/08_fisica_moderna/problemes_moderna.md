@@ -28,7 +28,7 @@
     1. Calculeu l’energia cinètica màxima dels fotoelectrons emesos. 
     2. Expliqueu què passaria si la llum incident tingués una longitud d’ona de $3,0\times10^{-7}\,\mathrm{m}$. 
 
-8. Se sap que un determinat metall experimenta l’efecte fotoelèctric quan s’hi fan incidir fotons d’energia superior a 1 eV. Suposeu que sobre aquest metall hi incideixen fotons de longitud d’ona 6\times10^{-7}\,\mathrm{m}. 
+8. Se sap que un determinat metall experimenta l’efecte fotoelèctric quan s’hi fan incidir fotons d’energia superior a 1 eV. Suposeu que sobre aquest metall hi incideixen fotons de longitud d’ona $6\times10^{-7}\,\mathrm{m}$. 
     1. Quant val la freqüència dels fotons incidents? 
     2. Es produeix l’efecte fotoelèctric? Per què? 
     
@@ -37,8 +37,7 @@
    $c=3\times10^{8}\,\mathrm{m\cdot s^{-1}}$;       <br>
    $h=6,62\times10^{-34}\,\mathrm{J\cdot s}$.      <br>
 
-9. Una radiació ultraviolada de \lambda=200\,\mathrm{nm}
-  incideix sobre una placa de plom, de manera que salten electrons amb una energia cinètica màxima d’1,97 eV. Calculeu: 
+9. Una radiació ultraviolada de $\lambda=200\,\mathrm{nm}$ incideix sobre una placa de plom, de manera que salten electrons amb una energia cinètica màxima d’1,97 eV. Calculeu: 
     1. La funció de treball (és a dir, l’energia mínima d’extracció d’electrons) del plom. 
     2. La longitud d’ona associada als electrons emesos amb l’energia cinètica màxima.
 

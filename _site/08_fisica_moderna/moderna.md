@@ -110,6 +110,11 @@ on podem veure que hi ha una relació lineal entre el potencial de frenada $V_{0
 
 L'explicació de l'efecte fotoelèctric va posar les bases de la física quàntica, la teoria que explica tot el món subatòmic. Actualment l'efecte fotoelèctric té aplicació en les plaques solars que transformen l'energia radiant del sol en electricitat. També troba aplicació en electrònica a través dels sensors com els LDR, els fototransistors i fotodiodes.
 
+<br><br>
+<center>
+<div style="position: relative; width: 300px; height: 197px;"><a href="https://phet.colorado.edu/sims/photoelectric/photoelectric_es.jnlp" style="text-decoration: none;"><img src="https://phet.colorado.edu/sims/photoelectric/photoelectric-600.png" alt="El Efecto Fotoeléctrico" style="border: none;" width="300" height="197"/><div style="position: absolute; width: 200px; height: 80px; left: 50px; top: 58px; background-color: #FFF; opacity: 0.6; filter: alpha(opacity = 60);"></div><table style="position: absolute; width: 200px; height: 80px; left: 50px; top: 58px;"><tr><td style="text-align: center; color: #000; font-size: 24px; font-family: Arial,sans-serif;">Feu clic</td></tr></table></a></div>
+</center>
+<br><br>
 ## Ones o partícules?
 
 L'explicació que va donar l'Einstein per a l'efecte fotoelèctric va deixar clar que la llum, i la radiació electromagnètica en general, es comporta més aviat com si fos una ona quan es propaga i més aviat com partícula quan interactua amb la matèria. Aquest tipus de comportament es va anomenar dualitat ona-partícula, en realitat no és ni ona ni partícula sinó una cosa nova que en el moment de fer una mesura observem com una o com partícula depenent del tipus d'experiment que fem. En el seu comportament com partícula un fotó és portador de quantitat de moviment. Pera trobar la quantitat de moviment d'un fotó farem servir l'expressió de l'energia del fotó $\eqref{eq:relacio_plank}$ i la relació entre la freqüència i la longitud d'ona 
