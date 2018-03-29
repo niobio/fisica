@@ -19,7 +19,7 @@
 * [Problemes](08_fisica_moderna/problemes_moderna.md){:target="_blank"}
 
 ### [Unitat 4: Camp elèctric](09_camp_electric/camp_electric.md){:target="_blank"}
-* [Problemes](09_camp_electric/camp_electric.md){:target="_blank"}
+* [Problemes](09_camp_electric/problemes_camp_electric.md){:target="_blank"}
 
 ### [Unitat 5: Les màquines electromagnètiques](10_electromagnetisme/electromagnetisme.md){:target="_blank"}
-* [Problemes](10_electromagnetisme/electromagnetisme.md){:target="_blank"}
+* [Problemes](10_electromagnetisme/problemes_electromagnetisme.md){:target="_blank"}
