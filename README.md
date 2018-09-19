@@ -1,7 +1,11 @@
 ## Física 1
 
 ### [Unitat 0: Introducció a la Física](00_intro_fisica/intro_fisica.md){:target="_blank"}
-* [Projecte Eratòstenes. Formulari d'entrada de dades](https://goo.gl/HovCaZ){:target="_blank"}
+* [Problemes](00_intro_fisica/intro_prob.md){:target="_blank"}
+* Projecte Eratòstenes: 
+	* [Formulari d'entrada de dades](https://goo.gl/HovCaZ){:target="_blank"}
+	* [Guia de l'estudiant](http://difusion.df.uba.ar/Erat/InstructivoEratostenes2012.pdf){:target="_blank"}
+
 ### [Unitat 1: Imatges](01_imatges/01_imatges.md){:target="_blank"}
 ### Unitat 2: Moviment
 ### Unitat 3: L'univers mecànic
