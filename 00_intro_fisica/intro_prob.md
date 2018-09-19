@@ -5,14 +5,6 @@
     ol ol { list-style-type: lower-alpha; }
 </style>
 
-## Mètode científic
-
-1. Quina era la visió aristotèlica del món?
-
-2. Explica breument en què consisteix el mètode científic. 
-
-3. Què vol dir que una teoria sigui falsable?
-
 ## Errors i mesura
 
 1. La Maria mesura la longitud del seu llibre i obté una mesura de 25 cm amb un error absolut de 20 mm. En Bruno mesura la quantitat d'aigua que hi ha en una proveta i obté una mesura de $30\,\mathrm{cm^{3}}$ amb un error absolut de 4 ml. Quina mesura és més precisa, la de la Maria o la de Bruno? 
@@ -57,3 +49,11 @@
 10. Volem mesurar $180\,\mathrm{cm^{3}}$ d'aigua amb una proveta. Si l'error relatiu ha de ser inferior al 3%, n'hi ha prou amb una proveta graduada de $5\,\mathrm{cm^{3}}$ en $5\,\mathrm{cm^{3}}$, o cal una proveta graduada de $2\,\mathrm{cm^{3}}$ en $2\,\mathrm{cm^{3}}$? Justifica la teva resposta.
 
 11. Hem mesurat l'alçada d'una persona i l'error absolut ha estat inferior a 1 cm; també hem mesurat el diàmetre d'una moneda d'un euro i l'error ha estat inferior a 1 mm. Quin dels dos mesuraments és més precís? Per què?
+
+## Mètode científic
+
+1. Quina era la visió aristotèlica del món?
+
+2. Explica breument en què consisteix el mètode científic. 
+
+3. Què vol dir que una teoria sigui falsable?
