@@ -45,6 +45,7 @@
     1. Representeu gràficament els volums en abscises i les masses en ordenades. Què se n'obtè?
     2. Calculeu el valor de la densitat del coure amb el seu error. Quantes xifres significatives té el resultat?
     3. Quina és la cota d'error relatiu?
+
 <center>
 
 |Mostra|Volum ($\mathrm{cm^3}$)|Massa (g)|
