@@ -45,6 +45,7 @@
     1. Representeu gràficament els volums en abscises i les masses en ordenades. Què se n'obtè?
     2. Calculeu el valor de la densitat del coure amb el seu error. Quantes xifres significatives té el resultat?
     3. Quina és la cota d'error relatiu?
+<center>
 
 |Mostra|Volum ($\mathrm{cm^3}$)|Massa (g)|
 |--------|--|--|
@@ -54,6 +55,7 @@
 |mostra 4|25|217|
 |mostra 5|30|258|
 
+</center>
     
 <ol start="10">
 <li>Volem mesurar $180\,\mathrm{cm^{3}}$ d'aigua amb una proveta. Si l'error relatiu ha de ser inferior al 3%, n'hi ha prou amb una proveta graduada de $5\,\mathrm{cm^{3}}$ en $5\,\mathrm{cm^{3}}$, o cal una proveta graduada de $2\,\mathrm{cm^{3}}$ en $2\,\mathrm{cm^{3}}$? Justifica la teva resposta.</li>
