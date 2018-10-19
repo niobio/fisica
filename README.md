@@ -7,6 +7,8 @@
 	* [Guia de l'estudiant](http://difusion.df.uba.ar/Erat/InstructivoEratostenes2012.pdf){:target="_blank"}
 
 ### [Unitat 1: Imatges](01_imatges/01_imatges.md){:target="_blank"}
+* [Problemes](01_imatges/01_imatges_prob.md){:target="_blank"}
+
 ### Unitat 2: Moviment
 ### Unitat 3: L'univers mecànic
 ### Unitat 4: Energia
