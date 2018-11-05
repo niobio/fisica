@@ -28,7 +28,7 @@
 
 6. Un raig de llum viatja des d’un medi d’índex de refracció 1,2 a un altre d’índex de refracció 1,6. El raig incident fa un angle de 37° amb la direcció perpendicular a la superfície de separació dels dos medis. Quant val l’angle de refracció? Hi ha algun angle d’incidència a partir del qual es produeixi el fenomen de la reflexió total?
     
-<img src="img_prob/07_refraccio.png" width="30%">
+    <img src="img_prob/07_refraccio.png" width="30%">
 
 7. Un raig de llum incideix sobre la superfície d’un plàstic d’índex de refracció 2,4; aquest plàstic té les seves superfícies completament paral·leles i separades una distància de 1,8 cm. Si un raig incident forma un angle de $20^{\circ}$ amb la normal a les superfícies de la placa, calculeu: 
     1. L’angle de refracció. 
@@ -38,11 +38,11 @@
 
 8. El dipòsit d'aigua de la figura està ple d'aigua ($n=1,33$). Un raig de llum incideix rasant a la paret lateral del dipòsit i es refracta com es veu a la figura. Determineu el valor de l'angle d'incidència del raig.
     
-<img src="img_prob/estanque.svg" width="50%">
+    <img src="img_prob/estanque.svg" width="50%">
 
 9. Tenim una peça de vidre, la secció de la qual és la que s'indica a la figura. Si l'índex de refracció del vidre té un valor de $\sqrt{2}$, quin és el valor de l'angle límit per a aquest material? Dibuixa la trajectòria que seguirà el raig de llum, r, a l'interior de la peça de vidre. Es produirà una reflexió total a la cara BC?
     
-<img src="img_prob/prisma.png" width="50%">
+    <img src="img_prob/prisma.png" width="50%">
 
 10. Un raig de llum de color groc de 580 nm es propaga per l’aire a una velocitat de $3,0\times10^{8}\,\mathrm{m/s}$ i incideix sobre un vidre que té un índex de refracció d’1,55 per a aquesta llum. Calculeu: 
     1. La freqüència de la llum groga en l’aire i la seva velocitat de propagació en el vidre. 
@@ -68,14 +68,14 @@
 
 2. Tres raigs 1, 2 i 3, incideixen en els miralls de la figura. Dibuixa els corresponents raigs reflectits.
     
-<img src="img_prob/miralls.svg" width="70%">
+    <img src="img_prob/miralls.svg" width="70%">
     
 3. Dibuixa la imatge de l'objecte indicat per la fletxa a la figura i digues quines són les característiques de la imatge.
     1. En el cas del mirall còncau.
-    <img src="img_prob/mirall1.png" width="60%">
+        <img src="img_prob/mirall1.png" width="60%">
 
     2. En el cas del mirall convex.
-    <img src="img_prob/mirall2.png" width="60%">
+        <img src="img_prob/mirall2.png" width="60%">
 
 4. Enumereu les propietats (real o virtual, dreta o invertida, major o menor) de la imatge que ens retorna una cullera per la part còncava. Per a demostrar-les, dibuixeu la marxa dels raigs i la imatge que s’obté de la fletxa en el mirall esfèric còncau de la figura. El punt C és el centre de curvatura del mirall.
 
