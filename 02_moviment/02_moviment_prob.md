@@ -352,6 +352,7 @@ Resultat: 4 s 3,80 s 4,20 s
     </ol>
     Resultat: $v_{0}=1,5\,\mathrm{m/s,\,}v^{,}=3,5\,\mathrm{m/s}$
 </li>
+</ol>
 
 ## Moviment bidimensional
 
@@ -394,6 +395,7 @@ Resultat: 4 s 3,80 s 4,20 s
     </ol>
     Resposta: 30 km/h; 29,58 km/h; 5 km/h.
 </li>
+</ol>
 
 ### Moviment parabòlic
 
@@ -453,6 +455,7 @@ Resultat: 4 s 3,80 s 4,20 s
         <li>La distància entre el punt de llançament i el punt d’impacte amb el terra. </li>
     </ol>
 </li>
+</ol>
 
 ### Moviment circular
 
@@ -552,3 +555,6 @@ Resultat: 74 m/s/s i 10 m/s/s
     <div align="middle">
     <img src="img_prob/sinia.svg">
     </div>
+    </ol>
+</li>
+</ol>
