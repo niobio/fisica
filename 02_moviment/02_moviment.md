@@ -375,7 +375,7 @@ o, equivalentment, en forma vectorial
 
 $$\vec{r}=\vec{r}_{0}+\vec{v}_{0}\big(t-t_{0}\big)+\frac{1}{2}\vec{g}\big(t-t_{0}\big)^{2}$$
 
-on $\vec{r}=x\mathrm{\hat{i}}+y\hat{\mathrm{j}}$ és el vector posició, 
+on $\vec{r}=x\mathrm{\hat{i}}+y\mathrm{\hat{j}}$ és el vector posició, 
 $\vec{r}_{0}=x_{0}\mathrm{\hat{i}}+y_{0}\mathrm{\hat{j}}$, el vector posició inicial, $\vec{v}_{0}=v_{0x}\mathrm{\hat{i}}+v_{0y}\mathrm{\hat{j}}$ el vector velocitat inicial i $\vec{g}$ el vector acceleració de la gravetat, que si estem sobre la superfície de la Terra i considerem com a positiva la direcció vertical cap amunt tindrà un valor 
 $\vec{g}=-9,8\,\mathrm{m/s^{2}\hat{j}}$.
 
