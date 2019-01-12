@@ -9,7 +9,7 @@
 ### [Unitat 1: Imatges](01_imatges/01_imatges.md){:target="_blank"}
 * [Problemes](01_imatges/01_imatges_prob.md){:target="_blank"}
 
-### [Unitat 2: Moviment](01_moviment/02_moviment.md){:target="_blank"}
+### [Unitat 2: Moviment](02_moviment/02_moviment.md){:target="_blank"}
 * [Problemes](02_moviment/02_moviment_prob.md){:target="_blank"}
 
 ### Unitat 3: L'univers mecànic
