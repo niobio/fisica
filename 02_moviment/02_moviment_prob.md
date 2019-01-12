@@ -223,7 +223,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
     <ol>
         <li>En quin instant es troben ambdues pedres? </li>
         <li>A quina distància respecte d'en Pere es troben les pedres? </li>
-        <li>Feu les gràfiques $v(t)$ i $x(t)$ per a ambdues pedres. <li>
+        <li>Feu les gràfiques $v(t)$ i $x(t)$ per a ambdues pedres. </li>
     </ol>
 </li>
 <br>
