@@ -79,12 +79,12 @@ L'acceleració instantània serà aleshores igual a l'acceleració mitjana en un
 Quan la velocitat instantània es manté constant a mesura que passa el temps diem que el mòbil té un moviment uniforme. La velocitat instantània es pot escriure 
 
 $$
-\begin{equation}\label{eq:eq:vel_inst}
-v=\frac{x-x_{0}}{t-t_{0}}on x_{0}
+\begin{equation}\label{eq:vel_inst}
+v=\frac{x-x_{0}}{t-t_{0}}
 \end{equation}
 $$
 
-és la posició del mòbil a l'instant $t_{0}$. Aquesta última relació es pot escriure per a la velocitat instantània perquè la velocitat instantània és constant i aleshores té la mateixa expressió que la velocitat mitjana, per tant en aquest cas no necessitem que l'instant $t$ sigui proper a $t_{0}$.
+on $x_{0}$ és la posició del mòbil a l'instant $t_{0}$. Aquesta última relació es pot escriure per a la velocitat instantània perquè la velocitat instantània és constant i aleshores té la mateixa expressió que la velocitat mitjana, per tant en aquest cas no necessitem que l'instant $t$ sigui proper a $t_{0}$.
 
 De l'expressió $\eqref{eq:vel_inst}$ podem aïllar la posició per a obtenir 
 
@@ -119,9 +119,9 @@ i correspon a una recta que passa pels punts (1 s, 5 m) i (6 s, 15 m) com es pot
 </figure>
 </p>
 
-En les gràfiques de posició en funció del temps, el pendent de la gràfica correspon a la velocitat instantània. En aquest cas tenim la gràfica d'una recta i podem determinar el seu pendent prenent qualsevol parell de punts de la recta, com ser (1 s, 5 m) i (6 s, 15 m) i fent el càlcul obtenim
+En les gràfiques de posició en funció del temps, el pendent de la gràfica correspon a la velocitat instantània. En aquest cas tenim la gràfica d'una recta i podem determinar el seu pendent prenent qualsevol parell de punts de la recta, com ser (1 s, 5 m) i (6 s, 15 m) i fent el càlcul obtenim que el pendent és
 
-$$pendent=v=\frac{x_{1}-x_{0}}{t_{1}-t_{0}}=\frac{15-5}{6-1}=\frac{10}{5}=2\,\mathrm{m/s}$$
+$$v=\frac{x_{1}-x_{0}}{t_{1}-t_{0}}=\frac{15-5}{6-1}=\frac{10}{5}=2\,\mathrm{m/s}$$
 
 
 ## Moviment Uniformement Accelerat
@@ -138,7 +138,7 @@ v=v_{0}+a(t-t_{0})
 \end{equation}
 $$
 
-La relació $\eqref{eq:vel_mrua}$ presenta la mateixa forma funcional que l'equació de moviment $\eqref{eq:vel_mrua}$ en el MRU, per tant, la velocitat en el MRUA és una recta de pendent igual a l'acceleració i que passa pel punt $(t_{0},v_{0})$.
+La relació $\eqref{eq:vel_mrua}$ presenta la mateixa forma funcional que l'equació de moviment $\eqref{eq:pos_mru}$ en el MRU, per tant, la velocitat en el MRUA és una recta de pendent igual a l'acceleració i que passa pel punt $(t_{0},v_{0})$.
 
 Com sabem que l'àrea sota la gràfica de velocitat-temps ens dóna el desplaçament del mòbil, intentarem deduir l'equació de moviment del MRUA a partir del càlcul de l'àrea ombrejada en la figura inferior.
 
@@ -151,7 +151,9 @@ Com sabem que l'àrea sota la gràfica de velocitat-temps ens dóna el desplaça
 
 El desplaçament serà d'aquesta manera:
 
-$$x-x_{0}=\mathrm{\grave{A}rea}\,1+\mathrm{\grave{A}rea\,2=}v_{0}(t-t_{0})+\frac{(v-v_{0})(t-t_{0})}{2}$$
+$$x-x_{0}=\mathrm{\grave{A}rea}\,1+\mathrm{\grave{A}rea\,2}$$
+
+$$x-x_{0}=v_{0}(t-t_{0})+\frac{(v-v_{0})(t-t_{0})}{2}$$
 
 però, com $v-v_{0}=a(t-t_{0})$ degut a la relació [eq:vel_mrua], la relació anterior es transforma en:
 
@@ -184,7 +186,11 @@ $$a=\frac{v_{f}-v_{0}}{t_{f}-t_{0}}=\frac{15-5}{10-0}=1\,\mathrm{m/s^{2}}$$
 </figure>
 </p>
 
-Una altra dada que podem extreure de la gràfica de la figura superior és el desplaçament. Sabem que l'àrea sota la recta representa el desplaçament, per tant $\Delta x=(v_{f}-v_{0})(t-t_{0})=(15-5)(10-0)=100\,\mathrm{m}$.
+Una altra dada que podem extreure de la gràfica de la figura superior és el desplaçament. Sabem que l'àrea sota la recta representa el desplaçament, per tant 
+
+$$\Delta x=(v_{f}-v_{0})(t-t_{0})$$
+
+$$\Delta x = (15-5)(10-0)=100\,\mathrm{m}$$
 
 La gràfica de posició en funció del temps la podem traçar a partir d'una taula de valors que podem obtenir de l'equació $\eqref{eq:mov_mrua1}$. També la podem traçar de manera qualitativa si tenim en compte que és una paràbola, que coneixem dos punts de la gràfica, el punt inicial (0, 10 m) i el final que hem calculat de la gràfica anterior (10 s, 110 m)<sup><a href="#fn6" id="ref6">6</a></sup>. També sabem que l'acceleració és positiva, per tant, el pendent (que representa la velocitat) ha d'anar pujant (la gràfica és còncava cap amunt). La figura inferior mostra la gràfica de posició-temps.
 
@@ -306,7 +312,9 @@ $$\Delta y=v^{,}\Delta t$$
 
 i el desplaçament vist pel sistema S serà
 
-$$\Delta r=\sqrt{x^{2}+y^{2}}=\sqrt{(v_{0}\Delta t)^{2}+(v^{,}\Delta t)^{2}}=\sqrt{(v_{0}^{2}+v^{,2})\Delta t^{2}}=\sqrt{(v_{0}^{2}+v^{,2})}\Delta t$$
+$$\Delta r=\sqrt{x^{2}+y^{2}}=\sqrt{(v_{0}\Delta t)^{2}+(v^{,}\Delta t)^{2}}$$
+
+$$\Delta r=\sqrt{(v_{0}^{2}+v^{,2})\Delta t^{2}}=\sqrt{(v_{0}^{2}+v^{,2})}\Delta t$$
 
 i d'aquesta última relació tenim que la velocitat $v$ vista pel sistema S serà 
 
@@ -367,7 +375,9 @@ o, equivalentment, en forma vectorial
 
 $$\vec{r}=\vec{r}_{0}+\vec{v}_{0}\big(t-t_{0}\big)+\frac{1}{2}\vec{g}\big(t-t_{0}\big)^{2}$$
 
-on $\vec{r}=x\mathrm{\hat{i}}+y\hat{\mathrm{j}}$ és el vector posició, $\vec{r_{0}}=x_{0}\mathrm{\hat{i}}+y_{0}\mathrm{\hat{j}}$, el vector posició inicial, $\vec{v}_{0}=v_{0x}\hat{\mathrm{i}}+v_{0y}\hat{\mathrm{j}}$ el vector velocitat inicial i $\vec{g}$ el vector acceleració de la gravetat, que si estem sobre la superfície de la Terra i considerem com a positiva la direcció vertical cap amunt tindrà un valor $\vec{g}=-9,8\,\mathrm{m/s^{2}\hat{j}}$.
+on $\vec{r}=x\mathrm{\hat{i}}+y\hat{\mathrm{j}}$ és el vector posició, 
+$\vec{r_{0}}=x_{0}\mathrm{\hat{i}}+y_{0}\mathrm{\hat{j}}$, el vector posició inicial, $\vec{v}_{0}=v_{0x}\hat{\mathrm{i}}+v_{0y}\hat{\mathrm{j}}$ el vector velocitat inicial i $\vec{g}$ el vector acceleració de la gravetat, que si estem sobre la superfície de la Terra i considerem com a positiva la direcció vertical cap amunt tindrà un valor 
+$\vec{g}=-9,8\,\mathrm{m/s^{2}\hat{j}}$.
 
 Les equacions $\eqref{eq:eq_vel}$ i $\eqref{eq:eq_pos}$ contenen tota la informació del moviment i amb elles podrem resoldre gairebé tots els problemes de tir oblic.
 
@@ -394,7 +404,7 @@ El moviment circular és un moviment que té una circumferència per trajectòri
 <p>
 <figure>
   <img src="img/circular1.svg.png" alt="">
-  <figcaption> <strong>Moviment circular. Les coordenades $x$ i $y$ no són pas independents, estan relacionades a través de l'expressió $r\text{\texttwosuperior}=x^{2}+y^{2}$, amb la qual cosa només es necessita una quantitat per a tenir completament determinada la posició. En aquest cas el més senzill és fer servir el sistema de coordenades polars, que utilitza com a coordenades el radi $r$ (constant) i l'angle $\varphi$ que és l'única variable que necessitem per a tenir completament localitzat el mòbil.</strong> </figcaption>
+  <figcaption> <strong>Moviment circular. Les coordenades $x$ i $y$ no són pas independents, estan relacionades a través de l'expressió $r{2}=x^{2}+y^{2}$, amb la qual cosa només es necessita una quantitat per a tenir completament determinada la posició. En aquest cas el més senzill és fer servir el sistema de coordenades polars, que utilitza com a coordenades el radi $r$ (constant) i l'angle $\varphi$ que és l'única variable que necessitem per a tenir completament localitzat el mòbil.</strong> </figcaption>
 </figure>
 </p>
 
@@ -410,7 +420,7 @@ y=r\sin\varphi
 i, si volem passar de cartesià a polar:
 
 $$\begin{cases}
-r=\sqrt{x\text{\texttwosuperior}+y^{2}}\\
+r=\sqrt{x^{2}+y^{2}}\\
 \varphi=\arctan\big(\frac{y}{x}\big)
 \end{cases}$$
 
@@ -487,7 +497,7 @@ Hem vist que el MCU es caracteritza per tenir el mòdul de la velocitat constant
 </figure>
 </p>
 
-El desplaçament del mòbil en l'interval de temps \Delta t és \Delta r i, com la velocitat v és sempre tangent a la trajectòria, té una direcció sempre perpendicular al radi. Per tant, si analitzem el triangle OPQ (indicat en groc) veiem que és isòsceles i resulta semblant<sup><a href="#fn12" id="ref12">12</a></sup> al triangle que s'obté de fer coincidir l'origen dels dos vectors velocitat com es pot veure al detall superior de la figura anterior. Si utilitzem la proporcionalitat dels seus costats podem establir que
+El desplaçament del mòbil en l'interval de temps $\Delta t$ és $\Delta r$ i, com la velocitat $v$ és sempre tangent a la trajectòria, té una direcció sempre perpendicular al radi. Per tant, si analitzem el triangle OPQ (indicat en groc) veiem que és isòsceles i resulta semblant<sup><a href="#fn12" id="ref12">12</a></sup> al triangle que s'obté de fer coincidir l'origen dels dos vectors velocitat com es pot veure al detall superior de la figura anterior. Si utilitzem la proporcionalitat dels seus costats podem establir que
 
 $$\frac{\Delta v}{v}=\frac{\Delta r}{r}$$
 
@@ -530,7 +540,7 @@ $$\vec{v}=v\hat{\mathrm{t}}$$
 
 i l'acceleració centrípeta (en vermell a la figura) s'escriu<sup><a href="#fn15" id="ref15">15</a></sup>
 
-$$\hat{\mathrm{n}}. \vec{a_{c}}=-\frac{v^{2}}{r}\hat{n}$$
+$$\vec{a_{c}}=-\frac{v^{2}}{r}\hat{\mathrm{n}}$$
 
 <p>
 <figure>
