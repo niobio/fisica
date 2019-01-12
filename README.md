@@ -10,6 +10,8 @@
 * [Problemes](01_imatges/01_imatges_prob.md){:target="_blank"}
 
 ### Unitat 2: Moviment
+* [Problemes](02_moviment/02_moviment_prob.md){:target="_blank"}
+
 ### Unitat 3: L'univers mecànic
 ### Unitat 4: Energia
 ### Unitat 5: Corrent elèctric

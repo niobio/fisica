@@ -1,0 +1,1554 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: fig2dev Version 3.2 Patchlevel 4 -->
+
+<!-- CreationDate: Tue Nov 14 22:00:08 2006 -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="363.02844"
+   height="908.82355"
+   viewBox="0 0 6514.9258 15806.321"
+   version="1.1"
+   id="svg530"
+   sodipodi:docname="8grafiques.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata536">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs534">
+    <defs
+       id="defs264">
+      <pattern
+         patternUnits="userSpaceOnUse"
+         height="200"
+         width="200"
+         y="0"
+         x="0"
+         id="tile1">
+        <path
+           id="path2"
+           d="M 0 -100 200 16" />
+        <path
+           id="path4"
+           d="M 0 -60 200 56" />
+        <path
+           id="path6"
+           d="M 0 -20 200 96" />
+        <path
+           id="path8"
+           d="M 0 20 200 136" />
+        <path
+           id="path10"
+           d="M 0 60 200 176" />
+        <path
+           id="path12"
+           d="M 0 100 200 216" />
+        <path
+           id="path14"
+           d="M 0 140 200 256" />
+        <path
+           id="path16"
+           d="M 0 180 200 296" />
+      </pattern>
+      <pattern
+         patternUnits="userSpaceOnUse"
+         height="200"
+         width="200"
+         y="0"
+         x="0"
+         id="tile2">
+        <path
+           id="path19"
+           d="M 200 -100 0 16" />
+        <path
+           id="path21"
+           d="M 200 -60 0 56" />
+        <path
+           id="path23"
+           d="M 200 -20 0 96" />
+        <path
+           id="path25"
+           d="M 200 20 0 136" />
+        <path
+           id="path27"
+           d="M 200 60 0 176" />
+        <path
+           id="path29"
+           d="M 200 100 0 216" />
+        <path
+           id="path31"
+           d="M 200 140 0 256" />
+        <path
+           id="path33"
+           d="M 200 180 0 296" />
+      </pattern>
+      <pattern
+         patternUnits="userSpaceOnUse"
+         height="200"
+         width="200"
+         y="0"
+         x="0"
+         id="tile3">
+        <path
+           id="path36"
+           d="M 0 -100 200 16" />
+        <path
+           id="path38"
+           d="M 200 -100 0 16" />
+        <path
+           id="path40"
+           d="M 0 -60 200 56" />
+        <path
+           id="path42"
+           d="M 200 -60 0 56" />
+        <path
+           id="path44"
+           d="M 0 -20 200 96" />
+        <path
+           id="path46"
+           d="M 200 -20 0 96" />
+        <path
+           id="path48"
+           d="M 0 20 200 136" />
+        <path
+           id="path50"
+           d="M 200 20 0 136" />
+        <path
+           id="path52"
+           d="M 0 60 200 176" />
+        <path
+           id="path54"
+           d="M 200 60 0 176" />
+        <path
+           id="path56"
+           d="M 0 100 200 216" />
+        <path
+           id="path58"
+           d="M 200 100 0 216" />
+        <path
+           id="path60"
+           d="M 0 140 200 256" />
+        <path
+           id="path62"
+           d="M 200 140 0 256" />
+        <path
+           id="path64"
+           d="M 0 180 200 296" />
+        <path
+           id="path66"
+           d="M 200 180 0 296" />
+      </pattern>
+      <pattern
+         patternUnits="userSpaceOnUse"
+         height="200"
+         width="200"
+         y="0"
+         x="0"
+         id="tile4">
+        <path
+           id="path69"
+           d="M 100 0 200 100" />
+        <path
+           id="path71"
+           d="M 0 0 200 200" />
+        <path
+           id="path73"
+           d="M 0 100 100 200" />
+      </pattern>
+      <pattern
+         patternUnits="userSpaceOnUse"
+         height="200"
+         width="200"
+         y="0"
+         x="0"
+         id="tile5">
+        <path
+           id="path76"
+           d="M 100 0 0 100" />
+        <path
+           id="path78"
+           d="M 200 0 0 200" />
+        <path
+           id="path80"
+           d="M 200 100 100 200" />
+      </pattern>
+      <pattern
+         patternUnits="userSpaceOnUse"
+         height="200"
+         width="200"
+         y="0"
+         x="0"
+         id="tile6">
+        <path
+           id="path83"
+           d="M 100 0 200 100" />
+        <path
+           id="path85"
+           d="M 0 0 200 200" />
+        <path
+           id="path87"
+           d="M 0 100 100 200" />
+        <path
+           id="path89"
+           d="M 100 0 0 100" />
+        <path
+           id="path91"
+           d="M 200 0 0 200" />
+        <path
+           id="path93"
+           d="M 200 100 100 200" />
+      </pattern>
+      <pattern
+         patternUnits="userSpaceOnUse"
+         height="200"
+         width="200"
+         y="0"
+         x="0"
+         id="tile7">
+        <path
+           id="path96"
+           d="M 0 0 0 50" />
+        <path
+           id="path98"
+           d="M 0 50 200 50" />
+        <path
+           id="path100"
+           d="M 100 50 100 150" />
+        <path
+           id="path102"
+           d="M 0 150 200 150" />
+        <path
+           id="path104"
+           d="M 0 150 0 200" />
+      </pattern>
+      <pattern
+         patternUnits="userSpaceOnUse"
+         height="200"
+         width="200"
+         y="0"
+         x="0"
+         id="tile8">
+        <path
+           id="path107"
+           d="M 0 0 50 0" />
+        <path
+           id="path109"
+           d="M 50 0 50 200" />
+        <path
+           id="path111"
+           d="M 50 100 150 100" />
+        <path
+           id="path113"
+           d="M 150 0 150 200" />
+        <path
+           id="path115"
+           d="M 150 0 200 0" />
+      </pattern>
+      <pattern
+         patternUnits="userSpaceOnUse"
+         height="200"
+         width="200"
+         y="0"
+         x="0"
+         id="tile9">
+        <path
+           id="path118"
+           d="M 0 50 200 50" />
+        <path
+           id="path120"
+           d="M 0 150 200 150" />
+      </pattern>
+      <pattern
+         patternUnits="userSpaceOnUse"
+         height="200"
+         width="200"
+         y="0"
+         x="0"
+         id="tile10">
+        <path
+           id="path123"
+           d="M 50 0 50 200" />
+        <path
+           id="path125"
+           d="M 150 0 150 200" />
+      </pattern>
+      <pattern
+         patternUnits="userSpaceOnUse"
+         height="200"
+         width="200"
+         y="0"
+         x="0"
+         id="tile11">
+        <path
+           id="path128"
+           d="M 0 50 200 50" />
+        <path
+           id="path130"
+           d="M 0 150 200 150" />
+        <path
+           id="path132"
+           d="M 50 0 50 200" />
+        <path
+           id="path134"
+           d="M 150 0 150 200" />
+      </pattern>
+      <pattern
+         patternUnits="userSpaceOnUse"
+         height="200"
+         width="200"
+         y="0"
+         x="0"
+         id="tile12">
+        <path
+           id="path137"
+           d="M 0 0 25 50" />
+        <path
+           id="path139"
+           d="M 0 50 200 50" />
+        <path
+           id="path141"
+           d="M 100 50 125 150" />
+        <path
+           id="path143"
+           d="M 0 150 200 150" />
+        <path
+           id="path145"
+           d="M 0 150 25 200" />
+      </pattern>
+      <pattern
+         patternUnits="userSpaceOnUse"
+         height="200"
+         width="200"
+         y="0"
+         x="0"
+         id="tile13">
+        <path
+           id="path148"
+           d="M 200 0 175 50" />
+        <path
+           id="path150"
+           d="M 0 50 200 50" />
+        <path
+           id="path152"
+           d="M 100 50 75 150" />
+        <path
+           id="path154"
+           d="M 0 150 200 150" />
+        <path
+           id="path156"
+           d="M 200 150 175 200" />
+      </pattern>
+      <pattern
+         patternUnits="userSpaceOnUse"
+         height="200"
+         width="200"
+         y="0"
+         x="0"
+         id="tile14">
+        <path
+           id="path159"
+           d="M 0 0 50 25" />
+        <path
+           id="path161"
+           d="M 50 0 50 200" />
+        <path
+           id="path163"
+           d="M 50 100 150 125" />
+        <path
+           id="path165"
+           d="M 150 0 150 200" />
+        <path
+           id="path167"
+           d="M 150 0 200 25" />
+      </pattern>
+      <pattern
+         patternUnits="userSpaceOnUse"
+         height="200"
+         width="200"
+         y="0"
+         x="0"
+         id="tile15">
+        <path
+           id="path170"
+           d="M 0 25 50 0" />
+        <path
+           id="path172"
+           d="M 50 0 50 200" />
+        <path
+           id="path174"
+           d="M 50 125 150 100" />
+        <path
+           id="path176"
+           d="M 150 0 150 200" />
+        <path
+           id="path178"
+           d="M 150 25 200 0" />
+      </pattern>
+      <pattern
+         patternUnits="userSpaceOnUse"
+         height="200"
+         width="200"
+         y="0"
+         x="0"
+         id="tile16">
+        <path
+           id="path181"
+           d="M 0 50 A 50 50 0 1 0 100 50" />
+        <path
+           id="path183"
+           d="M 100 50 A 50 50 0 1 0 200 50" />
+        <path
+           id="path185"
+           d="M 50 100 A 50 50 0 1 0 150 100" />
+        <path
+           id="path187"
+           d="M 0 150 A 50 50 0 0 0 50 100" />
+        <path
+           id="path189"
+           d="M 150 100 A 50 50 0 1 0 200 50" />
+        <path
+           id="path191"
+           d="M 50 0 A 50 50 0 1 0 150 0" />
+        <path
+           id="path193"
+           d="M 150 0 A 50 50 0 0 0 200 50" />
+        <path
+           id="path195"
+           d="M 0 50 A 50 50 0 0 0 50 0" />
+        <path
+           id="path197"
+           d="M 0 150 A 50 50 0 1 0 100 150" />
+        <path
+           id="path199"
+           d="M 100 150 A 50 50 0 1 0 200 150" />
+      </pattern>
+      <pattern
+         patternUnits="userSpaceOnUse"
+         height="100"
+         width="100"
+         y="0"
+         x="0"
+         id="tile17">
+        <g
+           id="g222"
+           transform="scale(0.5)">
+          <path
+             id="path202"
+             d="M 0 50 A 50 50 0 1 0 100 50" />
+          <path
+             id="path204"
+             d="M 100 50 A 50 50 0 1 0 200 50" />
+          <path
+             id="path206"
+             d="M 50 100 A 50 50 0 1 0 150 100" />
+          <path
+             id="path208"
+             d="M 0 150 A 50 50 0 0 0 50 100" />
+          <path
+             id="path210"
+             d="M 150 100 A 50 50 0 1 0 200 50" />
+          <path
+             id="path212"
+             d="M 50 0 A 50 50 0 1 0 150 0" />
+          <path
+             id="path214"
+             d="M 150 0 A 50 50 0 0 0 200 50" />
+          <path
+             id="path216"
+             d="M 0 50 A 50 50 0 0 0 50 0" />
+          <path
+             id="path218"
+             d="M 0 150 A 50 50 0 1 0 100 150" />
+          <path
+             id="path220"
+             d="M 100 150 A 50 50 0 1 0 200 150" />
+        </g>
+      </pattern>
+      <pattern
+         patternUnits="userSpaceOnUse"
+         height="200"
+         width="200"
+         y="0"
+         x="0"
+         id="tile18">
+        <circle
+           id="circle225"
+           r="100"
+           cy="100"
+           cx="100" />
+      </pattern>
+      <pattern
+         patternUnits="userSpaceOnUse"
+         height="200"
+         width="200"
+         y="0"
+         x="0"
+         id="tile19">
+        <path
+           id="path228"
+           d="M 0 50 45 0 105 0 140 50 200 50 " />
+        <path
+           id="path230"
+           d="M 0 50 45 100 105 100 140 50 200 50" />
+        <path
+           id="path232"
+           d="M 0 150 45 100 105 100 140 150 200 150" />
+        <path
+           id="path234"
+           d="M 0 150 45 200 105 200 140 150 200 150" />
+      </pattern>
+      <pattern
+         patternUnits="userSpaceOnUse"
+         height="200"
+         width="200"
+         y="0"
+         x="0"
+         id="tile20">
+        <path
+           id="path237"
+           d="M 0 70 65 0 140 0 200 70 " />
+        <path
+           id="path239"
+           d="M 0 70 0 130 65 200 140 200 200 130 200 70" />
+      </pattern>
+      <pattern
+         patternUnits="userSpaceOnUse"
+         height="200"
+         width="200"
+         y="0"
+         x="0"
+         id="tile21">
+        <path
+           id="path242"
+           d="M 50 0 75 25 100 0 M 150 0 175 25 200 0" />
+        <path
+           id="path244"
+           d="M 0 50 25 25 75 75 125 25 175 75 200 50" />
+        <path
+           id="path246"
+           d="M 0 100 25 75 75 125 125 75 175 125 200 100" />
+        <path
+           id="path248"
+           d="M 0 150 25 125 75 175 125 125 175 175 200 150" />
+        <path
+           id="path250"
+           d="M 0 200 25 175 75 225 125 175 175 225 200 200" />
+      </pattern>
+      <pattern
+         patternUnits="userSpaceOnUse"
+         height="200"
+         width="200"
+         y="0"
+         x="0"
+         id="tile22">
+        <path
+           id="path253"
+           d="M 0 50 25 75 0 100 M 0 150 25 175 0 200" />
+        <path
+           id="path255"
+           d="M 50 0 25 25 75 75 25 125 75 175 50 200" />
+        <path
+           id="path257"
+           d="M 100 0 75 25 125 75 75 125 125 175 100 200" />
+        <path
+           id="path259"
+           d="M 150 0 125 25 175 75 125 125 175 175 150 200" />
+        <path
+           id="path261"
+           d="M 200 0 175 25 225 75 175 125 225 175 200 200" />
+      </pattern>
+    </defs>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1197"
+     inkscape:window-height="661"
+     id="namedview532"
+     showgrid="false"
+     fit-margin-top="20"
+     fit-margin-right="10"
+     units="px"
+     fit-margin-left="10"
+     fit-margin-bottom="20"
+     inkscape:zoom="0.29618473"
+     inkscape:cx="-4.0046936"
+     inkscape:cy="390.65908"
+     inkscape:window-x="47"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg530" />
+  <g
+     id="g4571"
+     transform="translate(23.798588,142.89199)">
+    <g
+       transform="translate(-23.798355,-5.4766992e-4)"
+       id="g662">
+      <g
+         id="g624">
+        <text
+           x="926.58148"
+           y="2378.7546"
+           font-style="normal"
+           font-weight="normal"
+           font-size="189"
+           id="text266"
+           style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in">x</text>
+        <text
+           x="1045.5814"
+           y="2444.7546"
+           font-style="normal"
+           font-weight="normal"
+           font-size="139"
+           id="text268"
+           style="font-style:normal;font-weight:normal;font-size:139px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in">0</text>
+        <text
+           x="962.58148"
+           y="2805.7546"
+           font-style="normal"
+           font-weight="normal"
+           font-size="189"
+           id="text270"
+           style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in">t</text>
+        <text
+           x="1033.5814"
+           y="2872.7546"
+           font-style="normal"
+           font-weight="normal"
+           font-size="139"
+           id="text272"
+           style="font-style:normal;font-weight:normal;font-size:139px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in">0</text>
+        <path
+           d="m 392.58148,-41.2454 v 2100"
+           style="fill:none;stroke:#000000;stroke-width:16"
+           id="path274"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 415.58148,70.7546 -23,-94 -25,94"
+           style="fill:none;stroke:#000000;stroke-width:16"
+           id="path276"
+           inkscape:connector-curvature="0" />
+        <path
+           d="M 250.58148,1952.7546 H 2777.5815"
+           style="fill:none;stroke:#000000;stroke-width:16"
+           id="path278"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 2663.5815,1975.7546 96,-23 -96,-24"
+           style="fill:none;stroke:#000000;stroke-width:16"
+           id="path280"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 392.58148,1952.7546 2065.00002,-1246"
+           style="fill:none;stroke:#000000;stroke-width:16"
+           id="path282"
+           inkscape:connector-curvature="0" />
+        <text
+           x="178.58148"
+           y="101.7546"
+           font-style="normal"
+           font-weight="normal"
+           font-size="189"
+           id="text284"
+           style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in">x</text>
+        <text
+           x="2705.5815"
+           y="2201.7546"
+           font-style="normal"
+           font-weight="normal"
+           font-size="189"
+           id="text286"
+           style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in">t</text>
+        <text
+           x="1246.5814"
+           y="2414.7546"
+           font-style="normal"
+           font-weight="normal"
+           font-size="189"
+           id="text288"
+           style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in">=</text>
+        <text
+           x="1495.5814"
+           y="2414.7546"
+           font-style="normal"
+           font-weight="normal"
+           font-size="189"
+           id="text290"
+           style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in">0</text>
+        <text
+           x="1495.5814"
+           y="2841.7546"
+           font-style="normal"
+           font-weight="normal"
+           font-size="189"
+           id="text292"
+           style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in">0</text>
+        <text
+           x="1246.5814"
+           y="2841.7546"
+           font-style="normal"
+           font-weight="normal"
+           font-size="189"
+           id="text294"
+           style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in">=</text>
+        <text
+           x="1282.5814"
+           y="3233.7546"
+           font-style="normal"
+           font-weight="normal"
+           font-size="189"
+           id="text296"
+           style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in">&gt;</text>
+        <text
+           x="997.58148"
+           y="3233.7546"
+           font-style="normal"
+           font-weight="normal"
+           font-size="189"
+           id="text298"
+           style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in">v</text>
+        <text
+           x="1495.5814"
+           y="3268.7546"
+           font-style="normal"
+           font-weight="normal"
+           font-size="189"
+           id="text300"
+           style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in">0</text>
+        <text
+           x="4139.5815"
+           y="2378.7546"
+           font-style="normal"
+           font-weight="normal"
+           font-size="189"
+           id="text302"
+           style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in">x</text>
+        <text
+           x="4257.5815"
+           y="2444.7546"
+           font-style="normal"
+           font-weight="normal"
+           font-size="139"
+           id="text304"
+           style="font-style:normal;font-weight:normal;font-size:139px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in">0</text>
+        <text
+           x="4174.5815"
+           y="2805.7546"
+           font-style="normal"
+           font-weight="normal"
+           font-size="189"
+           id="text306"
+           style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in">t</text>
+        <text
+           x="4246.5815"
+           y="2872.7546"
+           font-style="normal"
+           font-weight="normal"
+           font-size="139"
+           id="text308"
+           style="font-style:normal;font-weight:normal;font-size:139px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in">0</text>
+        <text
+           x="1306.5814"
+           y="155.75459"
+           font-style="normal"
+           font-weight="normal"
+           font-size="252"
+           id="text366"
+           style="font-style:normal;font-weight:normal;font-size:252px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in">(a)</text>
+        <text
+           x="4680.5815"
+           y="155.75459"
+           font-style="normal"
+           font-weight="normal"
+           font-size="252"
+           id="text368"
+           style="font-style:normal;font-weight:normal;font-size:252px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in">(b)</text>
+        <path
+           d="m 3604.5815,-41.2454 v 2100"
+           style="fill:none;stroke:#000000;stroke-width:16"
+           id="path374"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 3627.5815,70.7546 -23,-94 -24,94"
+           style="fill:none;stroke:#000000;stroke-width:16"
+           id="path376"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 3462.5815,1952.7546 h 2527"
+           style="fill:none;stroke:#000000;stroke-width:16"
+           id="path378"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 5876.5815,1975.7546 96,-23 -96,-24"
+           style="fill:none;stroke:#000000;stroke-width:16"
+           id="path380"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 3607.5815,400.7546 2016,784"
+           style="fill:none;stroke:#000000;stroke-width:16"
+           id="path382"
+           inkscape:connector-curvature="0" />
+        <text
+           x="3391.5815"
+           y="101.7546"
+           font-style="normal"
+           font-weight="normal"
+           font-size="189"
+           id="text444"
+           style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in">x</text>
+        <text
+           x="5918.5815"
+           y="2201.7546"
+           font-style="normal"
+           font-weight="normal"
+           font-size="189"
+           id="text446"
+           style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in">t</text>
+        <text
+           x="4708.5815"
+           y="2414.7546"
+           font-style="normal"
+           font-weight="normal"
+           font-size="189"
+           id="text448"
+           style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in">0</text>
+        <text
+           x="4708.5815"
+           y="2841.7546"
+           font-style="normal"
+           font-weight="normal"
+           font-size="189"
+           id="text450"
+           style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in">0</text>
+        <text
+           x="4210.5815"
+           y="3233.7546"
+           font-style="normal"
+           font-weight="normal"
+           font-size="189"
+           id="text452"
+           style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in">v</text>
+        <text
+           x="4708.5815"
+           y="3268.7546"
+           font-style="normal"
+           font-weight="normal"
+           font-size="189"
+           id="text454"
+           style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in">0</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-242.3629,-270.14913)"
+       id="g587">
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text310"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="6741.2871"
+         x="1145.146">x</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:139px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text312"
+         font-size="139"
+         font-weight="normal"
+         font-style="normal"
+         y="6807.2871"
+         x="1263.146">0</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text314"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="7168.2871"
+         x="1180.146">t</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:139px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text316"
+         font-size="139"
+         font-weight="normal"
+         font-style="normal"
+         y="7235.2871"
+         x="1252.146">0</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text318"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="6741.2871"
+         x="4452.1455">x</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:139px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text320"
+         font-size="139"
+         font-weight="normal"
+         font-style="normal"
+         y="6807.2871"
+         x="4570.1455">0</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text322"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="7168.2871"
+         x="4487.1455">t</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:139px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text324"
+         font-size="139"
+         font-weight="normal"
+         font-style="normal"
+         y="7235.2871"
+         x="4559.1455">0</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:252px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text370"
+         font-size="252"
+         font-weight="normal"
+         font-style="normal"
+         y="4518.2871"
+         x="1619.146">(c)</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:252px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text372"
+         font-size="252"
+         font-weight="normal"
+         font-style="normal"
+         y="4518.2871"
+         x="4859.1455">(d)</text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path384"
+         style="fill:none;stroke:#000000;stroke-width:16"
+         d="m 610.14599,4321.2869 v 2100" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path386"
+         style="fill:none;stroke:#000000;stroke-width:16"
+         d="m 633.14599,4433.2869 -23,-94 -24,94" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path388"
+         style="fill:none;stroke:#000000;stroke-width:16"
+         d="M 468.14599,6315.2869 H 2996.146" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path390"
+         style="fill:none;stroke:#000000;stroke-width:16"
+         d="m 2882.146,6338.2869 96,-23 -96,-24" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path392"
+         style="fill:none;stroke:#000000;stroke-width:16"
+         d="m 609.14599,5576.2869 2066.00001,-507" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path394"
+         style="fill:none;stroke:#000000;stroke-width:16"
+         d="m 3917.1455,4321.2869 v 2100" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path396"
+         style="fill:none;stroke:#000000;stroke-width:16"
+         d="m 3940.1455,4433.2869 -23,-94 -24,94" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path398"
+         style="fill:none;stroke:#000000;stroke-width:16"
+         d="m 3776.1455,6315.2869 h 2527" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path400"
+         style="fill:none;stroke:#000000;stroke-width:16"
+         d="m 6189.1455,6338.2869 96,-23 -96,-24" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path402"
+         style="fill:none;stroke:#000000;stroke-width:16"
+         d="m 4473.1455,6317.2869 1509,-1248" />
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text456"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="4464.2871"
+         x="397.14603">x</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text458"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="6564.2871"
+         x="2924.1455">t</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text460"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="6777.2871"
+         x="1714.146">0</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text462"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="7204.2871"
+         x="1714.146">0</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text464"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="7596.2871"
+         x="1216.146">v</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text466"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="7631.2871"
+         x="1714.146">0</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text468"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="4464.2871"
+         x="3704.1455">x</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text470"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="6564.2871"
+         x="6231.1455">t</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text472"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="6777.2871"
+         x="5021.1455">0</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text474"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="7204.2871"
+         x="5021.1455">0</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text476"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="7596.2871"
+         x="4523.1455">v</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text478"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="7631.2871"
+         x="5021.1455">0</text>
+    </g>
+    <g
+       transform="translate(-23076.545,8361.5202)"
+       id="g4433">
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text334"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="6294.3916"
+         x="24230.213">x</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:139px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text336"
+         font-size="139"
+         font-weight="normal"
+         font-style="normal"
+         y="6360.3916"
+         x="24348.213">0</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text338"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="6721.3916"
+         x="24265.213">t</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:139px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text340"
+         font-size="139"
+         font-weight="normal"
+         font-style="normal"
+         y="6787.3916"
+         x="24337.213">0</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text342"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="6294.3916"
+         x="27537.213">x</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:139px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text344"
+         font-size="139"
+         font-weight="normal"
+         font-style="normal"
+         y="6360.3916"
+         x="27655.213">0</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text346"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="6721.3916"
+         x="27572.213">t</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:139px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text348"
+         font-size="139"
+         font-weight="normal"
+         font-style="normal"
+         y="6787.3916"
+         x="27644.213">0</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:252px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text362"
+         font-size="252"
+         font-weight="normal"
+         font-style="normal"
+         y="4098.3916"
+         x="24794.213">(g)</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:252px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text364"
+         font-size="252"
+         font-weight="normal"
+         font-style="normal"
+         y="4098.3916"
+         x="27899.213">(h)</text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path414"
+         style="fill:none;stroke:#000000;stroke-width:16"
+         d="m 23695.213,3874.3917 v 2099" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path416"
+         style="fill:none;stroke:#000000;stroke-width:16"
+         d="m 23718.213,3986.3917 -23,-95 -24,95" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path418"
+         style="fill:none;stroke:#000000;stroke-width:16"
+         d="m 23232.213,5869.3917 2849,-2" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path420"
+         style="fill:none;stroke:#000000;stroke-width:16"
+         d="m 25967.213,5890.3917 96,-23 -96,-24" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path422"
+         style="fill:none;stroke:#000000;stroke-width:16"
+         d="m 23331.213,5869.3917 2429,-1248" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path424"
+         style="fill:none;stroke:#000000;stroke-width:16"
+         d="m 27002.212,3874.3917 -4,2444" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path426"
+         style="fill:none;stroke:#000000;stroke-width:16"
+         d="m 27025.212,3986.3917 -23,-95 -24,95" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path428"
+         style="fill:none;stroke:#000000;stroke-width:16"
+         d="m 26861.212,5867.3917 h 2527" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path430"
+         style="fill:none;stroke:#000000;stroke-width:16"
+         d="m 29274.212,5890.3917 96,-23 -96,-24" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path432"
+         style="fill:none;stroke:#000000;stroke-width:16"
+         d="m 26998.212,6192.3917 2069,-1571" />
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text492"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="4016.3916"
+         x="23482.213">x</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text494"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="6116.3916"
+         x="26009.213">t</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text496"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="6329.3916"
+         x="24799.213">0</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text498"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="6757.3916"
+         x="24799.213">0</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text500"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="7148.3916"
+         x="24301.213">v</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text502"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="7184.3916"
+         x="24799.213">0</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text504"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="4016.3916"
+         x="26789.213">x</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text506"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="6116.3916"
+         x="29316.213">t</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text508"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="6329.3916"
+         x="28106.213">0</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text510"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="6757.3916"
+         x="28106.213">0</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text512"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="7148.3916"
+         x="27608.213">v</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text514"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="7184.3916"
+         x="28106.213">0</text>
+    </g>
+    <g
+       transform="translate(-16807.43,4269.13)"
+       id="g4399">
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text326"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="6294.3916"
+         x="20923.213">x</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:139px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text328"
+         font-size="139"
+         font-weight="normal"
+         font-style="normal"
+         y="6360.3916"
+         x="21041.213">0</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text330"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="6721.3916"
+         x="20958.213">t</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:139px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text332"
+         font-size="139"
+         font-weight="normal"
+         font-style="normal"
+         y="6787.3916"
+         x="21030.213">0</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text350"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="6294.3916"
+         x="17710.213">x</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:139px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text352"
+         font-size="139"
+         font-weight="normal"
+         font-style="normal"
+         y="6360.3916"
+         x="17829.213">0</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text354"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="6721.3916"
+         x="17746.213">t</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:139px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text356"
+         font-size="139"
+         font-weight="normal"
+         font-style="normal"
+         y="6787.3916"
+         x="17817.213">0</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:252px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text358"
+         font-size="252"
+         font-weight="normal"
+         font-style="normal"
+         y="4098.3916"
+         x="18225.213">(e)</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:252px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text360"
+         font-size="252"
+         font-weight="normal"
+         font-style="normal"
+         y="4098.3916"
+         x="21464.213">(f)</text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path404"
+         style="fill:none;stroke:#000000;stroke-width:16"
+         d="m 20388.213,3874.3917 v 2099" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path406"
+         style="fill:none;stroke:#000000;stroke-width:16"
+         d="m 20411.213,3986.3917 -23,-95 -24,95" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path408"
+         style="fill:none;stroke:#000000;stroke-width:16"
+         d="m 20246.213,5867.3917 h 2527" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path410"
+         style="fill:none;stroke:#000000;stroke-width:16"
+         d="m 22660.213,5890.3917 96,-23 -96,-24" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path412"
+         style="fill:none;stroke:#000000;stroke-width:16"
+         d="m 20391.213,4680.3917 h 2184" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path434"
+         style="fill:none;stroke:#000000;stroke-width:16"
+         d="m 17176.213,3874.3917 v 2099" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path436"
+         style="fill:none;stroke:#000000;stroke-width:16"
+         d="m 17199.213,3986.3917 -23,-95 -25,95" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path438"
+         style="fill:none;stroke:#000000;stroke-width:16"
+         d="m 17034.213,5867.3917 h 2527" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path440"
+         style="fill:none;stroke:#000000;stroke-width:16"
+         d="m 19447.213,5890.3917 96,-23 -96,-24" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path442"
+         style="fill:none;stroke:#000000;stroke-width:16"
+         d="m 17591.213,4386.3917 1582,826" />
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text480"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="4016.3916"
+         x="20175.213">x</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text482"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="6116.3916"
+         x="22702.213">t</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text484"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="6329.3916"
+         x="21492.213">0</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text486"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="6757.3916"
+         x="21492.213">0</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text488"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="7148.3916"
+         x="20994.213">v</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text490"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="7184.3916"
+         x="21492.213">0</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text516"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="4016.3916"
+         x="16962.213">x</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text518"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="6116.3916"
+         x="19489.213">t</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text520"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="6329.3916"
+         x="18279.213">0</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text522"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="6757.3916"
+         x="18279.213">0</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text524"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="7148.3916"
+         x="17781.213">v</text>
+      <text
+         style="font-style:normal;font-weight:normal;font-size:189px;font-family:Helvetica;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.025in"
+         id="text526"
+         font-size="189"
+         font-weight="normal"
+         font-style="normal"
+         y="7184.3916"
+         x="18279.213">0</text>
+    </g>
+  </g>
+</svg>
