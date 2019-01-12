@@ -231,7 +231,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
     <ol>
         <li>el globus està parat, </li>
         <li>el globus baixa a 2 m/s, </li>
-        <li>el globus puja a 2 m/s.
+        <li>el globus puja a 2 m/s.</li>
     </ol>
 Considereu negligible el fregament amb l'aire. 
 Resultat: 4 s 3,80 s 4,20 s 
