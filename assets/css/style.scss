@@ -19,6 +19,10 @@ table, th, td {
   border: 0px;
 }
 
-ol.b { 
+ol { 
+  list-style-type: decimal; 
+}
+
+ol ol { 
   list-style-type: lower-alpha; 
 }
