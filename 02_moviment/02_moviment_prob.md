@@ -6,7 +6,7 @@
 <ol>
 <li>Observeu la representació gràfica del moviment d'un cotxe:
     <div align="middle">
-    <img src="img_prob/graf_mru_01.png" width="50%">
+    <img src="img_prob/graf_mru_01.png">
     </div>
     <ol>
         <li>Descriviu verbalment el moviment del cotxe en els diferents trams del recorregut. </li>
@@ -27,7 +27,7 @@
 <br> 
 <li>El moviment d’un cotxe ve representat per la següent gràfica posició-temps.
     <div align="middle">
-    <img src="img_prob/graf_mru_02.png" width="50%">
+    <img src="img_prob/graf_mru_02.png">
     </div>
     <ol>
         <li>Expliqueu quin moviment fa aquest automòbil. </li>
@@ -42,7 +42,7 @@
 <br>
 <li>Un cotxe fa un trajecte segons la següent gràfica v-t. Sabem que en l’instant inicial la seva posició és zero.
     <div align="middle">
-    <img src="img_prob/graf_mru_03.png" width="50%">
+    <img src="img_prob/graf_mru_03.png">
     </div>
     <ol>
         <li>Descriviu verbalment el moviment. </li>
@@ -56,7 +56,7 @@
 <br>
 <li>Els següents diagrames corresponen a diferents mòbils, tots ells fent un moviment rectilinis. 
     <div align="middle">
-    <img src="img_prob/graf_mru_04.svg.png" width="50%">
+    <img src="img_prob/graf_mru_04.svg.png">
     </div>
     <ol>
         <li>Trobeu els instants en que passaran (o van passar) per la posició presa com a origen de coordenades. </li>
@@ -101,7 +101,7 @@
         <li>Traçeu una gràfica velocitat-temps i una posició-temps per a tot dos.</li>
     </ol>
     <div align="middle">
-        <img src="img_prob/bobesponja.svg" width="30%">
+        <img src="img_prob/bobesponja.svg">
     </div>
 </li>
 <br>
@@ -168,7 +168,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
 <br>
 <li>La figura representa les posicions de dos blocs a intervals de temps successius de 0,3 s; els blocs es mouen cap a la dreta. Els dos blocs tenen la mateixa celeritat (mòdul de la velocitat):
     <div align="middle">
-    <img src="img_prob/taques.png" width="60%">
+    <img src="img_prob/taques.png">
     </div>
     <ol>
         <li>Només a l’instant 2. </li>
@@ -180,7 +180,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
 <br>
 <li>Analitzar la gràfica de la figura, que correspon a un moviment rectilini en varies etapes. Suposant que per a $t=0$ és $x=0$:
     <div align="middle">
-    <img src="img_prob/etapes.svg" width="50%">
+    <img src="img_prob/etapes.svg">
     </div>
     <ol>
         <li>Traça les gràfiques d'acceleració en funció del temps i de posició en funció del temps, determinant els valor corresponents als temps indicats.</li> 
@@ -191,7 +191,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
 <br>
 <li>Un avió Boeing 727 necessita una velocitat de pista de 360 km/h per enlairar-se; si partint del repòs tarda 25 s en enlairar-se: 
     <div align="middle">
-    <img src="img_prob/philrich123_A380.svg" width="40%">
+    <img src="img_prob/philrich123_A380.svg">
     </div>
     <ol>
         <li>Quina acceleració constant li proporcionen els motors? </li>
@@ -202,7 +202,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
 <br>
 <li>La figura esquematitza el diagrama posició-temps, per a dos mòbils (A i B) que es desplacen per una mateixa trajectòria rectilínia. 
     <div align="middle">
-    <img src="img_prob/encuentro_AB.svg" width="50%">
+    <img src="img_prob/encuentro_AB.svg">
     </div>
     <ol>
         <li>Quin tipus de moviment té cadascun dels mòbils (justifica la teva resposta) </li>
@@ -270,7 +270,7 @@ Resultat: 4 s 3,80 s 4,20 s
     <br>
 <li>Al laboratori, la manera més fàcil de simular la caiguda d’un paracaigudista és deixar caure una safata de paper de la grandària d’un CD, aproximadament. Se n’ha estudiat el moviment de caiguda, i el resultat es representa en la gràfica següent. Descriviu el moviment de manera qualitativa i quantitativa.
     <div align="middle">
-    <img src="img_prob/07_caiguda_safata.png" width="50%">
+    <img src="img_prob/07_caiguda_safata.png">
     </div>
     </li>
     <br>
@@ -312,7 +312,7 @@ Resultat: 4 s 3,80 s 4,20 s
     </li>
 <li>Un cotxe que té una fuita d'oli arrenca des del repós amb una acceleració constant. A la figura es poden veure les taques d'oli amb la seva posició. 
     <div align="middle">
-    <img src="img_prob/taques_oli.svg" width="50%">
+    <img src="img_prob/taques_oli.svg">
     </div>
     Sabent que les taques es produeixen cada 2 s, determineu:
     <ol>
@@ -335,7 +335,7 @@ Resultat: 4 s 3,80 s 4,20 s
 <li>A les instal·lacions d'uns grans magatzems hi ha una cinta transportadora que puja els clients des de la primera a la segona planta a una velocitat de 2 m/s. Una senyora que està parada a la primera planta observa el moviment d'un senyor que camina sobre la cinta (veure figura).
     <br>
     <div align="middle">
-    <img src="img_prob/escala_mec.jpg" width="50%">
+    <img src="img_prob/escala_mec.jpg">
     </div>
     <br>
     <ol>
@@ -441,7 +441,7 @@ Resultat: 4 s 3,80 s 4,20 s
         <li>L'altura màxima a la que arriba l'ocell. </li>
     </ol>
     <div align="middle">
-    <img src="img_prob/angry_birds.png" width="50%">
+    <img src="img_prob/angry_birds.png">
     </div>
 </li>
 <br>
@@ -466,7 +466,7 @@ Resultat: 4 s 3,80 s 4,20 s
     Resultat: 104,7 rad/s 0,06 s i 16,6 Hz 26,17 rad/s2 266 voltes
 </li>
 <br>
-<li>Una centrifugadora de 12 cm de radi que està inicialment en repòs accelera uniformement durant 20 segons. En aquest interval de temps, \alpha=100\,\mathrm{rad/s^{2}}. Després manté la velocitat adquirida. 
+<li>Una centrifugadora de 12 cm de radi que està inicialment en repòs accelera uniformement durant 20 segons. En aquest interval de temps, $\alpha=100\,\mathrm{rad/s^{2}}$. Després manté la velocitat adquirida. 
     <ol>
         <li>Amb quina velocitat gira la centrifugadora quan fa 20 segons que funciona? Expressa el resultat en revolucions per minut.</li>
         <li>Quantes voltes ha fet la centrifugadora després de funcionar durant 20 segons? I després de funcionar 50 segons? </li>
@@ -526,7 +526,7 @@ Resultat: 74 m/s/s i 10 m/s/s
     </ol>
     Dada: velocitat de la llum: $c=3\times10^{8}\,\mathrm{m/s}$.
     <div align="middle">
-    <img src="img_prob/terra-lluna.svg" width="30%">
+    <img src="img_prob/terra-lluna.svg">
     </div>
 </li>
 <br>
@@ -547,5 +547,5 @@ Resultat: 74 m/s/s i 10 m/s/s
         <li>Quan la sínia s'atura tarda dos minuts en fer-ho, quantes voltes donaran durant la frenada?</li>
     <br>
     <div align="middle">
-    <img src="img_prob/sinia.svg" width="30%">
+    <img src="img_prob/sinia.svg">
     </div>
