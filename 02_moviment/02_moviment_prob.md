@@ -331,6 +331,7 @@ Resultat: 4 s 3,80 s 4,20 s
 </ol>
 
 ## Moviment relatiu en una dimensió
+
 <ol start="32">
 <li>A les instal·lacions d'uns grans magatzems hi ha una cinta transportadora que puja els clients des de la primera a la segona planta a una velocitat de 2 m/s. Una senyora que està parada a la primera planta observa el moviment d'un senyor que camina sobre la cinta (veure figura).
     <br>
@@ -394,7 +395,8 @@ Resultat: 4 s 3,80 s 4,20 s
     Resposta: 30 km/h; 29,58 km/h; 5 km/h.
 </li>
 
-## Moviment parabòlic
+### Moviment parabòlic
+
 <ol start="38">
 <li>Digueu quines d'aquestes afirmacions són veritables o falses en el cas d'un tir parabòlic, tot justificant cada resposta: 
     <ol>
@@ -453,6 +455,7 @@ Resultat: 4 s 3,80 s 4,20 s
 </li>
 
 ### Moviment circular
+
 <ol start="45">
 <li>Una roda que inicialment està aturada comença a girar i dóna 8 voltes fins que arriba a girar amb velocitat angular constant al cap de 8 segons. Quin és el valor d'aquesta velocitat? (RTA: 12,56 rad/s)
 </li>
