@@ -381,7 +381,7 @@ $$\vec{r}=x\mathrm{\hat{i}}+y\hat{\mathrm{j}}$$
 
 és el vector posició, 
 
-$$\vec{r}_{0}=x_{0}\mathrm{\hat{i}}+y_{0}\mathrm{\hat{j}}$$, 
+$$\vec{r}_{0}=x_{0}\mathrm{\hat{i}}+y_{0}\mathrm{\hat{j}}$$
 
 el vector posició inicial, 
 
