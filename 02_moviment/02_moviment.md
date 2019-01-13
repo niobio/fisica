@@ -354,10 +354,13 @@ $$v_{0y}=v_{0}\sin\alpha$$
 
 D'aquesta manera la velocitat del mòbil en qualsevol instant de temps es pot escriure
 
-$$\begin{cases}\label{eq:eq_vel}
+$$\begin{equation}\label{eq:eq_vel}
+\begin{cases}
 v_{x}=v_{0x}\\
 v_{y}=v_{0y}+g\big(t-t_{0}\big)
-\end{cases}$$
+\end{cases}
+\end{equation}
+$$
 
 o de manera més compacta com a vector:
 
@@ -365,10 +368,12 @@ $$\vec{v}=v_{0x}\hat{\mathrm{i}}+\big(v_{0y}+g\big(t-t_{0}\big)\big)\hat{\mathrm
 
 I l'equació de moviment, 
 
-$$\begin{cases}\label{eq:eq_pos}
+$$\begin{equation}\label{eq:eq_pos}
+\begin{cases}
 x=x_{0}+v_{0x}\big(t-t_{0})\\
 y=y_{0}+v_{0y}\big(t-t_{0}\big)+\frac{1}{2}g\big(t-t_{0}\big)^{2}
 \end{cases}
+\end{equation}
 $$
 
 o, equivalentment, en forma vectorial
@@ -448,7 +453,7 @@ que resulta independent de la mida de la circumferència. Si agafem un radi més
 
 ### Velocitat angular
 
-De la mateixa manera que vam fer abans quan vam definir la velocitat com a la variació de la posició en el temps, ara podem definir la variació de l'angle en el temps com a velocitat angular. Si considerem un interval de temps \Delta t i observem un desplaçament angular $\Delta\varphi$, direm que el mòbil té una velocitat angular mitjana $\omega_{m}$, tal que,<sup><a href="#fn11" id="ref11">11</a></sup>
+De la mateixa manera que vam fer abans quan vam definir la velocitat com a la variació de la posició en el temps, ara podem definir la variació de l'angle en el temps com a velocitat angular. Si considerem un interval de temps $\Delta t$ i observem un desplaçament angular $\Delta\varphi$, direm que el mòbil té una velocitat angular mitjana $\omega_{m}$, tal que,<sup><a href="#fn11" id="ref11">11</a></sup>
 
 $$\begin{equation}\label{eq:omega_m}
 \omega_{m}=\frac{\Delta\varphi}{\Delta t}=\frac{\varphi-\varphi_{0}}{t-t_{0}}
