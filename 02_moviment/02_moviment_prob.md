@@ -23,6 +23,7 @@
         <li> Traça les gràfiques qualitatives de posició i velocitat en funció del temps. </li>
         <li> Calcula el valor de la velocitat mitjana. Ajuda: $v_{m}\neq\frac{v_{1}+v_{2}}{2}$ </li> 
     </ol>
+    <a href="sol/prob202.pdf">Solució</a>
 </li>
 <br> 
 <li>El moviment d’un cotxe ve representat per la següent gràfica posició-temps.
@@ -100,6 +101,7 @@
         <li>Trobeu quina distància ha recorregut cadascun.</li>
         <li>Traçeu una gràfica velocitat-temps i una posició-temps per a tot dos.</li>
     </ol>
+    <a href="sol/prob209.pdf">Solució</a>
     <div align="middle">
         <img src="img_prob/bobesponja.svg">
     </div>
@@ -132,6 +134,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
         <li>Trobeu quina distància ha recorregut cadascun.</li>
         <li>Traçeu una gràfica velocitat-temps i una posició-temps per a tot dos.</li>
     </ol>
+    <a href="sol/prob212.pdf">Solució</a>
 </li>
 <br>
 
@@ -141,6 +144,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
         <li>Calcula a quina distància de la casa de la Paula es troben.</li> 
         <li>Traça la gràfica de velocitat-temps per a tots dos i la de posició-temps per a tots dos.</li>
     </ol>
+    <a href="sol/prob213.pdf">Solució</a>
 </li>
 <br>
 <li>A les 9 hores del matí passa per una benzinera un vehicle robat amb una velocitat constant de 90 km/h. Als deu minuts passa pel mateix punt un cotxe de la policia perseguint al primer amb una velocitat de 126 km/h. 
@@ -149,6 +153,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
         <li>A quina distància de la benzinera tindrà lloc la detenció? </li>
         <li>Fes les gràfiques v-t i x-t dels dos cotxes (fent servir els mateixos eixos de coordenades pels dos cotxes en cada tipus de gràfica).</li>
     </ol>
+    <a href="sol/prob214.pdf">Solució</a>
 </li>
 </ol>
 
@@ -303,13 +308,6 @@ Resultat: 4 s 3,80 s 4,20 s
 </table>
 </li>
 <br>
-<li>Un cotxe i un camió parteixen del repòs al mateix instant, amb el cotxe darrere el camió una certa distància. El camió té una acceleració constant d’$1,20\,\mathrm{m/s^{2}}$ i, el cotxe, una acceleració d’$1,80\,\mathrm{m/s^{2}}$. El cotxe passa al camió després d’haver recorregut 45 m. Trobeu:
-    <ol>
-        <li>El temps que ha trigat el cotxe en avançar al camió. </li>
-        <li>La distància que es trobava inicialment el cotxe al darrere del camió. </li>
-        <li>Dibuixa les gràfiques de velocitat-temps i posició-temps per ambdós mòbils. (Tot dos mòbils a la mateixa gràfica). </li>
-    </ol>
-    </li>
 <li>Un cotxe que té una fuita d'oli arrenca des del repós amb una acceleració constant. A la figura es poden veure les taques d'oli amb la seva posició. 
     <div align="middle">
     <img src="img_prob/taques_oli.svg">
@@ -332,7 +330,7 @@ Resultat: 4 s 3,80 s 4,20 s
 
 ## Moviment relatiu en una dimensió
 
-<ol start="32">
+<ol start="31">
 <li>A les instal·lacions d'uns grans magatzems hi ha una cinta transportadora que puja els clients des de la primera a la segona planta a una velocitat de 2 m/s. Una senyora que està parada a la primera planta observa el moviment d'un senyor que camina sobre la cinta (veure figura).
     <br>
     <div align="middle">
@@ -358,7 +356,7 @@ Resultat: 4 s 3,80 s 4,20 s
 
 ### Moviment relatiu
 
-<ol start="34">
+<ol start="33">
 <li>Un vaixell que desenvolupa una velocitat de 40 km/h s'utilitza per travessar un riu de 500 m d'amplada. Si la velocitat del riu és d'1,5 m/s i el vaixell (línia proa-popa) sempre es manté perpendicular als marges del riu, 
     <ol>
         <li>(a) Quina serà la velocitat del vaixell respecte d'un observador situat als marges del riu? </li>
@@ -399,7 +397,7 @@ Resultat: 4 s 3,80 s 4,20 s
 
 ### Moviment parabòlic
 
-<ol start="38">
+<ol start="37">
 <li>Digueu quines d'aquestes afirmacions són veritables o falses en el cas d'un tir parabòlic, tot justificant cada resposta: 
     <ol>
         <li>Quan s'arriba a l'altura màxima la velocitat és nul·la. </li>
@@ -459,7 +457,7 @@ Resultat: 4 s 3,80 s 4,20 s
 
 ### Moviment circular
 
-<ol start="45">
+<ol start="44">
 <li>Una roda que inicialment està aturada comença a girar i dóna 8 voltes fins que arriba a girar amb velocitat angular constant al cap de 8 segons. Quin és el valor d'aquesta velocitat? (RTA: 12,56 rad/s)
 </li>
 <br>
