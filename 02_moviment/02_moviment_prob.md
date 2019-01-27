@@ -93,6 +93,7 @@
         <li>Quant temps tardarà en atrapar-lo? </li>
         <li>Trobeu la solució numèrica i gràficament.</li>
     </ol>
+    <a href="sol/prob208.pdf">Solució</a>
 </li>
 <br>
 <li>Bob Esponja va en el seu monocicle d'aigua, amb velocitat constant de 14 km/h, sobre un carrer rectilini, seguint en Patricio, que va corrent en el mateix sentit a 5 km/h, també a velocitat constant. Si inicialment es trobaven separats 100 m: 
@@ -308,7 +309,7 @@ Resultat: 4 s 3,80 s 4,20 s
 </table>
 </li>
 <br>
-<li>Un cotxe que té una fuita d'oli arrenca des del repós amb una acceleració constant. A la figura es poden veure les taques d'oli amb la seva posició. 
+<li>Un cotxe que té una fuita d'oli arrenca des del repòs amb una acceleració constant. A la figura es poden veure les taques d'oli amb la seva posició. 
     <div align="middle">
     <img src="img_prob/taques_oli.svg">
     </div>
@@ -319,18 +320,11 @@ Resultat: 4 s 3,80 s 4,20 s
     </ol>
     </li>
     <br>
-<li>Una pilota de 5 kg de massa es llença des del terra verticalment cap amunt amb una velocitat inicial de 10 m/s. Si el vent comunica a la pilota una velocitat horitzontal constant de 15 km/h, trobeu:
-    <ol>
-        <li>L'alçada màxima a la qual arribarà la pilota i el temps que trigarà a assolir-la.</li>
-        <li>La distància entre el punt de llançament i el punt d’impacte amb el terra. </li>
-    </ol>
-    </li>
-    <br>
 </ol>
 
 ## Moviment relatiu en una dimensió
 
-<ol start="31">
+<ol start="30">
 <li>A les instal·lacions d'uns grans magatzems hi ha una cinta transportadora que puja els clients des de la primera a la segona planta a una velocitat de 2 m/s. Una senyora que està parada a la primera planta observa el moviment d'un senyor que camina sobre la cinta (veure figura).
     <br>
     <div align="middle">
@@ -356,7 +350,7 @@ Resultat: 4 s 3,80 s 4,20 s
 
 ### Moviment relatiu
 
-<ol start="33">
+<ol start="32">
 <li>Un vaixell que desenvolupa una velocitat de 40 km/h s'utilitza per travessar un riu de 500 m d'amplada. Si la velocitat del riu és d'1,5 m/s i el vaixell (línia proa-popa) sempre es manté perpendicular als marges del riu, 
     <ol>
         <li>(a) Quina serà la velocitat del vaixell respecte d'un observador situat als marges del riu? </li>
@@ -397,7 +391,7 @@ Resultat: 4 s 3,80 s 4,20 s
 
 ### Moviment parabòlic
 
-<ol start="37">
+<ol start="36">
 <li>Digueu quines d'aquestes afirmacions són veritables o falses en el cas d'un tir parabòlic, tot justificant cada resposta: 
     <ol>
         <li>Quan s'arriba a l'altura màxima la velocitat és nul·la. </li>
@@ -457,7 +451,7 @@ Resultat: 4 s 3,80 s 4,20 s
 
 ### Moviment circular
 
-<ol start="44">
+<ol start="43">
 <li>Una roda que inicialment està aturada comença a girar i dóna 8 voltes fins que arriba a girar amb velocitat angular constant al cap de 8 segons. Quin és el valor d'aquesta velocitat? (RTA: 12,56 rad/s)
 </li>
 <br>
