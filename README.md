@@ -11,9 +11,7 @@
 
 ### [Unitat 2: Moviment](02_moviment/02_moviment.md){:target="_blank"}
 * [Problemes](02_moviment/02_moviment_prob.md){:target="_blank"}
-
-#### Aproximació a la Física computacional
-* [Funcions i representació gràfica](http://niobio.github.io/fisicacomp/mov/mov1.md){:target="_blank"}
+* [Física computacional: Funcions i representació gràfica](http://niobio.github.io/fisicacomp/mov/mov1.md){:target="_blank"}
 
 ### Unitat 3: L'univers mecànic
 ### Unitat 4: Energia
