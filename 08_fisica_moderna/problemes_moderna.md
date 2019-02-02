@@ -243,7 +243,7 @@
     <a href="sol/radioactivitat_15.pdf">Solució</a>
 
 16. La tècnica de diagnòstic a partir de la imatge que s’obté mitjançant tomografia per emissió de positrons (PET, Positron Emission Tomography) es fonamenta en l’anihilació entre la matèria i l’antimatèria. Els positrons, emesos pels nuclis de fluor, $^{18}\mathrm{F}$, injectats al pacient com a radiofàrmac, s’anihilen en entrar en contacte amb els electrons dels teixits del cos i de cadascuna d’aquestes anihilacions es creen fotons, a partir dels quals s’obté la imatge. La desintegració d’un nucli de fluor, $^{18}\mathrm{F}$, es pot escriure mitjançant la reacció nuclear següent:
-$${\_9}^{18}\textrm{F}\longrightarrow\mathrm{\_{8}^{x}O+\mathrm{_{z}^{y}e^{+}+_{0}^{0}\nu}}$$
+$${_9}^{18}\textrm{F}\longrightarrow\mathrm{_{8}^{x}O+\mathrm{_{z}^{y}e^{+}+_{0}^{0}\nu}}$$
     1. Digueu quants neutrons i quants protons té aquest isòtop artificial de fluor, $^{18}\mathrm{F}$. Completeu la reacció nuclear, és a dir, determineu $x$, $y$ i $z$. 
     2. El període de semidesintegració del $^{18}\mathrm{F}$ és 109,77 s. Calculeu el temps que ha de passar perquè quedi una vuitena part de la quantitat inicial de $^{18}\mathrm{F}$. Quin percentatge de partícules quedaran al cap d’una hora? Tenint en compte aquest resultat, digueu si podríem emmagatzemar gaire temps aquest radiofàrmac i justifiqueu-ho.
     <a href="sol/radioactivitat_16.pdf">Solució</a>
