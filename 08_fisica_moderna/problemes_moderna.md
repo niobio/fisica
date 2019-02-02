@@ -28,7 +28,7 @@
     1. Calculeu l’energia cinètica màxima dels fotoelectrons emesos. 
     2. Expliqueu què passaria si la llum incident tingués una longitud d’ona de $3,0\times10^{-7}\,\mathrm{m}$. 
 
-8. Se sap que un determinat metall experimenta l’efecte fotoelèctric quan s’hi fan incidir fotons d’energia superior a 1 eV. Suposeu que sobre aquest metall hi incideixen fotons de longitud d’ona 6\times10^{-7}\,\mathrm{m}. 
+8. Se sap que un determinat metall experimenta l’efecte fotoelèctric quan s’hi fan incidir fotons d’energia superior a 1 eV. Suposeu que sobre aquest metall hi incideixen fotons de longitud d’ona $6\times10^{-7}\,\mathrm{m}$. 
     1. Quant val la freqüència dels fotons incidents? 
     2. Es produeix l’efecte fotoelèctric? Per què? 
     
@@ -196,6 +196,7 @@
     </tr>
     </table>
     </figure>
+    <a href="sol/radioactivitat_11.pdf">Solució</a>
 
 12. El poloni 210 té un període de semidesintegració de 138,4 dies i es desintegra, per emissió de partícules alfa, en un isòtop estable del plom. El procés és el següent: 
 
@@ -210,6 +211,7 @@
     $1\,\mathrm{u=1,66\times10^{-27}\,\mathrm{kg}}$; <br> 
     $1\,\mathrm{eV=1,6\times10^{-19}\,J}$; <br>
     $c\mathrm{=3\times10^{8}\,m/s}$. <br>
+    <a href="sol/radioactivitat_12.pdf">Solució</a>
 
 13. El triti és un isòtop radioactiu de l’hidrogen. El nucli del triti té dos neutrons. 
     1. El triti es genera de manera natural a l’atmosfera quan els àtoms de nitrogen xoquen amb una certa partícula que anomenarem «?». La reacció és: 
@@ -221,6 +223,7 @@
     Determineu els valors dels índexs x, y, z, j i k. 
 
     2. El període de semidesintegració del triti és, aproximadament, de dotze anys. Elaboreu una gràfica amb les variables de massa i temps en què s’observi com varia la quantitat de triti d’una mostra que inicialment és de 120 g durant els seixanta anys següents.
+    <a href="sol/radioactivitat_13.pdf">Solució</a>
 
 14. El iode 131 és un isòtop radioactiu que emet $\beta^{-}$ i $\gamma$, té un període de semidesintegració de vuit dies i es fa servir per a tractar el càncer i altres malalties de la glàndula tiroide. La reacció de descomposició és la següent: 
     $$\mathrm{_{53}^{131}I\longrightarrow_{y}^{x}Xe+\beta^{-}+_{0}^{0}\gamma}$$
@@ -230,17 +233,20 @@
     2. Un pacient rep un tractament amb iode 131. Quants dies han de transcórrer perquè la quantitat de iode 131 al cos del pacient es redueixi fins al 12,5 % del valor inicial? 
 
     **Dades**: $m_{\beta}=9,11\times10^{-31}\,\mathrm{kg}$; $h=6,62\times10^{-34}\,\mathrm{Js}$.
+    <a href="sol/radioactivitat_14.pdf">Solució</a>
 
 15. L’any 2011 ha estat declarat Any Internacional de la Química, per commemorar, entre altres fets, que fa cent anys Marie Curie va ser guardonada amb el Premi Nobel de Química pel descobriment del radi, entre altres mèrits. El període de semidesintegració del radi és $1,59\times10^{3}\,\mathrm{anys}$. Si el 1911 es va guardar una mostra d’1,00 g de radi, calculeu: 
     1. La quantitat de radi de la mostra que queda actualment. 
     2. L’activitat radioactiva inicial de la mostra d’1,00 g de radi, i l’activitat radioactiva del radi que queda de la mostra avui. 
 
     **Dades**: $N_{A}=6,02\times10^{23}\,\mathrm{mol^{-1}}$; $m_{a}(\mathrm{Ra})=226\,\mathrm{u}$.
+    <a href="sol/radioactivitat_15.pdf">Solució</a>
 
 16. La tècnica de diagnòstic a partir de la imatge que s’obté mitjançant tomografia per emissió de positrons (PET, Positron Emission Tomography) es fonamenta en l’anihilació entre la matèria i l’antimatèria. Els positrons, emesos pels nuclis de fluor, $^{18}\mathrm{F}$, injectats al pacient com a radiofàrmac, s’anihilen en entrar en contacte amb els electrons dels teixits del cos i de cadascuna d’aquestes anihilacions es creen fotons, a partir dels quals s’obté la imatge. La desintegració d’un nucli de fluor, $^{18}\mathrm{F}$, es pot escriure mitjançant la reacció nuclear següent:
 $${\_9}^{18}\textrm{F}\longrightarrow\mathrm{\_{8}^{x}O+\mathrm{_{z}^{y}e^{+}+_{0}^{0}\nu}}$$
     1. Digueu quants neutrons i quants protons té aquest isòtop artificial de fluor, $^{18}\mathrm{F}$. Completeu la reacció nuclear, és a dir, determineu $x$, $y$ i $z$. 
     2. El període de semidesintegració del $^{18}\mathrm{F}$ és 109,77 s. Calculeu el temps que ha de passar perquè quedi una vuitena part de la quantitat inicial de $^{18}\mathrm{F}$. Quin percentatge de partícules quedaran al cap d’una hora? Tenint en compte aquest resultat, digueu si podríem emmagatzemar gaire temps aquest radiofàrmac i justifiqueu-ho.
+    <a href="sol/radioactivitat_16.pdf">Solució</a>
 
 ## Reaccions nuclears
 
