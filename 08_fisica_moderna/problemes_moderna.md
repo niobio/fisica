@@ -158,9 +158,9 @@
     2. Si en una mostra de terreny s'ha tobat una activitat de 5000 Bq i es considera que el nivel d'activitat segur per als humans ha d'estar per sota els 200 Bq. Quants anys han de passar fins que s'arribi als nivells de seguretat?
     <a href="sol/radioactivitat_07.pdf">Solució</a>
 
-8. El iode pot ser un radiofàrmac. L’isòtop $\mathrm{_{53}^{131}I}$ és una font de raigs gamma. S’injecta al pacient per poder obtenir imatges gammagràfiques. Aquest radioisòtop té un període de semidesintegració de 13,2 h.
-    1. Quina fracció de $\mathrm{_{53}^{131}I}$ resta al cos 24,0 hores després d’injectar el fàrmac? 
-    2. En un altre procés, el $\mathrm{_{53}^{131}I}$ també pot produir $\mathrm{_{54}^{131}Xe}$. Escriviu l’esquema del procés nuclear. Quina partícula s’emet?
+8. El iode pot ser un radiofàrmac. L’isòtop $\mathrm{\_{53}^{131}I}$ és una font de raigs gamma. S’injecta al pacient per poder obtenir imatges gammagràfiques. Aquest radioisòtop té un període de semidesintegració de 13,2 h.
+    1. Quina fracció de $\mathrm{\_{53}^{131}I}$ resta al cos 24,0 hores després d’injectar el fàrmac? 
+    2. En un altre procés, el $\mathrm{\_{53}^{131}I}$ també pot produir $\mathrm{\_{54}^{131}Xe}$. Escriviu l’esquema del procés nuclear. Quina partícula s’emet?
     <div align="middle">
     <img src="img_prob/gammagrafia.png">
     </div>
@@ -238,7 +238,7 @@
     **Dades**: $N_{A}=6,02\times10^{23}\,\mathrm{mol^{-1}}$; $m_{a}(\mathrm{Ra})=226\,\mathrm{u}$.
 
 16. La tècnica de diagnòstic a partir de la imatge que s’obté mitjançant tomografia per emissió de positrons (PET, Positron Emission Tomography) es fonamenta en l’anihilació entre la matèria i l’antimatèria. Els positrons, emesos pels nuclis de fluor, $^{18}\mathrm{F}$, injectats al pacient com a radiofàrmac, s’anihilen en entrar en contacte amb els electrons dels teixits del cos i de cadascuna d’aquestes anihilacions es creen fotons, a partir dels quals s’obté la imatge. La desintegració d’un nucli de fluor, $^{18}\mathrm{F}$, es pot escriure mitjançant la reacció nuclear següent:
-$${9}^{18}\textrm{F}\longrightarrow\mathrm{_{8}^{x}O+\mathrm{_{z}^{y}e^{+}+_{0}^{0}\nu}}$$
+$${\_9}^{18}\textrm{F}\longrightarrow\mathrm{\_{8}^{x}O+\mathrm{_{z}^{y}e^{+}+_{0}^{0}\nu}}$$
     1. Digueu quants neutrons i quants protons té aquest isòtop artificial de fluor, $^{18}\mathrm{F}$. Completeu la reacció nuclear, és a dir, determineu $x$, $y$ i $z$. 
     2. El període de semidesintegració del $^{18}\mathrm{F}$ és 109,77 s. Calculeu el temps que ha de passar perquè quedi una vuitena part de la quantitat inicial de $^{18}\mathrm{F}$. Quin percentatge de partícules quedaran al cap d’una hora? Tenint en compte aquest resultat, digueu si podríem emmagatzemar gaire temps aquest radiofàrmac i justifiqueu-ho.
 
