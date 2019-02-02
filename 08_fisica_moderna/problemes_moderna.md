@@ -74,7 +74,6 @@
 <ol start="12">
 <li> En una experiència de laboratori, es mesura l’energia cinètica màxima dels electrons que salten quan es fan incidir radiacions de freqüència diferent sobre una placa d’un material. Els resultats obtinguts es mostren en la taula següent, en què $E_{c}$ representa l’energia cinètica, i $\nu$, la freqüència:
 </li>
-</ol>
 
 <table style="width:50%;">
 <tr>
@@ -84,19 +83,20 @@
 <td>$\nu\,\mathrm{(PHz)}$</td><td>0,500</td><td>1,00</td><td>1,50</td><td>2,00</td>
 </tr>
 </table>
-
+<ol>
     La representación gràfica dels resultats és la següent:
-
+    <div align="middle">
     <img src="img_prob/grafic_fotoelectric.png">
-
+    </div>
     Determineu: 
 
-    1. El valor de la constant de Planck a partir de les dades d’aquest experiment.
-    2. La funció de treball; és a dir, l’energia mínima d’extracció d’electrons.
+    <li>El valor de la constant de Planck a partir de les dades d’aquest experiment.</li>
+    <li>La funció de treball; és a dir, l’energia mínima d’extracció d’electrons.</li>
     Expresseu els resultats en unitats del sistema internacional (SI). 
-
+    <br>
     **Dades**: $1\,\mathrm{eV=1,60\times10^{-19}\,\mathrm{J}}$; $1\,\mathrm{PHz=10^{15}\,\mathrm{Hz}}$.
- 
+</ol>
+</ol> 
 
 ## Dualitat ona-corpuscle
 
