@@ -28,7 +28,7 @@
     1. Calculeu l’energia cinètica màxima dels fotoelectrons emesos. 
     2. Expliqueu què passaria si la llum incident tingués una longitud d’ona de $3,0\times10^{-7}\,\mathrm{m}$. 
 
-8. Se sap que un determinat metall experimenta l’efecte fotoelèctric quan s’hi fan incidir fotons d’energia superior a 1 eV. Suposeu que sobre aquest metall hi incideixen fotons de longitud d’ona $6\times10^{-7}\,\mathrm{m}$. 
+8. Se sap que un determinat metall experimenta l’efecte fotoelèctric quan s’hi fan incidir fotons d’energia superior a 1 eV. Suposeu que sobre aquest metall hi incideixen fotons de longitud d’ona 6\times10^{-7}\,\mathrm{m}. 
     1. Quant val la freqüència dels fotons incidents? 
     2. Es produeix l’efecte fotoelèctric? Per què? 
     
@@ -37,7 +37,8 @@
    $c=3\times10^{8}\,\mathrm{m\cdot s^{-1}}$;       <br>
    $h=6,62\times10^{-34}\,\mathrm{J\cdot s}$.      <br>
 
-9. Una radiació ultraviolada de $\lambda=200\,\mathrm{nm}$ incideix sobre una placa de plom, de manera que salten electrons amb una energia cinètica màxima d’1,97 eV. Calculeu: 
+9. Una radiació ultraviolada de \lambda=200\,\mathrm{nm}
+  incideix sobre una placa de plom, de manera que salten electrons amb una energia cinètica màxima d’1,97 eV. Calculeu: 
     1. La funció de treball (és a dir, l’energia mínima d’extracció d’electrons) del plom. 
     2. La longitud d’ona associada als electrons emesos amb l’energia cinètica màxima.
 
@@ -72,6 +73,8 @@
 
 <ol start="12">
 <li> En una experiència de laboratori, es mesura l’energia cinètica màxima dels electrons que salten quan es fan incidir radiacions de freqüència diferent sobre una placa d’un material. Els resultats obtinguts es mostren en la taula següent, en què $E_{c}$ representa l’energia cinètica, i $\nu$, la freqüència:
+</li>
+</ol>
 
 <table style="width:50%;">
 <tr>
@@ -82,22 +85,17 @@
 </tr>
 </table>
 
-La representación gràfica dels resultats és la següent:
+    La representación gràfica dels resultats és la següent:
 
-<img src="img_prob/grafic_fotoelectric.png">
+    <img src="img_prob/grafic_fotoelectric.png">
 
-Determineu: 
+    Determineu: 
 
-<ol>
-<li>El valor de la constant de Planck a partir de les dades d’aquest experiment. </li>
-<li>La funció de treball; és a dir, l’energia mínima d’extracció d’electrons. </li>
-</ol>
-Expresseu els resultats en unitats del sistema internacional (SI). 
-</li>
-</ol>
+    1. El valor de la constant de Planck a partir de les dades d’aquest experiment.
+    2. La funció de treball; és a dir, l’energia mínima d’extracció d’electrons.
+    Expresseu els resultats en unitats del sistema internacional (SI). 
 
-
-**Dades**: $1\,\mathrm{eV=1,60\times10^{-19}\,\mathrm{J}}$; $1\,\mathrm{PHz=10^{15}\,\mathrm{Hz}}$.
+    **Dades**: $1\,\mathrm{eV=1,60\times10^{-19}\,\mathrm{J}}$; $1\,\mathrm{PHz=10^{15}\,\mathrm{Hz}}$.
  
 
 ## Dualitat ona-corpuscle
@@ -144,35 +142,42 @@ Expresseu els resultats en unitats del sistema internacional (SI).
 
 2. Sabem que el període de semidesintegració del $\mathrm{^{14}C}$ és de 5.730 anys i un gram de carboni actual té una activitat de 920 desintegracions per hora. Una mostra de fusta conté 10 g de carboni i té una velocitat de desintegració del carboni 14 de 100 comptes/min. Quina és l'edat de la mostra? 
 
-3. Una excavació arqueològica en terres egípcies ha revelat un gran nombre de troballes d'una època desconeguda. Si la concentració de carboni-14 $(T_{1/2}=5370\,\mathrm{anys})$ en la fusta d'un taüt trobat és d'un 61% respecte de la concentració actual de la mateixa fusta actualment, de quin any podem pensar que és el taüt?
+3. Una excavació arqueològica en terres egípcies ha revelat un gran nombre de troballes d'una època desconeguda. Si la concentració de carboni-14 $(T_{1/2}=5730\,\mathrm{anys})$ en la fusta d'un taüt trobat és d'un 61% respecte de la concentració actual de la mateixa fusta actualment, de quin any podem pensar que és el taüt?
+    <a href="sol/radioactivitat_03.pdf">Solució</a>
 
 4. L’activitat d’1 Ci correspon a $3,7\times10^{10}$ becquerels o desintegracions per segon. Un gram de l’isòtop de radi $\mathrm{_{88}^{226}Ra}$ té una activitat d’1 Ci. Determineu el període de semidesintegració del radi en anys. 
+    <a href="sol/radioactivitat_04.pdf">Solució</a>
 
 5. Un cert isòtop té una vida mitjana de 7 h. Quants segons són necessaris perquè la mostra es desintegri un 10%? 
+    <a href="sol/radioactivitat_05.pdf">Solució</a>
 
 6. Quin és el període de semidesintegració d'un nucli radiactiu l'activitat del qual disminueix en 1/8 al cap d'un dia?
 
 7. La central nuclear de Fukushima al Japó va patir l'any 2011 l'accident nuclear més greu de la història degut a un terratrèmol i un posterior tsunami devastadors. Quatre dels seus sis reactors es van fondre. Actualment la zona que rodeja la central té restringit l'accés degut als perillosos nivells de radioactivitat. Un dels isòtops radioactius que es troben a la zona és el Cesi-137 $(\mathrm{^{137}Cs})$, que decau en Bari-137 $(\mathrm{^{137}Ba})$, que és estable, amb un període de semidesintegració 30,17 anys. 
     1. Quin tipus de decaïment té el Cesi-137? Escriu la equació desenvolupada del decaiment.
     2. Si en una mostra de terreny s'ha tobat una activitat de 5000 Bq i es considera que el nivel d'activitat segur per als humans ha d'estar per sota els 200 Bq. Quants anys han de passar fins que s'arribi als nivells de seguretat?
+    <a href="sol/radioactivitat_07.pdf">Solució</a>
 
 8. El iode pot ser un radiofàrmac. L’isòtop $\mathrm{_{53}^{131}I}$ és una font de raigs gamma. S’injecta al pacient per poder obtenir imatges gammagràfiques. Aquest radioisòtop té un període de semidesintegració de 13,2 h.
     1. Quina fracció de $\mathrm{_{53}^{131}I}$ resta al cos 24,0 hores després d’injectar el fàrmac? 
-    2. En un altre procés, el $\mathrm{\_{53}^{131}I}$ també pot produir $\mathrm{_{54}^{131}Xe}$. Escriviu l’esquema del procés nuclear. Quina partícula s’emet?
+    2. En un altre procés, el $\mathrm{_{53}^{131}I}$ també pot produir $\mathrm{_{54}^{131}Xe}$. Escriviu l’esquema del procés nuclear. Quina partícula s’emet?
  
-    <img src="img_prob/gammagrafia.png">
+ <img src="img_prob/gammagrafia.png">
+ <a href="sol/radioactivitat_08.pdf">Solució</a>
  
-9. La radioactivitat és un mitjà fiable per a calcular l’edat de les roques i minerals que contenen isòtops radioactius concrets. Aquest sistema de datació radiomètrica ens permet mesurar el temps geològic. Un d’aquests mètodes es basa en la desintegració de l’isòtop $\mathrm{\_{19}^{40}K}$ (potassi) en $\mathrm{\_{18}^{40}Ar}$ (argó). El rellotge potassi-argó comença a funcionar quan els minerals que contenen potassi cristal·litzen a partir d’un magma o dins una roca. En aquest moment, els nous minerals contenen $\mathrm{\_{19}^{40}K}$ i no contenen $\mathrm{\_{18}^{40}Ar}$. A mesura que passa el temps, el $\mathrm{\_{19}^{40}K}$ es desintegra i tots els àtoms de $\mathrm{\_{18}^{40}Ar}$ que trobem en el mineral en un temps posterior a la formació provenen de la descomposició del $\mathrm{\_{19}^{40}K}$. 
+9. La radioactivitat és un mitjà fiable per a calcular l’edat de les roques i minerals que contenen isòtops radioactius concrets. Aquest sistema de datació radiomètrica ens permet mesurar el temps geològic. Un d’aquests mètodes es basa en la desintegració de l’isòtop $\mathrm{_{19}^{40}K}$ (potassi) en $\mathrm{_{18}^{40}Ar}$ (argó). El rellotge potassi-argó comença a funcionar quan els minerals que contenen potassi cristal·litzen a partir d’un magma o dins una roca. En aquest moment, els nous minerals contenen $\mathrm{_{19}^{40}K}$ i no contenen $\mathrm{_{18}^{40}Ar}$. A mesura que passa el temps, el $\mathrm{_{19}^{40}K}$ es desintegra i tots els àtoms de $\mathrm{_{18}^{40}Ar}$ que trobem en el mineral en un temps posterior a la formació provenen de la descomposició del $\mathrm{_{19}^{40}K}$. 
     1. Escriviu la reacció nuclear de l’emissió de partícules $\beta$ de l’isòtop $\mathrm{_{19}^{40}K}$.
-    2. En una roca s’han trobat 10,0 g de $\mathrm{\_{19}^{40}K}$ i 10,0 g de $\mathrm{\_{18}^{40}Ar}$. Quina quantitat de $\mathrm{\_{19}^{40}K}$ hi haurà quan hauran transcorregut $5,00\times10^{9}\,\mathrm{anys}$? Fent servir la datació radiomètrica basada en el potassi-argó, digueu quina edat té la roca. Considereu que el $\mathrm{\_{19}^{40}K}$ es desintegra només en $\mathrm{\_{18}^{40}Ar}$. 
+    2. En una roca s’han trobat 10,0 g de $\mathrm{_{19}^{40}K}$ i 10,0 g de $\mathrm{_{18}^{40}Ar}$. Quina quantitat de $\mathrm{_{19}^{40}K}$ hi haurà quan hauran transcorregut $5,00\times10^{9}\,\mathrm{anys}$? Fent servir la datació radiomètrica basada en el potassi-argó, digueu quina edat té la roca. Considereu que el $\mathrm{_{19}^{40}K}$ es desintegra només en $\mathrm{_{18}^{40}Ar}$. 
 
-    **Dada**: Període de semidesintegració del $\mathrm{\_{19}^{40}K}$, $t_{1/2}=1,25\times10^{9}\,\mathrm{anys}$.
+    **Dada**: Període de semidesintegració del $\mathrm{_{19}^{40}K}$, $t_{1/2}=1,25\times10^{9}\,\mathrm{anys}$.
+    <a href="sol/radioactivitat_09.pdf">Solució</a>
 
 10. Una gammagrafia òssia és una prova diagnòstica que consisteix a injectar per via intravenosa una substància que conté un cert isòtop radioactiu que es diposita en els ossos i que emet raigs gamma. La radiació emesa es detecta amb una gamma-càmera que escaneja el cos i pren imatges de la quantitat de l’isòtop acumulada en els ossos. En aquest tipus de gammagrafies s’utilitza el tecneci 99 com a radioisòtop. 
     1. Quant s’haurà reduït el nombre de nuclis de l’isòtop injectat al cap d’un dia? 
     2. El $\mathrm{_{43}^{99}Tc}$ prové de la desintegració beta d’un altre element. Indiqueu el nombre de protons i neutrons del nucli del qual prové. 
 
     **Dades**: $t_{1/2}(\mathrm{^{99}Tc})=6,00\,\mathrm{h}$.
+    <a href="sol/radioactivitat_10.pdf">Solució</a>
 
 11. Hem observat una mostra d’un isòtop radioactiu. El gràfic mostra l’evolució del nombre d’àtoms de l’isòtop durant 200 dies.
     <img src="img_prob/grafic_decaiment.png">
@@ -180,16 +185,16 @@ Expresseu els resultats en unitats del sistema internacional (SI).
     2. Sospitem que es tracta de poloni 210 (Z = 84), un element emissor de radiació alfa. Escriviu la reacció nuclear de l’emissió alfa d’aquest isòtop.
 
     **Dades**: Nombres atòmics i símbols d’alguns elements:
-    <figure>
-    <table>
-    <tr>
-    <td>80</td><td>81</td><td>82</td><td>83</td><td>84</td><td>85</td><td>86</td>
-    </tr>
-    <tr>
-    <td>Hg</td><td>Tl</td><td>Pb</td><td>Bi</td><td>Po</td><td>At</td><td>Rn</td>
-    </tr>
-    </table>
-    </figure>
+<figure>
+<table>
+<tr>
+<td>80</td><td>81</td><td>82</td><td>83</td><td>84</td><td>85</td><td>86</td>
+</tr>
+<tr>
+<td>Hg</td><td>Tl</td><td>Pb</td><td>Bi</td><td>Po</td><td>At</td><td>Rn</td>
+</tr>
+</table>
+</figure>
 
 12. El poloni 210 té un període de semidesintegració de 138,4 dies i es desintegra, per emissió de partícules alfa, en un isòtop estable del plom. El procés és el següent: 
 
@@ -198,9 +203,9 @@ Expresseu els resultats en unitats del sistema internacional (SI).
     2. Calculeu l’energia que es desprèn en la desintegració d’un nucli de poloni, expressada en J i en MeV.
 
     **Dades**: <br>
-    $m(\mathrm{\_{84}^{210}Po})=209,983\,\mathrm{u}$; <br>
-    $m(\mathrm{\_{y}^{x}Pb})=205,974\,\mathrm{u}$; <br>
-    $m(\mathrm{\_{2}^{4}He})=4,003\,\mathrm{u}$; <br>
+    $m(\mathrm{_{84}^{210}Po})=209,983\,\mathrm{u}$; <br>
+    $m(\mathrm{_{y}^{x}Pb})=205,974\,\mathrm{u}$; <br>
+    $m(\mathrm{_{2}^{4}He})=4,003\,\mathrm{u}$; <br>
     $1\,\mathrm{u=1,66\times10^{-27}\,\mathrm{kg}}$; <br> 
     $1\,\mathrm{eV=1,6\times10^{-19}\,J}$; <br>
     $c\mathrm{=3\times10^{8}\,m/s}$. <br>
@@ -285,9 +290,9 @@ $${9}^{18}\textrm{F}\longrightarrow\mathrm{_{8}^{x}O+\mathrm{_{z}^{y}e^{+}+_{0}^
 
 5. Completa les reaccions de fissió nuclear següents:
     1. $\mathrm{^{235}U+_{0}^{1}n\longrightarrow^{101}Mo+^{132}Sn+\ldots}$
-    2. $\mathrm{^{239}Pu+\_{0}^{1}n\longrightarrow^{100}Tc+\ldots+4_{0}^{1}n}$
-    3. $\mathrm{^{235}U+\_{0}^{1}n\longrightarrow^{94}Sr+\ldots+2{}_{0}^{1}n}$
-    4. $\mathrm{^{239}Pu+\_{0}^{1}n\longrightarrow\ldots+^{133}In+3_{0}^{1}n}$
+    2. $\mathrm{^{239}Pu+_{0}^{1}n\longrightarrow^{100}Tc+\ldots+4_{0}^{1}n}$
+    3. $\mathrm{^{235}U+_{0}^{1}n\longrightarrow^{94}Sr+\ldots+2{}_{0}^{1}n}$
+    4. $\mathrm{^{239}Pu+_{0}^{1}n\longrightarrow\ldots+^{133}In+3_{0}^{1}n}$
  
 
 ### Dades útils
