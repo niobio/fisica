@@ -171,6 +171,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
         <li>La distància recorreguda durant la frenada. </li>
     </ol>
 </li>
+    <a href="sol/prob215.pdf">Solució</a>
 <br>
 <li>La figura representa les posicions de dos blocs a intervals de temps successius de 0,3 s; els blocs es mouen cap a la dreta. Els dos blocs tenen la mateixa celeritat (mòdul de la velocitat):
     <div align="middle">
@@ -194,6 +195,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
         <li>Calcula la velocitat mitjana del mòbil entre 0 i 25 s. </li>
     </ol>
 </li>
+    <a href="sol/prob217.pdf">Solució</a>
 <br>
 <li>Un avió Boeing 727 necessita una velocitat de pista de 360 km/h per enlairar-se; si partint del repòs tarda 25 s en enlairar-se: 
     <div align="middle">
@@ -215,6 +217,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
         <li>Determina l'equació de posició com a funció del temps per al mòbil A. </li>
         <li>Es troba el mòbil A amb el B? En cas afirmatiu, determineu la posició de B en aquest instant. </li>
     </ol>
+    <a href="sol/prob219.pdf">Solució</a>
 </li>
 <br>
 <li>S'anomena temps de reacció al que transcorre des que un conductor observa un obstacle fins que prem el pedal del fre. Normalment és d'algunes dècimes de segon. Suposa que la velocitat que porta és de 90 km/h, el temps de reacció és de 0,4 segons i que l'acceleració de frenada és de $-3\,\mathrm{m/s^{2}}$.
@@ -223,6 +226,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
         <li>Representa les gràfiques $a-t$, $v-t$ i $x-t$ del moviment. </li>
     </ol>
     Resultat: 114,1 m 
+    <a href="sol/prob220.pdf">Solució</a>
 </li>
 <br>
 <li>En Joan llança verticalment cap amunt una pedra, amb una velocitat de partida de 10 m/s, y simultàniament en Pere, que es troba 40 m per damunt d'en Joan, llança una altre pedra cap avall, també amb velocitat de 10 m/s. [Considereu $\left|g\right|=10\,\mathrm{m/s^{2}}$]
@@ -231,6 +235,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
         <li>A quina distància respecte d'en Pere es troben les pedres? </li>
         <li>Feu les gràfiques $v(t)$ i $x(t)$ per a ambdues pedres. </li>
     </ol>
+    <a href="sol/prob221.pdf">Solució</a>
 </li>
 <br>
 <li>Un globus es troba a 80 m d'altura. Quant temps tardarà en arribar a terra un objecte que deixem anar des del globus si: 
@@ -239,8 +244,9 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
         <li>el globus baixa a 2 m/s, </li>
         <li>el globus puja a 2 m/s.</li>
     </ol>
-Considereu negligible el fregament amb l'aire. 
-Resultat: 4 s 3,80 s 4,20 s 
+    Considereu negligible el fregament amb l'aire. 
+    Resultat: 4 s 3,80 s 4,20 s 
+    <a href="sol/prob222.pdf">Solució</a>
     </li>
     <br>
 <li>Un vianant corre amb la màxima velocitat possible a 6 m/s per agafar una autobús que està aturat en un semàfor. Quan està a 25 metres el semàfor es posa verd i l'autobús accelera uniformement a raó d'$1\,\mathrm{m/s^{2}}$. 
@@ -248,6 +254,7 @@ Resultat: 4 s 3,80 s 4,20 s
         <li>Calcula el temps que tardarà en atrapar l'autobús, si és que no se li escapa. </li>
         <li>Fes les gràfiques $a-t$, $v-t$ i $x-t$ dels moviments. </li>
     </ol>
+    <a href="sol/prob223.pdf">Solució</a>
 </li>
 <br>
 <li>Un cotxe i un camió parteixen del repòs al mateix instant, amb el cotxe darrere el camió una certa distància. El camió té una acceleració constant d’$1,20\,\mathrm{m/s^{2}}$ i, el cotxe, una acceleració d’$1,80\,\mathrm{m/s^{2}}$. El cotxe passa al camió després d’haver recorregut 45 m. Trobeu: 
@@ -256,6 +263,7 @@ Resultat: 4 s 3,80 s 4,20 s
         <li>La distància que es trobava inicialment el cotxe al darrere del camió.</li>
         <li>Dibuixa les gràfiques de velocitat-temps i posició-temps per ambdós mòbils. (Tot dos mòbils a la mateixa gràfica). </li>
     </ol>
+    <a href="sol/prob224.pdf">Solució</a>
     </li>
     <br>
 <li>Un tren de rodalies parteix del repòs des d’una estació i accelera durant 10 s amb una acceleració constant d’$1,20\,\mathrm{m/s^{2}}$. Després marxa a velocitat constant durant 30 s i desaccelera amb una acceleració constant de mòdul $2,40\,\mathrm{m/s^{2}}$ fins que s’atura a l’estació següent. 
@@ -264,6 +272,7 @@ Resultat: 4 s 3,80 s 4,20 s
         <li>Calculeu la distància total recorreguda. </li>
         <li>Calculeu la velocitat mitjana i l'acceleració mitjana del tren. </li>
     </ol>
+    <a href="sol/prob225.pdf">Solució</a>
     </li>
     <br>
 <li>Des d'una altura de 200 m sobre el terra llancem, verticalment i cap amunt, un cos amb una velocitat inicial de 30 m/s. 
@@ -272,12 +281,14 @@ Resultat: 4 s 3,80 s 4,20 s
         <li>Quant temps tarda a recórrer els darrers 50 m? </li>
         <li>Quina serà la seva posició respecte al terra a l'instant en què el cos baixa amb una velocitat de mòdul igual a 40 m/s? </li>
     </ol>
+    <a href="sol/prob226.pdf">Solució</a>
     </li>
     <br>
 <li>Al laboratori, la manera més fàcil de simular la caiguda d’un paracaigudista és deixar caure una safata de paper de la grandària d’un CD, aproximadament. Se n’ha estudiat el moviment de caiguda, i el resultat es representa en la gràfica següent. Descriviu el moviment de manera qualitativa i quantitativa.
     <div align="middle">
     <img src="img_prob/07_caiguda_safata.png">
     </div>
+    <a href="sol/prob227.pdf">Solució</a>
     </li>
     <br>
 <li>Les dades següents corresponen a un moviment uniformement accelerat. Completa les dades que falten a la taula.
@@ -307,6 +318,7 @@ Resultat: 4 s 3,80 s 4,20 s
         <td> 300</td>    
     </tr>
 </table>
+    <a href="sol/prob228.pdf">Solució</a>
 </li>
 <br>
 <li>Un cotxe que té una fuita d'oli arrenca des del repòs amb una acceleració constant. A la figura es poden veure les taques d'oli amb la seva posició. 
@@ -319,6 +331,7 @@ Resultat: 4 s 3,80 s 4,20 s
         <li>La velocitat que té el cotxe quan es produeix l'última taca de la figura.</li>
     </ol>
     </li>
+    <a href="sol/prob229.pdf">Solució</a>
     <br>
 </ol>
 
