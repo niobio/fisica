@@ -297,9 +297,9 @@ $${_9}^{18}\textrm{F}\longrightarrow\mathrm{_{8}^{x}O+\mathrm{_{z}^{y}e^{+}+_{0}
 
 5. Completa les reaccions de fissió nuclear següents:
     1. $\mathrm{^{235}U+_{0}^{1}n\longrightarrow^{101}Mo+^{132}Sn+\ldots}$
-    2. $\mathrm{^{239}Pu+_{0}^{1}n\longrightarrow^{100}Tc+\ldots+4_{0}^{1}n}$
-    3. $\mathrm{^{235}U+_{0}^{1}n\longrightarrow^{94}Sr+\ldots+2{}_{0}^{1}n}$
-    4. $\mathrm{^{239}Pu+_{0}^{1}n\longrightarrow\ldots+^{133}In+3_{0}^{1}n}$
+    2. $\mathrm{^{239}Pu+\_{0}^{1}n\longrightarrow^{100}Tc+\ldots+4\_{0}^{1}n}$
+    3. $\mathrm{^{235}U+\_{0}^{1}n\longrightarrow^{94}Sr+\ldots+2{}\_{0}^{1}n}$
+    4. $\mathrm{^{239}Pu+\_{0}^{1}n\longrightarrow\ldots+^{133}In+3\_{0}^{1}n}$
  
 
 ### Dades útils
