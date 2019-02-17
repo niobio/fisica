@@ -43,6 +43,7 @@
 9. Tenim una peça de vidre, la secció de la qual és la que s'indica a la figura. Si l'índex de refracció del vidre té un valor de $\sqrt{2}$, quin és el valor de l'angle límit per a aquest material? Dibuixa la trajectòria que seguirà el raig de llum, r, a l'interior de la peça de vidre. Es produirà una reflexió total a la cara BC?
     
     <img src="img_prob/prisma.png" width="50%">
+    <a href="sol/prob109.pdf">Solució</a>
 
 10. Un raig de llum de color groc de 580 nm es propaga per l’aire a una velocitat de $3,0\times10^{8}\,\mathrm{m/s}$ i incideix sobre un vidre que té un índex de refracció d’1,55 per a aquesta llum. Calculeu: 
     1. La freqüència de la llum groga en l’aire i la seva velocitat de propagació en el vidre. 
