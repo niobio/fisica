@@ -382,6 +382,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
     </ol>
     Resultat: 5 m/s | 36,8 graus | 20 s 60 m | 48,5grados | 2,64 m/s 30,23 s
 </li>
+     <a href="sol/prob233.pdf">Solució</a>
 <br>
 <li>Una cinta transportadora d’un aeroport es mou amb una velocitat de 5 km/h. Sobre la cinta camina una senyora que porta un cotxet de bebè a una velocitat de 3 km/h en respecte a la cinta. En un moment donat, el bebè llança el seu xumet amb una velocitat de 10 km/h en la direcció perpendicular al moviment de la cinta. 
     <ol>
@@ -390,6 +391,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
         <li>I respecte d’un senyor que està sobre una altra cinta que avança en sentit contrari a 5 km/h? </li>
     </ol>
     Resposta: 3,5 m/s; 2,9 m/s; 4,5 m/s
+    <br> <a href="sol/prob234.pdf">Solució</a>
 </li>
 <br>
 <li>Un vaixell manté rumb cap a N durant 1 h, però es troba que durant aquest temps s’ha desviat 5 km cap a l’est recorrent un total de 30 km. Calculeu: 
@@ -399,6 +401,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
         <li>La velocitat del corrent marí. </li>
     </ol>
     Resposta: 30 km/h; 29,58 km/h; 5 km/h.
+    <br> <a href="sol/prob235.pdf">Solució</a>
 </li>
 </ol>
 
