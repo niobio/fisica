@@ -13,7 +13,7 @@
     1. L’expressió vectorial de la força a què està sotmesa la càrrega $q$. 
     2. En quant canviarien els resultats de l'apartat anterior si les càrregues, en lloc de trobar-se en el buit, estiguessin submergides en aigua. 
 
-    **Dades**: $k=1/(4\pi\varepsilon_{0})=9\times10^{9}\,\mathrm{N\cdot m^{2}\cdot C^{-2}}$; la constant dielèctrica relativa de l’aigua val 81; les distàncies es mesuren en m. 
+    **Dades**: $k=1/(4\pi\varepsilon_{0})=9\times10^{9}\,\mathrm{N\cdot m^{2}\cdot C^{-2}}$; la constant dielèctrica relativa de l’aigua val 81; les distàncies es mesuren en m. <br><a href="sol/prob902.pdf">Solució</a>
 
 3. Una partícula de massa m, carregada elèctricament i lligada a l’extrem d’una corda, es manté en equilibri dins d’un camp elèctric horitzontal uniforme. 
 
@@ -35,6 +35,7 @@
     4. 2 i 4 
 
     Justifiqueu la resposta.
+    <br><a href="sol/prob903.pdf">Solució</a>
 
 4. Una petita esfera de massa $m=0,5\,\mathrm{g}$ i càrrega elèctrica negativa $q=3,6\times10^{-6}\,\mathrm{C}$ penja d’un fil. Com que l’esfera està situada en una regió on hi ha un camp elèctric horitzontal d’intensitat $E=800\,\mathrm{N/C}$, el fil forma un angle $\alpha$ respecte de la vertical. 
 
@@ -43,6 +44,7 @@
     3. Si es trenca el fil, quant valdran els components horitzontal i vertical de l’acceleració de l’esfera? Quina serà la velocitat de l’esfera al cap de $2\,\mathrm{s}$ de trencar-se el fil? 
 
     <img src="img_prob/pendol.png" width="70%">
+    <br><a href="sol/prob904.pdf">Solució</a>
 
 5. Una esfera metàl·lica de $10\,\mathrm{cm}$ de radi es carrega amb una càrrega positiva de $10^{-5}\,\mathrm{C}$. A continuació es connecta a una altra esfera metàl·lica, de $20\,\mathrm{cm}$ de radi, inicialment descarregada, i seguidament es desconnecta d’ella. Calcula la càrrega de cada esfera a la situació final.
 
