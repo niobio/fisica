@@ -67,6 +67,7 @@
     3. El treball necessari per traslladar aquesta mateixa càrrega des d'A fins a B. 
 
     <img src="img_prob/quadrat.png" width="50%">
+    <br><a href="sol/prob908.pdf">Solució</a>
 
 9. Calcula el treball necessari per traslladar una càrrega de $3\times10^{-5}\,\mathrm{C}$ en els següents casos:
     1. Des d'A fins a B.
@@ -90,6 +91,7 @@
     3. L’energia potencial electrostàtica emmagatzemada en el sistema de càrregues. 
 
     **Dada**: $k=1/(4\pi\varepsilon_{0})=9\times10^{9}\,\mathrm{N\cdot m^{2}/C^{2}}$.
+    <br><a href="sol/prob912.pdf">Solució</a>
     
 13. Un electró inicialment en repòs es deixa lliure en un punt de l’espai, en presència del camp elèctric creat per una càrrega puntual positiva. Trieu la resposta que considereu correcta.
     1. Quan l’electró es desplaça en el camp elèctric: 
@@ -107,6 +109,7 @@
     3. El treball que cal fer per a traslladar una càrrega de $+5\,\mu\mathrm{C}$ des del punt O(0, 0) fins al P(4, 0). Interpreteu el signe del resultat.
     **Nota**: Les coordenades dels punts s'expressen en metres.
     **Dada**: $k=1/(4\pi\varepsilon_{0})=9\times10^{9}\,\mathrm{Nm^{2}C^{-2}}$.
+    <br><a href="sol/prob914.pdf">Solució</a>
 
 15. Una càrrega elèctrica puntual $Q=+2\times10^{-8}\,\mathrm{C}$ està fixa en el punt A, de coordenades (–4,0). Una segona càrrega idèntica a l’anterior està fixa en el punt B, de coordenades (4,0). Les distàncies estan donades en m. Determineu: 
     1. El mòdul, la direcció i el sentit del camp elèctric a l’origen de coordenades (O) i en el punt P, de coordenades (0,3). 
@@ -136,6 +139,7 @@
 20. Una partícula amb càrrega igual a $q=20\,\mu\mathrm{C}$ i amb massa $m=10\mu\mathrm{g}$ es troba entre les plaques d’un condensador pla, que estan separades 2 cm. Si la partícula es troba sota la influència de la gravetat: 
     1. Trobeu la diferència de potencial que haurien de tenir les plaques per que la força produïda pel camp elèctric sobre la partícula equilibri al seu pes. 
     2. Si la diferència de potencial trobada en l'apartat anterior s’augmentés al doble, quina serà l’acceleració de la partícula?
+    <br><a href="sol/prob920.pdf">Solució</a>
 
 21. Un electró entra amb una velocitat $v_{0}=8\times10^{5}\,\mathrm{m/s}$ en una zona de l'espai on hi ha un camp elèctric vertical $E=10\,\mathrm{N/C}$ creat per les armadures d'un condensador de longitud $d=10\,\mathrm{mm}$. Un cop l'electró es troba a dins del condensador:
 
@@ -143,14 +147,17 @@
     
     Quines són les forces que actuen sobre l'electró i quines direccions i quins sentits tenen? Fes-ne una estimació i valora si té sentit negligir els efectes de la gravetat. 
     1. Quin moviment descriurà l'electró? Escriu l'equació de la seva trajectòria tot considerant com a origen de coordenades el punt A d'entrada al condensador. 
-    2. Quant de temps trigarà l'electró a sortir de l'espai interior del condensador? Quines seran les coordenades x i y del punt de sortida? 
+    2. Quant de temps trigarà l'electró a sortir de l'espai interior del condensador? Quines seran les coordenades x i y del punt de sortida?
+    <br><a href="sol/prob921.pdf">Solució</a>
     
 22. Un microscopi electrònic utilitza electrons accelerats a través d'una diferència de potencial de 40.000 V. 
     1. Calcula l'energia subministrada a cada electró. 
     2. Quina serà la velocitat de xoc dels electrons? 
-    3. Determina el poder de resolució suposant que és igual a la longitud d'ona de De Broglie associada als electrons. 
+    3. Determina el poder de resolució suposant que és igual a la longitud d'ona de De Broglie associada als electrons.
+    <br><a href="sol/prob922.pdf">Solució</a>
     
 23. Un filament incandescent, que es troba a un potencial elèctric de 0 V, emet un electró inicialment en repòs. L’electró és recollit per un cilindre coaxial, metàllic, que es troba a un potencial de 1.000 V. Determineu l’energia amb què impacta l’electró en el cilindre. Expresseu el resultat en eV. 
 
     **Dades**: $q_{e}=-1,602\times10^{-19}\,\mathrm{C}$; $1\,\mathrm{eV=1,602\times10^{-19}\,J}$.
     <img src="img_prob/06_cilindre_coaxial.png" width="30%">
+    <br><a href="sol/prob923.pdf">Solució</a>
