@@ -76,6 +76,10 @@ Ja hi ha al voltant de quatre mil exoplanetes descoberts, però... Com es fa per
 * [http://www.planetary.org/explore/space-topics/exoplanets/how-to-search-for-exoplanets.html](http://www.planetary.org/explore/space-topics/exoplanets/how-to-search-for-exoplanets.html)
 
 
+### La braquistòcrona
+Hi ha un camí màgic en una muntanya per al qual un esquiador tardarà sempre el mateix, independentment del punt on comenci el descens. Aquesta corba matemàtica es coneix com braquistòcrona. T'animes a explorar les seves propietats?
+
+
 ### ... i més
 Si encara continues sense haver trobat el tema del teu repte, per què no mires en els articles d'aquesta revista:
 
