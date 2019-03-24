@@ -81,7 +81,7 @@ Si encara continues sense haver trobat el tema del teu repte, per què no mires 
 
 The Physics Teacher: [https://aapt.scitation.org/journal/pte](https://aapt.scitation.org/journal/pte)
 
-Aquesta és una revista que es publica des de l'any 1963 i pots trobar tot tipus de coses interessants. La revista és de pagament però hi ha articles que són oberts. Dels altres articles es poden consultar l'"abstract", es a dir el resum del article. Si trobes un article que et pugui interessar m'ho dius i jo t'el faré arribar, ja que com membre de l'American Association of Physics Teachers, tinc accés a la publicació.
+Aquesta és una revista que es publica des de l'any 1963 i pots trobar tot tipus de coses interessants. La revista és de pagament però hi ha articles que són oberts. Dels altres articles es poden consultar l'_abstract_, es a dir el resum de l'article. Si trobes un article que et pugui interessar m'ho dius i jo te'l faré arribar, ja que com membre de l'American Association of Physics Teachers, tinc accés a la publicació.
 
 José Luis
 
