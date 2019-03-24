@@ -28,13 +28,15 @@ Llibres sobre el tema:
 ### Experiments de física amb smartphone
 Els smartphones es poden transformar en un laboratori de física mòbil, actualment aquestes andròmines porten tants sensors que els podem utilitzar per fer experiments de física. El repte consisteix en dissenyar i realitzar un o dos experiements fent servir el mòbil com part de l'experiement. Hi ha varies aplicacions especialment dissenyades per a fer servir el mòbil per fer experiments de física, un parell d'elles són:
 
-* Phyphox: https://phyphox.org/
-* Physics Toolbox Sensor Suite: https://www.vieyrasoftware.net/
+* Phyphox: [https://phyphox.org/](https://phyphox.org/)
+* Physics Toolbox Sensor Suite: [https://www.vieyrasoftware.net/](https://www.vieyrasoftware.net/)
 
 ### Vòrtex de Von Kármán
 Els carrer de vòrtex de von Kàrmàn és un fenomen en el que s'observen remolins en el moviment d'un fluid. Aquest fenomen generalment es considera com indesitjable però, últimament s'han trobat aplicacions interessants d'aquest fenomen, com ser la generació d'electricitat a través de generadors eòlics sense aspes.
+
 Veure:
-https://vortexbladeless.com/es/desarrollo-tecnologia/
+
+[https://vortexbladeless.com/es/desarrollo-tecnologia/](https://vortexbladeless.com/es/desarrollo-tecnologia/)
 
 ### Formes novedoses de viatjar a l'espai
 Fins ara la manera més comú de viatjar per l'espai ha estat la de retropropulsió, explora altres formes de viatjar per l'espai, com ser les veles solars o altres alternatives. estudia la seva viabilitat, les seves avantatges i desavantatges.
@@ -51,7 +53,8 @@ Els fractals són entitats matemàtiques que poden descriure alguns fenòmens qu
 
 ### Efecte Mpemba
 Aquest efecte el va descobrir un nen africà i encara no té una explicació clara, ni tan sols ha estat possible comprovar-ho d'una manera inqüestionable. T'animes a comprovar-ho? I a donar-ne una explicació?
-* https://www.chemistryworld.com/news/the-mpemba-effect-fact-or-fiction/3008257.article
+
+* [https://www.chemistryworld.com/news/the-mpemba-effect-fact-or-fiction/3008257.article](https://vortexbladeless.com/es/desarrollo-tecnologia/)
 
 ### La teoria del caos
 Tots hem sentit parlar de l'efecte papallona. La teoria del caos explica el comportament de coses que es comporten d'una manera inexplicable. En què es basa aquesta teoria? Hi ha algun objecte "senzill" que es comporti de manera caòtica? T'animes a simular el comportament d'un sistema caotic amb un programa informàtic?
@@ -67,16 +70,16 @@ Hi ha un llibre que explica la història de la medició de la longitud de manera
 ### Exoplanetes
 Ja hi ha al voltant de quatre mil exoplanetes descoberts, però... Com es fa per descobrir un planeta en una gal·làxia llunyana? Quina tècnica es fa servir?
 
-* https://exoplanets.nasa.gov/
-* http://exoplanets.org/
-* http://www.exoplanetexplorer.com/
-* http://www.planetary.org/explore/space-topics/exoplanets/how-to-search-for-exoplanets.html
+* [https://exoplanets.nasa.gov/](https://exoplanets.nasa.gov/)
+* [http://exoplanets.org/](http://exoplanets.org/)
+* [http://www.exoplanetexplorer.com/](http://www.exoplanetexplorer.com/)
+* [http://www.planetary.org/explore/space-topics/exoplanets/how-to-search-for-exoplanets.html](http://www.planetary.org/explore/space-topics/exoplanets/how-to-search-for-exoplanets.html)
 
 
 ### ... i més
 Si encara continues sense haver trobat el tema del teu repte, per què no mires en els articles d'aquesta revista:
 
-The Physics Teacher: https://aapt.scitation.org/journal/pte
+The Physics Teacher: [https://aapt.scitation.org/journal/pte](https://aapt.scitation.org/journal/pte)
 
 Aquesta és una revista que es publica des de l'any 1963 i pots trobar tot tipus de coses interessants. La revista és de pagament però hi ha articles que són oberts. Dels altres articles es poden consultar l'"abstract", es a dir el resum del article. Si trobes un article que et pugui interessar m'ho dius i jo t'el faré arribar, ja que com membre de l'American Association of Physics Teachers, tinc accés a la publicació.
 
