@@ -18,6 +18,8 @@
 ### Unitat 4: Energia
 ### Unitat 5: Corrent elèctric
 
+### [Reptes de física](reptes/reptes.md){:target="_blank"}
+
 ## Física 2
 
 ### [Unitat 1: Les ones i el so](06_ones/ones.md){:target="_blank"}
