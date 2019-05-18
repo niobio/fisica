@@ -1,0 +1,7 @@
+<li>Una partícula de massa 0,1 kg, lligada a l’extrem d’un fil, descriu un moviment circular en un pla vertical. Quan el fil es troba en posició horitzontal, la seva tensió és 10 N. Calculeu per a aquesta posició:
+    <ol>
+        <li>L’acceleració centrípeta de la partícula.</li>
+        <li>L’acceleració tangencial de la partícula. </li>
+    </ol>
+</li>
+

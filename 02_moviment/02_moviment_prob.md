@@ -544,14 +544,9 @@ Resultat: 74 m/s/s i 10 m/s/s
     </div>
 </li>
 <br>
-<li>Una partícula de massa 0,1 kg, lligada a l’extrem d’un fil, descriu un moviment circular en un pla vertical. Quan el fil es troba en posició horitzontal, la seva tensió és 10 N. Calculeu per a aquesta posició:
-    <ol>
-        <li>L’acceleració centrípeta de la partícula.</li>
-        <li>L’acceleració tangencial de la partícula. </li>
-    </ol>
-</li>
 <br>
 <li>Són les dotze en punt. Tant l’agulla horària com l’agulla minutera del rellotge apunten cap amunt. En quin instant tornaran a coincidir, per primer cop, les dues agulles del rellotge? 
+<br> <a href="sol/prob253.pdf">Solució</a>
 </li>
 <br>
 <li>Una sínia (veure figura) de 20 metres de diàmetre gira amb un període d'un minut. 
@@ -559,10 +554,11 @@ Resultat: 74 m/s/s i 10 m/s/s
         <li>Calculeu la velocitat lineal de les persones que estan donant voltes. </li>
         <li>Estan accelerant? Si ho fan, amb quina acceleració? </li>
         <li>Quan la sínia s'atura tarda dos minuts en fer-ho, quantes voltes donaran durant la frenada?</li>
-    <br>
+    <br> <a href="sol/prob254.pdf">Solució</a>
     <div align="middle">
-    <img src="img_prob/sinia.svg">
+    <img src="img_prob/sinia.svg" width="60%">
     </div>
     </ol>
+    
 </li>
 </ol>
