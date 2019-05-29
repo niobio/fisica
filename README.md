@@ -15,7 +15,7 @@
 	* [Funcions i representació gràfica](http://niobio.github.io/fisicacomp/mov/mov1.html){:target="_blank"}
 
 ### Unitat 3: L'univers mecànic
-* [Problemes](03_dinamica/03_dinamica_prob.md){:target="_blank"}
+* [Problemes](03_univers_mecanic/03_dinamica_prob.md){:target="_blank"}
 ### Unitat 4: Energia
 ### Unitat 5: Corrent elèctric
 
