@@ -1,0 +1,59 @@
+
+# L'univers mecànic
+
+Al segle XIX els científics pensaven que l'univers funcionava com un rellotge, que tot estava determinat per les condicions inicials de moviment i que, si poguéssim conèixer la posició i velocitat de cada partícula de l'univers ens seria possible conèixer de manera completa el futur. L'única limitació estava en la manca de coneixement i la potència de càlcul necessària per tan magnífica empresa. Aquesta visió de l'univers es coneix com determinisme i uns dels seus grans postulants va ser el científic francès Pierre-Simon Laplace (veure el [dimoni de Laplace](https://ca.wikipedia.org/wiki/Dimoni_de_Laplace)). No és casual que els científics tinguessin aquesta visió de l'univers, l'èxit collit per la mecànica de Newton (també coneguda ara com mecànica clàssica) en predir el moviment planetari i el moviment en general va ser incontestable. 
+
+Ara sabem que aquesta visió no és correcta, que la mecànica quàntica, que és la teoria que descriu la realitat d'una manera més acurada, ens assegura que la realitat no és determinista, que l'atzar juga un paper important. És a nivell microscòpic on es posa de manifest d'una manera més dramàtica aquest comportament, no obstant això, a escala macroscòpica la visió mecanicista de Newton continua essent vàlida, fins al punt que les trajectòries dels planetes i dels viatges espacials es calculen utilitzant la mecànica de Newton.
+
+En aquesta unitat ens endinsarem en l'estudi de les causes del moviment, que són les interaccions entre els cossos i els agents amb els que representem aquestes interaccions en la mecànica clàssica, que són les forces.
+
+## Les lleis de Newton
+
+L'any 1687 [Isaac Newton](https://ca.wikipedia.org/wiki/Isaac_Newton) publica el llibre *Philosophiae Naturalis Principia Mathematica*, el llibre més important de la història de la física. En aquest llibre enuncia tres lleis que serveixen de principis per a desenvolupar tot el que avui coneixem com mecànica clàssica. 
+
+### Primera llei de Newton: principi d'inèrcia
+
+**Si un cos no interactua amb cap altre el seu estat serà el repòs o, si ja s'estava movent, el moviment rectilini uniforme.**
+
+La forma que tenim per a modelitzar les interaccions entre cossos és a través d'una magnitud anomenada **força**. El concepte de força ens resulta intuïtiu, ja que alguna vegada hem rebut alguna empenta, la qual cosa ens acaba canviant el nostre estat de moviment.
+
+El principi d'inèrcia es pot generalitzar pel cas en que el cos interactua amb altres, però la suma de totes les forces aplicades al cos resulta nul·la. En aquest cas tenim la mateixa situació que si no hi hagués cap força aplicada. 
+
+Un exemple on podem visualitzar aquest principi podria ser el cas d'una persona que està a sobre d'un autobús en repòs i, de sobte, l'autobús comença a moure's. Aquesta situació, que la podem observar a la figura inferior, segur que l'hem viscut alguna vegada. Si l'autobús arrenca des del repòs i sobre nosaltres no hi ha cap força aplicada que ens faci moure amb l'autobús, nosaltres ens quedarem en repòs mentre l'autobús avança, com a conseqüència ens anirem cap el fons de l'autobús i probablement acabarem caient.
+
+<p>
+<figure>
+  <img src="img/inercia2.jpg" alt="" width="50%">
+  <figcaption> <strong>Aplicació del principi d'inèrcia. El bus arrenca i, si no ens agafem per tenir una força que ens faci moure junt amb l'autobús, ens quedarem a la nostra posició original (repòs) i acabarem caient.</strong> </figcaption>
+</figure>
+</p>
+
+Una altra situació d'aplicació resulta quan l'autobús viatja a velocitat constant i de sobte frena, en aquest cas nosaltres continuarem viatjant a velocitat constant i ens anirem cap a la part davantera de l'autobús si no ens agafem per frenar-nos, com es pot observar a la figura inferior.
+
+<p>
+<figure>
+  <img src="img/inercia1.jpg" alt="" width="50%">
+  <figcaption> <strong>Aplicació del principi d'inèrcia. El bus frena i, si no ens agafem per tenir una força que ens faci frenar a nosaltres també, continuarem amb velocitat constant i acabarem esclafats contra el vidre del davant de l'autobús.</strong> </figcaption>
+</figure>
+</p>
+
+### Segona llei de Newton: principi fonamental de la dinàmica
+
+La segona llei de Newton estableix una relació de causa i efecte entre les interaccions i la generació del moviment i diu que **l'acceleració que experimenta un cos és directament proporcional a la força neta aplicada**. Aquesta llei es pot escriure amb l'expressió matemàtica:
+
+$$\vec{F}=m\vec{a}$$
+
+on la constant de proporcionalitat entre la força i l'acceleració és la massa del cos. És important destacar que la força que apareix a la 2a llei de Newton és la força resultant de la suma de totes les forces aplicades sobre el cos, a la que anomenarem força neta.
+
+Podem veure d'aquesta llei que una mateixa força pot produir diferents acceleracions si s'apliquen a cossos de diferents masses. Un cos molt massiu tindrà una acceleració petita, mentre que un cos amb poca massa s'accelerarà molt. Podem dir que la massa és una mesura del que costa canviar l'estat de moviment d'un cos, és a dir, de la inèrcia del cos. La massa és una propietat intrínseca del cos, es dir, només depèn del cos i no d'agents externs. 
+
+En el Sistema Internacional d'unitats, la unitat de massa és el kilogram (kg) i és una unitat fonamental. Tenint en compte que l'acceleració es mesura en $\mathrm{m/s^{2}}$, la unitat de força ha de ser $\mathrm{kg.m/s^{2}}$. Per ser la força una magnitud prou important aquesta unitat porta el nom de newton i es designa amb la lletra N.
+
+Per calcular la força neta aplicada sobre un cos hem de ver la suma vectorial de totes les forces aplicades.
+
+### Tercera llei de Newton: principi d'acció i reacció
+
+La tercera llei de Newton ens diu que sempre que un cos exerceix una força sobre un altre, aquest segon cos exerceix una força igual i de sentit contrari sobre el primer.
+
+Amb aquest principi queda establert que totes les forces venen per parelles, per això anomenem interaccions a l'aplicació de forces sobre algun cos, perquè la força ha d'estar produïda per algun agent extern que alhora rep una força contraria, es com dir que no podem tocar sense ser tocats.
+
