@@ -517,7 +517,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
         <li>El valor de l'acceleració normal del mòbil augmenta amb el temps. </li>
         <li>El valor de l'acceleració tangencial del mòbil no varia amb el temps.</li>
     </ol>
-    <br> <a href="sol/prob248.pdf">Solució</a>
+<a href="sol/prob248.pdf">Solució</a>
 </li>
 <li>El mòdul de la velocitat d'un punt material que descriu una trajectòria circular ve donat per l'equació (en unitats del SI) $v=6+10t$. Si el radi de la trajectòria és de 100 m, quina serà l’acceleració normal en l'instant $t=8\,\mathrm{s}$? I l’acceleració tangencial?
 Resultat: 74 m/s/s i 10 m/s/s
