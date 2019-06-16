@@ -148,5 +148,5 @@ Ara es tracta de resoldre el sistema d'equacions per trobar el valor de l'accele
 Un cop definit el sistema d'equacions el que queda és resoldre'l i trobar les incògnites, i això és només àlgebra.
 </li>
 
-Per saber més sobre les forces de contacte podeu consultar [https://es.khanacademy.org/science/physics/forces-newtons-laws/normal-contact-force/v/normal-force-and-contact-force||aquí].
+Per saber més sobre les forces de contacte podeu consultar [Khan Academy: Normal force and contact force](https://es.khanacademy.org/science/physics/forces-newtons-laws/normal-contact-force/v/normal-force-and-contact-force).
 
