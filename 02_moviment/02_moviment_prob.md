@@ -470,6 +470,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
 <ol start="43">
 <li>Una roda que inicialment està aturada comença a girar i dóna 8 voltes fins que arriba a girar amb velocitat angular constant al cap de 8 segons. Quin és el valor d'aquesta velocitat? (RTA: 12,56 rad/s)
 </li>
+<br> <a href="sol/prob243.pdf">Solució</a>
 <br>
 <li>Un motor d'un cotxe gira, al ralentí, a 1.000 rpm. 
     <ol>
@@ -478,6 +479,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
         <li>Quantes voltes haurà girat en aquest espai de temps? </li>
     </ol>
     Resultat: 104,7 rad/s 0,06 s i 16,6 Hz 26,17 rad/s2 266 voltes
+    <br> <a href="sol/prob244.pdf">Solució</a>
 </li>
 <br>
 <li>Una centrifugadora de 12 cm de radi que està inicialment en repòs accelera uniformement durant 20 segons. En aquest interval de temps, $\alpha=100\,\mathrm{rad/s^{2}}$. Després manté la velocitat adquirida. 
@@ -487,6 +489,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
         <li>Calcula les acceleracions tangencial i normal que com a màxim tenen els objectes a l'interior de la centrifugadora quan aquesta fa un minut que gira.</li>
     </ol>
     Resultat: 19.099 rpm 3.183 voltes i 12.732 voltes 0 i 4,8.105 m/s/s
+    <br> <a href="sol/prob245.pdf">Solució</a>
 </li>
 <br>
 <li>Tres ciclistes, A, B i C, descriuen una corba circular de 20 metres de radi. Calcula l'acceleració total de cada ciclista en un instant en què el mòdul de la seva velocitat és de 10 m/s, sabent que: 
@@ -496,6 +499,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
         <li>El ciclista C frena uniformement d'11 m/s a 9 m/s en un temps de 0,5 segons.</li>
     </ol>
     Resultat: 5 m/s/s 5,38 m/s/s 6,40 m/s/s
+    <br> <a href="sol/prob246.pdf">Solució</a>
 </li>
 <br>
 <li>El motor d'un cotxe gira a 3.000 rpm. Reduïm una velocitat i per tant el motor augmenta de revolucions passant a 5.000 rpm en només 4 s. 
@@ -505,6 +509,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
         <li>I quins seran aquests valors al cap d’1 segon? </li>
     </ol>
     Resultat: 52,4 rad/s/s 13,1 i 24.674 m/s/s 13,1 i 33.599 m/s/s
+    <br> <a href="sol/prob247.pdf">Solució</a>
 </li>
 <br>
 <li>Un mòbil que surt del repòs realitza un moviment circular accelerat uniformement. Raoneu si cadascuna de les afirmacions següents és vertadera o falsa: 
@@ -512,9 +517,11 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
         <li>El valor de l'acceleració normal del mòbil augmenta amb el temps. </li>
         <li>El valor de l'acceleració tangencial del mòbil no varia amb el temps.</li>
     </ol>
+    <br> <a href="sol/prob248.pdf">Solució</a>
 </li>
 <li>El mòdul de la velocitat d'un punt material que descriu una trajectòria circular ve donat per l'equació (en unitats del SI) $v=6+10t$. Si el radi de la trajectòria és de 100 m, quina serà l’acceleració normal en l'instant $t=8\,\mathrm{s}$? I l’acceleració tangencial?
 Resultat: 74 m/s/s i 10 m/s/s
+<br> <a href="sol/prob249.pdf">Solució</a>
 </li>
 <br>
 <li>Una rentadora centrifuga a 900 rpm i quan està aturada tarda 20 segons en aconseguir aquesta velocitat de rotació. El radi del cilindre és de 30 cm. 
@@ -528,9 +535,11 @@ Resultat: 74 m/s/s i 10 m/s/s
         <li>Calcula també els valors d'aquestes acceleracions als 10 segons d'haver-se engegat el programa del centrifugat. </li>
     </ol>
     Resultat: 28,2 m/s 0,066 s 150 voltes 1,41 m/s/s 26,64 m/s/s 26,68 m/s/s 1,41 m/s/s, 666,1 m/s/s i 666,1 m/s/s 
+    <br> <a href="sol/prob250.pdf">Solució</a>
 </li>
 <br>
 <li>Un disc es posa a girar des del repòs. En els primers 40 s augmenta la seva velocitat angular de manera uniforme i gira 10 voltes senceres. Calculeu les components intrínseques (normal i tangencial) del vector acceleració per a un punt del disc situat a 15 cm del seu centre, quan fa 15 s que s’ha iniciat el moviment. 
+<br> <a href="sol/prob251.pdf">Solució</a>
 </li>
 <br>
 <li>La Lluna descriu una òrbita al voltant de la Terra que correspon pràcticament a un moviment circular i uniforme, de període T=27,4\,\mathrm{dies}. La llum procedent de la Lluna triga 1,28 s a arribar a la Terra. Calculeu: 
@@ -539,6 +548,7 @@ Resultat: 74 m/s/s i 10 m/s/s
         <li>L’acceleració de la Lluna. </li>
     </ol>
     Dada: velocitat de la llum: $c=3\times10^{8}\,\mathrm{m/s}$.
+    <br> <a href="sol/prob252.pdf">Solució</a>
     <div align="middle">
     <img src="img_prob/terra-lluna.svg">
     </div>
