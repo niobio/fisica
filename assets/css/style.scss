@@ -4,6 +4,7 @@
 @import "{{ site.theme }}";
 
 figure {
+  display: inline-block;
   float: center;
   width: 70%;
   text-align: center;
@@ -13,6 +14,14 @@ figure {
   border: none;
   margin: 0.5em;
   padding: 0.5em;
+}
+
+figure img {
+  vertical-align: top;
+}
+
+figure figcaption {
+  text-align: center;
 }
 
 table, th, td {
