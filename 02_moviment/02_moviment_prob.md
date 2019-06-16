@@ -469,8 +469,8 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
 
 <ol start="43">
 <li>Una roda que inicialment està aturada comença a girar i dóna 8 voltes fins que arriba a girar amb velocitat angular constant al cap de 8 segons. Quin és el valor d'aquesta velocitat? (RTA: 12,56 rad/s)
-</li>
 <br> <a href="sol/prob243.pdf">Solució</a>
+</li>
 <br>
 <li>Un motor d'un cotxe gira, al ralentí, a 1.000 rpm. 
     <ol>
