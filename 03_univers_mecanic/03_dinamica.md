@@ -148,5 +148,62 @@ Ara es tracta de resoldre el sistema d'equacions per trobar el valor de l'accele
 Un cop definit el sistema d'equacions el que queda és resoldre'l i trobar les incògnites, i això és només àlgebra.
 </li>
 </ol>
-Per saber més sobre les forces de contacte podeu consultar [Khan Academy: Normal force and contact force](https://es.khanacademy.org/science/physics/forces-newtons-laws/normal-contact-force/v/normal-force-and-contact-force).
+Per saber més sobre les forces de contacte podeu consultar [Khan Academy: Fuerza normal y fuerza de contacto](https://es.khanacademy.org/science/physics/forces-newtons-laws/normal-contact-force/v/normal-force-and-contact-force){:target="_blank"}.
 
+
+## Forces de fregament
+
+Quan vam enunciar la primera llei de Newton o principi d'inèrcia, vam dir que si un cos no està sotmès a cap força el seu moviment continua amb velocitat constant. Però la nostra experiència ens diu que si fem anar una pilota o un cotxet de joguina a rodar sobre el terra, acabarà aturant-se tard o d'hora. Això no es deu a que el principi d'inèrcia no sigui vàlid, sinó a que aquests cossos en realitat no estan lliures de forces que són les causes de que s'acabin aturant. Analitzem què passa amb un cos quan el fem lliscar sobre una superfície horitzontal. Tal com es veu en el diagrama de forces de la figura inferior, si el cos està en repòs sobre la superfície horitzontal, les úniques forces a les que estarà sotmès, com ja sabem, seran la força pes, amb direcció vertical cap avall, i la força de reacció del terra (força normal), vertical cap amunt. Aquestes dues forces són iguals en mòdul i direcció, i oposades en sentit, la qual cosa fa que la força resultant sigui nul·la i justifica l'estat de repòs.
+
+<p>
+<figure>
+  <img src="img/fregament_0.svg" alt="" width="50%">
+  <figcaption> <strong>Forces aplicades sobre un cos que es troba en repòs sobre una superfície horitzontal.</strong> </figcaption>
+</figure>
+</p>
+
+Si ara llancem el cos cap a la dreta lliscant sobre la superfície i el deixem sol, veurem que la seva velocitat anirà minvant fins que al cap d'una estona es detindrà per complet. ¿Perquè ha passat això? Degut al principi d'inèrcia hem de concloure que si s'ha parat és perquè ha aparegut una força en sentit contrari al moviment i que, com conseqüència de l'acció d'aquesta força el mòbil s'ha detingut. ¿Passarà el mateix si fem moure el mòbil sobre altra superfície? ¿Què passarà si el llancem sobre una superfície de gel?Si fem l'experiment observarem que el mòbil també s'acabarà parant, però a diferència del cas anterior, després d'haver lliscat una distància més llarga. A aquesta força que s'oposa al lliscament l'anomenem força de fregament o força de fricció.
+
+En la figura següent podem observar el diagrama de forces del mateix cos quan s'està movent sobre una superfície amb fregament.
+
+<p>
+<figure>
+  <img src="img/fregament_1.svg" alt="" width="50%">
+  <figcaption> <strong>Diagrama de forces d'un cos amb fregament.</strong> </figcaption>
+</figure>
+</p>
+¿Com podem fer per a modelitzar aquesta força? Per fer-ho primer hauríem de enumerar tots els fets coneguts d'aquesta força a partir de l'observació experimental. Estudiant aquesta força per a diferents tipus de cossos i diferents superfícies, podem dir que s'observa:
+
+
+1. Si l'objecte es deixa en repòs sobre una superfície horitzontal, la força de fricció no apareix.
+2. Si intentem moure l'objecte aplicant una força horitzontal suficientment petita, l'objecte no es mou. Això vol dir que apareix una força de fregament igual i contraria a la que apliquem nosaltres per aconseguir l'equilibri.
+3. Si augmentem la força aplicada una mica més, el cos encara no es mou. Això vol dir que la força de fregament té mòdul variable i s'ajusta a la força que fem nosaltres.
+4. Hi ha un valor de força aplicada a partir de la qual el cos comença a moure's. Anomenarem valor llindar al valor que pren aquesta força.
+5. Un cop el cos comença a moure's, la força mínima que hem de fer per mantenir el moviment és menor que el valor llindar i la força de fricció es manté constant independentment de la velocitat a la que es mogui el cos.
+6. Si canviem el cos observem que la força de fregament depèn de la superfície de contacte entre el cos i la superfície, quan més rugosa sigui la superfície més alta serà la força de fregament.
+7. La força de fregament és directament proporcional a la força de contacte entre les dues superfícies.
+
+Atenent els resultats experimentals observats, el comportament de la força de fregament que rep un cos com a resultat de fregar contra una superfície es pot modelitzar amb un comportament com el que mostra la gràfica següent.
+
+<p>
+<figure>
+  <img src="img/fregament.svg" alt="" width="50%">
+  <figcaption> <strong>Gràfica on s'observa la força de fregament que apareix sobre un cos en funció de la força externa aplicada.</strong> </figcaption>
+</figure>
+</p>
+
+La gràfica mostra que quan la força aplicada, F, és més petita que la força llindar, la força de fregament és igual a la força aplicada i el cos roman en repòs. En aquest cas diem que tenim fregament estàtic, força que és variable i igual a la força aplicada. Aquesta força pot assolir un valor màxim a partir del qual el cos comença a moure's si s'aplica una força major. La força màxima que assoleix el fregament estàtic es pot escriure com
+
+$$F_{e_{max}}=\mu_{e}N$$
+
+on $N$ és la força de contacte entre el cos i la superfície (força normal) i $\mu_{e}$ és un coeficient adimensional de proporcionalitat que depèn de les superfícies en contacte i anomenem coeficient de fregament estàtic.
+
+En general tindrem que 
+
+$$F_{e}\leq\mu_{e}N$$
+
+Quan el cos comença a moure's, la força de fregament disminueix i passa a ser constant, a aquesta força li diem força de fregament dinàmic (o cinètic). Podem modelitzar aquesta força amb l'expressió
+
+$$F_{d}=\mu_{d}N$$
+
+on $N$ és la força normal i $\mu_{d}$ és el coeficient de fregament dinàmic (adimensional). 
