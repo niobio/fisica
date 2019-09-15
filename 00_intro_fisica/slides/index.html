@@ -1,0 +1,160 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>Mesurament en ciència</title>
+
+		<link rel="stylesheet" href="css/reset.css">
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/simple.css">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/monokai.css">
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+<!-- Slide #01 ------------------------------------------------------------- -->
+<section>
+	<h1>Per entendre hem de mesurar</h1>
+</section>
+
+
+<!-- Slide #02 ----------------------------------------------------------- -->
+<section>
+	<h3>La mida de la Terra</h3>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/4dDjQp1lNxE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</section>
+
+<!-- Slide #03 ----------------------------------------------------------- -->
+<section>
+	<object type="image/svg+xml" data="img/mida_terra.svg" style="width: 100%;"></object>
+</section>
+
+<!-- Slide #04 ----------------------------------------------------------- -->
+<section>
+	\[\begin{aligned}
+	\frac{R}{D}=\frac{h}{d} \\\\
+	R=\frac{hD}{d}
+	\end{aligned} \]
+	<ul>
+	<li>$R$: radi de la Terra</li>
+	<li>$D$: distància entre Alexandria i Assuan</li>
+	<li>$h$: altura de la columna</li>
+	<li>$d$: longitud de l'ombra</li>
+	</ul>
+	
+</section>
+
+<!-- Slide #05 ----------------------------------------------------------- -->
+<section>
+	<h3>La mida de la Lluna</h3>
+	<object type="image/svg+xml" data="img/mida_lluna.svg" style="width: 100%;"></object>
+</section>
+
+<!-- Slide #06 ----------------------------------------------------------- -->
+<section>
+	<object type="image/svg+xml" data="img/mida_lluna2.svg" style="width: 100%;"></object>
+</section>
+
+<!-- Slide #07 ----------------------------------------------------------- -->
+<section>
+	<h3>Distància a la Lluna</h3>
+	<object type="image/svg+xml" data="img/dist_lluna.svg" style="width: 100%;"></object>
+</section>
+
+<!-- Slide #08 ----------------------------------------------------------- -->
+<section>
+	\[\begin{aligned}
+	\frac{L}{D}=\frac{l}{d} \\\\
+	L=\frac{lD}{d}
+	\end{aligned} \]
+	<ul>
+	<li>$L$: distància ull-Lluna</li>
+	<li>$D$: diàmetre de la Lluna</li>
+	<li>$l$: distància ull-moneda</li>
+	<li>$d$: diàmetre de la moneda</li>
+	</ul>
+	
+</section>
+
+<!-- Slide #09 ----------------------------------------------------------- -->
+<section>
+	<h3>Distància al Sol</h3>
+	<object type="image/svg+xml" data="img/dist_sol.svg" style="width: 100%;"></object>
+</section>
+
+<!-- Slide #10 ----------------------------------------------------------- -->
+<section>
+
+	\[\begin{aligned}
+	\cos(\alpha)=\frac{d_{TL}}{d_{TS}} \\\\
+	d_{TS}=\frac{d_{TL}}{\cos(\alpha)}
+	\end{aligned} \]
+
+	<ul>
+	<li>$d_{TL}$: distància Terra-Lluna</li>
+	<li>$d_{TS}$: distància Terra-Sol</li>
+	<li>$\alpha$: angle entre direcció de la Lluna i del Sol</li>
+	</ul>
+	
+</section>
+
+<!-- Slide #11 ----------------------------------------------------------- -->
+<section>
+	<h3>La mida del Sol</h3>
+	<object type="image/svg+xml" data="img/mida_sol.svg" style="width: 100%;"></object>
+</section>
+
+<!-- Slide #12 ----------------------------------------------------------- -->
+<section>
+	\[\begin{aligned}
+	\frac{H}{D}=\frac{h}{d} \\\\
+	H=\frac{hD}{d}
+	\end{aligned} \]
+	<ul>
+	<li>$H$: distància Terra-Sol</li>
+	<li>$D$: diàmetre del Sol</li>
+	<li>$l$: distància ull-paper</li>
+	<li>$d$: diàmetre de la imatge del Sol al terra</li>
+	</ul>
+	
+</section>
+
+<!-- S'acaben les diapos ------------------------------------------------------>
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// More info about config & dependencies:
+			// - https://github.com/hakimel/reveal.js#configuration
+			// - https://github.com/hakimel/reveal.js#dependencies
+			Reveal.initialize({
+				math: {
+					//mathjax: 'plugin/math/MathJax.js',
+					config: 'TeX-AMS_HTML-full',  
+					// See http://docs.mathjax.org/en/latest/config-files.html
+					// pass other options into `MathJax.Hub.Config()`
+				},
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/notes/notes.js', async: true },
+					{ src: 'plugin/highlight/highlight.js', async: true },
+					{ src: 'plugin/zoom-js/zoom.js' },
+					{ src: 'plugin/math/math.js', async: true }
+				]
+			});
+			Reveal.configure({backgroundTransition:'convex'});
+		</script>
+	</body>
+</html>
