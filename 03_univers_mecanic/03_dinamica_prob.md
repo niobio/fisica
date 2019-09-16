@@ -99,3 +99,51 @@
     </ol>
 </li>
 
+</ol>
+
+## Fregament
+
+<ol start="15">
+<li>El coeficient cinètic de fricció entre el terra i el bloc de la figura és 0,4.
+        <div align="middle">
+        <img src="img_prob/freg_3cossos.png">
+        </div>
+    Calculeu l’acceleració en cadascun dels casos següents si el bloc té una massa
+de 100 kg.</li>
+
+<li>Els coeficients estàtic i cinètic de fricció entre un cos i el terra són 0,4 i 0,3
+respectivament. La massa de l’objecte és de 60 kg.
+    <ol>
+    <li>Calcula si amb una força de 300 N podríem moure’l.</li>
+    <li>En cas de fer-ho, quina seria l’acceleració del moviment?</li>
+    </ol>
+</ol>
+
+## Sistemes de cossos
+
+<ol start="17">
+<li>Estirem el sistema de la figura amb una força de 38 N. Calcula l’acceleració del
+sistema i la tensió de les cordes en els següents casos:
+        <div align="middle">
+        <img src="img_prob/fils_3cossos.png">
+        </div>
+   <ol>
+   <li>No hi ha friccions.</li>
+   <li>El coeficient de fricció entre els blocs i el terra és de 0,1.</li>
+   </ol>
+</li>
+
+<li>La massa $m_1$ del sistema de la figura val 40 kg, i la massa $m_2$ és
+variable. Els coeficients de fricció estàtic i cinètic entre $m_1$ i la taula són iguals i valen $\mu = 0,2$.
+        <div align="middle">
+        <img src="img_prob/politja_2cossos.png">
+        </div>
+        Si el sistema està inicialment en repòs,
+        <ol>
+        <li>Amb quina acceleració es mourà el sistema si $m_2 = 10 \mathrm{kg}$?</li>
+        <li>Quin és el valor màxim de $m_2$ per al qual el sistema romandrà en repòs?</li>
+        <li>Si $m_2 = 6 \mathrm{kg}$, quina serà la força de fregament entre el cos i la taula? i la tensió de la corda?</li>
+        </ol>
+        </li>
+</ol>
+
