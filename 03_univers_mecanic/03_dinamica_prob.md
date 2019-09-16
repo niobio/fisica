@@ -117,6 +117,7 @@ respectivament. La massa de l’objecte és de 60 kg.
     <li>Calcula si amb una força de 300 N podríem moure’l.</li>
     <li>En cas de fer-ho, quina seria l’acceleració del moviment?</li>
     </ol>
+    </li>
 </ol>
 
 ## Sistemes de cossos
