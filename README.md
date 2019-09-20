@@ -14,6 +14,7 @@
 
 ### [Unitat 2: L'univers mecànic](03_univers_mecanic/03_dinamica.md){:target="_blank"}
 * [Problemes](03_univers_mecanic/03_dinamica_prob.md){:target="_blank"}
+* [Problemes adicionals](03_univers_mecanic/dinamica.pdf){:target="_blank"}
 
 ### Unitat 3: Energia
 
