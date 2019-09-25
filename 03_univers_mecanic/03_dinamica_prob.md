@@ -148,3 +148,80 @@ variable. Els coeficients de fricció estàtic i cinètic entre $m_1$ i la taula
         </li>
 </ol>
 
+
+## Dinàmica del moviment circular
+
+<ol start="19">
+<li>Una partícula de massa 0,1 kg, lligada a l'extrem d un fil, descriu un moviment circular en un pla vertical. Quan el fil es troba en posició horitzontal, la seva tensió és 10 N. Calculeu per a aquesta posició: 
+<ul>
+<li>L'acceleració centrípeta de la partícula. </li>
+<li>L'acceleració tangencial de la partícula.</li>
+</ul>
+</li>
+
+<li>Un ciclista fa un ris de la mort sobre una pista circular vertical de 10 metres de radi. Si parteix del repòs des de la part inferior de la pista amb un moviment circular uniformement accelerat, calculeu: 
+<ol>
+<li>La velocitat mínima que ha de tenir en el punt més alt de la seva trajectòria per tal de fer la circumferència sense caure. </li>
+<li>La força que fa la pista sobre la bicicleta en el punt més alt de la trajectòria quan el mòbil té la velocitat calculada en el apartat anterior si el conjunt bicicleta-ciclista té una massa de 120 kg. </li>
+<li>L'acceleració angular que ha de tenir per assolir la velocitat mínima calculada en el primer apartat.</li>
+</ol>
+        <div align="middle">
+        <img src="img_prob/loop.png" width=50%>
+        </div>
+</li>
+
+<li>5. En la pel·lícula dels Simpson, Homer intenta fer el ris de la mort dintre d'una esfera de metall amb una moto (veure imatges). Després de dos intents fallits ho aconsegueix accelerant a la tercera oportunitat. Si l'esfera té un diàmetre de 6 metres i Homer parteix del repòs amb un moviment circular uniformement accelerat, calculeu: 
+<ol>
+<li>La velocitat mínima que ha de tenir en el punt més alt de la seva trajectòria per tal de fer la circumferència sense caure. </li>
+<li>La força que fa l'esfera sobre la moto en el punt més alt de la trajectòria quan el mòbil té la velocitat calculada en el apartat (a), sabent que el conjunt moto-Homer té una massa de 400 kg. </li>
+<li>L'acceleració angular que ha de tenir per assolir la velocitat mínima calculada en el primer apartat.</li>
+</ol>
+        <div align="middle">
+        <img src="img_prob/simpson1.png" width=50%>
+        <img src="img_prob/simpson2.png" width=50%>
+        </div>
+</li>
+
+<li>Una cabina cilíndrica gira respecte el seu eix amb una velocitat de 5 rad/s. En contacte amb la paret interior hi ha un cos que gira solidàriament amb la cabina. El coeficient de fregament estàtic entre la paret i el cos val 0,2. Quin és el radi de la cabina?</li>
+        <div align="middle">
+        <img src="img_prob/cabina.png" width=50%>
+        </div>
+
+</ol>
+
+## Quantitat de moviment
+
+<ol start="23">
+<li>Una persona, la massa de la qual és de 60 kg, es troba en mig d'un llac glaçat, sense fricció. Aquesta persona té, en les seves mans, una capsa de 5 kg de massa. Si llença la capsa horitzontalment, la persona adquireix una velocitat de 0,5 m/s en sentit contrari. Aleshores, arriba a la conclusió de que la capsa ha estat llençada amb una velocitat de:
+<ol>
+<li>6 m/s</li>
+<li>0,5 m/s</li>
+<li>60 m/s</li>
+<li>10 m/s</li>
+<li>2 m/s</li>
+</ol>
+</li>
+
+<li>1. Un cos de massa $m=6\,\mathrm{kg}$ es mou amb una velocitat $v_{0}=2\,\mathrm{m/s}$ quan comença a rebre una força $F$ variable en el temps segons la gràfica que s'observa a continuació.
+        <div align="middle">
+        <img src="img_prob/impuls.png">
+        </div>
+
+Tenint en compte la informació proporcionada determineu:
+<ol>
+<li>L'impuls total proporcionat al cos per la força $F$.</li>
+<li>La velocitat del cos quan $t=3\,\mathrm{s}$.</li>
+<li>La velocitat del cos quan $t=6\,\mathrm{s}$.</li>
+</ol>
+</li>
+
+<li>En un joc de fira disparem un petit balí de plom de 8 g de massa amb una escopeta d’aire comprimit de 3,5 kg de massa. El balí surt amb una velocitat de 68 m/s, i sabem que la força impulsora ha actuat durant un temps de 0,085 s. 
+<ol>
+<li>Quina força mitjana s’ha efectuat sobre el balí?</li>
+<li>Quina és la velocitat de retrocés del fusell?</li>
+</ol>
+        <div align="middle">
+        <img src="img_prob/rifle.svg">
+        </div>
+</li>
+<ol>
