@@ -153,10 +153,10 @@ variable. Els coeficients de fricció estàtic i cinètic entre $m_1$ i la taula
 
 <ol start="19">
 <li>Una partícula de massa 0,1 kg, lligada a l'extrem d un fil, descriu un moviment circular en un pla vertical. Quan el fil es troba en posició horitzontal, la seva tensió és 10 N. Calculeu per a aquesta posició: 
-<ul>
+<ol>
 <li>L'acceleració centrípeta de la partícula. </li>
 <li>L'acceleració tangencial de la partícula.</li>
-</ul>
+</ol>
 </li>
 
 <li>Un ciclista fa un ris de la mort sobre una pista circular vertical de 10 metres de radi. Si parteix del repòs des de la part inferior de la pista amb un moviment circular uniformement accelerat, calculeu: 
@@ -170,7 +170,7 @@ variable. Els coeficients de fricció estàtic i cinètic entre $m_1$ i la taula
         </div>
 </li>
 
-<li>5. En la pel·lícula dels Simpson, Homer intenta fer el ris de la mort dintre d'una esfera de metall amb una moto (veure imatges). Després de dos intents fallits ho aconsegueix accelerant a la tercera oportunitat. Si l'esfera té un diàmetre de 6 metres i Homer parteix del repòs amb un moviment circular uniformement accelerat, calculeu: 
+<li>En la pel·lícula dels Simpson, Homer intenta fer el ris de la mort dintre d'una esfera de metall amb una moto (veure imatges). Després de dos intents fallits ho aconsegueix accelerant a la tercera oportunitat. Si l'esfera té un diàmetre de 6 metres i Homer parteix del repòs amb un moviment circular uniformement accelerat, calculeu: 
 <ol>
 <li>La velocitat mínima que ha de tenir en el punt més alt de la seva trajectòria per tal de fer la circumferència sense caure. </li>
 <li>La força que fa l'esfera sobre la moto en el punt més alt de la trajectòria quan el mòbil té la velocitat calculada en el apartat (a), sabent que el conjunt moto-Homer té una massa de 400 kg. </li>
@@ -186,7 +186,7 @@ variable. Els coeficients de fricció estàtic i cinètic entre $m_1$ i la taula
         <div align="middle">
         <img src="img_prob/cabina.png" width=50%>
         </div>
-
+</li>
 </ol>
 
 ## Quantitat de moviment
