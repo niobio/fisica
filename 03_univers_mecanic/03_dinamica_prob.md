@@ -166,7 +166,7 @@ variable. Els coeficients de fricció estàtic i cinètic entre $m_1$ i la taula
 <li>L'acceleració angular que ha de tenir per assolir la velocitat mínima calculada en el primer apartat.</li>
 </ol>
         <div align="middle">
-        <img src="img_prob/loop.png" width=50%>
+        <img src="img_prob/loop.png" width="50%">
         </div>
 </li>
 
