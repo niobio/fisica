@@ -186,7 +186,6 @@ variable. Els coeficients de fricció estàtic i cinètic entre $m_1$ i la taula
         <div align="middle">
         <img src="img_prob/cabina.png" width=50%>
         </div>
-</li>
 </ol>
 
 ## Quantitat de moviment
