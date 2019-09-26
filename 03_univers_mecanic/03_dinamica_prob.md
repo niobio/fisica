@@ -177,14 +177,14 @@ variable. Els coeficients de fricció estàtic i cinètic entre $m_1$ i la taula
 <li>L'acceleració angular que ha de tenir per assolir la velocitat mínima calculada en el primer apartat.</li>
 </ol>
         <div align="middle">
-        <img src="img_prob/simpson1.png" width=50%>
-        <img src="img_prob/simpson2.png" width=50%>
+        <img src="img_prob/simpson1.png" width="50%">
+        <img src="img_prob/simpson2.png" width="50%">
         </div>
 </li>
 
 <li>Una cabina cilíndrica gira respecte el seu eix amb una velocitat de 5 rad/s. En contacte amb la paret interior hi ha un cos que gira solidàriament amb la cabina. El coeficient de fregament estàtic entre la paret i el cos val 0,2. Quin és el radi de la cabina?</li>
         <div align="middle">
-        <img src="img_prob/cabina.png" width=50%>
+        <img src="img_prob/cabina.png" width="50%">
         </div>
 </ol>
 
