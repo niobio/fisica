@@ -294,11 +294,11 @@ $$\Delta\vec{p}=\vec{I}$$
 
 Un corol·lari important d'aquest teorema ens diu que si el sistema no rep cap força neta ($\vec{F}=0$), aleshores l'increment de quantitat de moviment resulta nul, això vol dir que la quantitat de moviment roman constant, en aquests casos diem que la quantitat de moviment es conserva.
 
-$$\Delta\vec{p}=\vec{p}-\vec{p_{0}=0}$$
+$$\Delta\vec{p}=\vec{p}-\vec{p}_{0}=0$$
 
 o, equivalentment,
 
-$$\vec{p}=\vec{p_{0}}$$
+$$\vec{p}=\vec{p}_{0}$$
 
 El cas de dos partícules que interactuen de manera aïllada és un cas particular d'aplicació d'aquest corol·lari. Imaginem dos partícules que es mouen sobre una superfície plana, xoquen entre elles i continuen amb trajectòries diferents. En aquest cas les forces que actuen son les forces que es fan una partícula a l'altra i viceversa. Les dues forces formen un parell d'interacció i, per tant, són iguals i contraries i la seva suma resulta nul·la. 
 
@@ -313,7 +313,7 @@ Si considerem les dues partícules alhora com un únic sistema, l'impuls total d
 
 $$\vec{p'}=\vec{p}$$
 
-$$\vec{p_{1}'+\vec{p_{2}'}}=\vec{p_{1}+\vec{p_{2}}}$$
+$$\vec{p_{1}'}+\vec{p_{2}'}=\vec{p_{1}}+\vec{p_{2}}$$
 
 $$m_{1}\vec{v}'_{1}+m_{2}\vec{v}'_{2}=m_{1}\vec{v}_{1}+m_{2}\vec{v}_{2}$$
 
