@@ -256,7 +256,7 @@ $$\vec{p}=m\vec{v}$$
 
 La quantitat de moviment està relacionat amb les forces aplicades sobre un cos. Podem reescriure la segona llei de Newton de la següent manera:
 
-$$\sum_{i}\vec{F_{i}}=m\vec{a}=m\frac{\Delta\vec{v}}{\Delta t}=\frac{m(\vec{v}-\vec{v_{0}})}{\Delta t}=\frac{m\vec{v}-m\vec{v_{0}}}{\Delta t}=\frac{\vec{p}-\vec{p_{0}}}{\Delta t}=\frac{\Delta\vec{p}}{\Delta t}$$
+$$\sum_{i}\vec{F_{i}}=m\vec{a}=m\frac{\Delta\vec{v}}{\Delta t}=\frac{m(\vec{v}-\vec{v}_{0})}{\Delta t}=\frac{m\vec{v}-m\vec{v}_{0}}{\Delta t}=\frac{\vec{p}-\vec{p}_{0}}{\Delta t}=\frac{\Delta\vec{p}}{\Delta t}$$
 
 L'última relació es pot reescriure de la següent manera:
 
