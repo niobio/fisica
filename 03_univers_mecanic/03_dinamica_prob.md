@@ -157,6 +157,7 @@ variable. Els coeficients de fricció estàtic i cinètic entre $m_1$ i la taula
 <li>L'acceleració centrípeta de la partícula. </li>
 <li>L'acceleració tangencial de la partícula.</li>
 </ol>
+<a href="sol/prob319.pdf">Solució</a>
 </li>
 
 <li>Un ciclista fa un ris de la mort sobre una pista circular vertical de 10 metres de radi. Si parteix del repòs des de la part inferior de la pista amb un moviment circular uniformement accelerat, calculeu: 
@@ -175,6 +176,7 @@ variable. Els coeficients de fricció estàtic i cinètic entre $m_1$ i la taula
 <li>La velocitat mínima que ha de tenir en el punt més alt de la seva trajectòria per tal de fer la circumferència sense caure. </li>
 <li>La força que fa l'esfera sobre la moto en el punt més alt de la trajectòria quan el mòbil té la velocitat calculada en el apartat (a), sabent que el conjunt moto-Homer té una massa de 400 kg. </li>
 <li>L'acceleració angular que ha de tenir per assolir la velocitat mínima calculada en el primer apartat.</li>
+<a href="sol/prob321.pdf">Solució</a>
 </ol>
         <div align="middle">
         <img src="img_prob/simpson1.png" width="50%">
@@ -183,6 +185,7 @@ variable. Els coeficients de fricció estàtic i cinètic entre $m_1$ i la taula
 </li>
 
 <li>Una cabina cilíndrica gira respecte el seu eix amb una velocitat de 5 rad/s. En contacte amb la paret interior hi ha un cos que gira solidàriament amb la cabina. El coeficient de fregament estàtic entre la paret i el cos val 0,2. Quin és el radi de la cabina?</li>
+<a href="sol/prob322.pdf">Solució</a>
         <div align="middle">
         <img src="img_prob/cabina.png" width="50%">
         </div>
@@ -199,6 +202,7 @@ variable. Els coeficients de fricció estàtic i cinètic entre $m_1$ i la taula
 <li>10 m/s</li>
 <li>2 m/s</li>
 </ol>
+<a href="sol/prob323.pdf">Solució</a>
 </li>
 
 <li>1. Un cos de massa $m=6\,\mathrm{kg}$ es mou amb una velocitat $v_{0}=2\,\mathrm{m/s}$ quan comença a rebre una força $F$ variable en el temps segons la gràfica que s'observa a continuació.
@@ -212,6 +216,7 @@ Tenint en compte la informació proporcionada determineu:
 <li>La velocitat del cos quan $t=3\,\mathrm{s}$.</li>
 <li>La velocitat del cos quan $t=6\,\mathrm{s}$.</li>
 </ol>
+<a href="sol/prob324.pdf">Solució</a>
 </li>
 
 <li>En un joc de fira disparem un petit balí de plom de 8 g de massa amb una escopeta d’aire comprimit de 3,5 kg de massa. El balí surt amb una velocitat de 68 m/s, i sabem que la força impulsora ha actuat durant un temps de 0,085 s. 
@@ -223,4 +228,5 @@ Tenint en compte la informació proporcionada determineu:
         <img src="img_prob/rifle.svg">
         </div>
 </li>
+<a href="sol/prob325.pdf">Solució</a>
 <ol>
