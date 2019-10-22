@@ -13,7 +13,7 @@ Suposant que els efectes del fregament són negligibles, calcula:
 <ol>
 <li>El temps que triga a arribar al peu del primer pla inclinat i la velocitat del cos en aquest moment. </li>
     <li>La màxima longitud recorreguda pel cos en la pujada pel pla inclinat de la dreta. </li>
-<li>Si el coeficient de fregament entre el cos i el primer pla inclinat fos \mu=0,4; quanta energia s'alliberaria en forma de calor des de l'instant inicial fins a arribar al peu del primer pla inclinat?</li>
+<li>Si el coeficient de fregament entre el cos i el primer pla inclinat fos $\mu=0,4$; quanta energia s'alliberaria en forma de calor des de l'instant inicial fins a arribar al peu del primer pla inclinat?</li>
     </ol>
 </li>
 <br>
