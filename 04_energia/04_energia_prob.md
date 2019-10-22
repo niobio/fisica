@@ -34,7 +34,7 @@ Suposant que els efectes del fregament són negligibles, calcula:
 <li>Des de la part superior d’un pla inclinat, d’angle 37° amb el pla horitzontal i longitud 5 m, deixem caure una partícula de massa 10 kg. La partícula arriba a la part inferior del pla inclinat amb una velocitat de 6 m/s.
 <ol>
 <li>Quant val el treball que la força pes ha fet sobre la partícula en aquest trajecte?</li>
-<li>Quant val el treball fet per la força de fregament? <li>
+<li>Quant val el treball fet per la força de fregament? </li>
 </ol>
 </li>
 <br>
