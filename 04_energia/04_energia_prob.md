@@ -128,7 +128,7 @@ Si no perdés energia per fregament:
 
 ## Xocs
 
-<ol start=12>
+<ol start="12">
 <li>Un cos de 8 kg de massa té una velocitat de 10 m/s i xoca frontalment amb un objecte de 12 kg que es troba aturat. Si el xoc és totalment inelàstic, calcula:
 <ol>
     <li>La quantitat de moviment del sistema abans i després del xoc. </li>
@@ -155,5 +155,6 @@ Calculeu:
     <li>L’energia mecànica perduda en el xoc.</li>
     <li>La compressió màxima de la molla.</li>
 <li>La velocitat del sistema quan el desplaçament, mesurat des del punt on es produeix el xoc, és de 6 cm. </li>
-
+</ol>
+</li>
 </ol>
