@@ -17,6 +17,7 @@
 * [Problemes adicionals](03_univers_mecanic/dinamica.pdf){:target="_blank"}
 
 ### Unitat 3: Energia
+* [Problemes](04_energia/04_energia_prob.md){:target="_blank"}
 
 ### [Unitat 4: Imatges](01_imatges/01_imatges.md){:target="_blank"}
 * [Problemes](01_imatges/01_imatges_prob.md){:target="_blank"}
