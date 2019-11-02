@@ -39,6 +39,7 @@
         <li>Quina és la velocitat mitjana fins als 50 segons?</li>
     </ol>
     Resposta: 15 m/s - 10m/s 40m/s 5 m/s 13,3 s 30 s i 55 s 5 m/s i 6,6 m/s
+    <a href="sol/prob203.pdf">Solució</a>
 </li>
 <br>
 <li>Un cotxe fa un trajecte segons la següent gràfica v-t. Sabem que en l’instant inicial la seva posició és zero.
@@ -53,6 +54,7 @@
         <li>Quina velocitat mitjana ha mantingut?</li>
     </ol>
     Resposta: 3.000 m - 5.000 m - 4.000 m - 5.000 m - 125 m/s
+    <a href="sol/prob204.pdf">Solució</a>
 </li>
 <br>
 <li>Els següents diagrames corresponen a diferents mòbils, tots ells fent un moviment rectilinis. 
@@ -63,6 +65,7 @@
         <li>Trobeu els instants en que passaran (o van passar) per la posició presa com a origen de coordenades. </li>
         <li>Trobeu l'equació de moviment x(t) per a cada moviment.</li>
     </ol>
+    <a href="sol/prob205.pdf">Solució</a>
 </li>
 <br>
 <li>En un punt d’una carretera s’han creuat dos vehicles que marxen en sentits contraris. El primer porta una velocitat de 54 km/h i el segon de 36 km/h. 
@@ -71,6 +74,7 @@
         <li>Representeu les gràfiques v-t i x-t dels dos moviments. </li>
         <li>Comproveu el resultat de la primera pregunta en la gràfica posició-temps.</li>
     </ol>
+    <a href="sol/prob206.pdf">Solució</a>
 </li>
 <br>
 <li>Dos cotxes estan separats 1000 m en una recta de l’autopista. Els dos es mouen amb velocitats constants de 126 km/h i 72 km/h amb sentits contraris fins a trobar-se.
@@ -85,6 +89,7 @@
         <li>En quina posició l’atraparà? </li>
         <li>Representeu les gràfiques dels moviments.</li>
     </ol>
+    <a href="sol/prob207.pdf">Solució</a>
 </li>
 <br>
 <li>L’intrèpid viatger Phileas Fogg, protagonista de "La volta al món en 80 dies" de Jules Verne, ha arribat tard al port. El vaixell on havia de continuar el viatge fa dues hores que ha sortit i va a 40 km/h. Però Fogg no es dóna per vençut. Contracta els serveis d’una petita motora i surt en persecució del vaixell a 50 km/h. 
@@ -114,6 +119,7 @@
         <li>Feu una gràfica de velocitat en funció del temps per a tots dos mòbils.</li> 
         <li>Feu una gràfica de posició en funció del temps per a tots dos mòbils. </li>
     </ol>
+    <a href="sol/prob210.pdf">Solució</a>
 </li>
 <br>
 <li>Dos participants d'una cursa de regularitat van traçar cadascú la gràfica de posició en funció del temps dels seus vehicles, des dels seus propis sistemes de referència (gràfiques a i b) per a un tram recte del recorregut.
@@ -127,6 +133,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
         <li>Es pot dir quin d'ells s'ha mogut amb més velocitat?</li>
         <li>Trobeu la velocitat de cada vehicle a $t_{a}=t_{b}=15\,\mathrm{minuts}$. Es pot afirmar que estan junts en aquell instant? Per què?</li>
     </ol>
+    <a href="sol/prob211.pdf">Solució</a>
 </li>
 <br>
 <li>L'Andreu va en bicicleta, amb velocitat constant de 14 km/h, sobre un carrer rectilini, seguint a la Karina, que va corrent en el mateix sentit a 5 km/h, també a velocitat constant. Si inicialment es trobaven separats 100 m: 
