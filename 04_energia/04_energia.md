@@ -97,7 +97,9 @@ A la figura inferior es pot veure el primer cas a l'esquerra i a la dreta tenim 
 
 $$W=\vec{P}.\Delta\vec{r}=mg\left|\Delta\vec{r}\right|\cos(\alpha)=mg\left|\Delta h\right|=-mg\Delta h=-\left[mgh_{f}-mgh_{0}\right]$$
 
-on hem utilitzat que $\left|\Delta \vec{r}\right| \cos(\alpha) = \left|\Delta h\right|$. 
+on hem utilitzat que 
+
+$$\left|\Delta \vec{r}\right| \cos(\alpha) = \left|\Delta h\right|$$. 
 
 <p>
 <figure>
