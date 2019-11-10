@@ -89,13 +89,13 @@ Un exemple d'energia potencial és la gravitatòria, un objecte elevat (separat 
 
 Calculem el treball realitzat per la força pes sobre un cos de massa m en dos supòsits, en el primer cas baixant amb caiguda lliure, des d'una altura $h_{0}$ fins a arribar a una altura $h_{f}$, el treball resulta igual a:
 
-$$W=\vec{P}\Delta\vec{r}=-mg\Delta h=-[mgh_{f}-mgh_{0}]$$
+$$W=\vec{P}.\Delta\vec{r}=-mg\Delta h=-\left[mgh_{f}-mgh_{0}\right]$$
 
 on $g$ correspon al mòdul de l'acceleració de la gravetat. El treball resulta positiu, ja que $h_{f}<h_{0}$.
 
 A la figura inferior es pot veure el primer cas a l'esquerra i a la dreta tenim el segon cas, on el cos baixa per un pla inclinat d'angle $\beta$. El treball el podem calcular com,
 
-$$W=\vec{P}\Delta\vec{r}=mg\left|\Delta\vec{r}\right|\cos(\alpha)=mg\left|\Delta h\right|=-mg\Delta h=-[mgh_{f}-mgh_{0}]$$
+$$W=\vec{P}.\Delta\vec{r}=mg\left|\Delta\vec{r}\right|\cos(\alpha)=mg\left|\Delta h\right|=-mg\Delta h=-\left[mgh_{f}-mgh_{0}\right]$$
 
 on hem utilitzat que $\mid\Delta\vec{r}\mid\cos(\alpha)=\mid\Delta h\mid$. 
 
@@ -191,3 +191,96 @@ Quan parlem de forces no conservatives o dissipatives volem dir que són forces 
 ## Forces dissipatives
 
 Quan vam trobar les forces conservatives, vam veure que una característica fonamental d'aquestes forces és que el treball que fan quan recórren un camí tancat resulta nul. Podem veure que el treball que fa la força de fregament quan recórre un camí tancat resulta no nul. Considerem un cos que es mou cap a la dreta fregant amb el terra, la força de fregament s'oposarà al lliscament de superfícies i per tant tindrà sentit contrari al desplaçament i el treball resultant serà negatiu. Si ara fem que el cos desfaci el seu camí tornant enrrere, el desplaçament canviarà de sentit però també ho farà la força, de manera que el treball tornarà a ser negatiu i el resultat al cap de fer un camí tancat no resultarà nul.
+
+## Xocs
+
+Considerarem un xoc o col·lisió com una interacció entre dos o més cossos o partícules en la qual no necessàriament ha d'haver contacte material i al menys una de les partícules està en moviment. Si considerem com sistema totes les partícules que participen en el xoc, com totes les forces que hi ha són interaccions internes del sistema, la suma total de forces resulta nul·la, ja que a cada força li correspon el seu parell d'interacció dintre del sistema (3a llei de Newton). Si tenim en compte el teorema de l'impuls i la quantitat de moviment, l'impuls total del sistema resulta nul degut a que la força neta és nul·la i aleshores la quantitat de moviment es conserva per a tot el sistema. 
+
+### Xoc elàstic
+
+El xoc elàstic és un procés en el qual a més de conservar-se la quantitat del moviment es conserva l'energia cinètica del sistema. Aquest tipus de xocs es donen a la física de partícules subatòmiques i amb certa aproximació en processos macroscòpics com per exemple el xoc de boles de billar.
+
+Considerem dues partícules de masses $m_{1}$ i $m_{2}$ que es mouen amb velocitats $\vec{v}_{1}$ i $\vec{v}_{2}$ respectivament. Després de xocar les partícules tenen velocitat $\vec{v}^{,}_{1}$ i $\vec{v}^{,}_{2}$. Suposarem que les velocitats després del xoc són desconegudes i intentarem trobar-les. Per raons de simplicitat considerarem que el moviment és unidimensional tal com mostra la figura de sota.
+
+<p>
+<figure>
+  <img src="img/xoc_elastic.svg" alt="" width="50%">
+  <figcaption> <strong>Xoc elàstic. Les partícules xoquen i en el procés es conserva la quantitat de moviment del sistema de partícules i també l'energia cinètica total del sistema.</strong> </figcaption>
+</figure>
+</p>
+
+La conservació de la quantitat de moviment pel sistema ens porta a la relació
+
+$$p^{,}=p$$
+
+$$\begin{equation}\label{eq:cons_p}
+m_{1}v_{1}^{,}+m_{2}v{}_{2}^{,}=m_{1}v{}_{1}+m_{2}v{}_{2}
+\end{equation}$$
+
+que ens diu que la quantitat de moviment del conjunt format per les dues partícules és igual abans i després del xoc. L'equació anterior la podem reescriure de la manera
+
+$$\begin{equation}\label{eq:cons_p_2}
+m_{1}\left(v_{1}^{,}-v_{1}\right)=m_{2}\left(v_{2}-v{}_{2}^{,}\right)
+\end{equation}$$
+
+Aquesta expressió la utilitzarem més endavant.
+
+La conservació de l'energia cinètica ens dona la següent equació
+
+$$E'_{c}=E_{c}$$
+
+$$\frac{1}{2}m_{1}v_{1}^{,2}+\frac{1}{2}m_{2}v{}_{2}^{,2}=\frac{1}{2}m_{1}v{}_{1}^{2}+\frac{1}{2}m_{2}v{}_{2}^{2}$$
+
+El factor 1/2 apareix a totes dues bandes de l'equació i els podem eliminar multiplicant ambdues bandes de l'equació per 2. Si després reagrupem el termes podem tenir
+
+$$m_{1}v{}_{1}^{,2}-m_{1}v{}_{1}^{2}=m_{2}v{}_{2}^{2}-m_{2}v{}_{2}^{,2}$$
+
+i, traient les masses com factor comú obtenim
+
+$$m_{1}\left(v_{1}^{,2}-v{}_{1}^{2}\right)=m_{2}\left(v_{2}^{2}-v{}_{2}^{,2}\right)$$
+
+i encara podem factoritzar les diferències de quadrats (producte notable)
+
+$$m_{1}\left(v_{1}^{,}-v_{1}\right)\left(v_{1}^{,}+v_{1}\right)=m_{2}\left(v_{2}-v{}_{2}^{,}\right)\left(v_{2}+v{}_{2}^{,}\right)$$
+
+Però, degut a l'equació $\eqref{eq:cons_p_2}$, dividint membre a membre l'equació $\eqref{eq:cons_p}$ obtenim:
+
+$$\begin{equation}\label{eq:xoc_elast}
+v_{1}^{,}+v_{1}=v_{2}+v{}_{2}^{,}
+\end{equation}$$
+
+Les equacions $\eqref{eq:cons_p}$ i $\eqref{eq:xoc_elast}$ conformen un sistema de dues equacions lineals amb dues incògnites que permeten obtenir les velocitats de les partícules just després del xoc. Com no hem fet cap hipòtesi quant als valors de les velocitats, aquests resultats són totalment generals per a xocs elàstics unidimensionals.
+
+### Xoc plàstic
+
+El xoc plàstic o perfectament inelàstic és un xoc en el qual les dues partícules queden enganxades després del xoc. En aquest cas també es conserva la quantitat de moviment del sistema però no hi ha conservació de l'energia, part de la qual es perd durant el xoc. 
+
+<p>
+<figure>
+  <img src="img/xoc_plast.svg" alt="" width="50%">
+  <figcaption> <strong>Xoc plàstic. En aquest tipus de xoc els cossos continuen enganxats després de la col·lisió i l'energia cinètica no es conserva.</strong> </figcaption>
+</figure>
+</p>
+
+Coneixent les masses i velocitats abans del xoc podem obtenir la velocitat del cossos després del xoc només plantejant la conservació de la quantitat de moviment:
+
+$$(m_{1}+m_{2})v^{,}=m_{1}v_{1}+m_{2}v_{2}on v^{,}$$ 
+
+és la velocitat del conjunt després del xoc, d'aquí obtenim la velocitat del conjunt després del xoc:
+
+$$v^{,}=\frac{m_{1}v_{1}+m_{2}v_{2}}{m_{1}+m_{2}}$$
+
+### Xoc parcialment inelàstic
+
+Entre els dos casos explicats anteriorment trobem els xocs que no són elàstics ni plàstics, són xocs en els que es conserva la quantitat de moviment però no l'energia cinètica com en el cas dels xocs plàstics però no queden enganxats, per tant hi ha dues velocitats, $v_{1}^{,}$ i $v_{2}^{,}$, després del xoc però només hi ha una llei de conservació, per tant, hem de tenir dades sobre la velocitat d'un dels cossos per a poder trobar la velocitat de l'altre. També podem trobar les velocitats si coneixem el valor de la pèrdua d'energia en el xoc.
+
+### Explosions
+
+El cas d'una explosió es pot interpretar com el d'un xoc plàstic però invertit en el temps. Considerem el cas d'una granada, inicialment tenim un cos i després de l'explosió tots els fragments de la granada surten volant. Com el procés de l'explosió és intern de la granada, totes les forces són internes i la quantitat de moviment es conserva en aquest procés. En canvi, l'energia mecànica no és conserva, ja que hi ha un increment important de l'energia mecànica. D'on surt aquesta energia?, doncs de l'energia interna emmagatzemada a la granada en forma d'energia potencial química.
+
+<p>
+<figure>
+  <img src="img/explosio1.svg.png" alt="" width="50%">
+  <figcaption> <strong>Explosió d'una granada. Tots els fragments de la granada tenen una quantitat de moviment que, sumada, acaba donant igual a la quantitat de moviment inicial de la granada. L'energia mecànica no es conserva sinó que s'incrementa per l'aportació energètica de l'explosió, aquesta energia interna estava emmagatzemada en forma d'energia química abans de l'explosió (enllaços químics que s'acaben trencant en l'explosió).</strong> </figcaption>
+</figure>
+</p>
