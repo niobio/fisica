@@ -135,6 +135,7 @@ Si no perdés energia per fregament:
     <li>La velocitat del sistema després del xoc. </li>
     <li>La pèrdua d'energia en el procés. </li>
     </ol>
+    <a href="sol/prob412.pdf">Solució</a>
 </li>
 <br>
 
@@ -143,6 +144,7 @@ Si no perdés energia per fregament:
     <li>La velocitat que tindrà el conjunt després del xoc.</li> 
     <li>L’energia mecànica perduda en el xoc. </li>
 </ol>
+<a href="sol/prob413.pdf">Solució</a>
 </li>
 <br>
 
