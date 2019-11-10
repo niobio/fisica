@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="154.74702"
+   height="234.30109"
+   viewBox="0 0 40.943483 61.992164"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="cami_tancat.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path832"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.792722"
+     inkscape:cx="-92.75902"
+     inkscape:cy="90.142384"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10"
+     inkscape:window-width="1319"
+     inkscape:window-height="713"
+     inkscape:window-x="47"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-19.011831,-22.282544)">
+    <g
+       id="g1346">
+      <path
+         sodipodi:nodetypes="czscssc"
+         inkscape:connector-curvature="0"
+         id="path815"
+         d="m 26.458333,25.613095 c 0,0 22.753772,4.713708 27.970239,12.851191 5.216467,8.137483 1.715476,18.306537 0,27.214284 -1.026458,5.329966 -6.047621,15.119049 -6.047621,15.119049 0,0 -17.045088,-10.830645 -22.67857,-18.898809 -4.289119,-6.142794 -4.191888,-11.820066 -3.59384,-19.288185 0.459123,-5.733291 4.349792,-16.99753 4.349792,-16.99753 z"
+         style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#Arrow1Send)" />
+      <circle
+         r="0.58659452"
+         cy="80.974571"
+         cx="48.423088"
+         id="path1327"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.13541186;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.13541186;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1329"
+         cx="26.611824"
+         cy="25.582678"
+         r="0.58659452" />
+      <text
+         id="text1333"
+         y="28.481434"
+         x="21.625734"
+         style="font-style:normal;font-weight:normal;font-size:4.08709049px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15326588"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.15326588"
+           y="28.481434"
+           x="21.625734"
+           id="tspan1331"
+           sodipodi:role="line">A</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.08709049px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15326588"
+         x="50.324764"
+         y="81.183289"
+         id="text1337"><tspan
+           sodipodi:role="line"
+           id="tspan1335"
+           x="50.324764"
+           y="81.183289"
+           style="stroke-width:0.15326588">B</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.79180956px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14219284"
+       x="43.101086"
+       y="30.008734"
+       id="text830"><tspan
+         sodipodi:role="line"
+         id="tspan828"
+         x="43.101086"
+         y="30.008734"
+         style="stroke-width:0.14219284">camí 1</tspan></text>
+    <text
+       id="text834"
+       y="75.760849"
+       x="22.586424"
+       style="font-style:normal;font-weight:normal;font-size:3.79180956px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14219284"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.14219284"
+         y="75.760849"
+         x="22.586424"
+         id="tspan832"
+         sodipodi:role="line">camí 2</tspan></text>
+  </g>
+</svg>
