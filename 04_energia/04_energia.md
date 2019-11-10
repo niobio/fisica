@@ -89,17 +89,15 @@ Un exemple d'energia potencial és la gravitatòria, un objecte elevat (separat 
 
 Calculem el treball realitzat per la força pes sobre un cos de massa m en dos supòsits, en el primer cas baixant amb caiguda lliure, des d'una altura $h_{0}$ fins a arribar a una altura $h_{f}$, el treball resulta igual a:
 
-$$W=\vec{P}.\Delta\vec{r}=-mg\Delta h=-\left[mgh_{f}-mgh_{0}\right]$$
+$$W=\vec{P}\Delta\vec{r}=-mg\Delta h=-\left[mgh_{f}-mgh_{0}\right]$$
 
 on $g$ correspon al mòdul de l'acceleració de la gravetat. El treball resulta positiu, ja que $h_{f}<h_{0}$.
 
 A la figura inferior es pot veure el primer cas a l'esquerra i a la dreta tenim el segon cas, on el cos baixa per un pla inclinat d'angle $\beta$. El treball el podem calcular com,
 
-$$W=\vec{P}.\Delta\vec{r}=mg\left|\Delta\vec{r}\right|\cos(\alpha)=mg\left|\Delta h\right|=-mg\Delta h=-\left[mgh_{f}-mgh_{0}\right]$$
+$$W=\vec{P}\Delta\vec{r}=mg\left|\Delta\vec{r}\right|\cos(\alpha)=mg\left|\Delta h\right|=-mg\Delta h=-\left[mgh_{f}-mgh_{0}\right]$$
 
-on hem utilitzat que 
-
-$$\left|\Delta \vec{r}\right| \cos(\alpha) = \left|\Delta h\right|$$. 
+on hem utilitzat que $\left|\Delta\vec{r}\right|\cos(\alpha)=\left|\Deltah\right|$. 
 
 <p>
 <figure>
