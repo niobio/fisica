@@ -12,7 +12,7 @@
     <tr>
      <th>Planeta</th>
      <th>Radi d'òrbita (km)</th>
-     <th>Període (anys)<th>
+     <th>Període (anys)</th>
     </tr>
     <tr>
      <td>Terra</td> 
@@ -25,11 +25,21 @@
      <td>$11,9$</td>
      </tr>
      </table>
+     <br>
+     <a href="sol/prob701.pdf">Solució</a>
 2. Mesurem el període orbital del planeta Mart al voltant del Sol i determinem que és de $687$ dies. Determina la distància entre Mart i el Sol sabent que la distància entre la Terra i el Sol és de $1,496\times10^{11}\,\mathrm{m}$.
+     <br>
+     <a href="sol/prob702.pdf">Solució</a>
 
 3. El planeta Mart té dues llunes: Fobos i Deimos. La òrbita de Fobos té un radi de 9377 km i tarda 7,66 h a completar-la. Deimos es troba a 23460 km del centre de Mart. Quant tarda deimos en completar una òrbita al voltant de Mart?
+     <br>
+     <a href="sol/prob703.pdf">Solució</a>
 
-4. El Meteosat és un satèl·lit geoestacionari, és a dir, que gira en el pla equatorial amb la mateixa velocitat angular que la Terra. A quina distància de la superfície de la Terra es troba? (Rta: 36000 km)
+4. El Meteosat és un satèl·lit geoestacionari, és a dir, que gira en el pla equatorial amb la mateixa velocitat angular que la Terra. A quina distància de la superfície de la Terra es troba?
+    Dades: $M_{T}=5,972\times10^{24}\,\mathrm{kg}$; $R_{T}=6,371\times10^{6}\,\mathrm{m}$.
+    (Rta: 36000 km)
+     <br>
+     <a href="sol/prob704.pdf">Solució</a>
 
 5. Un satèl·lit de massa 250 kg gira en una òrbita geoestacionària. Calculeu:
     1. La velocitat del satèl·lit.
@@ -39,12 +49,16 @@
     Dades: $M_{T}=5,98\times10^{24}\,\mathrm{kg}$; $R_{T}=6,38\times10^{6}\,\mathrm{m}$.
    
     Rta: A. $3,7\times10^{3}\,\mathrm{m/s}$; B. $4,23\times10^{7}\,\mathrm{m}$; C. $17,22^{\circ}$
+     <br>
+     <a href="sol/prob705.pdf">Solució</a>
 
 6. El 19/02/2011 va aparèixer aquesta notícia al diari EL PAÍS:“Internet se prepara para dar el gran salto a los países pobres. Una red de tecnología avanzada y de envergadura planetaria ofrecerá cobertura de banda ancha a unos 3.000 millones de personas. Bautizado como O3b Networks (Other 3 billion, otros 3.000 millones, la mitad de la población mundial), el proyecto para conseguir un Internet global se basa en el lanzamiento de una constelación de satélites en órbita ecuatorial que llevarán la señal desde Nicaragua hasta Nueva Zelanda, pasando por Brasil, Nigeria, Siria, Etiopía o India.[...] Pero a diferencia de los que se utilizan, por ejemplo, para distribuir canales de televisión en Europa, no estarán situados en órbita geoestacionaria (a 36.000 kilómetros de altura) sino a 8.063, lo que les permitirá ganar en velocidad de transmisión al estar cuatro veces más cerca de la Tierra.”Tenint en compte la informació donada en la nota determineu:
     1. Quina seran les velocitats angular i lineal dels satèl·lits.
     2. Quant de temps es guanyarà en les transmissions d'anada i tornada de la informació comparat amb el cas de satèl·lits geoestacionaris.
 
     Dades: Radi de la Terra: $R_{T}=6,38\times10^{6}\,\mathrm{m}$, velocitat de la llum: $c=3\times10^{8}\mathrm{m/s}$
+     <br>
+     <a href="sol/prob706.pdf">Solució</a>
  
 
 
