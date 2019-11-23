@@ -205,6 +205,13 @@ La gràfica de posició en funció del temps la podem traçar a partir d'una tau
 
 Quan deixem lliure un cos aquest cau per l'acció de l'atracció gravitatòria. L'experiència quotidiana ens diu que no tots els objectes cauen amb la mateixa acceleració, si deixem caure un full de paper estès i un altre full fet una pilota podríem apreciar que el primer cau més lent. Això és degut a que no només hi ha l'acció de la gravetat, sinó que també hi ha l'acció de l'aire que envolta els objectes que produeix una resistència al moviment dels cosos. Hi ha cosos per als quals aquesta resistència es pot negligir. Galileu va ser el primer en adonar-se que tots els cosos caurien amb la mateixa acceleració si no for per la resistència de l'aire, hi ha un experiment que s'ha fet famós on Galileu deixa caure dues peces d'igual mida però de pesos diferents des de la torre de Pisa per a comprovar que queien amb la mateixa acceleració i arribaven al terra al mateix temps. Un experiment equivalent va fer un astronauta de la missió Apol·lo XV va deixar caure un martell i una ploma al mateix temps i va comprovar que arribaven a la superfície de la lluna al mateix temps degut a l'absència d'atmosfera a la superfície de la Lluna.<sup><a href="#fn7" id="ref7">7</a></sup> 
 
+<p>
+<figure>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/E43-CfukEgs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <figcaption> <strong>El físic anglès Brian Cox fa l'experiment de llançar una bola i unes plomes en una cambra de buit per a comprovar que cauen amb la mateixa acceleració</strong> </figcaption>
+</figure>
+</p>
+
 Ja sabem que, si podem negligir l'efecte del fregament de l'aire, l'acceleració de la gravetat és la mateixa per a tots els cosos, però aquesta acceleració no és pas constant sinó que depèn de la distància a la que estem del centre de la Terra. Si tractem d'estudiar la caiguda d'objectes quotidians com una pedra a nivell del mar podem considerar l'acceleració de la gravetat com constant i amb un valor proper a 
 
 $$g=9,81\,\mathrm{m/s^{2}}$$
