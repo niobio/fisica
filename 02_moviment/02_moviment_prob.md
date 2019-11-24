@@ -355,6 +355,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
         <li>A quina velocitat veu pujar el senyor, si aquest camina sobre la cinta a una velocitat de 9 km/h respecte d'ella?</li>
         <li>Si el senyor intentés baixar de la segona a la primera planta, per la cinta, caminant a la mateixa velocitat que en l'apartat anterior, amb quina velocitat el veuria baixar la senyora?</li>
     </ol>
+    <a href="sol/prob230.pdf">Solució</a>
 </li>
 <br>
 <li>Considereu una cinta transportadora en moviment d'una cadena de muntatge, i una joguina mecànica que es mou damunt la cinta . 
@@ -364,6 +365,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
     </ol>
     Resultat: $v_{0}=1,5\,\mathrm{m/s,\,}v^{,}=3,5\,\mathrm{m/s}$
 </li>
+    <a href="sol/prob231.pdf">Solució</a>
 </ol>
 
 ## Moviment bidimensional
@@ -377,7 +379,9 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
         <li>A quin punt de l'altre marge arribarà? </li>
         <li>Quina serà l'equació de la trajectòria del vaixell? </li>
     </ol>
-    Resultat: 11,21 m/s | 67,5 m | $\vec{r} = (1,5\, \hat{i} + 11,11\, \hat{j})t$
+    Resultat: 11,21 m/s | 67,5 m | $y= 7,4 x$
+    <br>
+    <a href="sol/prob232.pdf">Solució</a>
 </li>
 <br>
 <li>Una barcassa, que pot anar a una velocitat màxima de 14,4 km/h, transborda cotxes d'una riba a l'altra d'un riu que fa 80 metres d'amplada. El corrent del riu és de 3 m/s. 
@@ -430,6 +434,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
         <li>A quina distància respecte del peu del pont la pedra impacta amb l'aigua?</li>
         <li>Quin és el mòdul de la velocitat al moment de l'impacte? </li>
     </ol>
+    <a href="sol/prob237.pdf">Solució</a>
 </li>
 <br>
 <li>Llancem un cos obliquament cap amunt amb una velocitat de 30 m/s i amb un angle de 30º respecte de l’horitzontal. Calculeu: 
@@ -438,6 +443,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
         <li>La seva velocitat 2 s després de llançar-lo. (26,4 m/s)</li>
         <li>L’alçada màxima que assolirà. (811,48 m)</li>
     </ol>
+    <a href="sol/prob238.pdf">Solució</a>
 </li>
 <br>
 <li>De dalt d'un cingle de 300 m d'altura llancem horitzontalment un objecte amb una velocitat de 40 m/s. 
@@ -445,6 +451,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
     <li>Quan tarda en arribar al terra? </li>
     <li>A quina distància de la base del cingle hi arriba? </li>
     </ol>
+    <a href="sol/prob239.pdf">Solució</a>
 </li>
 <br>
 <li>Llanço una pilota amb una velocitat de 16 m/s i fent un angle de 60 graus amb el terra. A 20 metres hi ha un arbre de 4 metres d'altura. 
@@ -453,7 +460,9 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
         <li>Si passa, a quina posició xocarà la pilota amb el terra? </li>
         <li>Si no passa, a quina alçada xocarà amb l'arbre? </li>
     </ol>
+    <a href="sol/prob240.pdf">Solució</a>
 </li>
+<br>
 <li>En el videojoc Angry Birds uns ocellets són llançats amb un tirador per a fer un tir parabòlic caient sobre els porquets per a eliminar-los. A la figura es pot veure una instantània de la pantalla del joc. Les distàncies es mesuren en píxels (px) i l'acceleració és vertical cap avall i val $50\,\mathrm{px/s^{2}}$. Si l'ocellet surt des de l'origen de coordenades amb un angle de $37^{\circ}$ i els porquets es troben sobre l'eix horitzontal a les posicions 200, 250 i 300 px respectivament, trobeu:
     <ol>
         <li>La velocitat a la que ha de sortir l'ocellet per a caure sobre el porquet del mig.</li>
@@ -462,6 +471,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
     <div align="middle">
     <img src="img_prob/angry_birds.png">
     </div>
+    <a href="sol/prob241.pdf">Solució</a>
 </li>
 <br>
 <li>Una pilota de 5 kg de massa es llença des del terra verticalment cap amunt amb una velocitat inicial de 10 m/s. Si el vent comunica a la pilota una velocitat horitzontal constant de 15 km/h, trobeu: 
@@ -469,6 +479,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
         <li>L'alçada màxima a la qual arribarà la pilota i el temps que trigarà a assolir-la. </li>
         <li>La distància entre el punt de llançament i el punt d’impacte amb el terra. </li>
     </ol>
+    <a href="sol/prob242.pdf">Solució</a>
 </li>
 </ol>
 
