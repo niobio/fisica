@@ -11,6 +11,8 @@
 * [Problemes](02_moviment/02_moviment_prob.md){:target="_blank"}
 * Física computacional: 
 	* [Funcions i representació gràfica](http://niobio.github.io/fisicacomp/mov/mov1.html){:target="_blank"}
+* Laboratori:
+	* [Determinació de l'acceleració de la gravetat](http://niobio.github.io/fisica/02_moviment/lab/determinacio_g.md){:target="_blank"}
 
 ### [Unitat 2: L'univers mecànic](03_univers_mecanic/03_dinamica.md){:target="_blank"}
 * [Problemes](03_univers_mecanic/03_dinamica_prob.md){:target="_blank"}
