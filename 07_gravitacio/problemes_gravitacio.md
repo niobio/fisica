@@ -63,7 +63,7 @@
 
 ## Camp gravitatori
 
-<ol start=7>
+<ol start="7">
 <li>Tres masses de 1.000 kg cadascuna estan situades en els punts a, b i c (alineats). Calcula quin és el camp gravitatori que crea el conjunt de les tres masses en el punt P. Realitza el càlcul vectorial i després calcula'n el mòdul i la direcció.
     <img src="img_prob/masses_alineades.png" width="400px">
 </li>
@@ -112,7 +112,7 @@
 
 ## Energia
 
-<ol start=12>
+<ol start="12">
 <li>Tenim una massa de 10 kg en repòs sobre la superfície terrestre. Quin treball cal fer per pujar-la fins a una altura de 10 m? I fins a una altura de 630 km? 
 <br>
     Dades: 
