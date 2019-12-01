@@ -70,7 +70,7 @@
 <br>
 <li>Hi ha un punt a l'espai entre la Terra i la Lluna en el qual el camp gravitatori és nul. Determina a quina distància de la Terra està aquest punt.
 
-    Dades: 
+    Dades: <br>
     Massa de la Terra: $M_{T}=5,98\times10^{24}\,\mathrm{kg}$,<br> 
     Massa de la Lluna: $M_{L}=7,35\times10^{22}\,\mathrm{kg}$,<br> 
     Distància Terra-Lluna: $d_{TL}=384000\,\mathrm{km}$, <br>
@@ -92,8 +92,10 @@
     <li>El potencial gravitatori en aquest mateix punt. </li>
     <li>Si col·loquem una massa $M=300\,\mathrm{kg}$ en el centre del quadrat, quant valdrà la força sobre aquesta massa deguda a l’atracció gravitatòria del sistema format per les 4 masses? Indica quines són les components horitzontal i vertical d’aquesta força.</li>
     <br>
-    Dades: $m_{1}=m_{2}=m_{3}=100\,\mathrm{kg}$; $m_{4}=200\,\mathrm{kg}$; $L=3\,\mathrm{m}$; $G=6,67\times10^{-11}\,\mathrm{Nm^{2}/kg^{2}}$
-    <img src="img_prob/masses.png" width="300px">
+    Dades: $m_{1}=m_{2}=m_{3}=100\,\mathrm{kg}$; $m_{4}=200\,\mathrm{kg}$; $L=3\,\mathrm{m}$;<br> 
+        $G=6,67\times10^{-11}\,\mathrm{Nm^{2}/kg^{2}}$ <br>
+    <img src="img_prob/masses.png" width="70%">
+    <br>
     <a href="sol/prob710.pdf">Solució</a>
     </ol>    
 </li>
@@ -115,18 +117,18 @@
 <ol start="12">
 <li>Tenim una massa de 10 kg en repòs sobre la superfície terrestre. Quin treball cal fer per pujar-la fins a una altura de 10 m? I fins a una altura de 630 km? 
 <br>
-    Dades: 
+    Dades: <br>
     $G=6,67\times10^{-11}\,\mathrm{Nm^{2}kg^{-2}}$; <br>
     $M_{T}=5,98\times10^{24}\,\mathrm{kg}$; <br>
     $R_{T}=6,37\times10^{6}\,\mathrm{m}$. <br>
     <a href="sol/prob712.pdf">Solució</a>
 </li>
+<br>
 <li>Dos satèl·lits A i B tenen la mateixa massa i giren al voltant de la Terra en òrbites circulars, de manera que el radi de l’òrbita d’A és més gran que el radi de l’òrbita de B.
     <ol>
         <li>Quin dels dos satèl·lits té més energia cinètica?</li>
         <li>Quin dels dos satèl·lits té més energia mecànica?</li>
     </ol>
-<br>
 <a href="sol/prob713.pdf">Solució</a>
 </li>
 <br>
@@ -157,7 +159,7 @@
 <br>
 
 <li>Des d’un lloc de la Terra es pot observar el pas de l'Estació Espacial Internacional (ISS) cada 90 minuts. Si segueix una òrbita circular, calculeu:
-    <img src="img_prob/international_Space_Station.png" width="500px">
+    <img src="img_prob/international_Space_Station.png" width="70%">
     <ol>
         <li>La seva alçada sobre la superfície terrestre en km.</li>
         <li>La seva velocitat orbital.</li>
@@ -173,19 +175,20 @@
         <li>La velocitat d’escapament de la superfície de Mimas. </li>
     Dada: $G=6,67\times10^{-11}\,\mathrm{Nm^{2}kg^{-2}}$
     </ol>
-    <br>
     <a href="sol/prob718.pdf">Solució</a>
 </li>
 <br>
 <li>El gràfic adjunt mostra com varia l’energia potencial gravitatòria d’un cos de massa 2 kg, en un planeta de radi $R=5000\,\mathrm{km}$, amb la distància $h$ a la superfície del planeta (suposant que $h$ és molt més petita que $R$). 
-    <img src="img_prob/04_grafic_ep.png" width="500px">
+    <img src="img_prob/04_grafic_ep.png" width="80%">
     <ol>
         <li>L’acceleració de la gravetat a la superfície del planeta esmentat.</li>
         <li>La massa del planeta.</li>
         <li>La velocitat d’escapament en el planeta.</li>
     </ol>
     <br>
-    Dada: $G=6,67\times10^{-11}\,\mathrm{Nm^{2}/kg^{2}}$.
+    Dada:<br> 
+    $G=6,67\times10^{-11}\,\mathrm{Nm^{2}/kg^{2}}$.
+    <br>
     <a href="sol/prob719.pdf">Solució</a>
 </li>
 <br>
@@ -196,20 +199,20 @@
     <li>La nova velocitat i el temps que trigaria a fer una volta a la Terra, si féssim orbitar un d’aquests satèl·lits a una altura doble. </li>
     </ol>
     Dades: <br>
-    $G=6,67\times10^{-11}\,\mathrm{Nm^{2}kg^{-2}}$; 
+    $G=6,67\times10^{-11}\,\mathrm{Nm^{2}kg^{-2}}$; <br>
     $M_{T}=5,98\times10^{24}\mathrm{kg}$; <br>
     $R_{T}=6380\,\mathrm{kg}$.<br>
     <a href="sol/prob720.pdf">Solució</a>
 </li>
 <br>
 <li>L’any 1969, el mòdul de comandament Columbia, de la missió Apollo 11, tripulada per l’astronauta Michael Collins, orbitava a 100 km d’altura sobre la superfície de la Lluna amb un període de 118 minuts. Mentrestant, Neil Armstrong i Edwin Aldrin, els altres dos tripulants, caminaven sobre la Lluna. 
-    <img src="img_prob/moon_unit.png" width="500px">
+    <img src="img_prob/moon_unit.png" width="70%">
     <br>
     Calculeu: 
     <ol>
         <li>La massa de la Lluna i la intensitat del camp gravitatori a la superfície lunar.</li> 
         <li>La velocitat d’escapament des de la superfície lunar.</li>
-        <br>
+    </ol>
     Dades: <br>
         $G=6,67\times10^{-11}\,\mathrm{Nm^{2}kg^{-2}}$; <br>
         $R_{\mathrm{Lluna}}=1,74\times10^{3}\,\mathrm{km}$.<br>
