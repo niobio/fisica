@@ -12,10 +12,12 @@
     2. El radi de l’òrbita descrita. 
     3. El temps que triga en recórrer una circumferència completa.
     4. Perquè es pot menysprear l’efecte de la gravetat? Justifica-ho.
+    <br><a href="sol/prob1001.pdf">Solució</a><br><br>
 
 2. Dues partícules amb la mateixa càrrega $q$ i amb masses $m_{1}$ i $m_{2}$ penetren en el punt A com s'indica a la figura, totes dues a la mateixa velocitat, $v$, en un camp magnètic uniforme i perpendicular al pla del paper, B. Després de descriure mitja circumferència, la primera incideix al punt B i la segona al punt C. Calcula la separació final que hi ha entre les partícules (distància BC) (has de donar el resultat en funció dels paràmetres donats pel problema).
 
     <img src="img_prob/espectrometre.png" width="70%">
+    <br><a href="sol/prob1002.pdf">Solució</a><br><br>
     
 3. L’espectròmetre de masses fa entrar partícules carregades, com per exemple ions, dins un camp magnètic uniforme. Quan les partícules carregades i amb una velocitat coneguda entren dins del camp magnètic constant, a partir de la trajectòria, en podem calcular la massa. Un feix de ions compost per $\mathrm{^{20}Ne^{+}}$ i $\mathrm{^{22}Ne^{+}}$ (que foren els primers isòtops naturals trobats) entra en l’espectròmetre de masses de la figura. La velocitat dels ions és $1,00\times10^{5}\,\mathrm{ms^{-1}}$ i el camp magnètic de l’espectròmetre de $0,23\,T$, perpendicular al paper. 
     <img src="img_prob/pau_2012sl.png" width="70%">
@@ -27,6 +29,7 @@
     $m(\mathrm{i\acute{o}}\mathrm{^{20}Ne^{+}})=20,0\,\mathrm{u}$; 
     $Q(\mathrm{i\acute{o}}\mathrm{^{22}Ne^{+}})=Q(\mathrm{i\acute{o}}\mathrm{^{20}Ne^{+}})=1,60\times10^{-19}\mathrm{C}$; 
     $1\mathrm{u=1,66\times10^{-27}\,\mathrm{kg}}$.
+    <br><a href="sol/prob1003.pdf">Solució</a><br><br>
     
 4. Un electró entra amb una velocitat de $3,00\times10^{5}\,\mathrm{ms^{-1}}$ en una regió de l’espai on hi ha un camp magnètic uniforme d’1,20 T perpendicular a la velocitat de l’electró i en sentit perpendicular al paper, tal com indica la figura, i queda confinat en aquesta regió de l’espai. 
 
@@ -35,6 +38,7 @@
     1. Dibuixeu i justifiqueu la trajectòria que descriu l’electró dins del camp indicant el sentit de gir i calculeu el valor de la freqüència (en GHz). 
     2. Perquè l’electró travessi el camp magnètic sense desviar-se, cal aplicar un camp elèctric uniforme en aquesta mateixa regió. Dibuixeu el vector camp elèctric que permetria que això fos possible (justifiqueu-ne la direcció i el sentit) i calculeu-ne el mòdul. 
     **Dades**: $m_{e}=9,11\times10^{-31}\mathrm{kg}$; $Q_{e}=1,60\times10^{-19}\mathrm{C}$.
+    <br><a href="sol/prob1004.pdf">Solució</a><br><br>
     
 5. Un espectròmetre de masses consta d’un selector de velocitats i d’un recinte semicircular. En el selector de velocitats hi ha un camp elèctric i un camp magnètic, perpendiculars entre si i en la direcció de la velocitat dels ions. En entrar al selector, els ions d’una velocitat determinada no es desvien i entren a la zona semicircular, on només hi ha el camp magnètic perpendicular a la velocitat, que els fa descriure una trajectòria circular.
 
@@ -44,6 +48,7 @@
     2. Calculeu la distància, $d$, a què impactaran els ions de triti, que són isòtops de l’hidrogen i tenen una massa $m=3\,\mathrm{u}$. 
 
     **Dades**: $1\mathrm{u=1,66\times10^{-27}\,\mathrm{kg}}$; $Q_{\mathrm{prot\acute{o}}}=1,60\times10^{-19}\,\mathrm{C}$.
+    <br><a href="sol/prob1005.pdf">Solució</a><br><br>
     
 6. Dos ions positius A i B de càrrega elèctrica igual $(1,60\times10^{-19}\,\mathrm{C})$ es mouen, separats, amb la mateixa velocitat $(3,00\times10^{5}\mathrm{ms^{-1}})$, tal com indica la figura, i entren en una regió on hi ha un camp magnètic de mòdul 0,42 T dirigit cap avall. La massa de l’ió A és el doble que la de l’ió B.
 
@@ -51,6 +56,7 @@
 
     1. Calculeu la força magnètica que actua sobre cada un dels dos ions, i especifiqueu-ne la direcció i el sentit. 
     2. Indiqueu la relació que hi ha entre els radis de les trajectòries descrites pels ions A i B, és a dir, $r_{A}/r_{B}$.
+    <br><a href="sol/prob1006.pdf">Solució</a><br><br>
     
 7. La imatge següent representa una cambra d’ionització en què s’observa l’aparició d’un electró i d’un positró que tenen la mateixa energia. El camp magnètic que hi ha a la cambra d’ionització és de $2\times10^{-4}\,\mathrm{T}$ i està dirigit cap a l’interior del paper.
 
@@ -65,6 +71,7 @@
     $m_{\mathrm{electr\acute{o}}}=m_{\mathrm{positr\acute{o}}}=9,11\times10^{-31}\mathrm{kg}$;
     $h=6,62\times10^{-34}\mathrm{Js}$; 
     $c=3\times10^{8}\,\mathrm{m/s}$.
+    <br><a href="sol/prob1007.pdf">Solució</a><br><br>
     
 8. Un protó i un electró, amb la mateixa velocitat, entren en una regió de l’espai on hi ha un camp magnètic uniforme dirigit cap a l’interior del paper, tal com indica la figura següent:
 
@@ -77,9 +84,9 @@
     <img src="img_prob/pau_2010jl1b.png" width="30%">
 
     2. Dibuixeu les forces que actuen sobre cada partícula en l’instant en què entren a la regió on hi ha el camp. Són iguals els mòduls d’aquestes forces? Descriviu i justifiqueu el moviment que seguirà cadascuna de les partícules.
+    <br><a href="sol/prob1008.pdf">Solució</a><br><br>
 
-9. Un ciclotró que accelera protons té un camp magnètic de 9,00\times10^{-3}\mathrm{T}
- , perpendicular a la velocitat dels protons, que descriuen una trajectòria circular de 0,50 m de radi. Calculeu: 
+9. Un ciclotró que accelera protons té un camp magnètic de $9,00\times10^{-3}\mathrm{T}$, perpendicular a la velocitat dels protons, que descriuen una trajectòria circular de 0,50 m de radi. Calculeu: 
     1. La freqüència del moviment circular dels protons en el ciclotró. 
     2. L’energia cinètica dels protons accelerats i la longitud d’ona de De Broglie que tenen associada. 
 
@@ -87,6 +94,7 @@
     $Q_{\mathrm{prot\acute{o}}}=1,60\times10^{-19}\,\mathrm{C}$; 
     $m_{\mathrm{prot\acute{o}}}=1,67\times10^{-27}\mathrm{kg}$; 
     $h=6,62\times10^{-34}\mathrm{Js}$.
+    <br><a href="sol/prob1009.pdf">Solució</a><br><br>
     
 10. Un dispositiu llança, al mateix temps, en la mateixa direcció i en sentits oposats, un protó i un electró. És a dir: $\vec{v}(\mathrm{prot\acute{o}})=-v\hat{j}$, $\vec{v}(\mathrm{electr\acute{o}})=+v\hat{j}$. 
     1. Quan aquest dispositiu es col·loca dins un camp magnètic $\vec{B}=+B\hat{i}$: 
@@ -106,6 +114,7 @@
         iii. Sobre el protó actua una força $\vec{F}=-qE\hat{j}$ i, sobre l’electró, $\vec{F}=-qE\hat{j}$. 
 
     **Nota**: $q$ representa el valor absolut de la càrrega de l’electró i la del protó.
+    <br><a href="sol/prob1010.pdf">Solució</a><br><br>
 
 11. Per dos conductors elèctrics rectilinis molt llargs i paral·lels circulen corrents de la mateixa intensitat. La figura representa les quatre configuracions possibles, atenent el sentit del corrent en cada conductor, representat per les fletxes. Digueu en quins casos el camp magnètic induït en el punt X, equidistant dels dos fils, serà zero:
     1. 1 i 2
