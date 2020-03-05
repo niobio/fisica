@@ -150,6 +150,7 @@
     1. Determineu l’equació que relaciona la força amb la intensitat. Calculeu la força magnètica que actua sobre el fil elèctric quan la intensitat del corrent és 2,0 A i quan és 2,5 A. 
     2. Considereu que el tram de fil situat entre els pols de l’imant té una longitud de 6 cm i que el camp magnètic és uniforme (constant) dins d’aquesta zona i nul a fora. Calculeu el camp magnètic entre els pols de l’imant. En quin sentit circula el corrent elèctric?
 
+    <br><br><a href="sol/prob1014.pdf">Solució</a>
 
 ## Inducció electromagnètica
 
@@ -195,6 +196,7 @@
 
     1. Indiqueu l’expressió de la FEM induïda a l’espira quan aquesta s’endinsa a la regió on hi ha el camp magnètic. Determineu el valor de B sabent que, per a $t=4,0\,\mathrm{s}$, la FEM induïda és $\varepsilon=160\,\mathrm{V}$. 
     2. Representeu gràficament la FEM induïda $\varepsilon=\varepsilon(t)$ entre $t=0,0$ i $t=8,0\,\mathrm{s}$. Indiqueu en cada instant el sentit del corrent induït a l’espira.
+    <br><br><a href="sol/prob1106.pdf">Solució</a>
     
 7. Una espira rectangular es troba prop d’un fil conductor rectilini infinit pel qual circula una intensitat de corrent $I$ cap avall, tal com mostra la figura. 
 
