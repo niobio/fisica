@@ -150,7 +150,7 @@
     1. Determineu l’equació que relaciona la força amb la intensitat. Calculeu la força magnètica que actua sobre el fil elèctric quan la intensitat del corrent és 2,0 A i quan és 2,5 A. 
     2. Considereu que el tram de fil situat entre els pols de l’imant té una longitud de 6 cm i que el camp magnètic és uniforme (constant) dins d’aquesta zona i nul a fora. Calculeu el camp magnètic entre els pols de l’imant. En quin sentit circula el corrent elèctric?
 
-    <br><br><a href="sol/prob1014.pdf">Solució</a>
+   <a href="sol/prob1014.pdf">Solució</a>
 
 ## Inducció electromagnètica
 
@@ -164,7 +164,7 @@
     
     <img src="img_prob/rail.png" width="70%">
 
-3. Considereu un camp magnètic uniforme, perpendicular a la superfície plana delimitada per un fil metàl·lic un forma de $\subset$, i una barra metàl·lica que es mou sobre el fil a velocitat cosntant i en el sentit indicat en la figura. El símbol $\times$ indica que el camp apunta cap a dins del paper.
+3. Considereu un camp magnètic uniforme, perpendicular a la superfície plana delimitada per un fil metàl·lic un forma de $\subset$, i una barra metàl·lica que es mou sobre el fil a velocitat constant i en el sentit indicat en la figura. El símbol $\times$ indica que el camp apunta cap a dins del paper.
     1. En quin sentit circula el corrent induït en el circuit? Justifiqueu la resposta.
     2. Quin moviment hauria de descriure la barra perquè el corrent induït fos altern? Per què?
 
@@ -182,13 +182,14 @@
     4. 500 V
 
     Trieu la resposta que considereu correcta i justifiqueu-la.
+    <br><a href="sol/prob1104.pdf">Solució</a><br><br>
     
 5. Una espira circular de 4,0 cm de radi es troba en repòs en un camp magnètic constant de 0,50 T que forma un angle de 60° respecte de la normal a l’espira.
 
-    <img src="img_prob/pau_2013jl.png" width="50%">
-
     1. Calculeu el flux magnètic que travessa l’espira. S’indueix una força electromotriu en l’espira dins el camp magnètic? Justifiqueu la resposta. 
     2. En un moment determinat el camp magnètic disminueix tal com mostra la figura. Calculeu la força electromotriu induïda en l’espira.
+    <img src="img_prob/pau_2013jl.png" width="50%">
+    <br><a href="sol/prob1105.pdf">Solució</a><br><br>
     
 6. Una espira triangular de $l=4,0\,\mathrm{m}$ de costat com la de la figura es troba inicialment $(t=0,0)$ situada a una distància de $6,0\,\mathrm{m}$ d’una regió on hi ha un camp magnètic B perpendicular al pla del paper i cap endins.
 
@@ -196,7 +197,7 @@
 
     1. Indiqueu l’expressió de la FEM induïda a l’espira quan aquesta s’endinsa a la regió on hi ha el camp magnètic. Determineu el valor de B sabent que, per a $t=4,0\,\mathrm{s}$, la FEM induïda és $\varepsilon=160\,\mathrm{V}$. 
     2. Representeu gràficament la FEM induïda $\varepsilon=\varepsilon(t)$ entre $t=0,0$ i $t=8,0\,\mathrm{s}$. Indiqueu en cada instant el sentit del corrent induït a l’espira.
-    <br><br><a href="sol/prob1106.pdf">Solució</a>
+    <br><a href="sol/prob1106.pdf">Solució</a><br><br>
     
 7. Una espira rectangular es troba prop d’un fil conductor rectilini infinit pel qual circula una intensitat de corrent $I$ cap avall, tal com mostra la figura. 
 
@@ -207,12 +208,15 @@
 
     <img src="img_prob/pau_2012jlb.png" width="50%">
     
+    <br><a href="sol/prob1107.pdf">Solució</a><br><br>
+    
 8. Calculeu, dins d’un camp magnètic $\vec{B}=0,2\hat{j}$, expressat en T: 
 
     1. La força (mòdul, direcció i sentit) que actua sobre una càrrega positiva $Q=3,2\times10^{-19}\mathrm{C}$ que es mou a una velocitat $\vec{v}=2\hat{k}$, expressada en m/s. 
     2. La força electromotriu induïda en funció del temps quan una espira quadrada de $0,01\,\mathrm{m^{2}}$ de superfície gira, a una velocitat angular constant de 30 rad/s, al voltant d’un eix fix (l’eix x de la figura) que passa per la meitat de dos dels seus costats oposats, tal com s’indica en la figura.
 
     <img src="img_prob/pau_2011sl2.png" width="50%">
+    <br><a href="sol/prob1108.pdf">Solució</a><br><br>
     
 9. Una espira de radi $r=25\,\mathrm{cm}$ està sotmesa a un camp magnètic que és perpendicular a la superfície que delimita l’espira i de sentit entrant. En la gràfica següent es mostra el valor de la inducció magnètica $\vec{B}$ en funció del temps:
 
@@ -221,6 +225,7 @@
 
     1. Expliqueu raonadament si circula corrent elèctric per l’espira en cadascun dels intervals de temps indicats i determineu-ne, si s’escau, el sentit de circulació. 
     2. Calculeu la intensitat de corrent elèctric en cada interval de temps, si la resistència de l’espira és $5\,\Omega$. Recordeu que la llei d’Ohm estableix que $I=\Delta V/R$.
+    <br><a href="sol/prob1109.pdf">Solució</a><br><br>
     
 10. En la figura es mostra un dispositiu format per una barra de ferro que pot girar lliurement al voltant d’un eix vertical entre els pols d’un imant permanent de ferradura. Un fil elèctric aïllat envolta la barra. 
 
@@ -229,10 +234,12 @@
     1. Fem circular un corrent continu pel fil elèctric en el sentit indicat en la figura. Dibuixeu les línies del camp magnètic generat per l’electroimant i expliqueu raonadament com es mourà la barra. 
     2. Si fem girar la barra sense fer circular cap corrent elèctric, tenim un generador. En la gràfica es mostra la variació del flux magnètic $(\varPhi)$ a través de la bobina en funció del temps quan la barra gira. Expliqueu raonadament en quins moments hi ha força electromotriu (FEM) induïda en les espires.
     <img src="img_prob/pau_2011jl2b.png" width="50%">
+    <br><a href="sol/prob1110.pdf">Solució</a><br><br>
 
 11. Un timbre funciona a 12,0 V de tensió i 0,200 A d’intensitat. Per tal de poder-lo connectar a la xarxa elèctrica i que funcioni correctament, disposa d’un transformador ideal que té 20 espires en el secundari. 
     1. Connectem el primari del transformador a un corrent altern de 220 V. Calculeu quantes espires té el primari i quina intensitat de corrent hi circula. 
     2. Si connectem el primari d’aquest transformador a un corrent continu de 24 V, quina intensitat de corrent circularà pel timbre? Justifiqueu la resposta.
+    <br><a href="sol/prob1111.pdf">Solució</a><br><br>
     
 12. Un imant penja d’una molla sobre una bobina conductora, fixada a terra, i un vol- tímetre tanca el circuit de la bobina, tal com mostra la figura següent:
 
@@ -249,6 +256,7 @@
         iii. No hi ha cap terratrèmol (i el terra no es mou). 
 
     2. Si retirem el voltímetre i apliquem un corrent elèctric altern a la bobina, quin efecte es produirà en l’imant suspès a sobre? Justifiqueu la resposta.
+    <br><a href="sol/prob1112.pdf">Solució</a><br><br>
     
 13. En una regió àmplia de l’espai hi ha un camp magnètic dirigit en la direcció de l’eix y, de mòdul $5,0\times10^{-5}\mathrm{T}$, tal com mostra la figura següent. Calculeu:
 
@@ -263,6 +271,7 @@
     $m_{e}=9,11\times10^{-31}\mathrm{kg}$; 
     $Q_{e}=1,60\times10^{-19}\mathrm{C}$; 
     $g=9,80\,\mathrm{m/s^{2}}$.
+    <br><a href="sol/prob1113.pdf">Solució</a><br><br>
     
 14. En un circuit de $50\,\mathrm{cm^{2}}$ de superfície, hi apliquem un camp magnètic perpendicular al pla que defineix el circuit. El seu mòdul varia amb el temps, tal com es representa en la gràfica.
 
@@ -270,3 +279,4 @@
 
     1. Determineu l’equació amb què s’obté la variació del camp magnètic en funció del temps. 
     2. Calculeu el valor de la força electromotriu induïda en el circuit.
+    <br><a href="sol/prob1114.pdf">Solució</a><br><br>
