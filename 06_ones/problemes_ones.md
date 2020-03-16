@@ -14,14 +14,17 @@
     3. La freqüència és 2 Hz, l'amplitud és 2 cm i la fase inicial és $\pi/4$.
     4. La freqüència angular és $4\pi$, l'amplitud és 2 m i la fase inicial és $\pi/4$.
     5. La freqüència és 2 Hz, l'amplitud és 2 cm i la fase inicial $4\pi$.
+    <br><a href="sol/prob601.pdf">Solució</a><br><br>
 
 2. En el m.v.h.s. d'equació $x=12\sin(2\pi t)$ amb unitats del sistema SI, calcula el valor de l'acceleració quan l'elongació val 8 m.
+<br><a href="sol/prob602.pdf">Solució</a><br><br>
 
 3. Un mòbil presenta un moviment vibratori harmònic simple amb un període de 0,5 s i una amplitud de 2 mm. 
     1. Escriviu l'equació de l'elongació com funció del temps. 
     2. Quina serà l'equació d'un mòbil que es mou amb la mateixa amplitud i freqüència, però en oposició de fase? 
     3. Quant valen la velocitat màxima i l'acceleració màxima que assoleix el mòbil? 
     4. Trobeu l'expressió dels instants de temps en què el mòbil té velocitat nul·la.
+    <br><a href="sol/prob603.pdf">Solució</a><br><br>
 
 4. La velocitat d'un m.v.h.s. en funció del temps en segons és:
 $$v=\frac{4\pi}{3}\cos\left(\frac{\pi}{3}t+\frac{\pi}{2}\right)\,\mathrm{m/s}$$
@@ -29,40 +32,47 @@ $$v=\frac{4\pi}{3}\cos\left(\frac{\pi}{3}t+\frac{\pi}{2}\right)\,\mathrm{m/s}$$
     2. Expressa l'elongació del mòbil en funció del temps. 
     3. Expressa l'acceleració del móbil en funció del temps. 
     4. Digues quant val l'acceleració en l'instant que el mòbil passa pel punt d'equilibri.
+    <br><a href="sol/prob604.pdf">Solució</a><br><br>
     
 5. La gràfica següent correspon a un moviment vibratori harmònic simple. Podeu escriure la seva equació de moviment?
-<img src="img_prob/mvhs.png" width="400px">
+    <img src="img_prob/mvhs.png" width="400px">
+    <br><a href="sol/prob605.pdf">Solució</a><br><br>
 
 6. Dues masses $m_{1}$ i $m_{2}$ tal que $m_{1}=2m_{2}$, es pengen dels extrems de dues molles iguals i es deixen oscil·lar, quina serà la relació entre els períodes $T_{1}$ i $T_{2}$ dels respectius moviments? Justifica la teva resposta. 
     1. $T_{1}=T_{2}$
     2. $T_{1}=2T_{2}$
     3. $T_{1}=0,5T_{2}$
     4. $T_{1}=1,4T_{2}$
-
+    <br><a href="sol/prob606.pdf">Solució</a><br><br>
 7. Tenim dos pèndols de la mateixa massa, però la longitud d'un és el doble de la de l'altre. Aleshores, digues quines d'aquestes afirmacions és correcta (justifica la teva resposta): 
     1. Els períodes són iguals. 
     2. El període d'un és el doble de l'altre. 
     3. El període d'un és $\sqrt{2}$ vegades el de l'altre. 
     4. El període d'un és $2\pi$ vegades el de l'altre. 
     5. No es pot dir res de la relació entre períodes si no se sap el valor de la massa dels pèndols.
+    <br><a href="sol/prob607.pdf">Solució</a><br><br>
 
 8. Un pèndol està composat per una massa de 10 kg i un fil d’1 m de longitud. ($\lvert g \rvert=9,8\,\mathrm{m/s^{2}}$): 
     1. Troba el seu període d’oscil·lació per a petites oscil·lacions. 
     2. Quina constant elàstica hauria de tenir una molla amb la mateixa massa penjada per tenir el mateix període d’oscil·lació? 
     3. Si es dugués el mateix pèndol a un planeta on l’acceleració de la gravetat fos la meitat de la de la Terra, com canviaria el període d’oscil·lació? Si es dugués la mateixa molla del apartat (B) al mateix planeta: canviaria el seu període en la mateixa proporció? Justifica-ho.
+    <br><a href="sol/prob608.pdf">Solució</a><br><br>
  
 9. Una partícula descriu un moviment vibratori harmònic d’amplitud A i pulsació $\omega$. Si dupliquem alhora l’amplitud i el període del moviment, canviarà l’energia cinètica de la partícula quan passi pel punt central de l’oscil·lació? Justifiqueu la resposta. 
+    <br><a href="sol/prob609.pdf">Solució</a><br><br>
 
 10. La posició d’una partícula puntual de massa 500 g que descriu un moviment vibratori harmònic ve donada, en unitats del SI, per $x=0,30\sin(20\pi t)$. Calculeu: 
     1. L’energia cinètica màxima de la partícula. 
     2. La força màxima que actua sobre ella. 
+    <br><a href="sol/prob610.pdf">Solució</a><br><br>
 
 11. Sobre una taula horitzontal hi ha una massa de 380 g lligada a l’extrem d’una molla de constant recuperadora $k=15\,\mathrm{N/m}$. L’altre extrem de la molla és fix, i el fregament del conjunt és negligible. Desplacem la massa 10 cm des de la posició d’equilibri, tal com es veu a les figures següents, i la deixem anar. 
-<img src="img_prob/08_molla.png" width="200px">
+    <img src="img_prob/08_molla.png" width="200px">
     Trobeu: 
     1. El període del moviment. 
     2. L’equació del moviment, tenint en compte que quan $t=0\,\mathrm{s}$, la molla està a l’elongació màxima positiva, com es veu a la segona figura. 
     3. L’energia cinètica de la massa quan passa per un punt situat 2 cm a la dreta de la posició d’equilibri. 
+    <br><a href="sol/prob611.pdf">Solució</a><br><br>
     
 12. Un objecte de massa 3 kg penja d’una molla. Des de la seva posició d’equilibri l’estirem cap avall una distància de 25 cm i, des d’aquest punt i trobant-se inicialment en repòs, el deixem oscil·lar lliurement. El període d’oscil·lació és 
 d’1 s. Determineu: 
