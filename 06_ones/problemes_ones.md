@@ -79,16 +79,19 @@ d’1 s. Determineu:
     1. Les constants A, $\omega$, $\phi$, en unitats de l’SI, de l’equació $y=A\cos(\omega t+\phi)$ que descriu el moviment de l’objecte. 
     2. El valor màxim de l’acceleració de l’objecte, la seva direcció i sentit, i els punts de la trajectòria en què s’assoleix. 
     3. La constant recuperadora de la molla. 
+    <br><a href="sol/prob612.pdf">Solució</a><br><br>
 
 13. Un gronxador està format per una cadira d’1,5 kg i una cadena d’1,80 m de longitud i massa negligible. Una nena de 20 kg s’hi gronxa. En el punt més alt de l’oscil·lació, la cadena forma un angle de 40° amb la vertical. Determineu: 
     1. L’acceleració del gronxador i la tensió de la cadena en el punt més alt de l’oscil·lació.
     2. La velocitat del gronxador en el punt més baix de l’oscil·lació.
     3. La tensió màxima de la cadena.
+    <br><a href="sol/prob613.pdf">Solució</a><br><br>
     
 14. Un oscil·lador harmònic està format per una molla ideal de massa negligible i una partícula puntual unida a l’extrem de la molla, de massa $m=40\,\mathrm{g}$. El període d’oscil·lació és de 2 s.
     1. Si l’amplitud de les oscil·lacions és de 10 cm, quina velocitat màxima adquireix la massa m?
     2. Representeu en un gràfic l’acceleració de l’oscil·lador en funció del temps, i indiqueu en els eixos les escales corresponents.
     3. Quant hauria de valer la massa m perquè la freqüència de l’oscil·lador es multipliqués per dos? 
+    <br><a href="sol/prob614.pdf">Solució</a><br><br>
 
 15. Una molla, situada sobre una taula horitzontal sense fregament, està fixada per un dels extrems a una paret i a l’altre extrem hi ha lligat un cos de 0,5 kg de massa. La molla no està deformada inicialment. Desplacem el cos una distància de 50 cm de la seva posició d’equilibri i el deixem moure lliurement, amb la qual cosa descriu un moviment vibratori harmònic simple. L’energia potencial del sistema en funció del desplaçament es representa amb la paràbola de la gràfica següent. 
 <img src="img_prob/molla.svg" width="200px">
@@ -96,7 +99,8 @@ d’1 s. Determineu:
     Determineu: 
     1. El valor de la constant recuperadora de la molla 
     2. El valor de la velocitat del cos quan té una elongació de 20 cm. 
-
+    <br><a href="sol/prob615.pdf">Solució</a><br><br>
+    
 16. L’èmbol d’una màquina de vapor té un recorregut $D=100\,\mathrm{cm}$ i comunica a l’eix una velocitat angular de 60 rpm. Si considerem que el moviment de l’èmbol descriu un moviment harmònic simple, deduïu el valor de la velocitat que té quan és a una distància de 20 cm d’un dels extrems del recorregut. 
 <img src="img_prob/embolo.png" width="200px">
 
