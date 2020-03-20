@@ -109,7 +109,8 @@
         <img src="img_prob/freg_3cossos.png">
         </div>
     Calculeu l’acceleració en cadascun dels casos següents si el bloc té una massa
-de 100 kg.</li>
+de 100 kg.<br><a href="sol/prob315.pdf">Solució</a><br><br></li>
+
 
 <li>Els coeficients estàtic i cinètic de fricció entre un cos i el terra són 0,4 i 0,3
 respectivament. La massa de l’objecte és de 60 kg.
@@ -117,7 +118,7 @@ respectivament. La massa de l’objecte és de 60 kg.
     <li>Calcula si amb una força de 300 N podríem moure’l.</li>
     <li>En cas de fer-ho, quina seria l’acceleració del moviment?</li>
     </ol>
-    </li>
+    <br><a href="sol/prob316.pdf">Solució</a><br><br></li>
 </ol>
 
 ## Sistemes de cossos
@@ -132,6 +133,7 @@ sistema i la tensió de les cordes en els següents casos:
    <li>No hi ha friccions.</li>
    <li>El coeficient de fricció entre els blocs i el terra és de 0,1.</li>
    </ol>
+   <br><a href="sol/prob317.pdf">Solució</a><br><br>
 </li>
 
 <li>La massa $m_1$ del sistema de la figura val 40 kg, i la massa $m_2$ és
@@ -145,7 +147,7 @@ variable. Els coeficients de fricció estàtic i cinètic entre $m_1$ i la taula
         <li>Quin és el valor màxim de $m_2$ per al qual el sistema romandrà en repòs?</li>
         <li>Si $m_2 = 6 \mathrm{kg}$, quina serà la força de fregament entre el cos i la taula? i la tensió de la corda?</li>
         </ol>
-        </li>
+        <br><a href="sol/prob318.pdf">Solució</a><br><br></li>
 </ol>
 
 
