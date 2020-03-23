@@ -103,30 +103,35 @@ d’1 s. Determineu:
     
 16. L’èmbol d’una màquina de vapor té un recorregut $D=100\,\mathrm{cm}$ i comunica a l’eix una velocitat angular de 60 rpm. Si considerem que el moviment de l’èmbol descriu un moviment harmònic simple, deduïu el valor de la velocitat que té quan és a una distància de 20 cm d’un dels extrems del recorregut. 
 <img src="img_prob/embolo.png" width="200px">
+<br><a href="sol/prob616.pdf">Solució</a><br><br>
 
 17. Una massa $m=0,3\,\mathrm{kg}$, situada en un pla horitzontal sense fricció i unida a una molla horitzontal, descriu un moviment vibratori harmònic. L’energia cinètica màxima de la massa és 15 J. 
     1. Si sabem que entre els dos punts del recorregut en què el cos té una velocitat nul·la hi ha una distància de 50 cm, calculeu l’amplitud, la freqüència i el període del moviment i la constant elàstica de la molla. 
     2. Calculeu la posició, la velocitat i l’acceleració del cos en l’instant $t=3\,\mathrm{s}$, considerant que quan $t=0$ el cos té l’energia cinètica màxima. 
+<br><a href="sol/prob617.pdf">Solució</a><br><br>
 
 18. Una molla de constant $k=125\,\mathrm{N/m}$ té un extrem fix i, en l’altre, hi ha lligada una massa de 200 g que pot lliscar sobre una superfície horitzontal sense fregament. Desplacem inicialment la massa 12 cm de la posició d’equilibri, tot allargant la molla, i la deixem anar. Determineu: 
     1. El valors màxims de les energies cinètica i potencial assolides durant el moviment i la velocitat màxima de la massa. 
-    2. El període i la freqüència del moviment harmònic resultant. Escriviu també l’equació d’aquest moviment prenent t=0
-  com l’instant en què s’ha deixat anar la massa. 
+    2. El període i la freqüència del moviment harmònic resultant. Escriviu també l’equació d’aquest moviment prenent t=0 com l’instant en què s’ha deixat anar la massa. 
+<br><a href="sol/prob618.pdf">Solució</a><br><br>
 
 19. Una massa de 0,5 kg descriu un moviment harmònic unida a l’extrem d’una molla, de massa negligible, sobre una superfície horitzontal sense fregament. En la gràfica següent es relaciona el valor de l’energia mecànica de la molla amb el quadrat de l’amplitud d’oscil·lació del moviment harmònic: 
 <img src="img_prob/energia_mec_vs_a2.png" width="300px">
     Calculeu: 
     1. El valor de la freqüència d’oscil·lació.
     2. El valor de la velocitat màxima de la massa quan l’amplitud d’oscil·lació del moviment és 0,141 4 m.
-    
+<br><a href="sol/prob619.pdf">Solució</a><br><br>
+
 20. La massa dels astronautes a l’espai es mesura amb un aparell que es basa en el moviment vibratori harmònic. Quan l’astronauta s’hi col·loca, l’aparell inicia un moviment vibratori i en mesura la freqüència. Sabem que per a una massa de 60 kg, la freqüència d’oscil·lació és 0,678 Hz. 
     1. Calculeu la velocitat màxima d’oscil·lació d’aquesta massa si sabem que l’amplitud màxima d’oscil·lació és 20 cm. 
     2. Si la massa d’un astronauta fa oscil·lar l’aparell a una freqüència de 0,6064 Hz, calculeu la constant elàstica de la molla i la massa de l’astronauta. 
+<br><a href="sol/prob620.pdf">Solució</a><br><br>
 
 21. Duem a terme l’experiència següent: pengem d’una molla fixada en un suport per un dels seus extrems set masses diferents, i provoquem que aquestes masses facin petites oscil·lacions i realitzin un MVHS. Mesurem amb molta cura el temps que triga a fer deu oscil·lacions cadascuna de les masses i, a partir d’aquí, obtenim els períodes (T) del moviment, el quadrat dels quals es representa en la gràfica. 
     1. Calculeu la constant elàstica de la molla i expliqueu raonadament si depèn de la massa. Indiqueu el període que mesuraríem si provoquéssim les oscil·lacions amb una massa de 32,0 g. 
     2. El MVHS que descriu la massa de 100 g que hem penjat de la molla té una amplitud de 10,0 cm. Calculeu l’elongació i l’acceleració que tindrà la massa quan hauran transcorregut 3,00 s des del moment en què l’hem deixat oscil·lar a partir del punt més baix de la trajectòria. 
 <img src="img_prob/grafica_molla.png" width="300px">
+<br><a href="sol/prob621.pdf">Solució</a><br><br>
 
 22. En la vida quotidiana estem sotmesos a moviments vibratoris. Per exemple, en caminar, córrer, viatjar amb algun mitjà de locomoció o estar a prop d’alguna màquina. A l’hora de dissenyar vehicles i màquines, cal fer un estudi d’aquests moviments per tal d’aconseguir que siguin confortables i segurs, ja que els efectes de les vibracions poden anar des de simples molèsties fins al dolor o la mort. Aquests estudis solen utilitzar l’acceleració màxima del moviment vibratori com a variable, per a relacionar-la amb les molèsties que percebem. Se sap que som molt sensibles a un moviment vibratori de 6,0 Hz i que, amb aquesta freqüència, a partir d’una acceleració màxima de $6,0\,\mathrm{ms^{-2}}$, les molèsties són tan fortes que ens poden arribar a alarmar. 
     1. Calculeu l’amplitud d’oscil·lació que correspon a un moviment vibratori harmònic de 6,0 Hz i una acceleració màxima de $6,0\,\mathrm{ms^{-2}}$. 
