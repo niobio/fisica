@@ -352,7 +352,7 @@ d’1 s. Determineu:
     </ol>
     <img src="img_prob/doppler_sheldon.png" width="300px">
 
-    Explica alguna situació de la realitat on es posi en evidència l'efecte Doppler. 
+    <br>Explica alguna situació de la realitat on es posi en evidència l'efecte Doppler. 
 </li>
 
 <!-- Interferència -->
