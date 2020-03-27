@@ -202,7 +202,7 @@ variable. Els coeficients de fricció estàtic i cinètic entre $m_1$ i la taula
 <li>Quin és l'allargament que experimenta la molla quan hi pengem un cos de 60 g?</li>
 <li>Si hi pengem un cos i la molla s'allarga una longitud de 3,9 cm, quina és la massa del cos?</li>
 </ol>
-    R: 23,3 N/m; 2,5 cm; 93g.
+    R: 23,3 N/m; 2,5 cm; 93g.<br>
 </li>
 
 <li>la longitud d'una molla és de 20 cm quan l'estirem amb una força de 40 N, i de 25 cm quan la força és de 60 N. Calculeu:
@@ -210,15 +210,15 @@ variable. Els coeficients de fricció estàtic i cinètic entre $m_1$ i la taula
     <li>La longitud de la molla quan no hi actuacap força.</li>
     <li>la constant elàstica.</li>
 </ol>
-    R: 10 cm i 400 N/m
+    R: 10 cm i 400 N/m <br>
 </li>
 
-<li>Una molla de constant recuperadora $k=50\,N/m$ i longitud natural $l=2\,m$ està lligada al sostre d'un ascensor. Si pengem de l'extrem lliure de la molla un cos de massa $m=3\,kg$, quina serà la longitud de la molla quan:
+<li>Una molla de constant recuperadora $k=50\,\mathrm{N/m}$ i longitud natural $l=2\,\mathrm{m}$ està lligada al sostre d'un ascensor. Si pengem de l'extrem lliure de la molla un cos de massa $m=3\,\mathrm{kg}$, quina serà la longitud de la molla quan:
 <ol>
-    <li>L'ascensor pugi amb una acceleració igual $a=2\,m/s^2$ en el sentit del moviment?</li>
+    <li>L'ascensor pugi amb una acceleració igual $a=2\,\mathrm{m/s^2}$ en el sentit del moviment?</li>
     <li>L'ascensor pugi a una velocitat constant?</li>
 </ol>
-    R: 2,71 m i 2,59 m.
+    R: 2,71 m i 2,59 m.<br>
 </li>
 
 </ol>
