@@ -193,9 +193,39 @@ variable. Els coeficients de fricció estàtic i cinètic entre $m_1$ i la taula
         </div>
 </ol>
 
-## Quantitat de moviment
+## Força elàstica
 
 <ol start="23">
+<li>La constant elàstica $k$ d'una molla de longitud 12,7 cm ha estat mesurada penjant-hi dues masses de 50 g i 100 g, respectivament; les longituds que ha assolit la molla han estat 14,8 cm i 16,9 cm, respactivament.
+<ol>
+<li>Quin és el valor de $k$ en unitats de l'SI?</li>
+<li>Quin és l'allargament que experimenta la molla quan hi pengem un cos de 60 g?</li>
+<li>Si hi pengem un cos i la molla s'allarga una longitud de 3,9 cm, quina és la massa del cos?</li>
+</ol>
+    R: 23,3 N/m; 2,5 cm; 93g.
+</li>
+
+<li>la longitud d'una molla és de 20 cm quan l'estirem amb una força de 40 N, i de 25 cm quan la força és de 60 N. Calculeu:
+<ol>
+    <li>La longitud de la molla quan no hi actuacap força.</li>
+    <li>la constant elàstica.</li>
+</ol>
+    R: 10 cm i 400 N/m
+</li>
+
+<li>Una molla de constant recuperadora $k=50\,N/m$ i longitud natural $l=2\,m$ està lligada al sostre d'un ascensor. Si pengem de l'extrem lliure de la molla un cos de massa $m=3\,kg$, quina serà la longitud de la molla quan:
+<ol>
+    <li>L'ascensor pugi amb una acceleració igual $a=2\,m/s^2$ en el sentit del moviment?</li>
+    <li>L'ascensor pugi a una velocitat constant?</li>
+</ol>
+    R: 2,71 m i 2,59 m.
+</li>
+
+</ol>
+
+## Quantitat de moviment
+
+<ol start="26">
 <li>Una persona, la massa de la qual és de 60 kg, es troba en mig d'un llac glaçat, sense fricció. Aquesta persona té, en les seves mans, una capsa de 5 kg de massa. Si llença la capsa horitzontalment, la persona adquireix una velocitat de 0,5 m/s en sentit contrari. Aleshores, arriba a la conclusió de que la capsa ha estat llençada amb una velocitat de:
 <ol>
 <li>6 m/s</li>
