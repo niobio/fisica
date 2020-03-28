@@ -189,13 +189,6 @@ d’1 s. Determineu:
 <li>La freqüència de les ones del mar durant un temporal és de 0,2 Hz i la longitud d'ona és de 20 metres. Calcula la velocitat de propagació, el nombre d'ona i escriu l'equació d'ona si sabem que l'alçada de les ones és de 5 metres. 
 </li>
 
-<li>En una corda d’1,25 metres de longitud es produeix un so que conté tots els harmònics. Si agafem un valor de 340 m/s per a la velocitat del so, calculeu: 
-    <ol>
-    <li>La longitud d’ona i la freqüència del so fonamental. </li>
-    <li>Les longituds d’ona i les freqüències corresponents a tots els harmònics. </li>
-    </ol>
-</li>
-
 <li>Una ona harmònica de freqüència 550 Hz es propaga a una velocitat de 300 m/s. Quina és la distància mínima entre dos punts que en tot moment es troben en el mateix estat de vibració? 
 </li>
 
@@ -394,6 +387,13 @@ d’1 s. Determineu:
     <ol>
     <li>Dibuixeu el perfil de l’ona quan la corda vibra en l’harmònic fonamental. Quina serà la longitud d’ona del so produït? Quina és la velocitat de propagació de les ones que, per superposició, han format l’ona estacionària de la corda? </li>
     <li>Dibuixeu la corda quan vibra i emet un so corresponent al tercer harmònic. Indiqueu, en aquest cas, els nodes i els ventres de l’ona i calculeu-ne les posicions.</li>
+    </ol>
+</li>
+
+<li>En una corda d’1,25 metres de longitud es produeix un so que conté tots els harmònics. Si agafem un valor de 340 m/s per a la velocitat del so, calculeu: 
+    <ol>
+    <li>La longitud d’ona i la freqüència del so fonamental. </li>
+    <li>Les longituds d’ona i les freqüències corresponents a tots els harmònics. </li>
     </ol>
 </li>
 
