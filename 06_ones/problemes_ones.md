@@ -322,7 +322,7 @@ d’1 s. Determineu:
     <li>Escriviu l’equació de l’ona sabent que, en l’instant inicial, l’elongació d’un punt situat a l’origen de coordenades és màxima. Calculeu l’expressió de la velocitat amb què vibra un punt de la corda situat a una distància de 10 m respecte de l’origen de la vibració. Quina és la velocitat màxima d’aquest punt? </li>
     </ol>
 </li>
-<br><a href="sol/prob6118.pdf">Solució</a><br><br>
+<br><a href="sol/prob6120.pdf">Solució</a><br><br>
 
 <!-- Llei d'Snell-->
 
