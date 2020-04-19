@@ -204,6 +204,7 @@ variable. Els coeficients de fricció estàtic i cinètic entre $m_1$ i la taula
 </ol>
     R: 23,3 N/m; 2,5 cm; 93g.<br><br>
 </li>
+<a href="sol/prob323.pdf">Solució</a><br><br>
 
 <li>La longitud d'una molla és de 20 cm quan l'estirem amb una força de 40 N, i de 25 cm quan la força és de 60 N. Calculeu:
 <ol>
@@ -212,6 +213,7 @@ variable. Els coeficients de fricció estàtic i cinètic entre $m_1$ i la taula
 </ol>
     R: 10 cm i 400 N/m <br><br>
 </li>
+<a href="sol/prob324.pdf">Solució</a><br><br>
 
 <li>Una molla de constant recuperadora $k=50\,\mathrm{N/m}$ i longitud natural $l=2\,\mathrm{m}$ està lligada al sostre d'un ascensor. Si pengem de l'extrem lliure de la molla un cos de massa $m=3\,\mathrm{kg}$, quina serà la longitud de la molla quan:
 <ol>
@@ -220,7 +222,7 @@ variable. Els coeficients de fricció estàtic i cinètic entre $m_1$ i la taula
 </ol>
     R: 2,71 m i 2,59 m.<br><br>
 </li>
-
+<a href="sol/prob325.pdf">Solució</a><br><br>
 </ol>
 
 ## Quantitat de moviment
@@ -234,7 +236,7 @@ variable. Els coeficients de fricció estàtic i cinètic entre $m_1$ i la taula
 <li>10 m/s</li>
 <li>2 m/s</li>
 </ol>
-<a href="sol/prob323.pdf">Solució</a>
+<a href="sol/prob326.pdf">Solució</a>
 </li>
 
 <li>1. Un cos de massa $m=6\,\mathrm{kg}$ es mou amb una velocitat $v_{0}=2\,\mathrm{m/s}$ quan comença a rebre una força $F$ variable en el temps segons la gràfica que s'observa a continuació.
@@ -248,7 +250,7 @@ Tenint en compte la informació proporcionada determineu:
 <li>La velocitat del cos quan $t=3\,\mathrm{s}$.</li>
 <li>La velocitat del cos quan $t=6\,\mathrm{s}$.</li>
 </ol>
-<a href="sol/prob324.pdf">Solució</a>
+<a href="sol/prob327.pdf">Solució</a>
 </li>
 
 <li>En un joc de fira disparem un petit balí de plom de 8 g de massa amb una escopeta d’aire comprimit de 3,5 kg de massa. El balí surt amb una velocitat de 68 m/s, i sabem que la força impulsora ha actuat durant un temps de 0,085 s. 
@@ -260,5 +262,5 @@ Tenint en compte la informació proporcionada determineu:
         <img src="img_prob/rifle.svg">
         </div>
 </li>
-<a href="sol/prob325.pdf">Solució</a>
+<a href="sol/prob328.pdf">Solució</a>
 <ol>
