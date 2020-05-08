@@ -148,6 +148,7 @@
         <li>la seva longitud d'ona.</li>
     </ol>
     </li>
+    </ol>
 
 ## Radioactivitat
 
