@@ -1,4 +1,3 @@
-
 # Problemes Unitat 4: Energia
 
 ## Treball i energia
@@ -15,6 +14,7 @@ Suposant que els efectes del fregament són negligibles, calcula:
     <li>La màxima longitud recorreguda pel cos en la pujada pel pla inclinat de la dreta. </li>
 <li>Si el coeficient de fregament entre el cos i el primer pla inclinat fos $\mu=0,4$; quanta energia s'alliberaria en forma de calor des de l'instant inicial fins a arribar al peu del primer pla inclinat?</li>
     </ol>
+    <br><a href="sol/prob401.pdf">Solució</a><br>
 </li>
 <br>
 
@@ -28,6 +28,7 @@ Suposant que els efectes del fregament són negligibles, calcula:
 <img src="img_prob/mont_rusa.png" width="70%">
 </div>
 </ol>
+    <br><a href="sol/prob402.pdf">Solució</a><br>
 </li>
 <br>
 
@@ -36,6 +37,7 @@ Suposant que els efectes del fregament són negligibles, calcula:
 <li>Quant val el treball que la força pes ha fet sobre la partícula en aquest trajecte?</li>
 <li>Quant val el treball fet per la força de fregament? </li>
 </ol>
+    <br><a href="sol/prob403.pdf">Solució</a><br>
 </li>
 <br>
 
@@ -44,10 +46,12 @@ Suposant que els efectes del fregament són negligibles, calcula:
 <div align="middle">
 <img src="img_prob/treball.png" width="70%">
 </div>
+    <br><a href="sol/prob404.pdf">Solució</a><br>
 </li>
 <br>
 
 <li>Un bloc de massa 20 kg cau lliscant per un pla inclinat, salvant un desnivell de 25 m. Si parteix del repòs i assoleix una velocitat final de 15 m/s, determineu l’energia perduda per fricció. 
+    <br><a href="sol/prob405.pdf">Solució</a><br>
 </li>
 <br>
 
@@ -61,6 +65,7 @@ Suposant que els efectes del fregament són negligibles, calcula:
 <img src="img_prob/08_circular.png" width="50%">
 </div>
 </ol>
+    <br><a href="sol/prob406.pdf">Solució</a><br>
 </li>
 <br>
 
@@ -69,10 +74,11 @@ Suposant que els efectes del fregament són negligibles, calcula:
 <div align="middle">
 <img src="img_prob/07_força_elastica.svg" width="50%">
 </div>
+    <br><a href="sol/prob407.pdf">Solució</a><br>
 </li>   
 <br>
 
-<li>Una vagoneta de fira de massa 100 kg es troba damunt d’una pista sense fregament. El tram inicial de la pista és horitzontal. A mig camí, la pista fa pujada fins a un segon tram horitzontal, al final del qual hi ha un sistema de frenada consistent en una molla de constant elàstica k=10000\,\mathrm{N/m}. La diferència d’altura entre els dos trams horitzontals és de 4 m.
+<li>Una vagoneta de fira de massa 100 kg es troba damunt d’una pista sense fregament. El tram inicial de la pista és horitzontal. A mig camí, la pista fa pujada fins a un segon tram horitzontal, al final del qual hi ha un sistema de frenada consistent en una molla de constant elàstica $k=10000\,\mathrm{N/m}$. La diferència d’altura entre els dos trams horitzontals és de 4 m.
 
 <div align="middle">
 <img src="img_prob/07_vagoneta.png" width="70%">
@@ -84,6 +90,7 @@ Si el sistema de frenada es comprimeix 1,5 m, calculeu:
 <li>La velocitat de la vagoneta just abans de començar a pujar la rampa. </li>
     <li>L’energia mecànica total de la vagoneta en el primer tram horitzontal. </li>
 </ol>
+    <br><a href="sol/prob408.pdf">Solució</a><br>
 </li>
 <br>
 
