@@ -104,23 +104,24 @@
         <li>Quina és la longitud d'ona dels fotons? </li>
         <li>Quant triga la senyal en arribar als oients?</li>
     </ol>
+    <a href="sol/prob813.pdf">Solució</a><br>
 </li>
 <br>
     
 <li>Calculeu l’energia i la quantitat de moviment dels fotons de llum roja de longitud d’ona $\lambda=600\,\mathrm{nm}$.
 </li>
     <strong>Dades</strong>: $h=6,62\times10^{-34}\,\mathrm{J\cdot s}$; $c=3\times10^{8}\,\mathrm{m\cdot s^{-1}}$. 
-<br> <br> 
+<br> <a href="sol/prob814.pdf">Solució</a><br> <br>
 
 <li>Calculeu el valor de la longitud d’ona d’un fotó d’energia 3 keV.
 </li>
     <strong>Dades</strong>: $h=6,62\times10^{-34}\,\mathrm{J\cdot s}$; $c=3\times10^{8}\,\mathrm{m\cdot s^{-1}}$; $1\,\mathrm{eV=1,602\times10^{-19}\,J}$.
-<br><br> 
+<br><a href="sol/prob815.pdf">Solució</a><br><br> 
     
 <li>Se sap que la sensibilitat més gran de l’ull humà correspon a la llum de longitud d’ona $\lambda=5,5\times10^{-7}\,\mathrm{m}$. Determineu l’energia i la quantitat de moviment dels fotons d’aquesta longitud d’ona. 
 </li>
     <strong>Dades</strong>: $c=3\times10^{8}\,\mathrm{m/s}$; $h=6,62\times10^{-34}\,\mathrm{J\cdot s}$.
-<br><br> 
+<br><a href="sol/prob816.pdf">Solució</a><br><br> 
     
 <li>Entre dos punts A i B s’estableix una diferència de potencial $V_{A}-V_{B}=120\,\mathrm{V}$. Un electró està situat al punt B, inicialment en repòs. Determineu: 
     <ol>
@@ -129,12 +130,13 @@
     </ol>
     </li>
     <strong>Dades</strong>: $h=6,62\times10^{-34}\,\mathrm{J\cdot s}$, $q_{e}=-1,60\times10^{-19}\,\mathrm{C}$, $m_{e}=9,11\times10^{-31}\,\mathrm{kg}$
-<br><br> 
+<br><a href="sol/prob817.pdf">Solució</a><br><br> 
     
 <li>Calculeu l’energia i la longitud d’ona d’un fotó de 1.015 Hz de freqüència. </li>
 <strong>Dades</strong>: $c=3\times10^{8}\,\mathrm{m/s}$; $h=6,625\times10^{-34}\,\mathrm{J\cdot s}$.
+    <br><a href="sol/prob818.pdf">Solució</a><br>
 </ol>
-<br>
+
 
 
 ## Principi d'indeterminació
