@@ -1,4 +1,3 @@
-
 # Una nova visió de l'univers
 
 ## Física quàntica
@@ -109,12 +108,11 @@ on podem veure que hi ha una relació lineal entre el potencial de frenada $V_{0
 <img src="img/fotoelectric_04.svg">
 
 L'explicació de l'efecte fotoelèctric va posar les bases de la física quàntica, la teoria que explica tot el món subatòmic. Actualment l'efecte fotoelèctric té aplicació en les plaques solars que transformen l'energia radiant del sol en electricitat. També troba aplicació en electrònica a través dels sensors com els LDR, els fototransistors i fotodiodes.
-
 <br><br>
 <center>
-<div style="position: relative; width: 300px; height: 197px;"><a href="https://phet.colorado.edu/sims/photoelectric/photoelectric_es.jnlp" style="text-decoration: none;"><img src="https://phet.colorado.edu/sims/photoelectric/photoelectric-600.png" alt="El Efecto Fotoeléctrico" style="border: none;" width="300" height="197"/><div style="position: absolute; width: 200px; height: 80px; left: 50px; top: 58px; background-color: #FFF; opacity: 0.6; filter: alpha(opacity = 60);"></div><table style="position: absolute; width: 200px; height: 80px; left: 50px; top: 58px;"><tr><td style="text-align: center; color: #000; font-size: 24px; font-family: Arial,sans-serif;">Feu clic</td></tr></table></a></div>
+<div style="position: relative; width: 300px; height: 197px;"><a href="https://phet.colorado.edu/sims/photoelectric/photoelectric_es.jnlp" style="text-decoration: none;"><img src="https://phet.colorado.edu/sims/photoelectric/photoelectric-600.png" alt="El Efecto Fotoeléctrico" style="border: none;" width="300" height="197"/><div style="position: absolute; width: 200px; height: 80px; left: 50px; top: 58px; background-color: #FFF; opacity: 0.6; filter: alpha(opacity = 60);"></div><table style="position: absolute; width: 200px; height: 80px; left: 50px; top: 58px;"><tr><td style="text-align: center; color: #000; font-size: 24px; font-family: Arial,sans-serif;">Clic per Executar</td></tr></table></a></div>
 </center>
-<br><br>
+
 ## Ones o partícules?
 
 L'explicació que va donar l'Einstein per a l'efecte fotoelèctric va deixar clar que la llum, i la radiació electromagnètica en general, es comporta més aviat com si fos una ona quan es propaga i més aviat com partícula quan interactua amb la matèria. Aquest tipus de comportament es va anomenar dualitat ona-partícula, en realitat no és ni ona ni partícula sinó una cosa nova que en el moment de fer una mesura observem com una o com partícula depenent del tipus d'experiment que fem. En el seu comportament com partícula un fotó és portador de quantitat de moviment. Pera trobar la quantitat de moviment d'un fotó farem servir l'expressió de l'energia del fotó $\eqref{eq:relacio_plank}$ i la relació entre la freqüència i la longitud d'ona 
@@ -313,7 +311,7 @@ El nombre $A$ també es coneix com a nombre de massa del nucli o nombre màssic.
 
 $$\mathrm{_{Z}^{A}X}$$
 
-De manera que l'hidrogen és $\mathrm{\_{1}^{1}H}$ i l'heli, $\mathrm{_{2}^{4}He}$. El nombre $Z$ a vegades s'omet perquè al especificar l'element aquest queda totalment determinat.
+De manera que l'hidrogen és $\mathrm{_{1}^{1}H}$ i l'heli, $\mathrm{_{2}^{4}He}$. El nombre $Z$ a vegades s'omet perquè al especificar l'element aquest queda totalment determinat.
 
 L'element més lleuger que hi ha és l'hidrogen $\mathrm{^{1}H}$ el nucli del qual està compost per només un protó. L'hidrogen té dos isòtops: el deuteri $\mathrm{^{2}H}$ amb un protó i un neutró i el triti $\mathrm{^{3}H}$ amb un protó i dos neutrons. Les propietats químiques d'aquests isòtops son gairebé iguals degut a que tenen el mateix nombre d'electrons: 1. 
 
@@ -328,7 +326,7 @@ Tots els nucleons intervenen en la força nuclear forta i donen l'estabilitat al
 Els nuclis lleugers tenen la major estabilitat quan el nombre de protons i neutrons són aproximadament iguals, es a dir $Z=N$. Això passa perquè l'enllaç entre protó i neutró és més estret que entre protons o entre neutronsdegut al principi d'exclusió de Pauli. Però, a mesura que el nucli es fa més pesat, és necessari que el nombre de neutrons sigui més gran que el de protons per a tenir un nucli estable. El motiu és clar, quan el nucli creix hi ha nucleons que es troben més allunyats i la força forta comença a tenir menys efectivitat, mentre que la força electrostàtica, de llarg abast, continua fent-se sentir. Per això afegint més neutrons que només tenen atracció nuclear però no repulsió electrostàtica li donem més estabilitat al nucli. A la Figura podem observar la relació entre el nombre de neutrons i els de protons en els nuclis estables, veiem com s'aparta de la recta on $Z=N$.
 
  <figure>
-  <img src="img/banda_estabilidad.png" alt="Línia d'estabilitat">
+  <img src="img/banda_estabilidad.png" alt="Línia d'estabilitat" width="80%">
   <figcaption>Nombre de neutrons $N$ en funció del nombre atòmic $Z$ per als nuclis estables. La línia de traços correspon a $N=Z$.</figcaption>
 </figure> 
 
@@ -372,7 +370,7 @@ La figura inferior mostra l'energia d'enllaç per nucleó en funció de la massa
 El fet de que la corba sigui gairebé horitzontal per a $A>50$ indica que l'energia total d'enllaç es casi proporcional a $A$. Això vol dir que la força d'atracció actua només entre els primers veïns. Si no fos així i tots els nucleons s'enllaçaren amb tota la resta de nucleons, cada nucleó tindria $A-1$ lligams amb els altres nucleons i de conjunt hi hauria $A(A-1)$ enllaços. L'energia necessària per a trencar tots aquests enllaços seria, doncs, proporcional a $A(A-1)$ i l'energia d'enllaç per nucleó $E_{e}/A$ no seria pas constant. El pendent pronunciat de la corba per a valors baixos d'A es deu a l'increment de primers veïns i per tant al nombre creixent d'enllaços per nucleó. El decreixement gradual per a valors elevats d'A es deu a la repulsió electrostàtica dels protons que creix com $Z^{2}$  i fa minvar l'energia d'enllaç. Per a nuclis molt grans amb A propers a 300 la repulsió electrostàtica supera l'atracció nuclear i els nuclis són inestables experimentant fissió espontània.
 
 <figure>
-  <img src="img/energia_enllaç2.png" alt="Energia d'enllaç per nucleó">
+  <img src="img/energia_enllaç2.png" alt="Energia d'enllaç per nucleó" width="80%">
   <figcaption>Energia d'enllaç per nucleó en funció del nombre de massa. El Fe és l'element més estable. La fusió d'elements lleugers porta a nuclis de més energia d'enllaç i la fissió dels elements més pesats també porta a elements més estables. Aquests fets expliquen per què la fusió i la fissió nuclears desprenen tanta energia.</figcaption>
 </figure> 
 
@@ -399,7 +397,7 @@ La radiació $\alpha$ és poc penetrant i amb un full de paper la podem detindre
   <figcaption>Desintegració $\alpha$.</figcaption>
 </figure>
 
-* **Desintegració \beta^{-}**: Emissió d'un electró per la transformació d'un neutró del nucli en un protó, un electró i un antineutrí. El protó queda dins del nucli i l'electró i l'antineutrí surten fora. La equació de la reacció és
+* **Desintegració $\beta^{-}$**: Emissió d'un electró per la transformació d'un neutró del nucli en un protó, un electró i un antineutrí. El protó queda dins del nucli i l'electró i l'antineutrí surten fora. La equació de la reacció és
 
 $$\mathrm{_{Z}^{A}X\longrightarrow{}_{Z+1}^{A}Y}+\mathrm{_{-1}^{0}e}+\overline{\nu_{e}}$$
 
@@ -416,7 +414,7 @@ Encara que aquesta radiació és més penetrant que la $\alpha$, es pot detenir 
 
 L'existència del neutrí es va predir abans del seu descobriment experimental degut a aquest procés de decaïment $\beta$. Aquesta reacció violava aparentment la llei de conservació de l'energia i la quantitat de moviment. Va ser Wolfgang Pauli en 1930 qui va proposar l'existència del neutrí (ara es coneix com l'antipartícula del neutrí) per a poder mantenir la validesa d'aquestes lleis i va encertar. El neutrí va ser descobert 26 anys després de la predicció d'en Pauli.
 
-* **Desintegració $\beta^{+}$**: Emissió d'un positró (antipartícula de l'electró) per transformació d'un protó en un neutró i un positró més un neutrí. El neutró queda dins del nucli i el positró i el neutrí surten fora. L'equació de la reacció és
+* **Desintegració $\beta^{+}**$: Emissió d'un positró (antipartícula de l'electró) per transformació d'un protó en un neutró i un positró més un neutrí. El neutró queda dins del nucli i el positró i el neutrí surten fora. L'equació de la reacció és
 
 $$\mathrm{_{Z}^{A}X\longrightarrow{}_{Z-1}^{A}Y}+\mathrm{_{+1}^{0}e}+\nu_{e}$$
 
@@ -465,7 +463,7 @@ $$N=N_{0}e^{-\lambda t}$$
 Aquesta llei exponencial descriu com evoluciona en el temps la quantitat de nuclis radioactius presents en una mostra (Figura). 
 
 <figure>
-  <img src="img/llei_decaiment.jpg" alt="LLei de decaiment">
+  <img src="img/llei_decaiment.jpg" alt="LLei de decaiment" width="70%">
   <figcaption>Llei exponencial de decaïment radioactiu.</figcaption>
 </figure>
 
