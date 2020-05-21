@@ -311,7 +311,7 @@ El nombre $A$ també es coneix com a nombre de massa del nucli o nombre màssic.
 
 $$\mathrm{_{Z}^{A}X}$$
 
-De manera que l'hidrogen és $\mathrm{_{1}^{1}H}$ i l'heli, $\mathrm{_{2}^{4}He}$. El nombre $Z$ a vegades s'omet perquè al especificar l'element aquest queda totalment determinat.
+De manera que l'hidrogen és $\mathrm{\_{1}^{1}H}$ i l'heli, $\mathrm{\_{2}^{4}He}$. El nombre $Z$ a vegades s'omet perquè al especificar l'element aquest queda totalment determinat.
 
 L'element més lleuger que hi ha és l'hidrogen $\mathrm{^{1}H}$ el nucli del qual està compost per només un protó. L'hidrogen té dos isòtops: el deuteri $\mathrm{^{2}H}$ amb un protó i un neutró i el triti $\mathrm{^{3}H}$ amb un protó i dos neutrons. Les propietats químiques d'aquests isòtops son gairebé iguals degut a que tenen el mateix nombre d'electrons: 1. 
 
@@ -454,7 +454,7 @@ $$\int_{N_{0}}^{N}\frac{dN}{N}=\int_{0}^{t}-\lambda dt$$
 
 per a obtenir
 
-$$\log\left(\frac{N}{N_{0}}\right)=-\lambda t$$
+$$\ln\left(\frac{N}{N_{0}}\right)=-\lambda t$$
 
 o, equivalentment
 
