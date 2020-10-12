@@ -1,4 +1,3 @@
-
 # Problemes Unitat 5: Màquines electromagnètiques
 
 <style type="text/css">
@@ -12,6 +11,7 @@
     2. El radi de l’òrbita descrita. 
     3. El temps que triga en recórrer una circumferència completa.
     4. Perquè es pot menysprear l’efecte de la gravetat? Justifica-ho.
+    **Dades**: $m_{e}=9,11\times10^{-31}\mathrm{kg}$; $Q_{e}=-1,60\times10^{-19}\mathrm{C}$.
     <br><a href="sol/prob1001.pdf">Solució</a><br><br>
 
 2. Dues partícules amb la mateixa càrrega $q$ i amb masses $m_{1}$ i $m_{2}$ penetren en el punt A com s'indica a la figura, totes dues a la mateixa velocitat, $v$, en un camp magnètic uniforme i perpendicular al pla del paper, B. Després de descriure mitja circumferència, la primera incideix al punt B i la segona al punt C. Calcula la separació final que hi ha entre les partícules (distància BC) (has de donar el resultat en funció dels paràmetres donats pel problema).
@@ -37,7 +37,7 @@
     
     1. Dibuixeu i justifiqueu la trajectòria que descriu l’electró dins del camp indicant el sentit de gir i calculeu el valor de la freqüència (en GHz). 
     2. Perquè l’electró travessi el camp magnètic sense desviar-se, cal aplicar un camp elèctric uniforme en aquesta mateixa regió. Dibuixeu el vector camp elèctric que permetria que això fos possible (justifiqueu-ne la direcció i el sentit) i calculeu-ne el mòdul. 
-    **Dades**: $m_{e}=9,11\times10^{-31}\mathrm{kg}$; $Q_{e}=1,60\times10^{-19}\mathrm{C}$.
+    **Dades**: $m_{e}=9,11\times10^{-31}\mathrm{kg}$; $Q_{e}=-1,60\times10^{-19}\mathrm{C}$.
     <br><a href="sol/prob1004.pdf">Solució</a><br><br>
     
 5. Un espectròmetre de masses consta d’un selector de velocitats i d’un recinte semicircular. En el selector de velocitats hi ha un camp elèctric i un camp magnètic, perpendiculars entre si i en la direcció de la velocitat dels ions. En entrar al selector, els ions d’una velocitat determinada no es desvien i entren a la zona semicircular, on només hi ha el camp magnètic perpendicular a la velocitat, que els fa descriure una trajectòria circular.
