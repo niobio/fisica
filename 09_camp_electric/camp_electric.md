@@ -15,13 +15,13 @@ La càrrega elèctrica pot tenir signe positiu o negatiu i això fa que la inter
 
 La força entre càrregues ve donada per l'expressió matemàtica següent i que es coneix com llei de Coulomb:
 
-$$\begin{equation}\label{eq:coulomb}
+$\begin{equation}\label{eq:coulomb}
 \vec{F}=k\frac{q_{1}q_{2}}{r^{2}}\hat{r}
-\end{equation}$$
+\end{equation}$
 
 on $k$ és la constant elèctrica o de Coulomb i el seu valor depèn del medi on es troben les càrregues. Si les càrregues estan en el buit<sup><a href="#fn2" id="ref2">2</a></sup> tenim que 
 
-$$k=9\times10^{9}\mathrm{Nm^{2}C^{-2}}$$
+$k=9\times10^{9}\mathrm{Nm^{2}C^{-2}}$
 
 La constant de Coulomb s'acostuma a expressar en funció d'altra constant anomenada **permitivitat** del medi o constant dielèctrica, $\varepsilon$, que es relaciona amb la constant de Coulomb a través de l'expressió: 
 
