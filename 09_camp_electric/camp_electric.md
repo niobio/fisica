@@ -173,20 +173,3 @@ on $\Delta V$ és la diferència de potencial entre les plaques i $d$ és la sep
 <sup id="fn3">3. Sempre hi haurà “efectes de borde” en els extrem de les plaques però nosaltres suposarem que les plaques tenen uns costats molt llargs comparats amb la distància de separació entre plaques com per a poder negligir aquests efectes.<a href="#ref3" title="Tornar al text.">↩</a></sup>
 
 
-<footer>
-<!-- Parse the Latex divs with Katex-->
-<script type="text/javascript">
-  $("script[type='math/tex']").replaceWith(
-    function(){
-      var tex = $(this).text();
-      return katex.renderToString(tex, {displayMode: false});
-  });
-  
-  $("script[type='math/tex; mode=display']").replaceWith(
-    function(){
-      var tex = $(this).text();
-      return katex.renderToString(tex.replace(/%.*/g, ''), {displayMode: true});
-  });
-</script>
-
-</footer>
