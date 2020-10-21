@@ -1,4 +1,3 @@
-
 # Camp elèctric
 
 La interacció electromagnètica és una de les quatre interaccions que hi ha a la natura. Nosaltres ja hem parlat de les ones electromagnètiques. Des del segle XIX sabem que la electricitat i el magnetisme estan relacionats entre sí gràcies als treballs d'en [Hans Ørsted](https://ca.wikipedia.org/wiki/Hans_Christian_%C3%98rsted), en [Michael Faraday](https://ca.wikipedia.org/wiki/Michael_Faraday) i en [James Maxwell](https://ca.wikipedia.org/wiki/James_Clerk_Maxwell). Aquest últim va ser l'artífex de la unificació de l'electricitat i el magnetisme amb una teoria que descriu tot l'electromagnetisme amb només quatre equacions anomenades, és clar, [equacions de Maxwell](https://ca.wikipedia.org/wiki/Equacions_de_Maxwell). En aquest capítol ens dedicarem a entendre la interacció electrostàtica i avançarem més en la comprensió de l'electromagnetisme en el capítol següent on estudiarem el camp magnètic i la inducció electromagnètica.
@@ -7,7 +6,7 @@ La interacció elèctrica ha estat coneguda des de l'antiguitat pels grecs.<sup>
 
 ## Càrrega elèctrica
 
-La propietat de la matèria portadora de la interacció electrostàtica s'anomena càrrega elèctrica. Per a indicar aquesta propietat utilitzarem la lletra $q$ o $Q$ i la quantitat de càrrega la mesurarem en una unitat anomenada **coulomb**, per a la que utilitzarem la lletra C.
+La propietat de la matèria portadora de la interacció electrostàtica s'anomena càrrega elèctrica. Per a indicar aquesta propietat utilitzarem la lletra $$q$$ o $$Q$$ i la quantitat de càrrega la mesurarem en una unitat anomenada **coulomb**, per a la que utilitzarem la lletra C.
 
 La càrrega elèctrica pot tenir signe positiu o negatiu i això fa que la interacció electrostàtica pugui ser atractiva o repulsiva. Càrregues d'igual signe experimenten una repulsió entre elles i càrregues de signe diferent s'atrauen mútuament. Això marca una diferència amb la interacció gravitatòria que només pot ser atractiva al no existir masses negatives.
 
@@ -15,13 +14,11 @@ La càrrega elèctrica pot tenir signe positiu o negatiu i això fa que la inter
 
 La força entre càrregues ve donada per l'expressió matemàtica següent i que es coneix com llei de Coulomb:
 
-
 $$\begin{equation}\label{eq:coulomb}
 \vec{F}=k\frac{q_{1}q_{2}}{r^{2}}\hat{r}
 \end{equation}$$
 
-
-on $k$ és la constant elèctrica o de Coulomb i el seu valor depèn del medi on es troben les càrregues. Si les càrregues estan en el buit<sup><a href="#fn2" id="ref2">2</a></sup> tenim que 
+on $$k$$ és la constant elèctrica o de Coulomb i el seu valor depèn del medi on es troben les càrregues. Si les càrregues estan en el buit<sup><a href="#fn2" id="ref2">2</a></sup> tenim que 
 
 $$k=9\times10^{9}\mathrm{Nm^{2}C^{-2}}$$
 
@@ -29,15 +26,15 @@ La constant de Coulomb s'acostuma a expressar en funció d'altra constant anomen
 
 $$k=\frac{1}{4\pi\varepsilon}$$
 
-i $\varepsilon$ és la permitivitat dielèctrica. 
+i $$\varepsilon$$ és la permitivitat dielèctrica. 
 
-Habitualment s'acostuma utilitzar el valor de la permitivitat del buit $(\varepsilon_{0}=8,8541878176\times10^{-12}\mathrm{C^{2}N^{-1}m^{-2}})$ i referir la permitivitat d'altres medis mitjançant una permitivitat relativa $(\varepsilon_{r})$, de manera que la permitivitat del medi s'expressa:
+Habitualment s'acostuma utilitzar el valor de la permitivitat del buit $$(\varepsilon_{0}=8,8541878176\times10^{-12}\mathrm{C^{2}N^{-1}m^{-2}})$$ i referir la permitivitat d'altres medis mitjançant una permitivitat relativa $(\varepsilon_{r})$, de manera que la permitivitat del medi s'expressa:
 
 $$\varepsilon=\varepsilon_{r}\varepsilon_{0}$$
 
-La llei de Coulomb estableix que la força entre dues càrregues $q_{1}$ i $q_{2}$ és inversament proporcional al quadrat de la distància que les separa i, per tant, és una llei matemàticament equivalent a la de gravitació de Newton amb la diferència que en el cas electrostàtic la força pot ser atractiva o repulsiva mentre que en el cas gravitatori només resulta atractiva. 
+La llei de Coulomb estableix que la força entre dues càrregues $$q_{1}$ i $q_{2}$$ és inversament proporcional al quadrat de la distància que les separa i, per tant, és una llei matemàticament equivalent a la de gravitació de Newton amb la diferència que en el cas electrostàtic la força pot ser atractiva o repulsiva mentre que en el cas gravitatori només resulta atractiva. 
 
-A la figura inferior es pot apreciar el significat de cada factor de la llei de Coulomb. El vector unitari $\hat{r}$ és el vector que té el sentit que va de la càrrega que fa la força fins la que la rep.
+A la figura inferior es pot apreciar el significat de cada factor de la llei de Coulomb. El vector unitari $$\hat{r}$$ és el vector que té el sentit que va de la càrrega que fa la força fins la que la rep.
 
 <figure>
   <img src="img/coulomb.svg.png" alt="Força de Coulomb" width="70%">
@@ -46,13 +43,13 @@ A la figura inferior es pot apreciar el significat de cada factor de la llei de 
  
 ## Camp elèctric
 
-El concepte de camp va ser creat per Michael Faraday i resulta una eina útil per entendre les interaccions. Podem dir que una càrrega $q_{1}$ produeix una “modificació” a l'espai que l'envolta. Aquesta modificació l'anomenem camp elèctric $\vec{E}$ i és un vector que donat per l'expressió de l'equació $\eqref{eq:camp}$ 
+El concepte de camp va ser creat per Michael Faraday i resulta una eina útil per entendre les interaccions. Podem dir que una càrrega $q_{1}$ produeix una “modificació” a l'espai que l'envolta. Aquesta modificació l'anomenem camp elèctric $$\vec{E}$$ i és un vector que donat per l'expressió de l'equació $$\eqref{eq:camp}$$ 
 
 $$\begin{equation}\label{eq:camp}
 \vec{E}=k\frac{q_{1}}{r^{2}}\hat{r}
 \end{equation}$$
  
-on $r$ és la distància entre la càrrega i el punt on es mesura el camp elèctric i la convenció és la mateixa que hem fet servir per a la llei de Coulomb. A la figura de sota podem veure el vector camp elèctric creat al punt P per la càrrega $q_{1}$, a qualsevol punt de l'espai hi ha un vector camp elèctric donat per la expressió $\eqref{eq:camp}$.
+on $$r$$ és la distància entre la càrrega i el punt on es mesura el camp elèctric i la convenció és la mateixa que hem fet servir per a la llei de Coulomb. A la figura de sota podem veure el vector camp elèctric creat al punt P per la càrrega $$q_{1}$$, a qualsevol punt de l'espai hi ha un vector camp elèctric donat per la expressió $$\eqref{eq:camp}$$.
 
 <figure>
   <img src="img/camp.png" alt="Camp elèctric" width="70%">
@@ -60,16 +57,16 @@ on $r$ és la distància entre la càrrega i el punt on es mesura el camp elèct
   en el punt P. Podem observar que el camp té sentit de la càrrega cap a fora. Si en el punt P posem una altra càrrega positiva apareixeria sobre aquesta una força repulsiva (amb el mateix sentit que el camp) però si posem una càrrega negativa hi apareix una força atractiva amb el sentit oposat al del camp elèctric.</figcaption>
 </figure>
 
-Tant l'expressió $\eqref{eq:coulomb}$ com la $\eqref{eq:camp}$ són vàlides per a càrregues puntuals o per a càrregues volumètriques amb una distribució de simetria esfèrica. La relació que sempre resulta vàlida independentment de la distribució de càrrega és la expressió que lliga el camp amb la força electrostàtica:
+Tant l'expressió $$\eqref{eq:coulomb}$$ com la $\eqref{eq:camp}$ són vàlides per a càrregues puntuals o per a càrregues volumètriques amb una distribució de simetria esfèrica. La relació que sempre resulta vàlida independentment de la distribució de càrrega és la expressió que lliga el camp amb la força electrostàtica:
 
 $$\begin{equation}\label{eq:força_camp}
 \vec{F}=q\vec{E}
 \end{equation}$$
 
 
- podem dir que l'expressió $\eqref{eq:força_camp}$ és una llei de cause i efecte a l'igual que la 2a llei de Newton. La causa de la interacció és el camp elèctric $\vec{E}$ i l'efecte sobre la càrrega $q$ és la força $\vec{F}$. 
+ podem dir que l'expressió $\eqref{eq:força_camp}$ és una llei de cause i efecte a l'igual que la 2a llei de Newton. La causa de la interacció és el camp elèctric $$\vec{E}$$ i l'efecte sobre la càrrega $$q$$ és la força $$\vec{F}$$. 
 
-De la expressió $\eqref{eq:força_camp}$ podem extreure que les unitats amb les que s'expressa el camp elèctric són N/C (newton/coulomb).
+De la expressió $$\eqref{eq:força_camp}$$ podem extreure que les unitats amb les que s'expressa el camp elèctric són N/C (newton/coulomb).
 
 Una forma gràfica de visualitzar el camp és utilitzant les línies de camp que tenen la característica de que el vector camp elèctric en un punt donat resulta tangent a la línia de camp en aquest punt. A la Figura es poden veure les línies de camp elèctric creades per una càrrega positiva (a) i per una negativa (b). Es pot apreciar que les línies de camp surten de les càrregues positives i es dirigeixen cap a les càrregues negatives. Per altra banda, quan més allunyades estan dues línies adjacents, menys intens resulta el camp en aquella regió de l'espai. A la figura es pot apreciar que a mesura que ens allunyem de les càrregues més separades estan les línies seguint el patró de que el camp disminueix amb el quadrat de la distància.
 
@@ -149,7 +146,7 @@ $$\begin{equation}\label{eq:treball_cond_1}
 W=\vec{F}\cdotp\Delta\vec{r}=qEd
 \end{equation}$$
 
-ja que $\vec{F}=q\vec{E}$, el desplaçament és igual a la separació entre les plaques i tant la força com el desplaçament són paral·lels.
+ja que $$\vec{F}=q\vec{E}$$, el desplaçament és igual a la separació entre les plaques i tant la força com el desplaçament són paral·lels.
 
 Per altra banda sabem que el treball serà igual al valor de la càrrega per la diferència de potencial entre les plaques canviat de signe, per tant,
 
@@ -157,11 +154,11 @@ $$\begin{equation}\label{eq:treball_cond_2}
 W=-q(V_{-}-V_{+})=-q\Delta V
 \end{equation}$$
 
-Igualant les expressions $\eqref{eq:treball_cond_1}$ i $\eqref{eq:treball_cond_2}$ podem obtenir l'expressió que dona el valor del camp elèctric entre les plaques del condensador
+Igualant les expressions $$\eqref{eq:treball_cond_1}$$ i $$\eqref{eq:treball_cond_2}$$ podem obtenir l'expressió que dona el valor del camp elèctric entre les plaques del condensador
 
 $$E=-\frac{\Delta V}{d}$$
 
-on $\Delta V$ és la diferència de potencial entre les plaques i $d$ és la separació entre les plaques.
+on $$\Delta V$$ és la diferència de potencial entre les plaques i $$d$$ és la separació entre les plaques.
 
 
 ### Notes
@@ -171,5 +168,3 @@ on $\Delta V$ és la diferència de potencial entre les plaques i $d$ és la sep
 <sup id="fn2">2. A efectes pràctics considerarem que el valor de la constant de l'aire és igual a la del buit.<a href="#ref2" title="Tornar al text.">↩</a></sup>
 
 <sup id="fn3">3. Sempre hi haurà “efectes de borde” en els extrem de les plaques però nosaltres suposarem que les plaques tenen uns costats molt llargs comparats amb la distància de separació entre plaques com per a poder negligir aquests efectes.<a href="#ref3" title="Tornar al text.">↩</a></sup>
-
-
