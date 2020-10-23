@@ -38,7 +38,7 @@ A la figura inferior es pot apreciar el significat de cada factor de la llei de 
 
 <figure>
   <img src="img/coulomb.svg.png" alt="Força de Coulomb" width="70%">
-  <figcaption>La força de Coulomb entre dues càrregues té la direcció que uneix les dues càrregues però el sentit ve donat per el signe de les càrregues: càrregues d'igual signe es repel·leixen i càrregues d'igual signe s'atrauen (és el cas de la figura on només està indicada la força sobre la càrrega $$q_{2}$$).</figcaption>
+  <figcaption>La força de Coulomb entre dues càrregues té la direcció que uneix les dues càrregues però el sentit ve donat per el signe de les càrregues: càrregues d'igual signe es repel·leixen i càrregues d'igual signe s'atrauen (és el cas de la figura on només està indicada la força sobre la càrrega $q_{2}$).</figcaption>
 </figure>
  
 ## Camp elèctric
@@ -162,7 +162,7 @@ on $$\Delta V$$ és la diferència de potencial entre les plaques i $$d$$ és la
 
 ### Notes
 
-<sup id="fn1">1. L'any 600 AC Tales de Milet va observar que fregant ambre amb un tros de llana o pell d'animal el material adquiria la capacitat d'atraure petits objectes i si es fregava durant molt de temps es podia produir una guspira. El nom que els grecs donaven a l'ambre era $\varepsilon\lambda\varepsilon\kappa\tau\rho o\nu$ (elektron), que és l'origen del nom amb el que coneixem aquest tipus d'interacció. Per a conèixer més sobre la història de l'electricitat podeu consultar: [https://ca.wikipedia.org/wiki/Història_de_l'electricitat].<a href="#ref1" title="Tornar al text.">↩</a></sup>
+<sup id="fn1">1. L'any 600 AC Tales de Milet va observar que fregant ambre amb un tros de llana o pell d'animal el material adquiria la capacitat d'atraure petits objectes i si es fregava durant molt de temps es podia produir una guspira. El nom que els grecs donaven a l'ambre era $$\varepsilon\lambda\varepsilon\kappa\tau\rho o\nu$$ (elektron), que és l'origen del nom amb el que coneixem aquest tipus d'interacció. Per a conèixer més sobre la història de l'electricitat podeu consultar: [https://ca.wikipedia.org/wiki/Història_de_l'electricitat].<a href="#ref1" title="Tornar al text.">↩</a></sup>
 
 <sup id="fn2">2. A efectes pràctics considerarem que el valor de la constant de l'aire és igual a la del buit.<a href="#ref2" title="Tornar al text.">↩</a></sup>
 
