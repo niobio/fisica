@@ -52,7 +52,7 @@ Newton sabia que la llei fonamental per a la força no podia dependre de la velo
  
  $$v=\frac{2\pi r}{T}$$
 
-on $r$ és el radi de l'òrbita i $T$ el període.
+on $$r$$ és el radi de l'òrbita i $$T$$ el període.
 
 D'aquesta manera l'expressió de la força queda:
 
@@ -72,7 +72,7 @@ $$F_{\mathrm{Terra-poma}}=k.m_{\mathrm{poma}}/r_{\mathrm{Terra}}^{2}$$
 
 $$F_{\mathrm{Terra-Lluna}}=k.m_{\mathrm{Lluna}}/r_{\mathrm{Terra-Lluna}}^{2}$$
 
-on $k$ s'ha d'interpretar com una constant de proporcionalitat. De la segona llei de Newton $a=F/m$ obtenim $$a_{\mathrm{poma}}=k/r_{\mathrm{Terra}}^{2}$$
+on $$k$$ s'ha d'interpretar com una constant de proporcionalitat. De la segona llei de Newton $$a=F/m$$ obtenim $$a_{\mathrm{poma}}=k/r_{\mathrm{Terra}}^{2}$$
 
 $$a_{\mathrm{Lluna}}=k/r_{\mathrm{Terra-Lluna}}^{2}$$
 
@@ -81,7 +81,7 @@ En l'època de Newton ja se sabia que la distància Terra-Lluna era 60 vegades e
 <img src="img/lluna_poma.png" style="width:30%">
 
 Per a validar la seva hipòtesi Newton havia de verificar que l'acceleració de la Lluna era $$3600=60^{2}$$
-  més petita que l'acceleració de la poma ($$9,8\,\mathrm{m/s^{2}}$$). Va determinar l'acceleració de la Lluna fent servir: $a=v^{2}/r$ i efectivament va comprovar que era 3600 vegades més petita que $$9,8\,\mathrm{m/s^{2}}$$! Newton havia trobat uns dels secrets millor guardats per la natura!
+  més petita que l'acceleració de la poma ($$9,8\,\mathrm{m/s^{2}}$$). Va determinar l'acceleració de la Lluna fent servir: $$a=v^{2}/r$$ i efectivament va comprovar que era 3600 vegades més petita que $$9,8\,\mathrm{m/s^{2}}$$! Newton havia trobat uns dels secrets millor guardats per la natura!
 
 Per altra banda, per a que sigui vàlid el principi d'interacció (acció i reacció), la força havia de ser simètrica respecte del cossos que interactuaven, per tant, la intensitat de la força també depèn del cos que la produeix. Per tant, la magnitud de la força ve donada per l'expressió següent:
 
@@ -158,7 +158,7 @@ La intensitat de camp gravitatori depèn de l'altura. L'expressió del mòdul de
 
 $$g=G\frac{M_{T}}{(R_{T}+h)^{2}}$$
 
-on $$M_{T}=5,98\times10^{24}\,\mathrm{kg}$$ és la massa de la Terra i $$R_{T}=6,38\times10^{6}\,\mathrm{m}$$ és el radi mig de la Terra. Si fem servir aquests valors i fem $h=0$ obtenim el valor $$g=9,8\,\mathrm{N/kg}$$ que és el valor que mesurem a la superfície de la Terra.
+on $$M_{T}=5,98\times10^{24}\,\mathrm{kg}$$ és la massa de la Terra i $$R_{T}=6,38\times10^{6}\,\mathrm{m}$$ és el radi mig de la Terra. Si fem servir aquests valors i fem $$h=0$$ obtenim el valor $$g=9,8\,\mathrm{N/kg}$$ que és el valor que mesurem a la superfície de la Terra.
 
 ### Pes d'un cos de massa m
 
@@ -216,7 +216,7 @@ El mateix és vàlid per a la intensitat de camp gravitatori creat per un conjun
  
 $$\vec{g}=\sum_{i=1}^{n}\vec{g}_{i}=-\sum_{i=1}^{n}G\frac{m_{i}}{r_{i}^{2}}\hat{r}_{i}$$
 
-on $$\vec{r}_{i}$$ és el vector que apunta des de la massa $$m_{i}$ al punt $P$, $r_{i}^{2}=\vec{r}_{i}.\vec{r}_{i}=\left|\vec{r}_{i}\right|^{2}$$ i $$\hat{r}_{i}=\vec{r}_{i}/\left|\vec{r}_{i}\right|$$ és el vector unitari que apunta des de la massa $$m_{i}$$ al punt $$P$$.
+on $$\vec{r}_{i}$$ és el vector que apunta des de la massa $$m_{i}$$ al punt $$P$$, $$r_{i}^{2}=\vec{r}_{i}.\vec{r}_{i}=\left|\vec{r}_{i}\right|^{2}$$ i $$\hat{r}_{i}=\vec{r}_{i}/\left|\vec{r}_{i}\right|$$ és el vector unitari que apunta des de la massa $$m_{i}$$ al punt $$P$$.
 
 ## Energia potencial gravitatòria
 
@@ -267,7 +267,7 @@ $$E_{\mathrm{M}}=E_{\mathrm{C}}+U=\frac{1}{2}G\frac{Mm}{r}-G\frac{Mm}{r}=-\frac{
 
 Si llancem verticalment un objecte puja minvant la seva velocitat fins que aquesta s'anul·la i després cau. Si augmentem la velocitat de llançament augmentarà l'altura a la que pujarà l'objecte. Ens preguntem hi haurà una velocitat inicial que permeti l'objecte continuar allunyant-se indefinidament de la Terra?
 
-Farem la suposició de que no hi ha fregament i que l'única força que actua a partir del moment del llançament és la força d'atracció gravitatòria, es a dir, el seu pes. Llançarem l'objecte amb una velocitat inicial $v_{0}$ i la força de la gravetat anirà frenant el cos. Com que l'única força que actua és la gravitatòria l'energia mecànica es conserva durant tot el moviment. Just en el moment del llançament l'energia mecànica es la suma de l'energia cinètica inicial i l'energia potencial gravitatòria inicial
+Farem la suposició de que no hi ha fregament i que l'única força que actua a partir del moment del llançament és la força d'atracció gravitatòria, es a dir, el seu pes. Llançarem l'objecte amb una velocitat inicial $$v_{0}$$ i la força de la gravetat anirà frenant el cos. Com que l'única força que actua és la gravitatòria l'energia mecànica es conserva durant tot el moviment. Just en el moment del llançament l'energia mecànica es la suma de l'energia cinètica inicial i l'energia potencial gravitatòria inicial
 
 $$E_{\mathrm{M}}^{0}=E_{\mathrm{C}}^{0}+U^{0}=\frac{1}{2}mv_{0}^{2}-G\frac{Mm}{R}$$
 
@@ -287,7 +287,7 @@ Aquesta és la velocitat mínima que ha de tenir un cos llançat des de la super
 
 Podem observar de l'expressió que la velocitat d'escapament no depèn de la massa del cos llançat, només té dependència de la massa i el radi del planeta, per tant, la velocitat d'escapament és una característica pròpia del planeta.
 
-Fent servir les dades de nostre planeta $M=5,98\times10^{24}\,\mathrm{kg}$ i $R=6,38\times10^{6}\,\mathrm{m}$, la velocitat d'escapament de la Terra és
+Fent servir les dades de nostre planeta $$M=5,98\times10^{24}\,\mathrm{kg}$$ i $$R=6,38\times10^{6}\,\mathrm{m}$$, la velocitat d'escapament de la Terra és
 
 $$v_{0}=11\,200\,\mathrm{m/s\approx40\,000\,\mathrm{km/h}}$$
  
