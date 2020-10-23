@@ -206,17 +206,17 @@ Totes dues són falses. La resposta és que **no senten la gravetat perquè esta
 
 ### Camp gravitatori creat per una distribució de masses
 
-Tant la força com el camp gravitatori són magnituds vectorials per als quals resulta vàlid el principi de superposició. Es a dir, la força gravitatòria sobre una massa $m$ produïda per un nombre $$n$$ de masses $$m_{1},\, m_{2,\,}\ldots,\, m_{n}$$, resulta ser igual a la suma vectorial de las forces produïdes per cada massa $m_{i}$ sobre la massa $$m$$. Matemàticament l'escrivim
+Tant la força com el camp gravitatori són magnituds vectorials per als quals resulta vàlid el principi de superposició. Es a dir, la força gravitatòria sobre una massa $m$ produïda per un nombre $$n$$ de masses $$m_{1},\, m_{2,\,}\ldots,\, m_{n}$$, resulta ser igual a la suma vectorial de las forces produïdes per cada massa $$m_{i}$$ sobre la massa $$m$$. Matemàticament l'escrivim
 
 $$\vec{F}=\sum_{i=1}^{n}\vec{F}_{i}=\vec{F}_{1}+\vec{F}_{2}+\ldots+\vec{F}_{n}$$
 $$=-G\frac{mm_{1}}{r_{1}^{2}}\hat{r}_{1}-G\frac{mm_{2}}{r_{2}^{2}}\hat{r}_{2}-\ldots-G\frac{mm_{n}}{r_{n}^{2}}\hat{r}_{n}$$
  
 
-El mateix és vàlid per a la intensitat de camp gravitatori creat per un conjunt $n$ de masses en un punt $$P$$
+El mateix és vàlid per a la intensitat de camp gravitatori creat per un conjunt $$n$$ de masses en un punt $$P$$
  
 $$\vec{g}=\sum_{i=1}^{n}\vec{g}_{i}=-\sum_{i=1}^{n}G\frac{m_{i}}{r_{i}^{2}}\hat{r}_{i}$$
 
-on $$\vec{r}_{i}$$ és el vector que apunta des de la massa $$m_{i}$$ al punt $$P$$, $$r_{i}^{2}=\vec{r}_{i}.\vec{r}_{i}=\left|\vec{r}_{i}\right|^{2}$$ i $$\hat{r}_{i}=\vec{r}_{i}/\left|\vec{r}_{i}\right|$$ és el vector unitari que apunta des de la massa $$m_{i}$$ al punt $$P$$.
+on $$\vec{r}_{i}$$ és el vector que apunta des de la massa $$m_{i}$$ al punt $$P$$, $$r_{i}^{2}=\left|\vec{r}_{i}\right|^{2}$$ i $$\hat{r}_{i}=\vec{r}_{i}/\left|\vec{r}_{i}\right|$$ és el vector unitari que apunta des de la massa $$m_{i}$$ al punt $$P$$.
 
 ## Energia potencial gravitatòria
 
