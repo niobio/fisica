@@ -38,12 +38,12 @@ A la figura inferior es pot apreciar el significat de cada factor de la llei de 
 
 <figure>
   <img src="img/coulomb.svg.png" alt="Força de Coulomb" width="70%">
-  <figcaption>La força de Coulomb entre dues càrregues té la direcció que uneix les dues càrregues però el sentit ve donat per el signe de les càrregues: càrregues d'igual signe es repel·leixen i càrregues d'igual signe s'atrauen (és el cas de la figura on només està indicada la força sobre la càrrega $q_{2}$).</figcaption>
+  <figcaption>La força de Coulomb entre dues càrregues té la direcció que uneix les dues càrregues però el sentit ve donat per el signe de les càrregues: càrregues d'igual signe es repel·leixen i càrregues d'igual signe s'atrauen (és el cas de la figura on només està indicada la força sobre la càrrega 2.</figcaption>
 </figure>
  
 ## Camp elèctric
 
-El concepte de camp va ser creat per Michael Faraday i resulta una eina útil per entendre les interaccions. Podem dir que una càrrega $q_{1}$ produeix una “modificació” a l'espai que l'envolta. Aquesta modificació l'anomenem camp elèctric $$\vec{E}$$ i és un vector que donat per l'expressió de l'equació següent
+El concepte de camp va ser creat per Michael Faraday i resulta una eina útil per entendre les interaccions. Podem dir que una càrrega $$q_{1}$$ produeix una “modificació” a l'espai que l'envolta. Aquesta modificació l'anomenem camp elèctric $$\vec{E}$$ i és un vector que donat per l'expressió de l'equació següent
 
 $$\begin{equation}\label{eq:camp}
 \vec{E}=k\frac{q_{1}}{r^{2}}\hat{r}
@@ -53,7 +53,7 @@ on $$r$$ és la distància entre la càrrega i el punt on es mesura el camp elè
 
 <figure>
   <img src="img/camp.png" alt="Camp elèctric" width="70%">
-  <figcaption>Camp elèctric creat per una càrrega $$q_{1}>0$$ en el punt P. Podem observar que el camp té sentit de la càrrega cap a fora. Si en el punt P posem una altra càrrega positiva apareixeria sobre aquesta una força repulsiva (amb el mateix sentit que el camp) però si posem una càrrega negativa hi apareix una força atractiva amb el sentit oposat al del camp elèctric.</figcaption>
+  <figcaption>Camp elèctric creat per una càrrega positiva en el punt P. Podem observar que el camp té sentit de la càrrega cap a fora. Si en el punt P posem una altra càrrega positiva apareixeria sobre aquesta una força repulsiva (amb el mateix sentit que el camp) però si posem una càrrega negativa hi apareix una força atractiva amb el sentit oposat al del camp elèctric.</figcaption>
 </figure>
 
 Tant l'expressió de la força com la del camp elèctric presentades són vàlides per a càrregues puntuals o per a càrregues volumètriques amb una distribució de simetria esfèrica. La relació que sempre resulta vàlida independentment de la distribució de càrrega és la expressió que lliga el camp amb la força electrostàtica:
@@ -130,7 +130,7 @@ El que passa quan carreguem un conductor és que durant un interval de temps mol
 
 ## Camp elèctric entre plaques metàl·liques paral·leles
 
-Una manera de crear un camp elèctric uniforme és posant un parell de plaques metàl·liques paral·leles carregades amb càrregues iguals però de signe diferent tal com es veu a la figura inferior. Un dispositiu com aquest es coneix com a **capacitor** o **condensador** de plaques paral·leles. Per a carregar les plaques s'aplica a les plaques, que estan separades una distància $d$, una diferència de potencial $V$. Apareix aleshores un corrent elèctric que fa que les plaques es vagin carregant fins que entre les plaques hi ha un potencial igual a la del generador. Com que les plaques estan carregades, en l'espai entre elles hi haurà un camp elèctric. 
+Una manera de crear un camp elèctric uniforme és posant un parell de plaques metàl·liques paral·leles carregades amb càrregues iguals però de signe diferent tal com es veu a la figura inferior. Un dispositiu com aquest es coneix com a **capacitor** o **condensador** de plaques paral·leles. Per a carregar les plaques s'aplica a les plaques, que estan separades una distància $$d$$, una diferència de potencial $$V$$. Apareix aleshores un corrent elèctric que fa que les plaques es vagin carregant fins que entre les plaques hi ha un potencial igual a la del generador. Com que les plaques estan carregades, en l'espai entre elles hi haurà un camp elèctric. 
 
 <figure>
   <img src="img/condensador.jpg" alt="Condensador" width="70%">
@@ -162,7 +162,7 @@ on $$\Delta V$$ és la diferència de potencial entre les plaques i $$d$$ és la
 
 ### Notes
 
-<sup id="fn1">1. L'any 600 AC Tales de Milet va observar que fregant ambre amb un tros de llana o pell d'animal el material adquiria la capacitat d'atraure petits objectes i si es fregava durant molt de temps es podia produir una guspira. El nom que els grecs donaven a l'ambre era $$\varepsilon\lambda\varepsilon\kappa\tau\rho o\nu$$ (elektron), que és l'origen del nom amb el que coneixem aquest tipus d'interacció. Per a conèixer més sobre la història de l'electricitat podeu consultar: [https://ca.wikipedia.org/wiki/Història_de_l'electricitat].<a href="#ref1" title="Tornar al text.">↩</a></sup>
+<sup id="fn1">1. L'any 600 AC Tales de Milet va observar que fregant ambre amb un tros de llana o pell d'animal el material adquiria la capacitat d'atraure petits objectes i si es fregava durant molt de temps es podia produir una guspira. El nom que els grecs donaven a l'ambre era $$\varepsilon\lambda\varepsilon\kappa\tau\rho o\nu$$ (elektron), que és l'origen del nom amb el que coneixem aquest tipus d'interacció. Per a conèixer més sobre la història de l'electricitat podeu consultar: [https://ca.wikipedia.org/wiki/Història_de_l'electricitat](https://ca.wikipedia.org/wiki/Història_de_l'electricitat).<a href="#ref1" title="Tornar al text.">↩</a></sup>
 
 <sup id="fn2">2. A efectes pràctics considerarem que el valor de la constant de l'aire és igual a la del buit.<a href="#ref2" title="Tornar al text.">↩</a></sup>
 
