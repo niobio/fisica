@@ -216,7 +216,19 @@ El mateix és vàlid per a la intensitat de camp gravitatori creat per un conjun
  
 $$\vec{g}=\sum_{i=1}^{n}\vec{g}_{i}=-\sum_{i=1}^{n}G\frac{m_{i}}{r_{i}^{2}}\hat{r}_{i}$$
 
-on $$\vec{r}_{i}$$ és el vector que apunta des de la massa $$m_{i}$$ al punt $$P$$, $$r_{i}^{2}=\left|\vec{r}_{i}\right|^{2}$$ i $$\hat{r}_{i}=\vec{r}_{i}/\left|\vec{r}_{i}\right|$$ és el vector unitari que apunta des de la massa $$m_{i}$$ al punt $$P$$.
+on 
+
+$$\vec{r}_{i}$$ 
+
+és el vector que apunta des de la massa $$m_{i}$$ al punt $$P$$, 
+
+$$r_{i}^{2}=\left|\vec{r}_{i}\right|^{2}$$ 
+
+i 
+
+$$\hat{r}_{i}=\vec{r}_{i}/\left|\vec{r}_{i}\right|$$ 
+
+és el vector unitari que apunta des de la massa $$m_{i}$$ al punt $$P$$.
 
 ## Energia potencial gravitatòria
 
