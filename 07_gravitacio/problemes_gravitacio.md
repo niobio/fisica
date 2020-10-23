@@ -15,13 +15,13 @@
     </tr>
     <tr>
      <td>Terra</td> 
-     <td>$148 \times 10^{6}$</td>
-     <td>$1,0$</td>
+     <td>$$148 \times 10^{6}$$</td>
+     <td>$41,0$$</td>
      </tr>
      <tr>
      <td>Júpiter</td>
      <td></td>
-     <td>$11,9$</td>
+     <td>$$11,9$$</td>
      </tr>
      </table>
      <br>
@@ -70,10 +70,10 @@
 <li>Hi ha un punt a l'espai entre la Terra i la Lluna en el qual el camp gravitatori és nul. Determina a quina distància de la Terra està aquest punt.
 
     Dades: <br>
-    Massa de la Terra: $$M_{T}=5,98\times10^{24}\,\mathrm{kg}$$,<br> 
-    Massa de la Lluna: $$M_{L}=7,35\times10^{22}\,\mathrm{kg}$$,<br> 
-    Distància Terra-Lluna: $$d_{TL}=384000\,\mathrm{km}$$, <br>
-    Constant de gravitació universal: $$G=6,673\times10^{-11}\,\mathrm{Nm^{2}/kg^{2}}$$ <br>
+    Massa de la Terra: $$M_{T}=5,98\times10^{24}\,\mathrm{kg}$$,
+    Massa de la Lluna: $$M_{L}=7,35\times10^{22}\,\mathrm{kg}$$,
+    Distància Terra-Lluna: $$d_{TL}=384000\,\mathrm{km}$$,
+    Constant de gravitació universal: $$G=6,673\times10^{-11}\,\mathrm{Nm^{2}/kg^{2}}$$
 </li>
 <a href="sol/prob708.pdf">Solució</a>
 <br>
