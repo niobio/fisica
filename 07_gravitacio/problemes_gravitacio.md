@@ -1,4 +1,3 @@
-
 # Problemes Unitat 2: Planetes i satèl·lits
 
 <style type="text/css">
@@ -27,7 +26,7 @@
      </table>
      <br>
      <a href="sol/prob701.pdf">Solució</a>
-2. Mesurem el període orbital del planeta Mart al voltant del Sol i determinem que és de $687$ dies. Determina la distància entre Mart i el Sol sabent que la distància entre la Terra i el Sol és de $1,496\times10^{11}\,\mathrm{m}$.
+2. Mesurem el període orbital del planeta Mart al voltant del Sol i determinem que és de $$687$$ dies. Determina la distància entre Mart i el Sol sabent que la distància entre la Terra i el Sol és de $$1,496\times10^{11}\,\mathrm{m}$$.
      <br>
      <a href="sol/prob702.pdf">Solució</a>
 
@@ -36,7 +35,7 @@
      <a href="sol/prob703.pdf">Solució</a>
 
 4. El Meteosat és un satèl·lit geoestacionari, és a dir, que gira en el pla equatorial amb la mateixa velocitat angular que la Terra. A quina distància de la superfície de la Terra es troba?
-    Dades: $M_{T}=5,972\times10^{24}\,\mathrm{kg}$; $R_{T}=6,371\times10^{6}\,\mathrm{m}$.
+    Dades: $$M_{T}=5,972\times10^{24}\,\mathrm{kg}$$; $$R_{T}=6,371\times10^{6}\,\mathrm{m}$$.
     (Rta: 36000 km)
      <br>
      <a href="sol/prob704.pdf">Solució</a>
@@ -46,9 +45,9 @@
     2. El radi de l'òrbita.
     3. L'angle amb que es veu la Terra des del satèl·lit.
 
-    Dades: $M_{T}=5,98\times10^{24}\,\mathrm{kg}$; $R_{T}=6,38\times10^{6}\,\mathrm{m}$.
+    Dades: $$M_{T}=5,98\times10^{24}\,\mathrm{kg}$$; $$R_{T}=6,38\times10^{6}\,\mathrm{m}$$.
    
-    Rta: A. $3,7\times10^{3}\,\mathrm{m/s}$; B. $4,23\times10^{7}\,\mathrm{m}$; C. $17,22^{\circ}$
+    Rta: A. $$3,7\times10^{3}\,\mathrm{m/s}$$; B. $$4,23\times10^{7}\,\mathrm{m}$$; C. $$17,22^{\circ}$$
      <br>
      <a href="sol/prob705.pdf">Solució</a>
 
@@ -56,7 +55,7 @@
     1. Quina seran les velocitats angular i lineal dels satèl·lits.
     2. Quant de temps es guanyarà en les transmissions d'anada i tornada de la informació comparat amb el cas de satèl·lits geoestacionaris.
 
-    Dades: Radi de la Terra: $R_{T}=6,38\times10^{6}\,\mathrm{m}$, velocitat de la llum: $c=3\times10^{8}\mathrm{m/s}$
+    Dades: Radi de la Terra: $$R_{T}=6,38\times10^{6}\,\mathrm{m}$$, velocitat de la llum: $$c=3\times10^{8}\mathrm{m/s}$$
      <br>
      <a href="sol/prob706.pdf">Solució</a>
 
@@ -71,10 +70,10 @@
 <li>Hi ha un punt a l'espai entre la Terra i la Lluna en el qual el camp gravitatori és nul. Determina a quina distància de la Terra està aquest punt.
 
     Dades: <br>
-    Massa de la Terra: $M_{T}=5,98\times10^{24}\,\mathrm{kg}$,<br> 
-    Massa de la Lluna: $M_{L}=7,35\times10^{22}\,\mathrm{kg}$,<br> 
-    Distància Terra-Lluna: $d_{TL}=384000\,\mathrm{km}$, <br>
-    Constant de gravitació universal: $G=6,673\times10^{-11}\,\mathrm{Nm^{2}/kg^{2}}$ <br>
+    Massa de la Terra: $$M_{T}=5,98\times10^{24}\,\mathrm{kg}$$,<br> 
+    Massa de la Lluna: $$M_{L}=7,35\times10^{22}\,\mathrm{kg}$$,<br> 
+    Distància Terra-Lluna: $$d_{TL}=384000\,\mathrm{km}$$, <br>
+    Constant de gravitació universal: $$G=6,673\times10^{-11}\,\mathrm{Nm^{2}/kg^{2}}$$ <br>
 </li>
 <a href="sol/prob708.pdf">Solució</a>
 <br>
@@ -90,23 +89,23 @@
     <ol>
     <li>El mòdul, direcció i sentit del camp gravitatori creat per les quatre masses en el centre del quadrat. </li>
     <li>El potencial gravitatori en aquest mateix punt. </li>
-    <li>Si col·loquem una massa $M=300\,\mathrm{kg}$ en el centre del quadrat, quant valdrà la força sobre aquesta massa deguda a l’atracció gravitatòria del sistema format per les 4 masses? Indica quines són les components horitzontal i vertical d’aquesta força.</li>
+    <li>Si col·loquem una massa $$M=300\,\mathrm{kg}$$ en el centre del quadrat, quant valdrà la força sobre aquesta massa deguda a l’atracció gravitatòria del sistema format per les 4 masses? Indica quines són les components horitzontal i vertical d’aquesta força.</li>
     <br>
-    Dades: $m_{1}=m_{2}=m_{3}=100\,\mathrm{kg}$; $m_{4}=200\,\mathrm{kg}$; $L=3\,\mathrm{m}$;<br> 
-        $G=6,67\times10^{-11}\,\mathrm{Nm^{2}/kg^{2}}$ <br>
+    Dades: $$m_{1}=m_{2}=m_{3}=100\,\mathrm{kg}$$; $$m_{4}=200\,\mathrm{kg}$; $L=3\,\mathrm{m}$$;<br> 
+        $$G=6,67\times10^{-11}\,\mathrm{Nm^{2}/kg^{2}}$$ <br>
     <img src="img_prob/masses.png" width="70%">
     <br>
     <a href="sol/prob710.pdf">Solució</a>
     </ol>    
 </li>
 <br>
-<li>Tres masses puntuals, $m_{1}=1\,\mathrm{kg}$, $m_{2}=2\,\mathrm{kg}$ i $m_{3}=3\,\mathrm{kg}$, estan situades als vèrtexs d’un triangle equilàter de costat $a=\sqrt{3}\,\mathrm{m}$, en una regió de l’espai on no hi ha cap altre camp gravitatori que el creat per les tres masses. Determineu: 
+<li>Tres masses puntuals, $$m_{1}=1\,\mathrm{kg}$$, $$m_{2}=2\,\mathrm{kg}$$ i $$m_{3}=3\,\mathrm{kg}$$, estan situades als vèrtexs d’un triangle equilàter de costat $$a=\sqrt{3}\,\mathrm{m}$$, en una regió de l’espai on no hi ha cap altre camp gravitatori que el creat per les tres masses. Determineu: 
     <ol>
     <li>El treball que s’ha fet per portar les masses des de l’infinit fins a la seva configuració actual (aquest treball correspon a l’energia potencial gravitatòria de la configuració).</li>
-    <li>El potencial gravitatori en el punt mitjà del segment que uneix $m_{1}$ i $m_{3}$.</li>
-    <li>El mòdul de la força d’atracció gravitatòria que experimenta la massa $m_{1}$. </li>
+    <li>El potencial gravitatori en el punt mitjà del segment que uneix $$m_{1}$$ i $$m_{3}$$.</li>
+    <li>El mòdul de la força d’atracció gravitatòria que experimenta la massa $$m_{1}$$. </li>
     <br>
-    Dada: $G=6,67\times10^{-11}\,\mathrm{Nm^{2}/kg^{2}}$.
+    Dada: $$G=6,67\times10^{-11}\,\mathrm{Nm^{2}/kg^{2}}$$.
     </ol>
     <a href="sol/prob711.pdf">Solució</a>
 </li>
@@ -118,9 +117,9 @@
 <li>Tenim una massa de 10 kg en repòs sobre la superfície terrestre. Quin treball cal fer per pujar-la fins a una altura de 10 m? I fins a una altura de 630 km? 
 <br>
     Dades: <br>
-    $G=6,67\times10^{-11}\,\mathrm{Nm^{2}kg^{-2}}$; <br>
-    $M_{T}=5,98\times10^{24}\,\mathrm{kg}$; <br>
-    $R_{T}=6,37\times10^{6}\,\mathrm{m}$. <br>
+    $$G=6,67\times10^{-11}\,\mathrm{Nm^{2}kg^{-2}}$$; <br>
+    $$M_{T}=5,98\times10^{24}\,\mathrm{kg}$$; <br>
+    $$R_{T}=6,37\times10^{6}\,\mathrm{m}$$. <br>
     <a href="sol/prob712.pdf">Solució</a>
 </li>
 <br>
@@ -132,7 +131,7 @@
 <a href="sol/prob713.pdf">Solució</a>
 </li>
 <br>
-<li>L'any 1910 el cometa Halley es movia amb una velocitat de 55 km/s quan era a $8,8\times10^{7}\,\mathrm{km}$  del centre del Sol. La seva velocitat era de 42 km/s quan era a la mateixa distància al Sol que la Terra: $1,5\times10^{8}\,\mathrm{km}$. Aplicant la conservació de l'energia mecànica, calcula la massa del Sol.
+<li>L'any 1910 el cometa Halley es movia amb una velocitat de 55 km/s quan era a $$8,8\times10^{7}\,\mathrm{km}$$  del centre del Sol. La seva velocitat era de 42 km/s quan era a la mateixa distància al Sol que la Terra: $$1,5\times10^{8}\,\mathrm{km}$$. Aplicant la conservació de l'energia mecànica, calcula la massa del Sol.
 <br>
 <a href="sol/prob714.pdf">Solució</a>
 </li>
@@ -142,7 +141,7 @@
     <ol>
         <li>Anirà cap a la dreta o cap a l'esquerra? Per què?</li>
         <li>Amb quina velocitat arribarà als punts A i C, tenint en compte la resposta anterior?</li>
-    Rta: (b) $4,2\times10^{-5}\,\mathrm{m/s}$.
+    Rta: (b) $$4,2\times10^{-5}\,\mathrm{m/s}$$.
     </ol>
 <a href="sol/prob715.pdf">Solució</a>
 </li>
@@ -168,17 +167,17 @@
 </li>
 <br>
 
-<li>La massa de Saturn és de $5,69\times10^{26}\,\mathrm{kg}$. Un dels seus satèl·lits, Mimas, té una massa de $3,8\times10^{19}\,\mathrm{kg}$ i un radi d’$1,96\times10^{5}\,\mathrm{m}$, i descriu una òrbita pràcticament circular al voltant de Saturn de radi $1,86\times10^{8}\,\mathrm{m}$. Determineu: 
+<li>La massa de Saturn és de $$5,69\times10^{26}\,\mathrm{kg}$$. Un dels seus satèl·lits, Mimas, té una massa de $$3,8\times10^{19}\,\mathrm{kg}$$ i un radi d’$$1,96\times10^{5}\,\mathrm{m}$$, i descriu una òrbita pràcticament circular al voltant de Saturn de radi $$1,86\times10^{8}\,\mathrm{m}$$. Determineu: 
     <ol>
         <li>El període de revolució de Mimas al voltant de Saturn.</li>
         <li>El valor de l’acceleració de la gravetat a la superfície de Mimas. </li>
         <li>La velocitat d’escapament de la superfície de Mimas. </li>
-    Dada: $G=6,67\times10^{-11}\,\mathrm{Nm^{2}kg^{-2}}$
+    Dada: $$G=6,67\times10^{-11}\,\mathrm{Nm^{2}kg^{-2}}$$
     </ol>
     <a href="sol/prob718.pdf">Solució</a>
 </li>
 <br>
-<li>El gràfic adjunt mostra com varia l’energia potencial gravitatòria d’un cos de massa 2 kg, en un planeta de radi $R=5000\,\mathrm{km}$, amb la distància $h$ a la superfície del planeta (suposant que $h$ és molt més petita que $R$). 
+<li>El gràfic adjunt mostra com varia l’energia potencial gravitatòria d’un cos de massa 2 kg, en un planeta de radi $$R=5000\,\mathrm{km}$$, amb la distància $$h$$ a la superfície del planeta (suposant que $$h$$ és molt més petita que $R$). 
     <img src="img_prob/04_grafic_ep.png" width="80%">
     <ol>
         <li>L’acceleració de la gravetat a la superfície del planeta esmentat.</li>
@@ -187,7 +186,7 @@
     </ol>
     <br>
     Dada:<br> 
-    $G=6,67\times10^{-11}\,\mathrm{Nm^{2}/kg^{2}}$.
+    $$G=6,67\times10^{-11}\,\mathrm{Nm^{2}/kg^{2}}$$.
     <br>
     <a href="sol/prob719.pdf">Solució</a>
 </li>
@@ -199,9 +198,9 @@
     <li>La nova velocitat i el temps que trigaria a fer una volta a la Terra, si féssim orbitar un d’aquests satèl·lits a una altura doble. </li>
     </ol>
     Dades: <br>
-    $G=6,67\times10^{-11}\,\mathrm{Nm^{2}kg^{-2}}$; <br>
-    $M_{T}=5,98\times10^{24}\mathrm{kg}$; <br>
-    $R_{T}=6380\,\mathrm{kg}$.<br>
+    $$G=6,67\times10^{-11}\,\mathrm{Nm^{2}kg^{-2}}$$; <br>
+    $$M_{T}=5,98\times10^{24}\mathrm{kg}$$; <br>
+    $$R_{T}=6380\,\mathrm{kg}$$.<br>
     <a href="sol/prob720.pdf">Solució</a>
 </li>
 <br>
@@ -214,8 +213,8 @@
         <li>La velocitat d’escapament des de la superfície lunar.</li>
     </ol>
     Dades: <br>
-        $G=6,67\times10^{-11}\,\mathrm{Nm^{2}kg^{-2}}$; <br>
-        $R_{\mathrm{Lluna}}=1,74\times10^{3}\,\mathrm{km}$.<br>
+        $$G=6,67\times10^{-11}\,\mathrm{Nm^{2}kg^{-2}}$$; <br>
+        $$R_{\mathrm{Lluna}}=1,74\times10^{3}\,\mathrm{km}$$.<br>
     <a href="sol/prob721.pdf">Solució</a>
 </li>
 </ol>

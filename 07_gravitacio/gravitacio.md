@@ -1,4 +1,3 @@
-
 # Planetes i satèl·lits
 
 ## Dos visions de l'univers
@@ -59,7 +58,7 @@ D'aquesta manera l'expressió de la força queda:
 
 $$F=\frac{4\pi^{2}mr}{T^{2}}$$
 
-Utilitzant la tercera llei de Kepler per a una òrbita circular: $T^{2}\propto r^{3}$
+Utilitzant la tercera llei de Kepler per a una òrbita circular: $$T^{2}\propto r^{3}$$
 
 $$F\propto\frac{m}{r^{2}}$$
 
@@ -81,19 +80,18 @@ En l'època de Newton ja se sabia que la distància Terra-Lluna era 60 vegades e
 
 <img src="img/lluna_poma.png" style="width:30%">
 
-Per a validar la seva hipòtesi Newton havia de verificar que l'acceleració de la Lluna era $3600=60^{2}$
-  més petita que l'acceleració de la poma ($9,8\,\mathrm{m/s^{2}}$). Va determinar l'acceleració de la Lluna fent servir: $a=v^{2}/r$ i efectivament va comprovar que era 3600 vegades més petita que $9,8\,\mathrm{m/s^{2}}$! Newton havia trobat uns dels secrets millor guardats per la natura!
+Per a validar la seva hipòtesi Newton havia de verificar que l'acceleració de la Lluna era $$3600=60^{2}$$
+  més petita que l'acceleració de la poma ($$9,8\,\mathrm{m/s^{2}}$$). Va determinar l'acceleració de la Lluna fent servir: $a=v^{2}/r$ i efectivament va comprovar que era 3600 vegades més petita que $$9,8\,\mathrm{m/s^{2}}$$! Newton havia trobat uns dels secrets millor guardats per la natura!
 
 Per altra banda, per a que sigui vàlid el principi d'interacció (acció i reacció), la força havia de ser simètrica respecte del cossos que interactuaven, per tant, la intensitat de la força també depèn del cos que la produeix. Per tant, la magnitud de la força ve donada per l'expressió següent:
 
 $$F=G\frac{m_{1}m_{2}}{r^{2}}$$
 
-on $G$ és una constant anomenada **constant de gravitació universal** i val 
+on $$G$$ és una constant anomenada **constant de gravitació universal** i val 
 
 $$G=6,67\times10^{-11}\,\mathrm{Nm^{2}kg^{-2}}$$
  
-El valor de $G$ és independent dels cossos que interactuen i ens diu que la força gravitatòria és molt petita, així dues masses d'1 kg separades per una distància d'1 m experimentaran una força de $6,67\times10^{-11}\,\mathrm{N}$.
- .
+El valor de $G$ és independent dels cossos que interactuen i ens diu que la força gravitatòria és molt petita, així dues masses d'1 kg separades per una distància d'1 m experimentaran una força de $$6,67\times10^{-11}\,\mathrm{N}$$.
 
 <img src='img/constant_G.png' style="width:70%">
 
@@ -101,7 +99,7 @@ La força gravitatòria té la direcció de la recta que uneix els cossos que in
 
 $$\vec{F}=-G\frac{m_{1}m_{2}}{r^{2}}\hat{r}$$
 
-on $\hat{r}$ és el vector unitari (versor) que apunta des de el cos que produeix la força cap al cos que la rep. Amb aquesta convenció, el signe menys apareix per a indicar que la força és atractiva.
+on $$\hat{r}$$ és el vector unitari (versor) que apunta des de el cos que produeix la força cap al cos que la rep. Amb aquesta convenció, el signe menys apareix per a indicar que la força és atractiva.
 
 <img src='img/llei_gravitacio.svg' style="width:70%">
 
@@ -121,7 +119,7 @@ Per l'altra banda l'única força que actua sobre el satèl·lit és la gravitat
 
 $$F_{\mathrm{G}}=G\frac{Mm}{r^{2}}$$
 
-on $M$ és la massa del planeta. Igualant ambdues equacions ens queda:
+on $$M$$ és la massa del planeta. Igualant ambdues equacions ens queda:
 
 $$\frac{mv^{2}}{r}=G\frac{Mm}{r^{2}}$$
 
@@ -160,15 +158,15 @@ La intensitat de camp gravitatori depèn de l'altura. L'expressió del mòdul de
 
 $$g=G\frac{M_{T}}{(R_{T}+h)^{2}}$$
 
-on $M_{T}=5,98\times10^{24}\,\mathrm{kg}$ és la massa de la Terra i $R_{T}=6,38\times10^{6}\,\mathrm{m}$ és el radi mig de la Terra. Si fem servir aquests valors i fem $h=0$ obtenim el valor $g=9,8\,\mathrm{N/kg}$ que és el valor que mesurem a la superfície de la Terra.
+on $$M_{T}=5,98\times10^{24}\,\mathrm{kg}$$ és la massa de la Terra i $$R_{T}=6,38\times10^{6}\,\mathrm{m}$$ és el radi mig de la Terra. Si fem servir aquests valors i fem $h=0$ obtenim el valor $$g=9,8\,\mathrm{N/kg}$$ que és el valor que mesurem a la superfície de la Terra.
 
 ### Pes d'un cos de massa m
 
-El pes d'un cos de massa $m$ és
+El pes d'un cos de massa $$m$$ és
 
 $$P=mg$$
 
-Un cos de massa 1 kg tindrà un pes sobre la superfície de la Terra de $9,8\,\mathrm{N}$, però a una altura més gran el pes anirà minvant.
+Un cos de massa 1 kg tindrà un pes sobre la superfície de la Terra de $$9,8\,\mathrm{N}$$, però a una altura més gran el pes anirà minvant.
 
 Per a mesurar força hi ha altres unitats, com ser el kilopond (kp). La seva relació amb el newton és 
 
@@ -208,25 +206,25 @@ Totes dues són falses. La resposta és que **no senten la gravetat perquè esta
 
 ### Camp gravitatori creat per una distribució de masses
 
-Tant la força com el camp gravitatori són magnituds vectorials per als quals resulta vàlid el principi de superposició. Es a dir, la força gravitatòria sobre una massa $m$ produïda per un nombre $n$ de masses $m_{1},\, m_{2,\,}\ldots,\, m_{n}$, resulta ser igual a la suma vectorial de las forces produïdes per cada massa $m_{i}$ sobre la massa $m$. Matemàticament l'escrivim
+Tant la força com el camp gravitatori són magnituds vectorials per als quals resulta vàlid el principi de superposició. Es a dir, la força gravitatòria sobre una massa $m$ produïda per un nombre $$n$$ de masses $$m_{1},\, m_{2,\,}\ldots,\, m_{n}$$, resulta ser igual a la suma vectorial de las forces produïdes per cada massa $m_{i}$ sobre la massa $$m$$. Matemàticament l'escrivim
 
 $$\vec{F}=\sum_{i=1}^{n}\vec{F}_{i}=\vec{F}_{1}+\vec{F}_{2}+\ldots+\vec{F}_{n}$$
 $$=-G\frac{mm_{1}}{r_{1}^{2}}\hat{r}_{1}-G\frac{mm_{2}}{r_{2}^{2}}\hat{r}_{2}-\ldots-G\frac{mm_{n}}{r_{n}^{2}}\hat{r}_{n}$$
  
 
-El mateix és vàlid per a la intensitat de camp gravitatori creat per un conjunt $n$ de masses en un punt $P$
+El mateix és vàlid per a la intensitat de camp gravitatori creat per un conjunt $n$ de masses en un punt $$P$$
  
 $$\vec{g}=\sum_{i=1}^{n}\vec{g}_{i}=-\sum_{i=1}^{n}G\frac{m_{i}}{r_{i}^{2}}\hat{r}_{i}$$
 
-on $\vec{r}_{i}$ és el vector que apunta des de la massa $m_{i}$ al punt $P$, $r_{i}^{2}=\vec{r}_{i}.\vec{r}_{i}=\left|\vec{r}_{i}\right|^{2}$ i $\hat{r}_{i}=\vec{r}_{i}/\left|\vec{r}_{i}\right|$ és el vector unitari que apunta des de la massa $m_{i}$ al punt $P$.
+on $$\vec{r}_{i}$$ és el vector que apunta des de la massa $$m_{i}$ al punt $P$, $r_{i}^{2}=\vec{r}_{i}.\vec{r}_{i}=\left|\vec{r}_{i}\right|^{2}$$ i $$\hat{r}_{i}=\vec{r}_{i}/\left|\vec{r}_{i}\right|$$ és el vector unitari que apunta des de la massa $$m_{i}$$ al punt $$P$$.
 
 ## Energia potencial gravitatòria
 
-Ens plantegem calcular el treball necessari per a moure una massa $m'$ separada d'altra massa $m$ una distància $r_{0}$  fins una distància de separació $r$ és
+Ens plantegem calcular el treball necessari per a moure una massa $m'$ separada d'altra massa $$m$$ una distància $$r_{0}$$  fins una distància de separació $$r$$ és
 
 $$W=-\int_{\vec{r}_{0}}^{\vec{r}}\vec{F}(\vec{r})d\vec{r}=-\int_{\vec{r}_{0}}^{\vec{r}}-G\frac{mm'}{r^{2}}\hat{r}d\vec{r}$$
 
-com $\hat{r}.d\vec{r}=dr$
+com $$\hat{r}.d\vec{r}=dr$$
  
 $$W=GMm'\int_{r_{0}}^{r}r^{-2}dr=Gmm'\left.\left(-\frac{1}{r}\right)\right|_{r_{0}}^{r}=Gmm'\left(-\frac{1}{r}-\frac{1}{r_{0}}\right)$$
 
@@ -273,7 +271,7 @@ Farem la suposició de que no hi ha fregament i que l'única força que actua a 
 
 $$E_{\mathrm{M}}^{0}=E_{\mathrm{C}}^{0}+U^{0}=\frac{1}{2}mv_{0}^{2}-G\frac{Mm}{R}$$
 
-on $m$ és la massa de l'objecte i $M$ i $R$ la massa i el radi del planeta respectivament. Si volem que s'allunyi indefinidament de la Terra demanarem que arribi fins al infinit on l'energia potencial és nul·la i si estem buscant la mínima velocitat de llançament per a que arribi a l'infinit suposarem que hi arribarà amb velocitat nul·la i, per tant, també l'energia cinètica serà nul·la. Per tant:
+on $$m$$ és la massa de l'objecte i $$M$$ i $$R$$ la massa i el radi del planeta respectivament. Si volem que s'allunyi indefinidament de la Terra demanarem que arribi fins al infinit on l'energia potencial és nul·la i si estem buscant la mínima velocitat de llançament per a que arribi a l'infinit suposarem que hi arribarà amb velocitat nul·la i, per tant, també l'energia cinètica serà nul·la. Per tant:
 
 $$E_{\mathrm{M}}^{\infty}=E_{\mathrm{C}}^{\infty}+U^{\infty}=0+0=0$$
 
@@ -281,7 +279,7 @@ Com que l'energia mecànica es conserva podem igualar l'energia mecànica inicia
 
 $$\frac{1}{2}mv_{0}^{2}-G\frac{Mm}{R}=0$$
 
-i aïllant $v_{0}$ obtenim
+i aïllant $$v_{0}$$ obtenim
 
 $$v_{0}=\sqrt{\frac{2GM}{R}}$$
  
@@ -303,14 +301,14 @@ La Lluna i els asteroides tenen una massa petita, la qual cosa fa que la velocit
 
 ## Tipus d'òrbites segons l'energia
 
-Hem vist que un sistema gravitatori amb energia mecànica $E_{\mathrm{M}}<0$ és un sistema lligat, en aquest cas les òrbites poden ser el·lipses (o circumferències). Si $E_{\mathrm{M}}\geq0$ el sistema no està lligat i s'allunyaran indefinidament, en el cas que $E_{\mathrm{M}}>0$ la trajectòria serà una hipèrbola y en el cas que $E_{\mathrm{M}}=0$ la trajectòria serà una paràbola.
+Hem vist que un sistema gravitatori amb energia mecànica $$E_{\mathrm{M}}<0$$ és un sistema lligat, en aquest cas les òrbites poden ser el·lipses (o circumferències). Si $$E_{\mathrm{M}}\geq0$$ el sistema no està lligat i s'allunyaran indefinidament, en el cas que $$E_{\mathrm{M}}>0$$ la trajectòria serà una hipèrbola y en el cas que $$E_{\mathrm{M}}=0$$ la trajectòria serà una paràbola.
 
 ## Forats negres
 
 Alguns tipus d'estrelles quan acaben el combustible nuclear que les fa brillar col·lapsen degut a l'atracció gravitatòria entre els àtoms que la formen. Quan col·lapsen poden concentrar una massa molt gran de matèria en un volum relativament petit, de manera que la velocitat d'escapament sigui molt gran. Quan la velocitat d'escapament supera la velocitat de la llum podem dir que res pot escapar de la seva atracció gravitatòria i diem que s'ha format un **forat negre**.
 
-Podem fer el càlcul per a determinar quin radi hauria de tenir una estrella per transformar-se en un forat negre. Aïllant el radi de l'equació de la velocitat d'escapament i fent servir la velocitat de la llum, $c$, com velocitat d'escapament, obtenim
+Podem fer el càlcul per a determinar quin radi hauria de tenir una estrella per transformar-se en un forat negre. Aïllant el radi de l'equació de la velocitat d'escapament i fent servir la velocitat de la llum, $$c$$, com velocitat d'escapament, obtenim
 
 $$R=\frac{2GM}{c^{2}}$$
 
-Aquest radi es coneix amb el nom de radi de Schwarzschild. Si fem el càlcul amb el nostre Sol, tenint en compte que la massa del Sol és aproximadament $M_{\odot}=2\times10^{30}\,\mathrm{kg}$, obtenim que $R_{\mathrm{Schwarzschild}}\approx3\,\mathrm{km}$.
+Aquest radi es coneix amb el nom de radi de Schwarzschild. Si fem el càlcul amb el nostre Sol, tenint en compte que la massa del Sol és aproximadament $$M_{\odot}=2\times10^{30}\,\mathrm{kg}$$, obtenim que $$R_{\mathrm{Schwarzschild}}\approx3\,\mathrm{km}$$.
