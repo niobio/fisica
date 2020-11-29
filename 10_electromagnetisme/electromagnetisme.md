@@ -55,7 +55,7 @@ $$\begin{equation}\label{eq:força_magnetica}
 \vec{F}=q\vec{v}\times\vec{B}
 \end{equation}$$
 
-A l'expressió $$\eqref{eq:força_magnetica}$$ el producte que apareix és un producte vectorial, per tant, la direcció de la força serà perpendicular al pla format pels vectors $$\vec{v}$$ i $$\vec{B}$$ i el sentit es pot determinar fent servir la regla de la mà dreta (veure següent figura). El mòdul de la força és 
+A l'expressió anterior<!--$$\eqref{eq:força_magnetica}$$--> el producte que apareix és un producte vectorial, per tant, la direcció de la força serà perpendicular al pla format pels vectors $$\vec{v}$$ i $$\vec{B}$$ i el sentit es pot determinar fent servir la regla de la mà dreta (veure següent figura). El mòdul de la força és 
 
 $$\left|\vec{F}\right|=\left|q\right|\left|\vec{v}\right|\left|\vec{B}\right|\sin\alpha$$
 
@@ -133,9 +133,9 @@ $$\begin{equation}\label{eq:velocitat_selector}
 v=\frac{E}{B}
 \end{equation}$$
 
-Les partícules que tinguin la velocitat donada per l'expressió $$\eqref{eq:velocitat_selector}$$ continuaran recte, les que tinguin una velocitat més gran $$(F_{m}>F_{e})$$ xocaran amb l'armadura superior del condensador i les que tinguin una velocitat més petita $$(F_{e}>F_{m})$$ xocaran amb l'armadura inferior. Si a l'extrem final del condensador es posa una ranura central que permeti sortir només a les partícules centrals sabrem que totes porten la mateixa velocitat.
+Les partícules que tinguin la velocitat donada per l'expressió anterior<!--$$\eqref{eq:velocitat_selector}$$--> continuaran recte, les que tinguin una velocitat més gran $$(F_{m}>F_{e})$$ xocaran amb l'armadura superior del condensador i les que tinguin una velocitat més petita $$(F_{e}>F_{m})$$ xocaran amb l'armadura inferior. Si a l'extrem final del condensador es posa una ranura central que permeti sortir només a les partícules centrals sabrem que totes porten la mateixa velocitat.
 
-Si les armadures estan separades una distància $$d$$ i tenen aplicada una diferència de potencial $$\Delta V$$, el camp elèctric es pot escriure $$E=\Delta V/d$$, amb la qual cosa l'expressió $$\eqref{eq:velocitat_selector}$$ es pot reescriure:
+Si les armadures estan separades una distància $$d$$ i tenen aplicada una diferència de potencial $$\Delta V$$, el camp elèctric es pot escriure $$E=\Delta V/d$$, amb la qual cosa l'expressió de la velocitat <!--$$\eqref{eq:velocitat_selector}$$--> es pot reescriure:
 
 $$\begin{equation}\label{eq:selector_2}
 v=\frac{\Delta V}{Bd}
@@ -170,7 +170,7 @@ $$\begin{equation}\label{eq:espectrom_3}
 \frac{q}{m}=\frac{v}{rB}
 \end{equation}$$
 
-Si introduïm l'expressió $$\eqref{eq:espectrom_1}$$ dintre de la $$\eqref{eq:espectrom_3}$$ ens queda:
+Si introduïm l'expressió de la velocitat del selector de velocitats <!--$$\eqref{eq:espectrom_1}$$--> dintre de l'expressió anterior <!--$$\eqref{eq:espectrom_3}$$--> ens queda:
 
 $$\begin{equation}\label{eq:espectrom_4}
 \frac{q}{m}=\frac{\Delta V}{r.B'.d.B}
@@ -208,7 +208,7 @@ on hem fer servir que
 
 $$\nu=\frac{qB}{rm}$$
 
-L'expressió $$\eqref{eq:freq_ciclotro}$$ resulta molt rellevant pel funcionament d'aquesta màquina, ja que, com hem comprovat, resulta independent del radi de la trajectòria. Això permet poder tenir una freqüència fixa per a canviar la direcció del camp elèctric, la qual cosa permet que la màquina sigui possible.
+Aquesta expressió resulta molt rellevant pel funcionament d'aquesta màquina, ja que, com hem comprovat, resulta independent del radi de la trajectòria. Això permet poder tenir una freqüència fixa per a canviar la direcció del camp elèctric, la qual cosa permet que la màquina sigui possible.
 
 La velocitat amb la que sortiran les partícules serà
 
@@ -342,13 +342,13 @@ $$\begin{equation}\label{eq:camp_cond1}
 B_{1}=\frac{\mu_{0}I_{1}}{2\pi d}
 \end{equation}$$
 
-on $$d$$ és la distància de separació entre els conductors. Si apliquem la $$\eqref{eq:força_conductor}$$ per a calcular la força que fa el camp creat pel conductor 1 sobre el conductor 2, tindrem que el mòdul d'aquesta força serà: 
+on $$d$$ és la distància de separació entre els conductors. Si apliquem l'expressió de la força sobre un conductor rectilini<!--$$\eqref{eq:força_conductor}$$--> per a calcular la força que fa el camp creat pel conductor 1 sobre el conductor 2, tindrem que el mòdul d'aquesta força serà: 
 
 $$\begin{equation}\label{eq:força_cond2}
 F_{2}=I_{2}LB_{1}\sin90^{\circ}
 \end{equation}$$
 
-i, si reemplacem $$\eqref{eq:camp_cond1}$$ en $$\eqref{eq:camp_cond2}$$ obtenim: 
+i, si reemplacem l'expressió del camp creat pel conductor 1<!--$$\eqref{eq:camp_cond1}$$--> en l'expressió de la força sobre el conductor 2<!--$$\eqref{eq:camp_cond2}$$--> obtenim: 
 
 $$F_{2}=\frac{I_{2}L\mu_{0}I_{1}}{2\pi d}=\frac{\mu_{0}I_{1}I_{2}L}{2\pi d}$$
  
@@ -365,7 +365,7 @@ $$\begin{equation}\label{eq:força_cond1}
 F_{1}=I_{1}LB_{2}
 \end{equation}$$
 
-Reemplaçant $$\eqref{eq:camp_cond2}$$ en $$\eqref{eq:força_cond1}$$ obtenim:
+Reemplaçant l'expressió del camp creat pel conductor 2<!--$$\eqref{eq:camp_cond2}$$--> en l'expressió de la força sobre el conductor 1<!--$$\eqref{eq:força_cond1}$$--> obtenim:
 
 $$F_{1}=\frac{I_{1}L\mu_{0}I_{2}}{2\pi d}=\frac{\mu_{0}I_{1}I_{2}L}{2\pi d}$$
 
@@ -392,10 +392,10 @@ on definim el vector superfície com un vector que té un mòdul igual al valor 
 
 <figure>
   <img src="img/flux.png" alt="Flux magnètic" width="40%">
-  <figcaption>Línies d'inducció magnètica $$\vec{B}$$ travessen la superfície $$\vec{S}$$ amb un angle entre ells igual a $$\theta$$. El valor del flux magnètic vindrà donat per l'expressió $$\eqref{eq:flux2}$$.</figcaption>
+  <figcaption>Línies d'inducció magnètica \(\vec{B}\) travessen la superfície \(\vec{S}\) amb un angle entre ells igual a \(\theta\). El valor del flux magnètic vindrà donat per l'expressió del flux depenent de l'angle que apareix a continuació.</figcaption>
 </figure>
 
-Aplicant la definició de producte escalar l'expressió $$\eqref{eq:flux}$$ queda:
+Aplicant la definició de producte escalar l'expressió anterior <!--$$\eqref{eq:flux}$$-->queda:
 
 $$\begin{equation}\label{eq:flux2}
 \Phi=BS\cos\theta
