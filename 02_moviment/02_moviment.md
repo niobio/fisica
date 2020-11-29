@@ -86,7 +86,7 @@ $$
 
 on \\(x_{0}\\) és la posició del mòbil a l'instant \\(t_{0}\\). Aquesta última relació es pot escriure per a la velocitat instantània perquè la velocitat instantània és constant i aleshores té la mateixa expressió que la velocitat mitjana, per tant en aquest cas no necessitem que l'instant \\(t\\) sigui proper a \\(t_{0}\\).
 
-De l'expressió \\(\eqref{eq:vel_inst}\\) podem aïllar la posició per a obtenir 
+De l'expressió anterior<!--\\(\eqref{eq:vel_inst}\\)--> podem aïllar la posició per a obtenir 
 
 $$
 \begin{equation}\label{eq:pos_mru}
@@ -102,7 +102,7 @@ Per veure com són les gràfiques del MRU considerem un exemple. Considerem un m
 <p>
 <figure>
   <img src="img/velocitat1.png" alt="">
-  <figcaption> <strong>Gràfica de velocitat en funció del temps (en vermell). L'àrea sota la gràfica, que apareix ombrejada, representa el desplaçament del mòbil entre els instants \\(t_{0}=1\,\mathrm{s}\\) i \\(t=10\,\mathrm{s}\\).</strong> </figcaption>
+  <figcaption> <strong>Gràfica de velocitat en funció del temps (en vermell). L'àrea sota la gràfica, que apareix ombrejada, representa el desplaçament del mòbil entre els instants \(t_{0}=1\,\mathrm{s}\) i \(t=10\,\mathrm{s}\).</strong> </figcaption>
 </figure>
 </p>
 
@@ -138,7 +138,7 @@ v=v_{0}+a(t-t_{0})
 \end{equation}
 $$
 
-La relació \\(\eqref{eq:vel_mrua}\\) presenta la mateixa forma funcional que l'equació de moviment \\(\eqref{eq:pos_mru}\\) en el MRU, per tant, la velocitat en el MRUA és una recta de pendent igual a l'acceleració i que passa pel punt \\((t_{0},v_{0})\\).
+La relació anterior <!--\\(\eqref{eq:vel_mrua}\\)-->presenta la mateixa forma funcional que l'equació de moviment <!--\\(\eqref{eq:pos_mru}\\)--> en el MRU, per tant, la velocitat en el MRUA és una recta de pendent igual a l'acceleració i que passa pel punt \\((t_{0},v_{0})\\).
 
 Com sabem que l'àrea sota la gràfica de velocitat-temps ens dóna el desplaçament del mòbil, intentarem deduir l'equació de moviment del MRUA a partir del càlcul de l'àrea ombrejada en la figura inferior.
 
@@ -155,7 +155,7 @@ $$x-x_{0}=\mathrm{\grave{A}rea}\,1+\mathrm{\grave{A}rea\,2}$$
 
 $$x-x_{0}=v_{0}(t-t_{0})+\frac{(v-v_{0})(t-t_{0})}{2}$$
 
-però, com \\(v-v_{0}=a(t-t_{0})\\) degut a la relació [eq:vel_mrua], la relació anterior es transforma en:
+però, com \\(v-v_{0}=a(t-t_{0})\\) degut a l'equació de velocitat-temps <!--[eq:vel_mrua]-->, la relació anterior es transforma en:
 
 $$
 \begin{equation}\label{eq:pos_mrua}
@@ -192,7 +192,7 @@ $$\Delta x=(v_{f}-v_{0})(t-t_{0})$$
 
 $$\Delta x = (15-5)(10-0)=100\,\mathrm{m}$$
 
-La gràfica de posició en funció del temps la podem traçar a partir d'una taula de valors que podem obtenir de l'equació \\(\eqref{eq:mov_mrua1}\\). També la podem traçar de manera qualitativa si tenim en compte que és una paràbola, que coneixem dos punts de la gràfica, el punt inicial (0, 10 m) i el final que hem calculat de la gràfica anterior (10 s, 110 m)<sup><a href="#fn6" id="ref6">6</a></sup>. També sabem que l'acceleració és positiva, per tant, el pendent (que representa la velocitat) ha d'anar pujant (la gràfica és còncava cap amunt). La figura inferior mostra la gràfica de posició-temps.
+La gràfica de posició en funció del temps la podem traçar a partir d'una taula de valors que podem obtenir de l'equació de moviment <!--\\(\eqref{eq:mov_mrua1}\\)-->. També la podem traçar de manera qualitativa si tenim en compte que és una paràbola, que coneixem dos punts de la gràfica, el punt inicial (0, 10 m) i el final que hem calculat de la gràfica anterior (10 s, 110 m)<sup><a href="#fn6" id="ref6">6</a></sup>. També sabem que l'acceleració és positiva, per tant, el pendent (que representa la velocitat) ha d'anar pujant (la gràfica és còncava cap amunt). La figura inferior mostra la gràfica de posició-temps.
 
 <p>
 <figure>
@@ -242,7 +242,7 @@ v=v^{,}+v_{0}
 \end{equation}
 $$
 
-on \\(v\\) és la velocitat de la persona caminant vista pel sistema S (andana) , \\(v^{,}\\) és la velocitat de la persona observada pel sistema S', mentre que \\(v_{0}\\) és la velocitat relativa entre el sistema S i el S'. L'equació \\(\eqref{eq:relatiu_1}\\) ens dona la relació de transformació de velocitat que els permet passar d'un sistema a l'altre.
+on \\(v\\) és la velocitat de la persona caminant vista pel sistema S (andana) , \\(v^{,}\\) és la velocitat de la persona observada pel sistema S', mentre que \\(v_{0}\\) és la velocitat relativa entre el sistema S i el S'. L'equació <!--\\(\eqref{eq:relatiu_1}\\)--> anterior ens dona la relació de transformació de velocitat que ens permet passar d'un sistema a l'altre.
 
 Nosaltres considerarem sempre sistemes de referència que es mouen amb una velocitat \\(v_{0}\\) relativa constant. Si la persona que es mou sobre el tren ho fa amb MRU la descripció de l'equació de moviment donada per a cada observador serà
 
@@ -260,7 +260,7 @@ x=x^{,}+v_{0}t
 \end{equation}
 $$
 
-Per altra banda tenim que \\(t^{,}=t\\), la qual cosa vol dir que el temps transcorre igual per a tots dos observadors. Aquesta última relació juntament amb la \\(\eqref{eq:relatiu_1}\\) i la \\(\eqref{eq:relatiu_2}\\) es coneixen com transformacions de Galileu del moviment relatiu.<sup><a href="#fn9" id="ref9">9</a></sup>
+Per altra banda tenim que \\(t^{,}=t\\), la qual cosa vol dir que el temps transcorre igual per a tots dos observadors. Aquesta última relació juntament amb les equacions de transformació de velocitat i posició <!--\\(\eqref{eq:relatiu_1}\\) i la \\(\eqref{eq:relatiu_2}\\)--> es coneixen com transformacions de Galileu del moviment relatiu.<sup><a href="#fn9" id="ref9">9</a></sup>
 
 
 ## Moviment en dues dimensions
@@ -288,7 +288,7 @@ En canvi, des del punt de vista de l'observador del sistema S les equacions resu
 <p>
 <figure>
   <img src="img/relatiu_2.png" alt="">
-  <figcaption> <strong>Transcorregut un temps \\(\Delta t\\) els eixos Y i Y' s'ha separat una distància \\(x=v_{0}\Delta t\\) i el mòbil s'ha desplaçat una distància \\(\Delta r=v\Delta t\\).</strong> </figcaption>
+  <figcaption> <strong>Transcorregut un temps \(\Delta t\) els eixos Y i Y' s'ha separat una distància \(x=v_{0}\Delta t\) i el mòbil s'ha desplaçat una distància \(\Delta r=v\Delta t\).</strong> </figcaption>
 </figure>
 </p>
 Les equacions de posició del mòbil respecte al sistema S quedaran:
@@ -405,9 +405,9 @@ $$\vec{g}$$
 
 el vector acceleració de la gravetat, que si estem sobre la superfície de la Terra i considerem com a positiva la direcció vertical cap amunt tindrà un valor \\(\vec{g}=-9,8\,\mathrm{m/s^{2}\hat{j}}\\).
 
-Les equacions \\(\eqref{eq:eq_vel}\\) i \\(\eqref{eq:eq_pos}\\) contenen tota la informació del moviment i amb elles podrem resoldre gairebé tots els problemes de tir oblic.
+Les equacions <!--\\(\eqref{eq:eq_vel}\\) i \\(\eqref{eq:eq_pos}\\)--> de velocitat i posició contenen tota la informació del moviment i amb elles podrem resoldre gairebé tots els problemes de tir oblic.
 
-Les equacions \\(\eqref{eq:eq_pos}\\) donen les coordenades de posició en funció del temps, si volem l'equació de la trajectòria, es a dir, l'equació que ens doni com varia l'altura com a funció de la coordenada horitzontal \\(y=f(x)\\), hem de fer desaparèixer el paràmetre temps de les equacions \\(\eqref{eq:eq_pos}\\). Per a fer-ho aïllarem el temps de la primera de les equacions per a obtenir
+Les equacions de posició <!--\\(\eqref{eq:eq_pos}\\)--> donen les coordenades de posició en funció del temps, si volem l'equació de la trajectòria, es a dir, l'equació que ens doni com varia l'altura com a funció de la coordenada horitzontal \\(y=f(x)\\), hem de fer desaparèixer el paràmetre temps de les equacions <!--\\(\eqref{eq:eq_pos}\\)--> de moviment. Per a fer-ho aïllarem el temps de la primera de les equacions per a obtenir
 
 $$t-t_{0}=\frac{x-x_{0}}{v_{0x}}$$
 
@@ -421,7 +421,7 @@ $$\begin{equation}\label{eq:traject_parabol}
 y=y_{0}+\frac{v_{0y}}{v_{0x}}\big(x-x_{0}\big)+\frac{g}{2v_{0x}^{2}}\big(x-x_{0}\big)^{2}
 \end{equation}$$
 
-on es veu clarament que es tracta de l'equació d'una paràbola. És per això que al tir oblic també se'l coneix com moviment parabòlic. La trajectòria parabòlica es pot apreciar a les figures anteriors. L'equació \\(\eqref{eq:traject_parabol}\\) es coneix com a **equació de la trajectòria** del moviment parabòlic.
+on es veu clarament que es tracta de l'equació d'una paràbola. És per això que al tir oblic també se'l coneix com moviment parabòlic. La trajectòria parabòlica es pot apreciar a les figures anteriors. L'equació <!--\\(\eqref{eq:traject_parabol}\\)--> anterior es coneix com a **equació de la trajectòria** del moviment parabòlic.
 
 ## Moviment circular
 
@@ -430,7 +430,7 @@ El moviment circular és un moviment que té una circumferència per trajectòri
 <p>
 <figure>
   <img src="img/circular1.svg.png" alt="">
-  <figcaption> <strong>Moviment circular. Les coordenades \\(x\\) i \\(y\\) no són pas independents, estan relacionades a través de l'expressió \\(r^{2}=x^{2}+y^{2}\\), amb la qual cosa només es necessita una quantitat per a tenir completament determinada la posició. En aquest cas el més senzill és fer servir el sistema de coordenades polars, que utilitza com a coordenades el radi \\(r\\) (constant) i l'angle \\(\varphi\\) que és l'única variable que necessitem per a tenir completament localitzat el mòbil.</strong> </figcaption>
+  <figcaption> <strong>Moviment circular. Les coordenades \(x\) i \(y\) no són pas independents, estan relacionades a través de l'expressió \(r^{2}=x^{2}+y^{2}\), amb la qual cosa només es necessita una quantitat per a tenir completament determinada la posició. En aquest cas el més senzill és fer servir el sistema de coordenades polars, que utilitza com a coordenades el radi \(r\) (constant) i l'angle \(\varphi\) que és l'única variable que necessitem per a tenir completament localitzat el mòbil.</strong> </figcaption>
 </figure>
 </p>
 
@@ -482,17 +482,17 @@ $$\begin{equation}\label{eq:freq}
 f=\frac{1}{T}
 \end{equation}$$
 
-Si tenim en compte que en un MCU la velocitat angular és constant, l'expressió \\(\eqref{eq:omega_m}\\) per a la velocitat angular mitjana la podem fer servir per a la velocitat angular instantània, ja que coincideixen en aquest cas. Si utilitzem l'expressió \\(\eqref{eq:omega_m}\\) per a una volta, l'angle recorregut és \\(2\pi\\) en un interval de temps igual al període, per tant, obtenim l'expressió que relaciona la velocitat angular amb el període:
+Si tenim en compte que en un MCU la velocitat angular és constant, l'expressió <!--\\(\eqref{eq:omega_m}\\)--> per a la velocitat angular mitjana la podem fer servir per a la velocitat angular instantània, ja que coincideixen en aquest cas. Si utilitzem l'expressió de la freqüència<!--\\(\eqref{eq:omega_m}\\)--> per a una volta, l'angle recorregut és \\(2\pi\\) en un interval de temps igual al període, per tant, obtenim l'expressió que relaciona la velocitat angular amb el període:
 
 $$\begin{equation}\label{eq:freq_ang}
 \omega=\frac{2\pi}{T}
 \end{equation}$$
 
-i, si fem servir l'expressió \\(\eqref{eq:freq}\\) dintre de la \\(\eqref{eq:freq_ang}\\), obtenim l'expressió que relaciona la freqüència angular i la freqüència:
+i, si fem servir l'expressió de la freqüència<!--\\(\eqref{eq:freq}\\)--> dintre de la <!--\\(\eqref{eq:freq_ang}\\)-->freqüència angular, obtenim l'expressió que relaciona la freqüència angular i la freqüència:
 
 $$\omega=2\pi f$$
 
-Utilitzant l'expressió \\(\eqref{eq:omega_m}\\) podem escriure l'equació de moviment en la seva versió angular pel MCU:
+Utilitzant l'expressió <!--\\(\eqref{eq:omega_m}\\)--> de la freqüència angular mitjana podem escriure l'equació de moviment en la seva versió angular pel MCU:
 
 $$\varphi=\varphi_{0}+\omega\big(t-t_{0}\big)$$
 
@@ -552,7 +552,7 @@ i l'altre versor l'anomenarem **versor normal**, \\(\hat{\mathrm{n}}\\), i té d
 <p>
 <figure>
   <img src="img/intrinsec.svg.png" alt="">
-  <figcaption> <strong>Sistema de coordenades intrínseques. Els vectors unitaris \\(\mathrm{\hat{t}}\\) i \\(\mathrm{\hat{n}}\\) van seguint el mòbil, el primer sempre té direcció tangent a la trajectòria com el vector velocitat i el segon és perpendicular a la trajectòria i sempre apunta en el sentit exterior a la trajectòria.</strong> </figcaption>
+  <figcaption> <strong>Sistema de coordenades intrínseques. Els vectors unitaris \(\mathrm{\hat{t}}\) i \(\mathrm{\hat{n}}\) van seguint el mòbil, el primer sempre té direcció tangent a la trajectòria com el vector velocitat i el segon és perpendicular a la trajectòria i sempre apunta en el sentit exterior a la trajectòria.</strong> </figcaption>
 </figure>
 </p>
 
@@ -597,7 +597,7 @@ $$\begin{equation}\label{eq:eq_mov_mcua}
 \varphi=\varphi_{0}+\omega_{0}\big(t-t_{0}\big)+\frac{1}{2}\alpha\big(t-t_{0}\big)^{2}
 \end{equation}$$
 
-Si multipliquem les equacions \\(\eqref{eq:omega_mcua}\\) i \\(\eqref{eq:eq_mov_mcua}\\) pel radi de la trajectòria podem obtenir les relacions tangencials que donen la velocitat i l'arc
+Si multipliquem les equacions <!--\\(\eqref{eq:omega_mcua}\\) i \\(\eqref{eq:eq_mov_mcua}\\)--> de \\(\omega\\) i \\(\varphi\\) pel radi de la trajectòria podem obtenir les relacions tangencials que donen la velocitat i l'arc
 
 $$v=v_{0}+a_{t}\big(t-t_{0}\big)$$
 
