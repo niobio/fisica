@@ -31,7 +31,7 @@ La força magnètica, igual que la gravitatòria o l'elèctrica, són interaccio
 
 ## El magnetisme terrestre
 
-La rotació de la terra produeix a l'interior corrents elèctriques que són les causants de la formació d'un gran camp magnètic. Si pengem un imant d'un fil just pel seu centre de gravetat veurem com l'imant s'orienta en la direcció nord-sud, aquesta és la direcció de les línies del camp magnètic terrestre. A la figura de sota es poden veure les línies del camp magnètic de la Terra, funciona com una gran barra imantada que té el seu pol Nord magnètic prop del pol sud geogràfic i a l'inrevés amb l'altre pol. Per aquest motiu el pol nord de les brúixoles indica cap al pol Nord terrestre. En realitat ells pols magnètics estan desviats respecte dels geogràfics uns $14^{\circ}$. Aquest desviament s'anomena declinació magnètica. El camp magnètic terrestre juga un paper molt important per a la salut de les persones, ja que desvia cap als pols les partícules carregades que venen del Sol anomenades raigs còsmics i que són ionitzants i poden provocar danys a les cèl·lules del cos. L'acceleració d'aquestes partícules carregades prop dels pols provoquen l'emissió de llum que es pot veure en forma d'aurores polars.
+La rotació de la terra produeix a l'interior corrents elèctriques que són les causants de la formació d'un gran camp magnètic. Si pengem un imant d'un fil just pel seu centre de gravetat veurem com l'imant s'orienta en la direcció nord-sud, aquesta és la direcció de les línies del camp magnètic terrestre. A la figura de sota es poden veure les línies del camp magnètic de la Terra, funciona com una gran barra imantada que té el seu pol Nord magnètic prop del pol sud geogràfic i a l'inrevés amb l'altre pol. Per aquest motiu el pol nord de les brúixoles indica cap al pol Nord terrestre. En realitat ells pols magnètics estan desviats respecte dels geogràfics uns $$14^{\circ}$$. Aquest desviament s'anomena declinació magnètica. El camp magnètic terrestre juga un paper molt important per a la salut de les persones, ja que desvia cap als pols les partícules carregades que venen del Sol anomenades raigs còsmics i que són ionitzants i poden provocar danys a les cèl·lules del cos. L'acceleració d'aquestes partícules carregades prop dels pols provoquen l'emissió de llum que es pot veure en forma d'aurores polars.
 
 <figure>
   <img src="img/magnetisme_terra.jpg" alt="Meganetisme terrestreImants permanents" width="70%">
@@ -49,22 +49,22 @@ La pregunta que va quedar plantejada va ser si, de la mateixa manera que el corr
 
 ## Força d'un camp magnètic sobre una càrrega mòbil
 
-Sigui $\vec{B}$ el vector inducció magnètica i $\vec{v}$ la velocitat d'una càrrega $q$. Pel fet de moure's en l'interior d'un camp magnètic la càrrega rebrà una força que vindrà donada per l'expressió:
+Sigui $$\vec{B}$$ el vector inducció magnètica i $$\vec{v}$$ la velocitat d'una càrrega $$q$$. Pel fet de moure's en l'interior d'un camp magnètic la càrrega rebrà una força que vindrà donada per l'expressió:
 
 $$\begin{equation}\label{eq:força_magnetica}
 \vec{F}=q\vec{v}\times\vec{B}
 \end{equation}$$
 
-A l'expressió $\eqref{eq:força_magnetica}$ el producte que apareix és un producte vectorial, per tant, la direcció de la força serà perpendicular al pla format pels vectors $\vec{v}$ i $\vec{B}$ i el sentit es pot determinar fent servir la regla de la mà dreta (veure següent figura). El mòdul de la força és 
+A l'expressió $$\eqref{eq:força_magnetica}$$ el producte que apareix és un producte vectorial, per tant, la direcció de la força serà perpendicular al pla format pels vectors $$\vec{v}$$ i $$\vec{B}$$ i el sentit es pot determinar fent servir la regla de la mà dreta (veure següent figura). El mòdul de la força és 
 
 $$\left|\vec{F}\right|=\left|q\right|\left|\vec{v}\right|\left|\vec{B}\right|\sin\alpha$$
 
-on $\alpha$ correspon a l'angle format entre el vector velocitat $\vec{v}$ i inducció magnètica $\vec{B}$. Podem veure que la força $\vec{F}$ té les següents característiques que es desprenen de les propietats del producte vectorial:
+on $$\alpha$$ correspon a l'angle format entre el vector velocitat $$\vec{v}$$ i inducció magnètica $$\vec{B}$$. Podem veure que la força $$\vec{F}$$ té les següents característiques que es desprenen de les propietats del producte vectorial:
 
-* Si la càrrega es mou en la direcció del camp magnètic $(\vec{v}\parallel\vec{B})$ la força resulta nul·la i la càrrega segueix un MRU encara que estigui dintre d'un camp magnètic.
-* Si la càrrega es mu en direcció perpendicular al camp magnètic $(\vec{v}\perp\vec{B})$, la força resulta màxima, ja que $\sin\alpha=1$, i el seu valor és $F=qvB$.
+* Si la càrrega es mou en la direcció del camp magnètic $$(\vec{v}\parallel\vec{B})$$ la força resulta nul·la i la càrrega segueix un MRU encara que estigui dintre d'un camp magnètic.
+* Si la càrrega es mu en direcció perpendicular al camp magnètic $$(\vec{v}\perp\vec{B})$$, la força resulta màxima, ja que $$\sin\alpha=1$$, i el seu valor és $$F=qvB$$.
 
-Les unitats d'inducció magnètica corresponen a $[B]=\mathrm{(N.s)/(C.m)=T}$ que anomenem **tesla** en honor al gran inventor servi [Nikola Tesla](https://ca.wikipedia.org/wiki/Nikola_Tesla). La unitat tesla és una unitat molt gran, per tant, els camps magnètic més corrents acostumen a estar indicats en submúltiples de tesla.
+Les unitats d'inducció magnètica corresponen a $$[B]=\mathrm{(N.s)/(C.m)=T}$$ que anomenem **tesla** en honor al gran inventor servi [Nikola Tesla](https://ca.wikipedia.org/wiki/Nikola_Tesla). La unitat tesla és una unitat molt gran, per tant, els camps magnètic més corrents acostumen a estar indicats en submúltiples de tesla.
 
 <figure>
   <img src="img/regla_ma_dreta_1.png" alt="Regla de la mà dreta" width="70%">
@@ -133,9 +133,9 @@ $$\begin{equation}\label{eq:velocitat_selector}
 v=\frac{E}{B}
 \end{equation}$$
 
-Les partícules que tinguin la velocitat donada per l'expressió $\eqref{eq:velocitat_selector}$ continuaran recte, les que tinguin una velocitat més gran $(F_{m}>F_{e})$ xocaran amb l'armadura superior del condensador i les que tinguin una velocitat més petita $(F_{e}>F_{m})$ xocaran amb l'armadura inferior. Si a l'extrem final del condensador es posa una ranura central que permeti sortir només a les partícules centrals sabrem que totes porten la mateixa velocitat.
+Les partícules que tinguin la velocitat donada per l'expressió $$\eqref{eq:velocitat_selector}$$ continuaran recte, les que tinguin una velocitat més gran $$(F_{m}>F_{e})$$ xocaran amb l'armadura superior del condensador i les que tinguin una velocitat més petita $$(F_{e}>F_{m})$$ xocaran amb l'armadura inferior. Si a l'extrem final del condensador es posa una ranura central que permeti sortir només a les partícules centrals sabrem que totes porten la mateixa velocitat.
 
-Si les armadures estan separades una distància $d$ i tenen aplicada una diferència de potencial $\Delta V$, el camp elèctric es pot escriure $E=\Delta V/d$, amb la qual cosa l'expressió $\eqref{eq:velocitat_selector}$ es pot reescriure:
+Si les armadures estan separades una distància $$d$$ i tenen aplicada una diferència de potencial $$\Delta V$$, el camp elèctric es pot escriure $$E=\Delta V/d$$, amb la qual cosa l'expressió $$\eqref{eq:velocitat_selector}$$ es pot reescriure:
 
 $$\begin{equation}\label{eq:selector_2}
 v=\frac{\Delta V}{Bd}
@@ -148,13 +148,13 @@ v=\frac{\Delta V}{Bd}
 
 ### Espectròmetre de masses
 
-L'espectròmetre de masses és una màquina electromagnètica que permet mesurar la massa de partícules carregades (ions). El dispositiu consisteix en una primera cambra amb un selector de velocitats i una segona on només hi ha camp magnètic com es pot apreciar a la figura següents. Al sortir del selector de velocitats les partícules porten totes la velocitat donada per l'expressió $\eqref{eq:velocitat_selector}$, 
+L'espectròmetre de masses és una màquina electromagnètica que permet mesurar la massa de partícules carregades (ions). El dispositiu consisteix en una primera cambra amb un selector de velocitats i una segona on només hi ha camp magnètic com es pot apreciar a la figura següents. Al sortir del selector de velocitats les partícules porten totes la velocitat donada per l'expressió $$\eqref{eq:velocitat_selector}$$, 
 
 $$\begin{equation}\label{eq:espectrom_1}
 v=\frac{\Delta V}{B'd}
 \end{equation}$$
 
-on $B'$ és la inducció magnètica del selector de velocitats.
+on $$B'$$ és la inducció magnètica del selector de velocitats.
 
 Una vegada les partícules passen a la segona cambra segueixen una trajectòria semicircular el radi de la qual ve donada per l'expressió
 
@@ -162,7 +162,7 @@ $$\begin{equation}\label{eq:espectrom_2}
 r=\frac{mv}{qB}
 \end{equation}$$
 
-on $B$ és el la inducció de la segona cambra. 
+on $$B$$ és el la inducció de la segona cambra. 
 
 La relació càrrega-massa dels ions ve donada per l'expressió
 
@@ -170,7 +170,7 @@ $$\begin{equation}\label{eq:espectrom_3}
 \frac{q}{m}=\frac{v}{rB}
 \end{equation}$$
 
-Si introduïm l'expressió $\eqref{eq:espectrom_1}$ dintre de la $\eqref{eq:espectrom_3}$ ens queda:
+Si introduïm l'expressió $$\eqref{eq:espectrom_1}$$ dintre de la $$\eqref{eq:espectrom_3}$$ ens queda:
 
 $$\begin{equation}\label{eq:espectrom_4}
 \frac{q}{m}=\frac{\Delta V}{r.B'.d.B}
@@ -184,7 +184,7 @@ $$\begin{equation}\label{eq:espectrom_4}
 
 ### Ciclotró
 
-El ciclotró és un accelerador de partícules carregades com per exemple protons o partícules $\alpha$. Va ser inventat per [E. O. Lawrence](https://en.wikipedia.org/wiki/Ernest_Lawrence) i [M. S. Livingston](https://en.wikipedia.org/wiki/M._Stanley_Livingston) el 1934 i es tracta del primer accelerador de partícules circular. El seu aspecte és com el que es veu a la figura sigüent. Es tracta de dues cambres semicirculars anomenades D i un espai entre elles que les separa.
+El ciclotró és un accelerador de partícules carregades com per exemple protons o partícules $$\alpha$$. Va ser inventat per [E. O. Lawrence](https://en.wikipedia.org/wiki/Ernest_Lawrence) i [M. S. Livingston](https://en.wikipedia.org/wiki/M._Stanley_Livingston) el 1934 i es tracta del primer accelerador de partícules circular. El seu aspecte és com el que es veu a la figura sigüent. Es tracta de dues cambres semicirculars anomenades D i un espai entre elles que les separa.
 
 <figure>
   <img src="img/ciclotro_2.gif" alt="Ciclotró" width="70%">
@@ -208,7 +208,7 @@ on hem fer servir que
 
 $$\nu=\frac{qB}{rm}$$
 
-L'expressió $\eqref{eq:freq_ciclotro}$ resulta molt rellevant pel funcionament d'aquesta màquina, ja que, com hem comprovat, resulta independent del radi de la trajectòria. Això permet poder tenir una freqüència fixa per a canviar la direcció del camp elèctric, la qual cosa permet que la màquina sigui possible.
+L'expressió $$\eqref{eq:freq_ciclotro}$$ resulta molt rellevant pel funcionament d'aquesta màquina, ja que, com hem comprovat, resulta independent del radi de la trajectòria. Això permet poder tenir una freqüència fixa per a canviar la direcció del camp elèctric, la qual cosa permet que la màquina sigui possible.
 
 La velocitat amb la que sortiran les partícules serà
 
@@ -221,11 +221,11 @@ $$E_{c}=\frac{1}{2}mv^{2}=\frac{(qBr)^{2}}{2m}$$
 
 ## Acció d'un camp magnètic sobre un corrent elèctric
 
-Considerem un conductor llarg de longitud $L$ pel que circula una intensitat de corrent $I$.<sup><a href="#fn1" id="ref1">1</a></sup>  Si ubiquem el conductor dintre d'un camp magnètic apareixerà una força sobre el conductor, ja que es tracta de càrregues en moviment dintre d'un camp magnètic. A la Figura inferior tenim una imatge del conductor on les càrregues es mouen amb una velocitat mitjana $\vec{v}$. En comptes de considerar càrregues individuals considerarem la càrrega un element molt petit del conductor de longitud $dL$ . Aquest element tindrà una càrrega 
+Considerem un conductor llarg de longitud $$L$$ pel que circula una intensitat de corrent $$I$$.<sup><a href="#fn1" id="ref1">1</a></sup>  Si ubiquem el conductor dintre d'un camp magnètic apareixerà una força sobre el conductor, ja que es tracta de càrregues en moviment dintre d'un camp magnètic. A la Figura inferior tenim una imatge del conductor on les càrregues es mouen amb una velocitat mitjana $$\vec{v}$$. En comptes de considerar càrregues individuals considerarem la càrrega un element molt petit del conductor de longitud $$dL$$ . Aquest element tindrà una càrrega 
 
 $$dQ=Idt$$
 
-ja que $I$ és la càrrega per unitat de temps que hi circula i $dt$ és el temps que tarda la càrrega $dQ$ en travessar la distància $dL$. La velocitat de moviment de les càrregues serà
+ja que $$I$$ és la càrrega per unitat de temps que hi circula i $$dt$$ és el temps que tarda la càrrega $$dQ$$ en travessar la distància $$dL$$. La velocitat de moviment de les càrregues serà
 
 $$v=\frac{dL}{dt}$$
 
@@ -234,11 +234,11 @@ $$v=\frac{dL}{dt}$$
   <figcaption>Força sobre un conductor rectilini.</figcaption>
 </figure>
 
-La força sobre un element de càrrega $dQ$ serà
+La força sobre un element de càrrega $$dQ$$ serà
 
 $$dF=vB\sin\alpha dQ$$
 
-Si substituim $v$ i $dQ$ per les expressions anteriors obtenim
+Si substituim $$v$$ i $$dQ$$ per les expressions anteriors obtenim
 
 $$dF=\frac{dL}{dt}BI\sin\alpha dt$$
  
@@ -273,18 +273,18 @@ Si l'espira està muntada sobre un eix, aquest parell de forces la farà fer mig
 
 ### Camp magnètic creat per un conductor rectilini
 
-Si considerem un conductor prou llarg com a per a no tenir que preocupar-nos pels efectes dels extrems i si per ell circula un corrent elèctric $I$, apareixerà un camp magnètic al seu voltant com el que mostra la figura inferior. Això ho podem comprovar experimentalment posant una brúixola al costat del cable i observant que l'agulla sempre resulta tangent als cercles creats per les línies de camp.
+Si considerem un conductor prou llarg com a per a no tenir que preocupar-nos pels efectes dels extrems i si per ell circula un corrent elèctric $$I$$, apareixerà un camp magnètic al seu voltant com el que mostra la figura inferior. Això ho podem comprovar experimentalment posant una brúixola al costat del cable i observant que l'agulla sempre resulta tangent als cercles creats per les línies de camp.
  
 <figure>
   <img src="img/camp_fil_infinit.jpg" alt="Camp creat per un fil rectilini" width="70%">
   <figcaption>Camp magnètic creat per un conductor rectilini. Les línies de camp formen cercles al voltant del fil conductor i el sentit de les línies de camp es pot determinar fent servir la regla de la mà dreta: si apuntem amb el dit polze en el sentit del corrent, els altres dits ens donaran el sentit de les línies de camp.</figcaption>
 </figure>
 
-El mòdul de la inducció magnètica serà directament proporcional a la intensitat de corrent i inversament proporcional a la distància $r$ al fil i ve donada per l'expressió <sup><a href="#fn2" id="ref2">2</a></sup>
+El mòdul de la inducció magnètica serà directament proporcional a la intensitat de corrent i inversament proporcional a la distància $$r$$ al fil i ve donada per l'expressió <sup><a href="#fn2" id="ref2">2</a></sup>
 
 $$B=\frac{\mu I}{2\pi r}$$
  
-on la constant $\mu$ es coneix com permeabilitat magnètica i es pot interpretar com la capacitat del medi per a transmetre el camp magnètic a través del l'espai que envolta al fil conductor. Si l'espai al voltant del fil és aire o el buit la constant s'indica com $\mu_{0}$ i el valor que pren és
+on la constant $$\mu$$ es coneix com permeabilitat magnètica i es pot interpretar com la capacitat del medi per a transmetre el camp magnètic a través del l'espai que envolta al fil conductor. Si l'espai al voltant del fil és aire o el buit la constant s'indica com $$\mu_{0}$$ i el valor que pren és
 
 $$\mu_{0}=4\pi\times10^{-7}\,\mathrm{T.m}/A$$
 
@@ -292,7 +292,7 @@ El valor de la permeabilitat magnètica dependrà del medi on estigui immers el 
 
 ### Camp magnètic creat per una espira
 
-Si un corrent elèctric $I$ circula per una espira circular crearà un camp magnètic, les línies del qual s'assemblaran a les creades per un imant permanent i direm que tenim un dipol magnètic. La figura inferior mostra les línies de camp creades per una espira circular.
+Si un corrent elèctric $$I$$ circula per una espira circular crearà un camp magnètic, les línies del qual s'assemblaran a les creades per un imant permanent i direm que tenim un dipol magnètic. La figura inferior mostra les línies de camp creades per una espira circular.
 
 <figure>
   <img src="img/campo_espira_1.jpg" alt="Camp creat per una espira" width="70%">
@@ -303,7 +303,7 @@ La inducció magnètica al centre de l'espira tindrà un valor que ve donat per 
 
 $$B=\frac{\mu I}{2r}$$
 
-on $r$ correspon al radi de l'espira. El sentit de les línies de camp ve donat per la regla de la mà dreta.
+on $$r$$ correspon al radi de l'espira. El sentit de les línies de camp ve donat per la regla de la mà dreta.
 
 <figure>
   <img src="img/campo_espira_2.jpg" alt="Camp creat al centre d'una espira circular" width="70%">
@@ -312,7 +312,7 @@ on $r$ correspon al radi de l'espira. El sentit de les línies de camp ve donat 
 
 ### Camp magnètic creat per un solenoide o bobina
 
-Anomenarem solenoide o bobina a un conjunt de $N$ espires disposades una al costat de l'altre per les que circula un únic corrent elèctric tal com apareix a la figura inferior. Les línies de camp s'assemblen a les d'un imant permanent i, de fet, podem considerar al solenoide com l'equivalent artificial dels imants naturals, per aquest motiu també se'ls anomenen **electroimants**. Per a determinar el sentit de les línies de camp actuem igual que en el cas d'una espira fent servir la regla de la mà dreta.
+Anomenarem solenoide o bobina a un conjunt de $$N$$ espires disposades una al costat de l'altre per les que circula un únic corrent elèctric tal com apareix a la figura inferior. Les línies de camp s'assemblen a les d'un imant permanent i, de fet, podem considerar al solenoide com l'equivalent artificial dels imants naturals, per aquest motiu també se'ls anomenen **electroimants**. Per a determinar el sentit de les línies de camp actuem igual que en el cas d'una espira fent servir la regla de la mà dreta.
 
 <figure>
   <img src="img/solenoid-magnetic-field.jpg" alt="Camp creat per un solenoide" width="70%">
@@ -323,7 +323,7 @@ El valor de la inducció magnètica a l'interior del solenoide serà
 
 $$B=\mu nI$$
 
-on $n=N/L$ és la quantitat d'espires per unitat de longitud $l$ o densitat d'espires i $\mu$, la permeabilitat magnètica depèn del medi sobre el que estigui enrotllat el fil, anomenat nucli de la bobina. Per augmentar el camp magnètic dels electroimants el que es fa servir és un nucli d'alta permeabilitat com el ferro dolç. 
+on $$n=N/L$$ és la quantitat d'espires per unitat de longitud $$l$$ o densitat d'espires i $$\mu$$, la permeabilitat magnètica depèn del medi sobre el que estigui enrotllat el fil, anomenat nucli de la bobina. Per augmentar el camp magnètic dels electroimants el que es fa servir és un nucli d'alta permeabilitat com el ferro dolç. 
 
 ## Interacció entre dos corrents paral·lels
 
@@ -336,19 +336,19 @@ Considerem ara dos conductors rectilinis paral·lels i prou llargs com per a pod
 
 D'aquesta manera obtenim que si els corrents tenen el mateix sentit las forces que apareixen sobre els conductors són atractives i en cas de tenir corrents oposats, les forces són repulsives.
 
-Intentarem ara determinar el valor d'aquestes forces fent servir el que ja hem après. La inducció magnètica creada pel corrent $I_{1}$ ve donada per l'expressió
+Intentarem ara determinar el valor d'aquestes forces fent servir el que ja hem après. La inducció magnètica creada pel corrent $$I_{1}$$ ve donada per l'expressió
 
 $$\begin{equation}\label{eq:camp_cond1}
 B_{1}=\frac{\mu_{0}I_{1}}{2\pi d}
 \end{equation}$$
 
-on $d$ és la distància de separació entre els conductors. Si apliquem la $\eqref{eq:força_conductor}$ per a calcular la força que fa el camp creat pel conductor 1 sobre el conductor 2, tindrem que el mòdul d'aquesta força serà: 
+on $$d$$ és la distància de separació entre els conductors. Si apliquem la $$\eqref{eq:força_conductor}$$ per a calcular la força que fa el camp creat pel conductor 1 sobre el conductor 2, tindrem que el mòdul d'aquesta força serà: 
 
 $$\begin{equation}\label{eq:força_cond2}
 F_{2}=I_{2}LB_{1}\sin90^{\circ}
 \end{equation}$$
 
-i, si reemplacem $\eqref{eq:camp_cond1}$ en $\eqref{eq:camp_cond2}$ obtenim: 
+i, si reemplacem $$\eqref{eq:camp_cond1}$$ en $$\eqref{eq:camp_cond2}$$ obtenim: 
 
 $$F_{2}=\frac{I_{2}L\mu_{0}I_{1}}{2\pi d}=\frac{\mu_{0}I_{1}I_{2}L}{2\pi d}$$
  
@@ -359,19 +359,19 @@ $$\begin{equation}\label{eq:camp_cond2}
 B_{2}=\frac{\mu_{0}I_{2}}{2\pi d}
 \end{equation}$$
 
-i la força que exerceix el camp $B_{2}$ sobre el conductor 1 serà:
+i la força que exerceix el camp $$B_{2}$$ sobre el conductor 1 serà:
 
 $$\begin{equation}\label{eq:força_cond1}
 F_{1}=I_{1}LB_{2}
 \end{equation}$$
 
-Reemplaçant $\eqref{eq:camp_cond2}$ en $\eqref{eq:força_cond1}$ obtenim:
+Reemplaçant $$\eqref{eq:camp_cond2}$$ en $$\eqref{eq:força_cond1}$$ obtenim:
 
 $$F_{1}=\frac{I_{1}L\mu_{0}I_{2}}{2\pi d}=\frac{\mu_{0}I_{1}I_{2}L}{2\pi d}$$
 
 on podem comprovar que les dues forces tenen el mateix valor i ja havíem vist que tenen la mateixa direcció i sentits oposats. Amb això hem verificat que es verifica una de les lleis fonamentals de la mecànica aquí també: la 3a llei de Newton, el principi d'acció i reacció.
 
-L'expressió de la força entre conductors rectilinis es fa servir per a definir la unitat de corrent elèctric, l'ampere. El que es fa és disposar un parell de conductors rectilinis i paral·lels separats una distància d'un metre i es fa circular corrents d'igual intensitat a tots dos. Quan la força per unitat de longitud entre els dos conductor sigui de $2\times10^{-7}\,\mathrm{N/m}$ direm que per cada conductor circula un corrent d'un ampere:
+L'expressió de la força entre conductors rectilinis es fa servir per a definir la unitat de corrent elèctric, l'ampere. El que es fa és disposar un parell de conductors rectilinis i paral·lels separats una distància d'un metre i es fa circular corrents d'igual intensitat a tots dos. Quan la força per unitat de longitud entre els dos conductor sigui de $$2\times10^{-7}\,\mathrm{N/m}$$ direm que per cada conductor circula un corrent d'un ampere:
 
 $$\frac{F_{1}}{l}=\frac{F_{2}}{l}=\frac{\mu_{0}I_{1}I_{2}}{2\pi d}=\frac{\mathrm{4\pi\times10^{-7}\times1A\times1A}}{2\pi\times1\mathrm{m}}=2\times10^{-7}\mathrm{N/m}$$
  
@@ -382,7 +382,7 @@ El descobriment de la inducció electromagnètica és potser el que ha tingut le
 
 ### Flux magnètic
 
-Una magnitud física important per a l'estudi de la inducció electromagnètica és el flux magnètic que definirem de la segünt manera: Si tenim un camp magnètic uniforme $\vec{B}$ que travessa una superfície $\vec{S}$ com el producte escalar:
+Una magnitud física important per a l'estudi de la inducció electromagnètica és el flux magnètic que definirem de la segünt manera: Si tenim un camp magnètic uniforme $$\vec{B}$$ que travessa una superfície $$\vec{S}$$ com el producte escalar:
 
 $$\begin{equation}\label{eq:flux}
 \Phi=\vec{B}\cdotp\vec{S}
@@ -392,19 +392,19 @@ on definim el vector superfície com un vector que té un mòdul igual al valor 
 
 <figure>
   <img src="img/flux.png" alt="Flux magnètic" width="40%">
-  <figcaption>Línies d'inducció magnètica $\vec{B}$ travessen la superfície $\vec{S}$ amb un angle entre ells igual a $\theta$. El valor del flux magnètic vindrà donat per l'expressió $\eqref{eq:flux2}$.</figcaption>
+  <figcaption>Línies d'inducció magnètica $$\vec{B}$$ travessen la superfície $$\vec{S}$$ amb un angle entre ells igual a $$\theta$$. El valor del flux magnètic vindrà donat per l'expressió $$\eqref{eq:flux2}$$.</figcaption>
 </figure>
 
-Aplicant la definició de producte escalar l'expressió $\eqref{eq:flux}$ queda:
+Aplicant la definició de producte escalar l'expressió $$\eqref{eq:flux}$$ queda:
 
 $$\begin{equation}\label{eq:flux2}
 \Phi=BS\cos\theta
 \end{equation}$$
 
 
-on $\theta$ és l'angle format entre el vector inducció i el vector superfície. D'aquesta última expressió podem deduir que si la superfície és perpendicular a les línies de camp $(\vec{S}\parallel\vec{B})$ el flux és màxim ja que $\cos0^{\circ}=1$ i $\Phi=BS$ i resulta en el nombre més alt de línies de camp travessant la superfície. El cas oposat és quan el pla de la superfície és paral·lel a les línies de camp $(\vec{S\perp\vec{B}})$ i el flux resulta nul, ja que $\cos90^{\circ}=0$ i $\Phi=0$. En aquest cas cap línia de camp travessa la superfície.
+on $$\theta$$ és l'angle format entre el vector inducció i el vector superfície. D'aquesta última expressió podem deduir que si la superfície és perpendicular a les línies de camp $$(\vec{S}\parallel\vec{B})$$ el flux és màxim ja que $$\cos0^{\circ}=1$$ i $$\Phi=BS$$ i resulta en el nombre més alt de línies de camp travessant la superfície. El cas oposat és quan el pla de la superfície és paral·lel a les línies de camp $$(\vec{S\perp\vec{B}})$$ i el flux resulta nul, ja que $$\cos90^{\circ}=0$$ i $$\Phi=0$$. En aquest cas cap línia de camp travessa la superfície.
 
-La unitat de mesura del flux en el SI és el **weber** (Wb) que correspon a $1\mathrm{T.m^{2}}$.
+La unitat de mesura del flux en el SI és el **weber** (Wb) que correspon a $$1\mathrm{T.m^{2}}$$.
 
 En cas de no tenir un camp magnètic uniforme, per a calcular el flux magnètic hem d'utilitzar el càlcul integral:
 
@@ -420,7 +420,7 @@ Ja hem vist que els corrents elèctric generen camps magnètics. Ara estudiarem 
 
 3. Si l'imant no es mou, no s'indueix corrent a l'espira (l'amperímetre indica 0).
 
-El primer en estudiar aquest fenomen ha estat Michael Faraday i per Heinrich Lenz de manera independent. Ells van observar que el voltatge que es genera als extrems de l'espira, anomenat **força electromotriu induïda** o **fem induïda**, $\varepsilon$, depenia de la variació del flux magnètic que travessava l'espira. L'expressió matemàtica que dona el valor de la fem induïda és coneguda com a llei de Faraday-Lenz:
+El primer en estudiar aquest fenomen ha estat Michael Faraday i per Heinrich Lenz de manera independent. Ells van observar que el voltatge que es genera als extrems de l'espira, anomenat **força electromotriu induïda** o **fem induïda**, $$\varepsilon$$, depenia de la variació del flux magnètic que travessava l'espira. L'expressió matemàtica que dona el valor de la fem induïda és coneguda com a llei de Faraday-Lenz:
 
 $$\varepsilon=-\frac{d\Phi}{dt}$$
 
@@ -434,7 +434,7 @@ que ens diu que la fem induïda és igual a la derivada del flux magnètic respe
 
 Per entendre una mica més intuïtivament la llei de Faraday farem un anàlisi amb una configuració senzilla i veurem els fenòmens pas a pas.
 
-Començarem observant què passa quan una barra conductora es mou en el si d'un camp magnètic. Per a simplificar suposarem que el camp magnètic és uniforme i movem una barra amb una velocitat $\vec{v}$ constant com es veu a la figura inferior. Sobre una càrrega positiva apareixerà una força de Lorentz cap amunt $F_{B}=qvB$. L'acumulació de càrregues positives a la part superior i de càrregues negatives a la part inferior dona origen a una força electromotriu entre els extrems de la barra.
+Començarem observant què passa quan una barra conductora es mou en el si d'un camp magnètic. Per a simplificar suposarem que el camp magnètic és uniforme i movem una barra amb una velocitat $$\vec{v}$$ constant com es veu a la figura inferior. Sobre una càrrega positiva apareixerà una força de Lorentz cap amunt $$F_{B}=qvB$$. L'acumulació de càrregues positives a la part superior i de càrregues negatives a la part inferior dona origen a una força electromotriu entre els extrems de la barra.
 
 <figure>
   <img src="img/fem_cond_mov.png" alt="fem induïda sobre una barra conductora" width="30%">
@@ -453,7 +453,7 @@ per tant,
 
 $$qE=qvB$$
 
-Quan el camp elèctric assoleix el valor $E=vB$ el conductor arriba a un equilibri entre la força elèctrica i magnètica. Si recordem que la diferència de potencial entre els extrems del conductor tindrà un valor constant donat per $\Delta V=E.L$ i substituïm el valor del camp en l'expressió anterior tindrem
+Quan el camp elèctric assoleix el valor $$E=vB$$ el conductor arriba a un equilibri entre la força elèctrica i magnètica. Si recordem que la diferència de potencial entre els extrems del conductor tindrà un valor constant donat per $$\Delta V=E.L$$ i substituïm el valor del camp en l'expressió anterior tindrem
 
 $$\Delta V=vBL$$
 
@@ -468,23 +468,23 @@ El corrent vindrà donat per la llei d'Ohm
 
 $$I=\frac{\Delta V}{R}$$
 
-on $R$ és la resistència que troba el corrent a través del circuit, es a dir, del conductor en forma d'U i la barra conductora. Per tant:
+on $$R$$ és la resistència que troba el corrent a través del circuit, es a dir, del conductor en forma d'U i la barra conductora. Per tant:
 
 $$I=\frac{vBL}{R}$$
 
-Si ara analitzem quina ha estat la variació del flux que travessa el circuit podrem deduir la llei de Faraday. Quan el conductor es desplaça una distància $\Delta x=v\Delta t$, la superfície augmenta en una quantitat $\Delta S=\Delta xL=v\Delta tL$.
+Si ara analitzem quina ha estat la variació del flux que travessa el circuit podrem deduir la llei de Faraday. Quan el conductor es desplaça una distància $$\Delta x=v\Delta t$$, la superfície augmenta en una quantitat $$\Delta S=\Delta xL=v\Delta tL$$.
 
 La variació de flux serà
 
 $$\Delta\Phi=B\Delta S\cos0^{\circ}=B\Delta S=Bv\Delta tL$$
 
-Si dividim l'expressió anterior per $\Delta t$ obtindrem la llei de Faraday:
+Si dividim l'expressió anterior per $$\Delta t$$ obtindrem la llei de Faraday:
 
 $$\Delta V=\frac{Bv\Delta tL}{\Delta t}=vBL$$
 
 que és l'expressió a la que havíem arribat abans per a la diferència de potencial (ddp) de la barra. D'aquesta manera hem vist que un camp magnètic variable crea un camp elèctric com estableix la llei de Faraday-Lenz.
 
-Quan movem la barra cap a la dreta augmenta la superfície del circuit i el flux magnètic que el travessa creant una fem induïda que estableix un corrent elèctric. Aquest moviment de càrregues fa que aparegui sobre la barra en moviment una força magnètica $\vec{F}_{m}$ que, segons la llei de la mà dreta, tindrà el sentit oposat al moviment de la barra com es veu a la figura inferior. D'aquesta manera, per a mantenir una velocitat constant hem de fer una força per a contrarestar la força magnètica, la qual cosa resulta raonable: per a generar energia elèctrica hem de fer un treball mecànic.
+Quan movem la barra cap a la dreta augmenta la superfície del circuit i el flux magnètic que el travessa creant una fem induïda que estableix un corrent elèctric. Aquest moviment de càrregues fa que aparegui sobre la barra en moviment una força magnètica $$\vec{F}_{m}$$ que, segons la llei de la mà dreta, tindrà el sentit oposat al moviment de la barra com es veu a la figura inferior. D'aquesta manera, per a mantenir una velocitat constant hem de fer una força per a contrarestar la força magnètica, la qual cosa resulta raonable: per a generar energia elèctrica hem de fer un treball mecànic.
 
 <figure>
   <img src="img/fem_u2.png" alt="força de Faraday" width="70%">
@@ -507,13 +507,13 @@ $$\Phi=BS\cos\theta$$
 
 podem fer variar el flux magnètic que travessa un circuit de tres maneres:
 
-1. Canviant la intensitat de camp magnètic $B$
+1. Canviant la intensitat de camp magnètic $$B$$
  
 
-2. Canviant la superfície del circuit $S$
+2. Canviant la superfície del circuit $$S$$
  
 
-3. Canviant l'orientació del circuit, es a dir, variant l'angle $\theta$ entre la inducció magnètica i la superfície.
+3. Canviant l'orientació del circuit, es a dir, variant l'angle $$\theta$$ entre la inducció magnètica i la superfície.
 
 De les tres opcions plantejades la tercera és la que resulta més senzilla d'aconseguir i és la solució que es persegueix en la construcció de generadors elèctrics. A la figura següent hi ha l'esquema d'un generador de corrent altern o **alternador**. 
 
@@ -524,7 +524,7 @@ De les tres opcions plantejades la tercera és la que resulta més senzilla d'ac
 
 El generador està constituït per una part estàtica anomenada **estator** formada per un imant permanent que crea un camp magnètic constant i una part mòbil formada per un bobinat anomenat **rotor** que pot girar al voltant d'un eix. Els fils que formen la bobina tenen un nombre N de voltes i acaben un unes anelles anomenades **col·lectores** que estan en contacte amb uns connectors anomenats **escombretes** que es connecten als receptors als que volem alimentar.
 
-Si fem girar la bobina amb un moviment circular uniforme de velocitat angular $\omega$ tindrem que l'angle que forma la superfície respecte de la inducció magnètica variarà amb el temps segons l'equació $\theta=\omega t$, per tant el flux magnètic també variarà amb el temps seguint l'equació
+Si fem girar la bobina amb un moviment circular uniforme de velocitat angular $$\omega$$ tindrem que l'angle que forma la superfície respecte de la inducció magnètica variarà amb el temps segons l'equació $$\theta=\omega t$$, per tant el flux magnètic també variarà amb el temps seguint l'equació
 
 $$\Phi=BS\cos\theta=BS\cos\omega t$$
  
@@ -533,7 +533,7 @@ Al haver-hi una variació del flux magnètic amb el temps apareixerà als extrem
 
 $$\varepsilon=-\frac{d\Phi}{dt}=BS\sin\omega t=\hat{\varepsilon}\sin\omega t$$
 
-on $\hat{\varepsilon}=BS$ és el valor màxim de la fem induïda. L'electricitat amb aquest comportament s'anomena corrent altern (C.A.) i és la que fem servir les nostres llars i a la indústria.
+on $$\hat{\varepsilon}=BS$$ és el valor màxim de la fem induïda. L'electricitat amb aquest comportament s'anomena corrent altern (C.A.) i és la que fem servir les nostres llars i a la indústria.
 
 La figura següent mostra la gràfica d'una tensió alterna de valor màxim de 20 V i un període d'1 s.
 
@@ -555,7 +555,7 @@ $$\begin{equation}\label{eq:potencia_ca}
 P=\varepsilon.I=\frac{\varepsilon^{2}}{R}=\frac{\hat{\varepsilon}^{2}}{R}\sin^{2}\omega t
 \end{equation}$$
 
- on hem fet servir la llei d'Ohm $I=\varepsilon/R$. La figura inferior conté la gràfica de la potència expressada per la expressió $\eqref{eq:potencia_ca}$ que dona la potència com a funció del temps. Podem veure de la gràfica que el valor equivalent de potència de corrent contínua correspon just a la meitat del màxim de potència de corrent alterna, ja que l'àrea pintada de color cian resulta igual a la part groga que sobresurt del nivell mitjà. 
+ on hem fet servir la llei d'Ohm $$I=\varepsilon/R$$. La figura inferior conté la gràfica de la potència expressada per la expressió $$\eqref{eq:potencia_ca}$$ que dona la potència com a funció del temps. Podem veure de la gràfica que el valor equivalent de potència de corrent contínua correspon just a la meitat del màxim de potència de corrent alterna, ja que l'àrea pintada de color cian resulta igual a la part groga que sobresurt del nivell mitjà. 
 
 <figure>
   <img src="img/potencia.png" alt="Potència C. A." width="70%">
@@ -582,7 +582,7 @@ $$I_{ef}=\frac{\hat{I}}{\sqrt{2}}$$
 
 Els transformadors són maquines elèctriques que canvien la tensió del corrent altern. Hi ha transformadors elevadors que el que fan és augmentar el voltatge com fan els de les centrals elèctriques i també hi ha transformadors reductors que disminueixen el voltatge com fan en les estacions distribuïdores per a enviar a les cases per a fer funcionar els electrodomèstics. La raó per la qual convé transportar l'energia elèctrica en alta tensió és que d'aquesta manera es redueixen molt les pèrdues per efecte Joule (en forma de calor) durant el transport.
 
-Un transformador està composat de dos debanaments, el debanament o bobinat primari amb un nombre d'espires $N_{1}$ i el bobinat secundari amb un nombre d'espires $N_{2}$. Tots dos estan debanats sobre un nucli de ferro de forma toroïdal com es pot veure a la figura de abajo. En un transformador ideal no hi ha pèrdues d'energia, es a dir que el flux creat pel bobinat primari arriba al bobinat secundari i el travessa i, com que aquest flux és variable perquè ha estat creat per un corrent que varia en el temps, induirà una fem en el bobinat secundari. La tensió del bobinat secundari dependrà de si aquest té més o menys espires que el secundari. Si el bobinat secundari té un nombre més petit que el primari, la fem induïda serà més petita que la del primari i tenim un transformador reductor. 
+Un transformador està composat de dos debanaments, el debanament o bobinat primari amb un nombre d'espires $$N_{1}$$ i el bobinat secundari amb un nombre d'espires $$N_{2}$$. Tots dos estan debanats sobre un nucli de ferro de forma toroïdal com es pot veure a la figura de abajo. En un transformador ideal no hi ha pèrdues d'energia, es a dir que el flux creat pel bobinat primari arriba al bobinat secundari i el travessa i, com que aquest flux és variable perquè ha estat creat per un corrent que varia en el temps, induirà una fem en el bobinat secundari. La tensió del bobinat secundari dependrà de si aquest té més o menys espires que el secundari. Si el bobinat secundari té un nombre més petit que el primari, la fem induïda serà més petita que la del primari i tenim un transformador reductor. 
 
 <figure>
   <img src="img/transformador.png" alt="Transformador" width="70%">
@@ -613,7 +613,7 @@ $$\frac{\varepsilon_{1}}{\varepsilon_{2}}=\frac{N_{1}}{N_{2}}$$
 
 Aquesta última relació es coneix com relació de transformació i és la que permet al fabricant de transformadors saber quantes voltes ha de posar a un transformador per a obtenir la tensió de sortida desitjada. 
 
-Com que la potència d'entrada i de sortida són iguals (menyspreant les pèrdues), i com la potència es pot calcular com $P=\varepsilon.I$ , tindrem que 
+Com que la potència d'entrada i de sortida són iguals (menyspreant les pèrdues), i com la potència es pot calcular com $$P=\varepsilon.I$$ , tindrem que 
 
 $$\varepsilon_{1}.I_{1}=\varepsilon_{2}.I_{2}$$
 
@@ -632,6 +632,6 @@ Per a obtenir la relació de transformació hem suposat que no hi ha pèrdues d'
 
 ### Notes
 
-<sup id="fn1">1. El corrent elèctric és defineix com $I=\frac{dQ}{dt}$, és a dir, la taxa de canvi de la càrrega amb el temps. La seva unitat de mesura en el SI és l'ampere que equival a 1 coulomb/segon.<a href="#ref1" title="Tornar al text.">↩</a></sup>
+<sup id="fn1">1. El corrent elèctric és defineix com $$I=\frac{dQ}{dt}$$, és a dir, la taxa de canvi de la càrrega amb el temps. La seva unitat de mesura en el SI és l'ampere que equival a 1 coulomb/segon.<a href="#ref1" title="Tornar al text.">↩</a></sup>
 
 <sup id="fn2">2. L'expressió de la inducció aquí donada es dedueix fent servir la llei d'Ampère que no veurem aquí perquè va més enllà dels objectius del curs.<a href="#ref2" title="Tornar al text.">↩</a></sup>
