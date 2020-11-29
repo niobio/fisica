@@ -22,7 +22,7 @@
         <li> Fes una estimació dels valors entre el quals estarà la velocitat mitjana. </li>
         <li> Traça les gràfiques qualitatives de posició i velocitat en funció del temps. </li>
         <li> Calcula el valor de la velocitat mitjana. 
-        <br>Ajuda: $$v_{m}\neq\frac{v_{1}+v_{2}}{2}$$ </li> 
+        <br>Ajuda: \(v_{m}\neq\frac{v_{1}+v_{2}}{2}\) </li> 
     </ol>
     <a href="sol/prob202.pdf">Solució</a>
 </li>
@@ -82,7 +82,7 @@
     <ol>
         <li>Quant temps tardaran en trobar-se? </li>
         <li>En quina posició tindrà lloc l’encontre? </li>
-        <li>Dibuixeu les gràfiques $$v-t$$ i $$x-t$$. </li>
+        <li>Dibuixeu les gràfiques \(v-t\) i \(x-t\). </li>
     </ol>
     Podeu repetir l’exercici però suposant que tots dos porten el mateix sentit, 
     <ol start="4">
@@ -132,7 +132,7 @@
 Escriu les equacions de moviment de cada vehicle, des del sistema triat per a cada participant.
     <ol>
         <li>Es pot dir quin d'ells s'ha mogut amb més velocitat?</li>
-        <li>Trobeu la velocitat de cada vehicle a $$t_{a}=t_{b}=15\,\mathrm{minuts}$$. Es pot afirmar que estan junts en aquell instant? Per què?</li>
+        <li>Trobeu la velocitat de cada vehicle a \(t_{a}=t_{b}=15\,\mathrm{minuts}\). Es pot afirmar que estan junts en aquell instant? Per què?</li>
     </ol>
     <a href="sol/prob211.pdf">Solució</a>
 </li>
@@ -175,7 +175,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
     </div>
     Determineu: 
     <ol>
-        <li>L'acceleració en l'instant $$t=20\,\mathrm{s}$$. </li>
+        <li>L'acceleració en l'instant \(t=20\,\mathrm{s}\). </li>
         <li>La distància recorreguda durant la frenada. </li>
     </ol>
 </li>
@@ -193,7 +193,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
     </ol>
 </li>
 <br>
-<li>Analitzar la gràfica de la figura, que correspon a un moviment rectilini en varies etapes. Suposant que per a $$t=0$$ és $$x=0$$:
+<li>Analitzar la gràfica de la figura, que correspon a un moviment rectilini en varies etapes. Suposant que per a \(t=0\) és \(x=0\):
     <div align="middle">
     <img src="img_prob/etapes.svg">
     </div>
@@ -228,20 +228,20 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
     <a href="sol/prob219.pdf">Solució</a>
 </li>
 <br>
-<li>S'anomena temps de reacció al que transcorre des que un conductor observa un obstacle fins que prem el pedal del fre. Normalment és d'algunes dècimes de segon. Suposa que la velocitat que porta és de 90 km/h, el temps de reacció és de 0,4 segons i que l'acceleració de frenada és de $$-3\,\mathrm{m/s^{2}}$$.
+<li>S'anomena temps de reacció al que transcorre des que un conductor observa un obstacle fins que prem el pedal del fre. Normalment és d'algunes dècimes de segon. Suposa que la velocitat que porta és de 90 km/h, el temps de reacció és de 0,4 segons i que l'acceleració de frenada és de \(-3\,\mathrm{m/s^{2}}\).
     <ol>
         <li>Calcula l'espai necessari per quedar aturat des del moment que el conductor veu l'obstacle. </li>
-        <li>Representa les gràfiques $$a-t$$, $$v-t$$ i $$x-t$$ del moviment. </li>
+        <li>Representa les gràfiques \(a-t\), \(v-t\) i \(x-t\) del moviment. </li>
     </ol>
     Resultat: 114,1 m 
     <a href="sol/prob220.pdf">Solució</a>
 </li>
 <br>
-<li>En Joan llança verticalment cap amunt una pedra, amb una velocitat de partida de 10 m/s, y simultàniament en Pere, que es troba 40 m per damunt d'en Joan, llança una altre pedra cap avall, també amb velocitat de 10 m/s. [Considereu $$\left|g\right|=10\,\mathrm{m/s^{2}}$$]
+<li>En Joan llança verticalment cap amunt una pedra, amb una velocitat de partida de 10 m/s, y simultàniament en Pere, que es troba 40 m per damunt d'en Joan, llança una altre pedra cap avall, també amb velocitat de 10 m/s. [Considereu \(\left|g\right|=10\,\mathrm{m/s^{2}}\)]
     <ol>
         <li>En quin instant es troben ambdues pedres? </li>
         <li>A quina distància respecte d'en Pere es troben les pedres? </li>
-        <li>Feu les gràfiques $$v(t)$$ i $$x(t)$$ per a ambdues pedres. </li>
+        <li>Feu les gràfiques \(v(t)\) i \(x(t)\) per a ambdues pedres. </li>
     </ol>
     <a href="sol/prob221.pdf">Solució</a>
 </li>
@@ -257,15 +257,15 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
     <a href="sol/prob222.pdf">Solució</a>
     </li>
     <br>
-<li>Un vianant corre amb la màxima velocitat possible a 6 m/s per agafar una autobús que està aturat en un semàfor. Quan està a 25 metres el semàfor es posa verd i l'autobús accelera uniformement a raó d'$$1\,\mathrm{m/s^{2}}$$. 
+<li>Un vianant corre amb la màxima velocitat possible a 6 m/s per agafar una autobús que està aturat en un semàfor. Quan està a 25 metres el semàfor es posa verd i l'autobús accelera uniformement a raó d'\(1\,\mathrm{m/s^{2}}\). 
     <ol>
         <li>Calcula el temps que tardarà en atrapar l'autobús, si és que no se li escapa. </li>
-        <li>Fes les gràfiques $$a-t$$, $$v-t$$ i $$x-t$$ dels moviments. </li>
+        <li>Fes les gràfiques \(a-t\), \(v-t\) i \(x-t\) dels moviments. </li>
     </ol>
     <a href="sol/prob223.pdf">Solució</a>
 </li>
 <br>
-<li>Un cotxe i un camió parteixen del repòs al mateix instant, amb el cotxe darrere el camió una certa distància. El camió té una acceleració constant d’$$1,20\,\mathrm{m/s^{2}}$$ i, el cotxe, una acceleració d’$$1,80\,\mathrm{m/s^{2}}$$. El cotxe passa al camió després d’haver recorregut 45 m. Trobeu: 
+<li>Un cotxe i un camió parteixen del repòs al mateix instant, amb el cotxe darrere el camió una certa distància. El camió té una acceleració constant d’\(1,20\,\mathrm{m/s^{2}}\) i, el cotxe, una acceleració d’\(1,80\,\mathrm{m/s^{2}}\). El cotxe passa al camió després d’haver recorregut 45 m. Trobeu: 
     <ol>
         <li>El temps que ha trigat el cotxe en avançar al camió. </li>
         <li>La distància que es trobava inicialment el cotxe al darrere del camió.</li>
@@ -274,7 +274,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
     <a href="sol/prob224.pdf">Solució</a>
     </li>
     <br>
-<li>Un tren de rodalies parteix del repòs des d’una estació i accelera durant 10 s amb una acceleració constant d’$$1,20\,\mathrm{m/s^{2}}$$. Després marxa a velocitat constant durant 30 s i desaccelera amb una acceleració constant de mòdul $$2,40\,\mathrm{m/s^{2}}$$ fins que s’atura a l’estació següent. 
+<li>Un tren de rodalies parteix del repòs des d’una estació i accelera durant 10 s amb una acceleració constant d’\(1,20\,\mathrm{m/s^{2}}\). Després marxa a velocitat constant durant 30 s i desaccelera amb una acceleració constant de mòdul \(2,40\,\mathrm{m/s^{2}}\) fins que s’atura a l’estació següent. 
     <ol>
         <li>Feu les gràfiques d'acceleració i velocitat en funció del temps. </li>
         <li>Calculeu la distància total recorreguda. </li>
@@ -285,7 +285,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
     <br>
 <li>Des d'una altura de 200 m sobre el terra llancem, verticalment i cap amunt, un cos amb una velocitat inicial de 30 m/s. 
     <ol>
-        <li>Feu un dibuix aproximat de la gràfica velocitat-temps corresponent al moviment d'aquest cos des de l'instant de llançament fin que arriba a terra (indiqueu en el gràfic els valors de v i t corresponents als instants inicial i final). Considereu $$g=10\,\mathrm{m/s^{2}}$$.</li> 
+        <li>Feu un dibuix aproximat de la gràfica velocitat-temps corresponent al moviment d'aquest cos des de l'instant de llançament fin que arriba a terra (indiqueu en el gràfic els valors de v i t corresponents als instants inicial i final). Considereu \(g=10\,\mathrm{m/s^{2}}\).</li> 
         <li>Quant temps tarda a recórrer els darrers 50 m? </li>
         <li>Quina serà la seva posició respecte al terra a l'instant en què el cos baixa amb una velocitat de mòdul igual a 40 m/s? </li>
     </ol>
@@ -302,7 +302,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
 <li>Les dades següents corresponen a un moviment uniformement accelerat. Completa les dades que falten a la taula.
 <table style="width:80%">
     <tr>
-        <td> $$t\,\mathrm{(s)}$$ </td>
+        <td> \(t\,\mathrm{(s)}\) </td>
         <td> 0 </td>
         <td> 1 </td>
         <td>   </td>
@@ -310,7 +310,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
         <td>   </td>    
     </tr>
     <tr>
-        <td> $$v\,\mathrm{(m/s)}$$ </td>
+        <td> \(v\,\mathrm{(m/s)}\) </td>
         <td> 20 </td>
         <td>  </td>
         <td> 24</td>
@@ -318,7 +318,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
         <td>   </td>    
     </tr>
     <tr>
-        <td> $$x\,\mathrm{(m)}$$ </td>
+        <td> \(x\,\mathrm{(m)}\) </td>
         <td> 0  </td>
         <td> 21 </td>
         <td>    </td>
@@ -364,7 +364,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
         <li>Amb quina velocitat es mou la cinta, si una persona veu moure's la joguina a una velocitat de 5 m/s, quan la joguina es mou amb la mateixa direcció i el mateix sentit que la cinta, i a una velocitat de 2 m/s quan la veu moure's en la mateixa direcció però en sentit contrari? </li>
         <li>Quina velocitat desenvolupa la joguina?</li>
     </ol>
-    Resultat: $$v_{0}=1,5\,\mathrm{m/s,\,}v^{,}=3,5\,\mathrm{m/s}$$
+    Resultat: \(v_{0}=1,5\,\mathrm{m/s,\,}v^{,}=3,5\,\mathrm{m/s}\)
 </li>
     <a href="sol/prob231.pdf">Solució</a>
 </ol>
@@ -380,7 +380,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
         <li>A quin punt de l'altre marge arribarà? </li>
         <li>Quina serà l'equació de la trajectòria del vaixell? </li>
     </ol>
-    Resultat: 11,21 m/s | 67,5 m | $$y= 7,4 x$$
+    Resultat: 11,21 m/s | 67,5 m | \(y= 7,4 x\)
     <br>
     <a href="sol/prob232.pdf">Solució</a>
 </li>
@@ -429,7 +429,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
     </ol>
 </li>
 <br>
-<li>Des d'un pont que es troba a una altura h sobre el nivell d'un riu es llença una pedra en forma horitzontal amb velocitat de mòdul 5 m/s. La pedra tarda 4 segons en fer impacte sobre l'aigua (Considera $$|g|=10\,\mathrm{m/s^{2}}$$). 
+<li>Des d'un pont que es troba a una altura h sobre el nivell d'un riu es llença una pedra en forma horitzontal amb velocitat de mòdul 5 m/s. La pedra tarda 4 segons en fer impacte sobre l'aigua (Considera \(|g|=10\,\mathrm{m/s^{2}}\)). 
     <ol>
         <li>Trobeu l'altura h del pont. </li>
         <li>A quina distància respecte del peu del pont la pedra impacta amb l'aigua?</li>
@@ -464,7 +464,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
     <a href="sol/prob240.pdf">Solució</a>
 </li>
 <br>
-<li>En el videojoc Angry Birds uns ocellets són llançats amb un tirador per a fer un tir parabòlic caient sobre els porquets per a eliminar-los. A la figura es pot veure una instantània de la pantalla del joc. Les distàncies es mesuren en píxels (px) i l'acceleració és vertical cap avall i val $$50\,\mathrm{px/s^{2}}$$. Si l'ocellet surt des de l'origen de coordenades amb un angle de $$37^{\circ}$$ i els porquets es troben sobre l'eix horitzontal a les posicions 200, 250 i 300 px respectivament, trobeu:
+<li>En el videojoc Angry Birds uns ocellets són llançats amb un tirador per a fer un tir parabòlic caient sobre els porquets per a eliminar-los. A la figura es pot veure una instantània de la pantalla del joc. Les distàncies es mesuren en píxels (px) i l'acceleració és vertical cap avall i val \(50\,\mathrm{px/s^{2}}\). Si l'ocellet surt des de l'origen de coordenades amb un angle de \(37^{\circ}\) i els porquets es troben sobre l'eix horitzontal a les posicions 200, 250 i 300 px respectivament, trobeu:
     <ol>
         <li>La velocitat a la que ha de sortir l'ocellet per a caure sobre el porquet del mig.</li>
         <li>L'altura màxima a la que arriba l'ocell. </li>
@@ -501,7 +501,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
     <br> <a href="sol/prob244.pdf">Solució</a>
 </li>
 <br>
-<li>Una centrifugadora de 12 cm de radi que està inicialment en repòs accelera uniformement durant 20 segons. En aquest interval de temps, $$\alpha=100\,\mathrm{rad/s^{2}}$$. Després manté la velocitat adquirida. 
+<li>Una centrifugadora de 12 cm de radi que està inicialment en repòs accelera uniformement durant 20 segons. En aquest interval de temps, \(\alpha=100\,\mathrm{rad/s^{2}}\). Després manté la velocitat adquirida. 
     <ol>
         <li>Amb quina velocitat gira la centrifugadora quan fa 20 segons que funciona? Expressa el resultat en revolucions per minut.</li>
         <li>Quantes voltes ha fet la centrifugadora després de funcionar durant 20 segons? I després de funcionar 50 segons? </li>
@@ -538,7 +538,7 @@ Escriu les equacions de moviment de cada vehicle, des del sistema triat per a ca
     </ol>
 <a href="sol/prob248.pdf">Solució</a>
 </li>
-<li>El mòdul de la velocitat d'un punt material que descriu una trajectòria circular ve donat per l'equació (en unitats del SI) $$v=6+10t$$. Si el radi de la trajectòria és de 100 m, quina serà l’acceleració normal en l'instant $$t=8\,\mathrm{s}$$? I l’acceleració tangencial?
+<li>El mòdul de la velocitat d'un punt material que descriu una trajectòria circular ve donat per l'equació (en unitats del SI) \(v=6+10t\). Si el radi de la trajectòria és de 100 m, quina serà l’acceleració normal en l'instant \(t=8\,\mathrm{s}\)? I l’acceleració tangencial?
 Resultat: 74 m/s/s i 10 m/s/s
 <br> <a href="sol/prob249.pdf">Solució</a>
 </li>
@@ -561,12 +561,12 @@ Resultat: 74 m/s/s i 10 m/s/s
 <br> <a href="sol/prob251.pdf">Solució</a>
 </li>
 <br>
-<li>La Lluna descriu una òrbita al voltant de la Terra que correspon pràcticament a un moviment circular i uniforme, de període $$T=27,4\,\mathrm{dies}$$. La llum procedent de la Lluna triga 1,28 s a arribar a la Terra. Calculeu: 
+<li>La Lluna descriu una òrbita al voltant de la Terra que correspon pràcticament a un moviment circular i uniforme, de període \(T=27,4\,\mathrm{dies}\). La llum procedent de la Lluna triga 1,28 s a arribar a la Terra. Calculeu: 
     <ol>
         <li>La velocitat angular.</li>
         <li>L’acceleració de la Lluna. </li>
     </ol>
-    Dada: velocitat de la llum: $$c=3\times10^{8}\,\mathrm{m/s}$$.
+    Dada: velocitat de la llum: \(c=3\times10^{8}\,\mathrm{m/s}\).
     <br> <a href="sol/prob252.pdf">Solució</a>
     <div align="middle">
     <img src="img_prob/terra-lluna.svg">
