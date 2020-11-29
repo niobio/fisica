@@ -42,7 +42,7 @@ Encara que el moviment no sigui rectilini podríem considerar-lo unidimensional 
 
 ## Desplaçament
 
-Anomenarem desplaçament a la diferència entre la posició final $x$ i la posició inicial $x_{0}$ del mòbil o, equivalentment, a l'increment de la seva posició. Matemàticament: $\Delta x=x-x_{0}$
+Anomenarem desplaçament a la diferència entre la posició final \(x\) i la posició inicial \(x_{0}\) del mòbil o, equivalentment, a l'increment de la seva posició. Matemàticament: \(\Delta x=x-x_{0}\)
 
 El desplaçament, a l'igual que la posició, es mesura en metres en el SI i pot tenir signe positiu o negatiu depenent del sentit en que el mòbil es desplaci.
 
