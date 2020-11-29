@@ -15,7 +15,7 @@ El moviment és el canvi de posició d'un objecte amb el temps. L'estudi del mov
 
 ## Modelització del moviment
 
-La física es dedica a fer models de la realitat, es a dir, es pretén descriure la realitat amb la major precisió i fidelitat possible però, com això es massa complicat perquè la realitat és molt complexa, ens dediquem a fer descripcions més senzilles que preservin els aspectes més importants de la realitat que volem descriure passant per alt altres aspectes que es considerin secundaris, això s'anomena fer un model de la realitat. Per exemple, si volem descriure el moviment d'un cotxe que viatja de Barcelona a Lleida resulta raonable considerar el cotxe com si fos un punt, ja que les seves dimensions no juguen un paper rellevant en la descripció del moviment. En canvi, si el que volem es descriure el moviment d'un cotxe quan aparca, no resulta realista considerar el cotxe com si fos puntual. L'abast d'un model sempre depèn d'això que es vol estudiar, en el nostre cas generalment considerarem situacions on gairebé sempre el mòbil es podrà considerar com un punt. Aquesta aproximació per a descriure el moviment es coneix com cinemàtica del punt material.
+La física es dedica a fer models de la realitat, és a dir, es pretén descriure la realitat amb la major precisió i fidelitat possible però, com això és massa complicat perquè la realitat és molt complexa, ens dediquem a fer descripcions més senzilles que preservin els aspectes més importants de la realitat que volem descriure passant per alt altres aspectes que es considerin secundaris, això s'anomena fer un model de la realitat. Per exemple, si volem descriure el moviment d'un cotxe que viatja de Barcelona a Lleida resulta raonable considerar el cotxe com si fos un punt, ja que les seves dimensions no juguen un paper rellevant en la descripció del moviment. En canvi, si el que volem es descriure el moviment d'un cotxe quan aparca, no resulta realista considerar el cotxe com si fos puntual. L'abast d'un model sempre depèn d'això que es vol estudiar, en el nostre cas generalment considerarem situacions on gairebé sempre el mòbil es podrà considerar com un punt. Aquesta aproximació per a descriure el moviment es coneix com cinemàtica del punt material.
 
 Quan diem que volem fer un model per al moviment dels cosos ens estem referint a que volem donar una descripció matemàtica que ens permeti no només descriure com s'ha mogut un cos en el passat sinó que també volem que el nostre model ens permeti predir quina serà l'evolució d'aquest moviment en el futur. Per a fer una descripció matemàtica del moviment hem de definir magnituds que ens puguin dir on es troba en un moment determinat i també hem de dir de quina manera es relacionen aquestes magnituds. Per a descriure el moviment definirem la magnitud **posició**, que en el Sistema Internacional d'unitats (SI), es mesura en metres i ens dona informació d'on es troba el mòbil<sup><a href="#fn1" id="ref1">1</a></sup>. Per descriure l'evolució de la posició hem de definir una altra magnitud: el **temps**<sup><a href="#fn2" id="ref2">2</a></sup>. Estem molt acostumats al concepte de temps i ens sembla intuïtiu, però encara no se sap què és en realitat el temps. Per una banda fem servir el temps per a descriure el moviment i per l'altra no podem mesurar el temps sense que hi hagi moviment, la qual cosa ens porta a un cul-de-sac., que ens permetrà donar un ordre a les posicions del mòbil i juga un paper clau en el concepte de canvi. La unitat de temps en el SI és el segon (s). Els ens matemàtics que ens permeten relacionar magnituds es diuen funcions i a les **funcions** que ens donen la posició en els diferents instants de temps les anomenarem **equacions de moviment**.
 
@@ -32,7 +32,7 @@ Vivim en un univers tridimensional i el moviment, en general, es realitzarà a l
   <figcaption> <strong>Moviment rectilini: el mòbil segueix una línia recta, per a saber la seva posició en tenim prou amb donar un nombre real.</strong> </figcaption>
 </figure>
 </p>
-Encara que el moviment no sigui rectilini podríem considerar-lo unidimensional i, per tant, podríem descriure la seva posició amb només un nombre real si coneixem la **trajectòria**<sup><a href="#fn5" id="ref5">5</a></sup>, com és el cas d'un tren o un cotxe que agafa una determinada carretera. A la figura inferior podem veure una vista del circuit de Montmeló, en aquest cas el moviment no és pas rectilini però es pot descriure com un moviment unidimensional, ja que n'hi ha prou amb donar la posició amb un valor numèric com ser \(x=0,7\,\mathrm{km}\) per a saber la seva posició sense ambigüitats, ja que el traçat del circuit marca la trajectòria del mòbil.
+Encara que el moviment no sigui rectilini podríem considerar-lo unidimensional i, per tant, podríem descriure la seva posició amb només un nombre real si coneixem la **trajectòria**<sup><a href="#fn5" id="ref5">5</a></sup>, com és el cas d'un tren o un cotxe que agafa una determinada carretera. A la figura inferior podem veure una vista del circuit de Montmeló, en aquest cas el moviment no és pas rectilini però es pot descriure com un moviment unidimensional, ja que n'hi ha prou amb donar la posició amb un valor numèric com ser \\(x=0,7\,\mathrm{km}\\) per a saber la seva posició sense ambigüitats, ja que el traçat del circuit marca la trajectòria del mòbil.
 <p>
 <figure>
   <img src="img/montmelo.png" alt="">
@@ -42,7 +42,7 @@ Encara que el moviment no sigui rectilini podríem considerar-lo unidimensional 
 
 ## Desplaçament
 
-Anomenarem desplaçament a la diferència entre la posició final \\(x\\) i la posició inicial \(x_{0}\) del mòbil o, equivalentment, a l'increment de la seva posició. Matemàticament: \(\Delta x=x-x_{0}\)
+Anomenarem desplaçament a la diferència entre la posició final \\(x\\) i la posició inicial \\(x_{0}\\) del mòbil o, equivalentment, a l'increment de la seva posició. Matemàticament: \\(\Delta x=x-x_{0}\\)
 
 El desplaçament, a l'igual que la posició, es mesura en metres en el SI i pot tenir signe positiu o negatiu depenent del sentit en que el mòbil es desplaci.
 
@@ -50,21 +50,21 @@ El desplaçament, a l'igual que la posició, es mesura en metres en el SI i pot 
 
 Volem estudiar com canvia la posició del mòbil amb el transcurs del temps, per això és necessari mesurar el temps i, per aquest motiu, necessitem definir un instant de referència, **origen de temps**, **instant inicial** o **instant zero**. Per exemple, quan diem que comencem les classes a les 8, estem prenent com origen del temps la mitjanit. Si Messi fa un gol al minut 24 vol dir que s'agafa com minut zero l'instant en que va començar el partit. Als instants de temps anteriors a l'instant zero els assignarem valors negatius.
 
-Anomenarem **interval de temps** o **lapse de temps** al temps comprés entre dos instants. L'interval de temps entre un instant inicial \(t_{0}\) i un instant final t serà \(\Delta t=t-t_{0}\). A diferència dels intervals de temps que poden ser positius o negatius, els intervals de temps sempre seran positius, ja que el temps sempre transcorre en un sentit (no podem anar enrere en el temps), per tant \(\Delta t\geq0\).
+Anomenarem **interval de temps** o **lapse de temps** al temps comprés entre dos instants. L'interval de temps entre un instant inicial \\(t_{0}\\) i un instant final t serà \\(\Delta t=t-t_{0}\\). A diferència dels intervals de temps que poden ser positius o negatius, els intervals de temps sempre seran positius, ja que el temps sempre transcorre en un sentit (no podem anar enrere en el temps), per tant \\(\Delta t\geq0\\).
 
 ## Velocitat
 
-Volem estudiar l'evolució de la posició d'un mòbil amb el temps i per això necessitem saber com es produeix aquest canvi. Diem que un mòbil que canvia la seva posició molt sovint té més velocitat que un altre que ho fa més a poc a poc. La velocitat ens dóna, doncs, una idea del canvi de la posició amb el temps. Però com fer una definició quantitativa de la velocitat? Per a contestar aquesta qüestió començarem per fer una primera definició, la de **velocitat mitjana**. La velocitat mitjana \(v_{m}\) entre dos instants de temps \(t_{0}\) i \(t\) serà el quocient entre el desplaçament \((\Delta x)\) i l'interval de temps emprat \((\Delta t=t-t_{0})\):
+Volem estudiar l'evolució de la posició d'un mòbil amb el temps i per això necessitem saber com es produeix aquest canvi. Diem que un mòbil que canvia la seva posició molt sovint té més velocitat que un altre que ho fa més a poc a poc. La velocitat ens dóna, doncs, una idea del canvi de la posició amb el temps. Però com fer una definició quantitativa de la velocitat? Per a contestar aquesta qüestió començarem per fer una primera definició, la de **velocitat mitjana**. La velocitat mitjana \\(v_{m}\\) entre dos instants de temps \\(t_{0}\\) i \\(t\\) serà el quocient entre el desplaçament \\((\Delta x)\\) i l'interval de temps emprat \\((\Delta t=t-t_{0})\\):
 
 $$v_{m}=\frac{x-x_{0}}{t-t_{0}}$$
 
 La velocitat es mesura en m/s en el SI però també s'utilitzen altres unitats com km/h. Observem que la velocitat mitjana només té en compte la posició final i inicial del mòbil i no considera les posicions intermèdies per les que passa el mòbil. D'aquesta manera, si el mòbil torna al punt de partida tindrem una velocitat mitjana igual a zero, la qual cosa no vol dir que el mòbil no s'hagi mogut.
 
-Ens podem preguntar si podem tenir una definició de velocitat en un instant en comptes d'un interval de temps, en aquest cas parlaríem de **velocitat instantània**. Si per exemple volem saber la velocitat \(v_{1}\) que té el mòbil a l'instant \(t_{1}\) quan es troba a la posició \(x_{1}\), podem aprofitar la definició de velocitat mitjana però agafar un interval de temps molt petit, es a dir
+Ens podem preguntar si podem tenir una definició de velocitat en un instant en comptes d'un interval de temps, en aquest cas parlaríem de **velocitat instantània**. Si per exemple volem saber la velocitat \\(v_{1}\\) que té el mòbil a l'instant \\(t_{1}\\) quan es troba a la posició \\(x_{1}\\), podem aprofitar la definició de velocitat mitjana però agafar un interval de temps molt petit, es a dir
 
 $$v_{1}=\frac{x-x_{1}}{t-t_{1}}$$
 
-on \(t\) és un instant molt proper a \(t_{1}\). Quan en física diem “molt proper” volem dir que l'interval \(t-t_{1}\) és de l'ordre de l'error que cometem al fer la mesura del temps (més petit no té sentit).
+on \\(t\\) és un instant molt proper a \\(t_{1}\\). Quan en física diem “molt proper” volem dir que l'interval \\(t-t_{1}\\) és de l'ordre de l'error que cometem al fer la mesura del temps (més petit no té sentit).
 
 ## Acceleració
 
@@ -84,9 +84,9 @@ v=\frac{x-x_{0}}{t-t_{0}}
 \end{equation}
 $$
 
-on \(x_{0}\) és la posició del mòbil a l'instant \(t_{0}\). Aquesta última relació es pot escriure per a la velocitat instantània perquè la velocitat instantània és constant i aleshores té la mateixa expressió que la velocitat mitjana, per tant en aquest cas no necessitem que l'instant \(t\) sigui proper a \(t_{0}\).
+on \\(x_{0}\\) és la posició del mòbil a l'instant \\(t_{0}\\). Aquesta última relació es pot escriure per a la velocitat instantània perquè la velocitat instantània és constant i aleshores té la mateixa expressió que la velocitat mitjana, per tant en aquest cas no necessitem que l'instant \\(t\\) sigui proper a \\(t_{0}\\).
 
-De l'expressió \(\eqref{eq:vel_inst}\) podem aïllar la posició per a obtenir 
+De l'expressió \\(\eqref{eq:vel_inst}\\) podem aïllar la posició per a obtenir 
 
 $$
 \begin{equation}\label{eq:pos_mru}
@@ -94,15 +94,15 @@ x=x_{0}+v(t-t_{0})
 \end{equation}
 $$
 
-Aquesta expressió és l'**equació de moviment** o **equació horària** del Moviment Rectilini Uniforme (MRU) i ens dóna la posició del mòbil en funció del temps. Aquesta equació correspon a una recta i té tres paràmetres constants que determinen completament el moviment, la velocitat \(v\) i les condicions inicials \(t_{0}\) i \(x_{0}\).
+Aquesta expressió és l'**equació de moviment** o **equació horària** del Moviment Rectilini Uniforme (MRU) i ens dóna la posició del mòbil en funció del temps. Aquesta equació correspon a una recta i té tres paràmetres constants que determinen completament el moviment, la velocitat \\(v\\) i les condicions inicials \\(t_{0}\\) i \\(x_{0}\\).
 
 ## Gràfiques de velocitat i posició
 
-Per veure com són les gràfiques del MRU considerem un exemple. Considerem un mòbil que parteix amb velocitat \(v=2\,\mathrm{m/s}\) en l'instant \(t_{0}=1\,\mathrm{s}\) des de la posició \(x_{0}=5\,\mathrm{m}\) i es mou fins a l'instant \(t=10\,\mathrm{s}\). La figura inferior mostra la gràfica de velocitat en funció del temps per aquest moviment. Podem observar que la gràfica és una recta horitzontal que comença a l'instant inicial i pren el valor de la velocitat. Una observació important és que l'àrea sota la gràfica, que apareix ombrejada a la figura, representa el desplaçament del mòbil entre els instants \(t_{0}=1\,\mathrm{s}\) i \(t=10\,\mathrm{s}\). En aquest cas el desplaçament és \(\Delta x=2(10-1)=18\,\mathrm{m}\).
+Per veure com són les gràfiques del MRU considerem un exemple. Considerem un mòbil que parteix amb velocitat \\(v=2\,\mathrm{m/s}\\) en l'instant \\(t_{0}=1\,\mathrm{s}\\) des de la posició \\(x_{0}=5\,\mathrm{m}\\) i es mou fins a l'instant \\(t=10\,\mathrm{s}\\). La figura inferior mostra la gràfica de velocitat en funció del temps per aquest moviment. Podem observar que la gràfica és una recta horitzontal que comença a l'instant inicial i pren el valor de la velocitat. Una observació important és que l'àrea sota la gràfica, que apareix ombrejada a la figura, representa el desplaçament del mòbil entre els instants \\(t_{0}=1\,\mathrm{s}\\) i \\(t=10\,\mathrm{s}\\). En aquest cas el desplaçament és \\(\Delta x=2(10-1)=18\,\mathrm{m}\\).
 <p>
 <figure>
   <img src="img/velocitat1.png" alt="">
-  <figcaption> <strong>Gràfica de velocitat en funció del temps (en vermell). L'àrea sota la gràfica, que apareix ombrejada, representa el desplaçament del mòbil entre els instants \(t_{0}=1\,\mathrm{s}\) i \(t=10\,\mathrm{s}\).</strong> </figcaption>
+  <figcaption> <strong>Gràfica de velocitat en funció del temps (en vermell). L'àrea sota la gràfica, que apareix ombrejada, representa el desplaçament del mòbil entre els instants \\(t_{0}=1\,\mathrm{s}\\) i \\(t=10\,\mathrm{s}\\).</strong> </figcaption>
 </figure>
 </p>
 
@@ -138,7 +138,7 @@ v=v_{0}+a(t-t_{0})
 \end{equation}
 $$
 
-La relació \(\eqref{eq:vel_mrua}\) presenta la mateixa forma funcional que l'equació de moviment \(\eqref{eq:pos_mru}\) en el MRU, per tant, la velocitat en el MRUA és una recta de pendent igual a l'acceleració i que passa pel punt \((t_{0},v_{0})\).
+La relació \\(\eqref{eq:vel_mrua}\\) presenta la mateixa forma funcional que l'equació de moviment \\(\eqref{eq:pos_mru}\\) en el MRU, per tant, la velocitat en el MRUA és una recta de pendent igual a l'acceleració i que passa pel punt \\((t_{0},v_{0})\\).
 
 Com sabem que l'àrea sota la gràfica de velocitat-temps ens dóna el desplaçament del mòbil, intentarem deduir l'equació de moviment del MRUA a partir del càlcul de l'àrea ombrejada en la figura inferior.
 
@@ -155,7 +155,7 @@ $$x-x_{0}=\mathrm{\grave{A}rea}\,1+\mathrm{\grave{A}rea\,2}$$
 
 $$x-x_{0}=v_{0}(t-t_{0})+\frac{(v-v_{0})(t-t_{0})}{2}$$
 
-però, com \(v-v_{0}=a(t-t_{0})\) degut a la relació [eq:vel_mrua], la relació anterior es transforma en:
+però, com \\(v-v_{0}=a(t-t_{0})\\) degut a la relació [eq:vel_mrua], la relació anterior es transforma en:
 
 $$
 \begin{equation}\label{eq:pos_mrua}
@@ -163,9 +163,9 @@ x=x_{0}+v_{0}(t-t_{0})+\frac{1}{2}a\big(t-t_{0}\big)^{2}
 \end{equation}
 $$
 
-que és l'equació de moviment del MRUA on el mòbil té una posició \(x_{0}\) i una velocitat \(v_{0}\) en el instant \(t_{0}\) (coneguts com condicions inicials) i porta una acceleració constant a. Aquests últims quatre paràmetres constants determinen totalment el moviment. Podem observar que es tracta d'una funció de segon grau i, per tant, la gràfica de posició en funció del temps serà una paràbola.
+que és l'equació de moviment del MRUA on el mòbil té una posició \\(x_{0}\\) i una velocitat \\(v_{0}\\) en el instant \\(t_{0}\\) (coneguts com condicions inicials) i porta una acceleració constant a. Aquests últims quatre paràmetres constants determinen totalment el moviment. Podem observar que es tracta d'una funció de segon grau i, per tant, la gràfica de posició en funció del temps serà una paràbola.
 
-Per veure les gràfiques podem analitzar un exemple. Analitzarem per exemple un mòbil que parteix en l'instant \(t_{0}=0\) de la posició \(x_{0}=10\,\mathrm{m}\) i velocitat inicial \(v_{0}=5\,\mathrm{m/s}\) amb acceleració \(a=1\,\mathrm{m/s^{2}}\). Les equacions de velocitat i posició en funció del temps són:
+Per veure les gràfiques podem analitzar un exemple. Analitzarem per exemple un mòbil que parteix en l'instant \\(t_{0}=0\\) de la posició \\(x_{0}=10\,\mathrm{m}\\) i velocitat inicial \\(v_{0}=5\,\mathrm{m/s}\\) amb acceleració \\(a=1\,\mathrm{m/s^{2}}\\). Les equacions de velocitat i posició en funció del temps són:
 
 $$v=5+t$$
 
@@ -192,7 +192,7 @@ $$\Delta x=(v_{f}-v_{0})(t-t_{0})$$
 
 $$\Delta x = (15-5)(10-0)=100\,\mathrm{m}$$
 
-La gràfica de posició en funció del temps la podem traçar a partir d'una taula de valors que podem obtenir de l'equació \(\eqref{eq:mov_mrua1}\). També la podem traçar de manera qualitativa si tenim en compte que és una paràbola, que coneixem dos punts de la gràfica, el punt inicial (0, 10 m) i el final que hem calculat de la gràfica anterior (10 s, 110 m)<sup><a href="#fn6" id="ref6">6</a></sup>. També sabem que l'acceleració és positiva, per tant, el pendent (que representa la velocitat) ha d'anar pujant (la gràfica és còncava cap amunt). La figura inferior mostra la gràfica de posició-temps.
+La gràfica de posició en funció del temps la podem traçar a partir d'una taula de valors que podem obtenir de l'equació \\(\eqref{eq:mov_mrua1}\\). També la podem traçar de manera qualitativa si tenim en compte que és una paràbola, que coneixem dos punts de la gràfica, el punt inicial (0, 10 m) i el final que hem calculat de la gràfica anterior (10 s, 110 m)<sup><a href="#fn6" id="ref6">6</a></sup>. També sabem que l'acceleració és positiva, per tant, el pendent (que representa la velocitat) ha d'anar pujant (la gràfica és còncava cap amunt). La figura inferior mostra la gràfica de posició-temps.
 
 <p>
 <figure>
@@ -218,7 +218,7 @@ $$g=9,81\,\mathrm{m/s^{2}}$$
 
 Però, si volem estudiar l'efecte de la gravetat sobre míssils intercontinentals ja no podríem considerar l'acceleració de la gravetat com constant. Tot depèn del que volem estudiar.
 
-Nosaltres tractarem en aquesta unitat sempre problemes on l'acceleració de la gravetat és constant i, per tant, estarem dintre d'un tipus de moviment que ja coneixem bé, el MRUA. Tot el que hem estudiat sobre aquest moviment s'aplica al cas del llançament vertical i caiguda lliure amb l'afegit de que l'acceleració és un valor conegut i val \(9,81\,\mathrm{m/s^{2}}\) en cas d'estar sobre la superfície de la Terra.<sup><a href="#fn8" id="ref8">8</a></sup> 
+Nosaltres tractarem en aquesta unitat sempre problemes on l'acceleració de la gravetat és constant i, per tant, estarem dintre d'un tipus de moviment que ja coneixem bé, el MRUA. Tot el que hem estudiat sobre aquest moviment s'aplica al cas del llançament vertical i caiguda lliure amb l'afegit de que l'acceleració és un valor conegut i val \\(9,81\,\mathrm{m/s^{2}}\\) en cas d'estar sobre la superfície de la Terra.<sup><a href="#fn8" id="ref8">8</a></sup> 
 
 Les equacions de velocitat i moviment quedaran respectivament:
 
@@ -232,7 +232,7 @@ Per a indicar la posició quan tenim un moviment vertical farem servir la lletra
 
 Fins ara sempre hem observat el moviment des d'un únic punt de vista, el de l'observador generalment fix a la Terra i que generalment anomenarem “sistema de laboratori”. Pot semblar que això és completament natural però pot passar que hi hagi un altre observador en moviment respecte al primer, observant el mateix fenomen. Com serà la descripció del moviment fet per l'observador en moviment? Quina relació hi haurà entre una descripció i l'altra? Com podrem passar d'una a l'altre? Intentarem respondre aquestes qüestions en aquesta secció estudiant el cas més senzill de moviment, on l'observador que es mou ho fa en la mateixa direcció (encara que poden tenir sentits oposats) que el cos sota estudi.
 
-Imaginem una persona que observa el pas d'un tren des de l'andana d'una estació (aquest serà el nostre sistema de coordenades de laboratori i l'indicarem amb la lletra S) i, per l'altra banda, tenim una persona asseguda al tren que serà el nostre sistema mòbil, que indicarem amb la lletra S' i que es mou amb una velocitat \(v_{0}\) (velocitat del tren) respecte de l'andana. Tant la persona a l'andana com la persona sobre el tren observen el moviment d'una tercera persona (cos del que volem estudiar el seu moviment) caminant pel passadís del tren. Si l'observador S' veu a la persona caminant amb una velocitat v' ens preguntem amb quina velocitat el veurà la persona de l'andana.
+Imaginem una persona que observa el pas d'un tren des de l'andana d'una estació (aquest serà el nostre sistema de coordenades de laboratori i l'indicarem amb la lletra S) i, per l'altra banda, tenim una persona asseguda al tren que serà el nostre sistema mòbil, que indicarem amb la lletra S' i que es mou amb una velocitat \\(v_{0}\\) (velocitat del tren) respecte de l'andana. Tant la persona a l'andana com la persona sobre el tren observen el moviment d'una tercera persona (cos del que volem estudiar el seu moviment) caminant pel passadís del tren. Si l'observador S' veu a la persona caminant amb una velocitat v' ens preguntem amb quina velocitat el veurà la persona de l'andana.
 
 La manera més natural d'entendre el problema és pensar que la persona de l'andana veurà a la persona que es mou sobre el tren a una velocitat més gran si es mou en el mateix sentit del tren o més petita si es mou en sentit contrari. Això el podríem escriure amb una única relació 
 
@@ -242,9 +242,9 @@ v=v^{,}+v_{0}
 \end{equation}
 $$
 
-on \(v\) és la velocitat de la persona caminant vista pel sistema S (andana) , \(v^{,}\) és la velocitat de la persona observada pel sistema S', mentre que \(v_{0}\) és la velocitat relativa entre el sistema S i el S'. L'equació \(\eqref{eq:relatiu_1}\) ens dona la relació de transformació de velocitat que els permet passar d'un sistema a l'altre.
+on \\(v\\) és la velocitat de la persona caminant vista pel sistema S (andana) , \\(v^{,}\\) és la velocitat de la persona observada pel sistema S', mentre que \\(v_{0}\\) és la velocitat relativa entre el sistema S i el S'. L'equació \\(\eqref{eq:relatiu_1}\\) ens dona la relació de transformació de velocitat que els permet passar d'un sistema a l'altre.
 
-Nosaltres considerarem sempre sistemes de referència que es mouen amb una velocitat \(v_{0}\) relativa constant. Si la persona que es mou sobre el tren ho fa amb MRU la descripció de l'equació de moviment donada per a cada observador serà
+Nosaltres considerarem sempre sistemes de referència que es mouen amb una velocitat \\(v_{0}\\) relativa constant. Si la persona que es mou sobre el tren ho fa amb MRU la descripció de l'equació de moviment donada per a cada observador serà
 
 $$x^{,}=x_{0}^{,}+v^{,}(t-t_{0}^{,})$$
 
@@ -260,7 +260,7 @@ x=x^{,}+v_{0}t
 \end{equation}
 $$
 
-Per altra banda tenim que \(t^{,}=t\), la qual cosa vol dir que el temps transcorre igual per a tots dos observadors. Aquesta última relació juntament amb la \(\eqref{eq:relatiu_1}\) i la \(\eqref{eq:relatiu_2}\) es coneixen com transformacions de Galileu del moviment relatiu.<sup><a href="#fn9" id="ref9">9</a></sup>
+Per altra banda tenim que \\(t^{,}=t\\), la qual cosa vol dir que el temps transcorre igual per a tots dos observadors. Aquesta última relació juntament amb la \\(\eqref{eq:relatiu_1}\\) i la \\(\eqref{eq:relatiu_2}\\) es coneixen com transformacions de Galileu del moviment relatiu.<sup><a href="#fn9" id="ref9">9</a></sup>
 
 
 ## Moviment en dues dimensions
@@ -283,12 +283,12 @@ x^{,}=0\\
 y^{,}=v^{,}\Delta t
 \end{cases}$$
 
-En canvi, des del punt de vista de l'observador del sistema S les equacions resulten més complicades, ja que el mòbil no es desplaça coincidint amb la direcció d'un dels seus eixos. En el temps \(\Delta t\) el mòbil s'haurà desplaçat una distància \(\Delta r=v\Delta t\), com es pot veure a la figura inferior.
+En canvi, des del punt de vista de l'observador del sistema S les equacions resulten més complicades, ja que el mòbil no es desplaça coincidint amb la direcció d'un dels seus eixos. En el temps \\(\Delta t\\) el mòbil s'haurà desplaçat una distància \\(\Delta r=v\Delta t\\), com es pot veure a la figura inferior.
 
 <p>
 <figure>
   <img src="img/relatiu_2.png" alt="">
-  <figcaption> <strong>Transcorregut un temps \(\Delta t\) els eixos Y i Y' s'ha separat una distància \(x=v_{0}\Delta t\) i el mòbil s'ha desplaçat una distància \(\Delta r=v\Delta t\).</strong> </figcaption>
+  <figcaption> <strong>Transcorregut un temps \\(\Delta t\\) els eixos Y i Y' s'ha separat una distància \\(x=v_{0}\Delta t\\) i el mòbil s'ha desplaçat una distància \\(\Delta r=v\Delta t\\).</strong> </figcaption>
 </figure>
 </p>
 Les equacions de posició del mòbil respecte al sistema S quedaran:
@@ -323,7 +323,7 @@ $$\Delta r=\sqrt{x^{2}+y^{2}}=\sqrt{(v_{0}\Delta t)^{2}+(v^{,}\Delta t)^{2}}$$
 
 $$\Delta r=\sqrt{(v_{0}^{2}+v^{,2})\Delta t^{2}}=\sqrt{(v_{0}^{2}+v^{,2})}\Delta t$$
 
-i d'aquesta última relació tenim que la velocitat \(v\) vista pel sistema S serà 
+i d'aquesta última relació tenim que la velocitat \\(v\\) vista pel sistema S serà 
 
 $$v=\frac{\Delta r}{\Delta t}=\sqrt{(v_{0}^{2}+v^{,2})}$$
 
@@ -344,18 +344,18 @@ Quan llancem un objecte formant un angle respecte a l'horitzontal (tir oblic) po
 
 Aquest fenomen ens permet comprendre com descriure un moviment de llançament oblic. El descriurem com un moviment bidimensional amb una acceleració constant que actua només en la direcció vertical.
 
-Si llancem un cos amb una velocitat inicial \(\vec{v}_{0}\) formant un angle \(\alpha\) amb l'horitzontal com es veu a la Figura , el cos descriurà un moviment curvilini que podem descriure com la composició d'un moviment horitzontal de velocitat constant 
+Si llancem un cos amb una velocitat inicial \\(\vec{v}_{0}\\) formant un angle \\(\alpha\\) amb l'horitzontal com es veu a la Figura , el cos descriurà un moviment curvilini que podem descriure com la composició d'un moviment horitzontal de velocitat constant 
 
 $$v_{0x}=v_{0}\cos\alpha$$
 
-i un altre vertical amb acceleració constant \(g\) i velocitat inicial
+i un altre vertical amb acceleració constant \\(g\\) i velocitat inicial
 
 $$v_{0y}=v_{0}\sin\alpha$$
 
 <p>
 <figure>
   <img src="img/parabolic1.svg.png" alt="">
-  <figcaption> <strong>Tir oblic. El cos descriu una trajectòria curvilínia que podem pensar com la composició de dos moviments perpendiculars diferents: l'horitzontal de velocitat constant \(v_{0x}\) i el vertical de velocitat inicial \(v_{0y}\) i acceleració constant \(g\).</strong> </figcaption>
+  <figcaption> <strong>Tir oblic. El cos descriu una trajectòria curvilínia que podem pensar com la composició de dos moviments perpendiculars diferents: l'horitzontal de velocitat constant \\(v_{0x}\\) i el vertical de velocitat inicial \\(v_{0y}\\) i acceleració constant \\(g\\).</strong> </figcaption>
 </figure>
 </p>
 
@@ -403,11 +403,11 @@ el vector velocitat inicial i
 
 $$\vec{g}$$ 
 
-el vector acceleració de la gravetat, que si estem sobre la superfície de la Terra i considerem com a positiva la direcció vertical cap amunt tindrà un valor \(\vec{g}=-9,8\,\mathrm{m/s^{2}\hat{j}}\).
+el vector acceleració de la gravetat, que si estem sobre la superfície de la Terra i considerem com a positiva la direcció vertical cap amunt tindrà un valor \\(\vec{g}=-9,8\,\mathrm{m/s^{2}\hat{j}}\\).
 
-Les equacions \(\eqref{eq:eq_vel}\) i \(\eqref{eq:eq_pos}\) contenen tota la informació del moviment i amb elles podrem resoldre gairebé tots els problemes de tir oblic.
+Les equacions \\(\eqref{eq:eq_vel}\\) i \\(\eqref{eq:eq_pos}\\) contenen tota la informació del moviment i amb elles podrem resoldre gairebé tots els problemes de tir oblic.
 
-Les equacions \(\eqref{eq:eq_pos}\) donen les coordenades de posició en funció del temps, si volem l'equació de la trajectòria, es a dir, l'equació que ens doni com varia l'altura com a funció de la coordenada horitzontal \(y=f(x)\), hem de fer desaparèixer el paràmetre temps de les equacions \(\eqref{eq:eq_pos}\). Per a fer-ho aïllarem el temps de la primera de les equacions per a obtenir
+Les equacions \\(\eqref{eq:eq_pos}\\) donen les coordenades de posició en funció del temps, si volem l'equació de la trajectòria, es a dir, l'equació que ens doni com varia l'altura com a funció de la coordenada horitzontal \\(y=f(x)\\), hem de fer desaparèixer el paràmetre temps de les equacions \\(\eqref{eq:eq_pos}\\). Per a fer-ho aïllarem el temps de la primera de les equacions per a obtenir
 
 $$t-t_{0}=\frac{x-x_{0}}{v_{0x}}$$
 
@@ -421,7 +421,7 @@ $$\begin{equation}\label{eq:traject_parabol}
 y=y_{0}+\frac{v_{0y}}{v_{0x}}\big(x-x_{0}\big)+\frac{g}{2v_{0x}^{2}}\big(x-x_{0}\big)^{2}
 \end{equation}$$
 
-on es veu clarament que es tracta de l'equació d'una paràbola. És per això que al tir oblic també se'l coneix com moviment parabòlic. La trajectòria parabòlica es pot apreciar a les figures anteriors. L'equació \(\eqref{eq:traject_parabol}\) es coneix com a **equació de la trajectòria** del moviment parabòlic.
+on es veu clarament que es tracta de l'equació d'una paràbola. És per això que al tir oblic també se'l coneix com moviment parabòlic. La trajectòria parabòlica es pot apreciar a les figures anteriors. L'equació \\(\eqref{eq:traject_parabol}\\) es coneix com a **equació de la trajectòria** del moviment parabòlic.
 
 ## Moviment circular
 
@@ -430,13 +430,13 @@ El moviment circular és un moviment que té una circumferència per trajectòri
 <p>
 <figure>
   <img src="img/circular1.svg.png" alt="">
-  <figcaption> <strong>Moviment circular. Les coordenades \(x\) i \(y\) no són pas independents, estan relacionades a través de l'expressió \(r^{2}=x^{2}+y^{2}\), amb la qual cosa només es necessita una quantitat per a tenir completament determinada la posició. En aquest cas el més senzill és fer servir el sistema de coordenades polars, que utilitza com a coordenades el radi \(r\) (constant) i l'angle \(\varphi\) que és l'única variable que necessitem per a tenir completament localitzat el mòbil.</strong> </figcaption>
+  <figcaption> <strong>Moviment circular. Les coordenades \\(x\\) i \\(y\\) no són pas independents, estan relacionades a través de l'expressió \\(r^{2}=x^{2}+y^{2}\\), amb la qual cosa només es necessita una quantitat per a tenir completament determinada la posició. En aquest cas el més senzill és fer servir el sistema de coordenades polars, que utilitza com a coordenades el radi \\(r\\) (constant) i l'angle \\(\varphi\\) que és l'única variable que necessitem per a tenir completament localitzat el mòbil.</strong> </figcaption>
 </figure>
 </p>
 
 ### Sistema de coordenades polars
 
-Fins ara hem fet servir sempre sistemes de coordenades cartesianes (rectangulars) però moltes vegades, depenent del problema que volem tractar, convé fer servir sistemes de representació diferents. En el cas del moviment circular el sistema més natural per a treballar és el sistema polar. El sistema polar utilitza la distància a l'objecte i l'angle respecte a l'eix X per a representar la posició d'un objecte i, com en el moviment circular la distància \(r\) (radi) és constant, l'única variable resulta ser l'angle \(\varphi\). Sempre es pot passar d'un sistema a l'altre amb unes regles de transformació senzilles (veure figura anterior). Per a passar de sistema polar a cartesià:
+Fins ara hem fet servir sempre sistemes de coordenades cartesianes (rectangulars) però moltes vegades, depenent del problema que volem tractar, convé fer servir sistemes de representació diferents. En el cas del moviment circular el sistema més natural per a treballar és el sistema polar. El sistema polar utilitza la distància a l'objecte i l'angle respecte a l'eix X per a representar la posició d'un objecte i, com en el moviment circular la distància \\(r\\) (radi) és constant, l'única variable resulta ser l'angle \\(\varphi\\). Sempre es pot passar d'un sistema a l'altre amb unes regles de transformació senzilles (veure figura anterior). Per a passar de sistema polar a cartesià:
 
 $$\begin{cases}
 x=r\cos\varphi\\
@@ -452,7 +452,7 @@ r=\sqrt{x^{2}+y^{2}}\\
 
 on r es mesura en unitats de longitud (metres al SI) i l'angle el mesurarem en **radiants** (rad). 
 
-El radiant es defineix com el quocient entre l'arc \(s\) i el radi \(r\),
+El radiant es defineix com el quocient entre l'arc \\(s\\) i el radi \\(r\\),
 
 $$\varphi=\frac{s}{r}$$
 
@@ -460,7 +460,7 @@ que resulta independent de la mida de la circumferència. Si agafem un radi més
 
 ### Velocitat angular
 
-De la mateixa manera que vam fer abans quan vam definir la velocitat com a la variació de la posició en el temps, ara podem definir la variació de l'angle en el temps com a velocitat angular. Si considerem un interval de temps \(\Delta t\) i observem un desplaçament angular \(\Delta\varphi\), direm que el mòbil té una velocitat angular mitjana \(\omega_{m}\), tal que,<sup><a href="#fn11" id="ref11">11</a></sup>
+De la mateixa manera que vam fer abans quan vam definir la velocitat com a la variació de la posició en el temps, ara podem definir la variació de l'angle en el temps com a velocitat angular. Si considerem un interval de temps \\(\Delta t\\) i observem un desplaçament angular \\(\Delta\varphi\\), direm que el mòbil té una velocitat angular mitjana \\(\omega_{m}\\), tal que,<sup><a href="#fn11" id="ref11">11</a></sup>
 
 $$\begin{equation}\label{eq:omega_m}
 \omega_{m}=\frac{\Delta\varphi}{\Delta t}=\frac{\varphi-\varphi_{0}}{t-t_{0}}
@@ -470,35 +470,35 @@ que té unitats de rad/s.
 
 ### Moviment circular uniforme
 
-Si el moviment circular es realitza amb un ritme constant i sempre tarda el mateix en donar una volta direm que es mou amb un moviment circular uniforme (MCU). Com sempre tarda el mateix en fer un cicle, definirem aquest temps com a període i l'assignarem la lletra \(T\). Per exemple, les manetes del rellotge tenen diferents períodes depenent de què mesurin. l'agulla horària té un període de 12 hores, la agulla minutera té un període d'una hora i la que marca els segons té un període de 60 segons. En el cas del moviment de la terra al voltant del Sol, el període és de 365,25 dies.
+Si el moviment circular es realitza amb un ritme constant i sempre tarda el mateix en donar una volta direm que es mou amb un moviment circular uniforme (MCU). Com sempre tarda el mateix en fer un cicle, definirem aquest temps com a període i l'assignarem la lletra \\(T\\). Per exemple, les manetes del rellotge tenen diferents períodes depenent de què mesurin. l'agulla horària té un període de 12 hores, la agulla minutera té un període d'una hora i la que marca els segons té un període de 60 segons. En el cas del moviment de la terra al voltant del Sol, el període és de 365,25 dies.
 
-Una altra magnitud habitual quan parlem de moviments periòdics en general i circular uniforme en particular, és la freqüència, \(f\), que és la quantitat de cicles o voltes que fa per unitat de temps, així
+Una altra magnitud habitual quan parlem de moviments periòdics en general i circular uniforme en particular, és la freqüència, \\(f\\), que és la quantitat de cicles o voltes que fa per unitat de temps, així
 
 $$f=\frac{N}{\Delta t}$$
 
-on \(N\) és el nombre de voltes que fa en un interval de temps \(\Delta t\). Les unitats amb que mesurem la freqüència són \(\mathrm{s^{-1}}=\mathrm{Hz}\) els hertz. Si per a calcular la freqüència utilitzem només una volta, el temps emprat és igual al període i aleshores podem escriure
+on \\(N\\) és el nombre de voltes que fa en un interval de temps \\(\Delta t\\). Les unitats amb que mesurem la freqüència són \\(\mathrm{s^{-1}}=\mathrm{Hz}\\) els hertz. Si per a calcular la freqüència utilitzem només una volta, el temps emprat és igual al període i aleshores podem escriure
 
 $$\begin{equation}\label{eq:freq}
 f=\frac{1}{T}
 \end{equation}$$
 
-Si tenim en compte que en un MCU la velocitat angular és constant, l'expressió \(\eqref{eq:omega_m}\) per a la velocitat angular mitjana la podem fer servir per a la velocitat angular instantània, ja que coincideixen en aquest cas. Si utilitzem l'expressió \(\eqref{eq:omega_m}\) per a una volta, l'angle recorregut és \(2\pi\) en un interval de temps igual al període, per tant, obtenim l'expressió que relaciona la velocitat angular amb el període:
+Si tenim en compte que en un MCU la velocitat angular és constant, l'expressió \\(\eqref{eq:omega_m}\\) per a la velocitat angular mitjana la podem fer servir per a la velocitat angular instantània, ja que coincideixen en aquest cas. Si utilitzem l'expressió \\(\eqref{eq:omega_m}\\) per a una volta, l'angle recorregut és \\(2\pi\\) en un interval de temps igual al període, per tant, obtenim l'expressió que relaciona la velocitat angular amb el període:
 
 $$\begin{equation}\label{eq:freq_ang}
 \omega=\frac{2\pi}{T}
 \end{equation}$$
 
-i, si fem servir l'expressió \(\eqref{eq:freq}\) dintre de la \(\eqref{eq:freq_ang}\), obtenim l'expressió que relaciona la freqüència angular i la freqüència:
+i, si fem servir l'expressió \\(\eqref{eq:freq}\\) dintre de la \\(\eqref{eq:freq_ang}\\), obtenim l'expressió que relaciona la freqüència angular i la freqüència:
 
 $$\omega=2\pi f$$
 
-Utilitzant l'expressió \(\eqref{eq:omega_m}\) podem escriure l'equació de moviment en la seva versió angular pel MCU:
+Utilitzant l'expressió \\(\eqref{eq:omega_m}\\) podem escriure l'equació de moviment en la seva versió angular pel MCU:
 
 $$\varphi=\varphi_{0}+\omega\big(t-t_{0}\big)$$
 
-que ens dona l'angle com a funció del temps, sabent l'angle \(\varphi_{0}\) que té el mòbil en l'instant \(t_{0}\) i la velocitat angular.
+que ens dona l'angle com a funció del temps, sabent l'angle \\(\varphi_{0}\\) que té el mòbil en l'instant \\(t_{0}\\) i la velocitat angular.
 
-Si volem conèixer l'arc recorregut només ens cal multiplicar l'angle pel radi, \(r\), de la trajectòria:
+Si volem conèixer l'arc recorregut només ens cal multiplicar l'angle pel radi, \\(r\\), de la trajectòria:
 
 $$s=\varphi r=\varphi_{0}r+\omega r\big(t-t_{0}\big)$$
 
@@ -514,7 +514,7 @@ $$v=\omega r$$
 
 ### Acceleració d'un moviment circular uniforme
 
-Hem vist que el MCU es caracteritza per tenir el mòdul de la velocitat constant, però el fet d'estar subjecte a una acceleració es deu a un canvi a qualsevol de les característiques vectorials de la velocitat, per tant, un canvi en la direcció de moviment té associat una acceleració. Tractarem de deduir el valor de l'acceleració en un MCU i per a fer-ho ens ajudarem amb la figura següent. Allí veiem un moviment circular uniforme on el mòbil passa de la posició P a la posició Q descrivint un angle \Delta\varphi mentre descriu una trajectòria de radi \(r\) constant en un temps \(\Delta t\). 
+Hem vist que el MCU es caracteritza per tenir el mòdul de la velocitat constant, però el fet d'estar subjecte a una acceleració es deu a un canvi a qualsevol de les característiques vectorials de la velocitat, per tant, un canvi en la direcció de moviment té associat una acceleració. Tractarem de deduir el valor de l'acceleració en un MCU i per a fer-ho ens ajudarem amb la figura següent. Allí veiem un moviment circular uniforme on el mòbil passa de la posició P a la posició Q descrivint un angle \Delta\varphi mentre descriu una trajectòria de radi \\(r\\) constant en un temps \\(\Delta t\\). 
 
 <p>
 <figure>
@@ -523,7 +523,7 @@ Hem vist que el MCU es caracteritza per tenir el mòdul de la velocitat constant
 </figure>
 </p>
 
-El desplaçament del mòbil en l'interval de temps \(\Delta t\) és \(\Delta r\) i, com la velocitat \(v\) és sempre tangent a la trajectòria, té una direcció sempre perpendicular al radi. Per tant, si analitzem el triangle OPQ (indicat en groc) veiem que és isòsceles i resulta semblant<sup><a href="#fn12" id="ref12">12</a></sup> al triangle que s'obté de fer coincidir l'origen dels dos vectors velocitat com es pot veure al detall superior de la figura anterior. Si utilitzem la proporcionalitat dels seus costats podem establir que
+El desplaçament del mòbil en l'interval de temps \\(\Delta t\\) és \\(\Delta r\\) i, com la velocitat \\(v\\) és sempre tangent a la trajectòria, té una direcció sempre perpendicular al radi. Per tant, si analitzem el triangle OPQ (indicat en groc) veiem que és isòsceles i resulta semblant<sup><a href="#fn12" id="ref12">12</a></sup> al triangle que s'obté de fer coincidir l'origen dels dos vectors velocitat com es pot veure al detall superior de la figura anterior. Si utilitzem la proporcionalitat dels seus costats podem establir que
 
 $$\frac{\Delta v}{v}=\frac{\Delta r}{r}$$
 
@@ -531,28 +531,28 @@ que podem reescriure com
 
 $$\Delta v=\frac{v}{r}\Delta r$$
 
-i, si dividim ambdós membres per l'interval de temps \(\Delta t\) obtenim
+i, si dividim ambdós membres per l'interval de temps \\(\Delta t\\) obtenim
 
 $$\frac{\Delta v}{\Delta t}=\frac{v}{r}\frac{\Delta r}{\Delta t}$$
 
-Però \(\Delta v/\Delta t=a\) i \(\Delta r/\Delta t=v\), per tant podem reescriure l'expressió anterior com<sup><a href="#fn13" id="ref13">13</a></sup>
+Però \\(\Delta v/\Delta t=a\\) i \\(\Delta r/\Delta t=v\\), per tant podem reescriure l'expressió anterior com<sup><a href="#fn13" id="ref13">13</a></sup>
 
 $$a=\frac{v^{2}}{r}$$
 
-Hem obtingut l'expressió de l'acceleració a la que està sotmès un mòbil que es mou seguint un MCU. Aquesta acceleració té la mateixa direcció i sentit que \(\Delta v\) (veure figura anterior), si considerem un interval de temps molt petit podem veure que \(\Delta\varphi\) també serà molt petit i que \Delta v tindrà una direcció perpendicular a la velocitat i, el mateix passa amb l'acceleració. Per tant, l'acceleració tindrà una direcció radial cap endins i, per aquest motiu, se la coneix amb el nom d'**acceleració centrípeta** o **acceleració normal**, per ser perpendicular (normal) a la trajectòria.
+Hem obtingut l'expressió de l'acceleració a la que està sotmès un mòbil que es mou seguint un MCU. Aquesta acceleració té la mateixa direcció i sentit que \\(\Delta v\\) (veure figura anterior), si considerem un interval de temps molt petit podem veure que \\(\Delta\varphi\\) també serà molt petit i que \Delta v tindrà una direcció perpendicular a la velocitat i, el mateix passa amb l'acceleració. Per tant, l'acceleració tindrà una direcció radial cap endins i, per aquest motiu, se la coneix amb el nom d'**acceleració centrípeta** o **acceleració normal**, per ser perpendicular (normal) a la trajectòria.
 
 ### Sistema de coordenades intrínseques
 
-Ja hem vist que a vegades podem fer servir un sistema de coordenades diferent al cartesià si s'ajusta millor al problema sota estudi. Així hem utilitzat el sistema de coordenades polar per descriure el moviment circular. Un altre sistema de coordenades que resulta d'utilitat per descriure moviments curvilinis és el sistema de **coordenades intrínseques**<sup><a href="#fn14" id="ref14">14</a></sup>. En aquest sistema de coordenades els vectors unitaris (versors) que formen la base del pla es mouen amb el mòbil. Un dels versors té la mateixa direcció i el mateix sentit que el vector velocitat i l'anomenarem **versor tangencial**, \(\mathrm{\hat{t}}\), de manera que 
+Ja hem vist que a vegades podem fer servir un sistema de coordenades diferent al cartesià si s'ajusta millor al problema sota estudi. Així hem utilitzat el sistema de coordenades polar per descriure el moviment circular. Un altre sistema de coordenades que resulta d'utilitat per descriure moviments curvilinis és el sistema de **coordenades intrínseques**<sup><a href="#fn14" id="ref14">14</a></sup>. En aquest sistema de coordenades els vectors unitaris (versors) que formen la base del pla es mouen amb el mòbil. Un dels versors té la mateixa direcció i el mateix sentit que el vector velocitat i l'anomenarem **versor tangencial**, \\(\mathrm{\hat{t}}\\), de manera que 
 
 $$\mathrm{\hat{t}}=\frac{\vec{v}}{\left|\vec{v}\right|}$$
 
-i l'altre versor l'anomenarem **versor normal**, \(\hat{\mathrm{n}}\), i té direcció perpendicular a \(\hat{\mathrm{t}}\), i sentit cap a la part convexa de la trajectòria. A la figura següent es pot veure com van variant els versors intrínsecs a mesura que el mòbil canvia de posició del mòbil.
+i l'altre versor l'anomenarem **versor normal**, \\(\hat{\mathrm{n}}\\), i té direcció perpendicular a \\(\hat{\mathrm{t}}\\), i sentit cap a la part convexa de la trajectòria. A la figura següent es pot veure com van variant els versors intrínsecs a mesura que el mòbil canvia de posició del mòbil.
 
 <p>
 <figure>
   <img src="img/intrinsec.svg.png" alt="">
-  <figcaption> <strong>Sistema de coordenades intrínseques. Els vectors unitaris \(\mathrm{\hat{t}}\) i \(\mathrm{\hat{n}}\) van seguint el mòbil, el primer sempre té direcció tangent a la trajectòria com el vector velocitat i el segon és perpendicular a la trajectòria i sempre apunta en el sentit exterior a la trajectòria.</strong> </figcaption>
+  <figcaption> <strong>Sistema de coordenades intrínseques. Els vectors unitaris \\(\mathrm{\hat{t}}\\) i \\(\mathrm{\hat{n}}\\) van seguint el mòbil, el primer sempre té direcció tangent a la trajectòria com el vector velocitat i el segon és perpendicular a la trajectòria i sempre apunta en el sentit exterior a la trajectòria.</strong> </figcaption>
 </figure>
 </p>
 
@@ -579,11 +579,11 @@ En general una acceleració que sigui tangent a la trajectòria tindrà com a ca
 
 ### Moviment circular uniformement accelerat
 
-Si el moviment circular es produeix de manera que la velocitat angular varia direm que es tracta d'un moviment circular no uniforme, essent la seva acceleració angular mitjana en un interval de temps \(\Delta t=t-t_{0}\):
+Si el moviment circular es produeix de manera que la velocitat angular varia direm que es tracta d'un moviment circular no uniforme, essent la seva acceleració angular mitjana en un interval de temps \\(\Delta t=t-t_{0}\\):
 
 $$\alpha_{m}=\frac{\omega-\omega_{0}}{t-t_{0}}$$
 
-on l'acceleració angular es mesura en radiants partit segon al quadrat (\(\mathrm{rad/s^{2}}\)). 
+on l'acceleració angular es mesura en radiants partit segon al quadrat (\\(\mathrm{rad/s^{2}}\\)). 
 
 Si el ritme de canvi del mòdul de la velocitat és constant, aleshores l'acceleració angular instantània coincidirà amb l'acceleració mitjana i podríem escriure
 
@@ -597,7 +597,7 @@ $$\begin{equation}\label{eq:eq_mov_mcua}
 \varphi=\varphi_{0}+\omega_{0}\big(t-t_{0}\big)+\frac{1}{2}\alpha\big(t-t_{0}\big)^{2}
 \end{equation}$$
 
-Si multipliquem les equacions \(\eqref{eq:omega_mcua}\) i \(\eqref{eq:eq_mov_mcua}\) pel radi de la trajectòria podem obtenir les relacions tangencials que donen la velocitat i l'arc
+Si multipliquem les equacions \\(\eqref{eq:omega_mcua}\\) i \\(\eqref{eq:eq_mov_mcua}\\) pel radi de la trajectòria podem obtenir les relacions tangencials que donen la velocitat i l'arc
 
 $$v=v_{0}+a_{t}\big(t-t_{0}\big)$$
 
@@ -640,7 +640,7 @@ $$a=\sqrt{a_{t}^{2}+a_{n}^{2}}$$
 
 <sup id="fn5">5. La trajectòria d'un mòbil està formada per tots els punts per on passa el mòbil.<a href="#ref5" title="Tornar al text.">↩</a></sup>
 
-<sup id="fn6">6. Obervem que la posició final és igual a la posició inicial més el desplaçament \(x_{f}=x_{0}+\Delta x=10+100=110\,\mathrm{m}\)<a href="#ref6" title="Tornar al text.">↩</a></sup>
+<sup id="fn6">6. Obervem que la posició final és igual a la posició inicial més el desplaçament \\(x_{f}=x_{0}+\Delta x=10+100=110\,\mathrm{m}\\)<a href="#ref6" title="Tornar al text.">↩</a></sup>
 
 <sup id="fn7">7. Es pot veure el vídeo de l'experiment a YouTube: https://youtu.be/oYEgdZ3iEKA<a href="#ref7" title="Tornar al text.">↩</a></sup>
 
@@ -650,7 +650,7 @@ $$a=\sqrt{a_{t}^{2}+a_{n}^{2}}$$
 
 <sup id="fn10">10. El radiant és una unitat “fantasma”, ja que la utilitzem com unitat per a una magnitud adimensional, és per aquest motiu que quan apareix alguna unitat multiplicant al radiant aquest desapareix i ja no l'escrivim.<a href="#ref10" title="Tornar al text.">↩</a></sup>
 
-<sup id="fn11">11. Per a indicar la velocitat angular farem servir la lletra grega omega minúscula \(\omega\).<a href="#ref11" title="Tornar al text.">↩</a></sup>
+<sup id="fn11">11. Per a indicar la velocitat angular farem servir la lletra grega omega minúscula \\(\omega\\).<a href="#ref11" title="Tornar al text.">↩</a></sup>
 
 <sup id="fn12">12. Dos triangles són semblants si tenen els angles iguals i els costats proporcionals.<a href="#ref12" title="Tornar al text.">↩</a></sup>
 
