@@ -207,7 +207,7 @@ Quan deixem lliure un cos aquest cau per l'acció de l'atracció gravitatòria. 
 
 <p>
 <figure>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/E43-CfukEgs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/E43-CfukEgs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <figcaption> <strong>El físic anglès Brian Cox fa l'experiment de llançar una bola i unes plomes en una cambra de buit per a comprovar que cauen amb la mateixa acceleració</strong> </figcaption>
 </figure>
 </p>
