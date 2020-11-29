@@ -72,7 +72,19 @@
           });
         </script>
            End Parse the Latex divs with Katex-->
-        
+        <script>
+        renderMathInElement(
+            document.body,
+            {
+                delimiters: [
+                    {left: "$$", right: "$$", display: true},
+                    {left: "\\[", right: "\\]", display: true},
+                    {left: "$", right: "$", display: false},
+                    {left: "\\(", right: "\\)", display: false}
+                ]
+            }
+        );
+      </script>
         
       </footer>
     </div>
