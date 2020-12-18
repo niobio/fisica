@@ -42,15 +42,16 @@ Per il·lustrar el mètode farem un exemple amb el que trobarem l'acceleració d
 </table>
 
 
-Per fer els càlculs utilitzarem **Jupyter Notebook** que ve amb el paquet informàtic **Anaconda** que heu de tenir instal·lat a l'ordinador.
+Per fer els càlculs utilitzarem **Jupyter Notebook** que tenim a [Google Colab](https://colab.research.google.com){:target="_blank"}. Quan accedim a la plana web, anem al menú File -> New notebook i posem un nom al nou notebook. 
+
 
 A continuació els càlculs:
 
-Primer hem d'importar totes les funcions que necessitarem i que venen en el mòdul `pylab` 
+Primer hem d'importar totes les funcions que necessitarem i que venen en el mòdul `pylab`, per fer-ho utilitzarem el comandament màgic `%pylab inline`, el modificador `inline` serveix perquè els gràfics els mostri en la mateixa pàgina del notebook. 
 
 
 ```python
-from pylab import *
+%pylab inline
 ```
 
 El següent és crear els `array`, amb els valor experimentals, un pel temps i l'altre per les altures.
