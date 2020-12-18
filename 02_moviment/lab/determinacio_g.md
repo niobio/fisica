@@ -3,7 +3,7 @@
 
 En aquesta pràctica de laboratori intentarem mesurar la acceleració de la gravetat a la Terra. Per fer-ho utilitzarem un cronòmetre de precisió, el dels nostres mòbils de la manera que s'explica al vídeo següent
 
-<iframe src="https://www.youtube.com/embed/zRGh9_a1J7s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zRGh9_a1J7s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Materials
 
