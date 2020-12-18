@@ -4,7 +4,7 @@
 En aquesta pràctica de laboratori intentarem mesurar la acceleració de la gravetat a la Terra. Per fer-ho utilitzarem un cronòmetre de precisió, el dels nostres mòbils de la manera que s'explica al vídeo següent
 
 <iframe src="https://www.youtube.com/embed/zRGh9_a1J7s" id="myIframe" scrolling="no" frameborder="0"
-    style="position: relative; height: 100%; width: 100%;" scrolling="no" frameborder="0" allowfullscreen></iframe>
+    style="position: relative;" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
 ## Materials
 
@@ -27,7 +27,7 @@ Per tant, els punts hauran de ser part de una paràbola com la següent:
 
 $$h = at^2+bt+c$$
 
-on els paràmetres haurien de prendre els valors $a=0,5g$, $b=0$ i $c=0$. Existeix un mètode anomenat **mètode de quadrats mínims** que ens permet trobar la paràbola que més a prop passa per tos els punts. D'aquesta manera obtindrem els valors dels paràmetres i el valor de l'acceleració de la gravetat el tindrem multiplicant $a$ per 2.
+on els paràmetres haurien de prendre els valors \(a=0,5g\), \(b=0\) i \(c=0\). Existeix un mètode anomenat **mètode de quadrats mínims** que ens permet trobar la paràbola que més a prop passa per tos els punts. D'aquesta manera obtindrem els valors dels paràmetres i el valor de l'acceleració de la gravetat el tindrem multiplicant $a$ per 2.
 
 ## Exemple: trobem la gravetat a la Lluna
 
