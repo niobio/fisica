@@ -19,9 +19,9 @@
 
 2. Calcula la velocitat de la llum vermella a l'interior d'un prisma òptic, sabent que l'índex de refracció per a aquest color és d'1,44. Calcula l'índex de refracció del color violeta del mateix prisma, sabent que la seva llum viatja en el prisma a 188.800 km/s.
 
-3. Un raig de llum que prové de l'aire penetra en un medi amb un angle d'incidència de 45^{\circ}. El raig refractat forma amb la normal un angle de $30^{\circ}$. Quin és l'index de refracció d'aquest medi? Amb quina velocitat s'hi propaga la llum en aquest medi? Dada: $c=3\times10^{8}\,\mathrm{m/s}$.
+3. Un raig de llum que prové de l'aire penetra en un medi amb un angle d'incidència de 45^{\circ}. El raig refractat forma amb la normal un angle de $$30^{\circ}$$. Quin és l'index de refracció d'aquest medi? Amb quina velocitat s'hi propaga la llum en aquest medi? Dada: $$c=3\times10^{8}\,\mathrm{m/s}$$.
 
-4. En una experiència de laboratori fem incidir un raig de llum vermella amb diferents angles d’incidència, i, sobre una làmina de vidre; mesurem els corresponents angles de refracció, r, i n’obtenim la gràfica adjunta. Quant val l’índex de refracció del vidre per a la llum vermella? A quina velocitat es propaga la llum vermella en aquest vidre? Dada: velocitat de la llum en l'aire $c=3\times10^{8}\,\mathrm{m/s}$.
+4. En una experiència de laboratori fem incidir un raig de llum vermella amb diferents angles d’incidència, i, sobre una làmina de vidre; mesurem els corresponents angles de refracció, r, i n’obtenim la gràfica adjunta. Quant val l’índex de refracció del vidre per a la llum vermella? A quina velocitat es propaga la llum vermella en aquest vidre? Dada: velocitat de la llum en l'aire $$c=3\times10^{8}\,\mathrm{m/s}$$.
     <img src="img_prob/grafica_snell.svg" width="70%">
 
 5. Els índexs de refracció de l'aigua i d'un vidre són 1,33 i 1,54 respectivament. Calcula l'angle límit entre el vidre i l'aigua.
@@ -30,22 +30,22 @@
     
     <img src="img_prob/07_refraccio.png" width="30%">
 
-7. Un raig de llum incideix sobre la superfície d’un plàstic d’índex de refracció 2,4; aquest plàstic té les seves superfícies completament paral·leles i separades una distància de 1,8 cm. Si un raig incident forma un angle de $20^{\circ}$ amb la normal a les superfícies de la placa, calculeu: 
+7. Un raig de llum incideix sobre la superfície d’un plàstic d’índex de refracció 2,4; aquest plàstic té les seves superfícies completament paral·leles i separades una distància de 1,8 cm. Si un raig incident forma un angle de $$20^{\circ}$$ amb la normal a les superfícies de la placa, calculeu: 
     1. L’angle de refracció. 
     2. L’angle amb què surt el raig refractat una vegada ha travessat tota la placa. 
     3. L’angle límit quan el raig passa del vidre a l’aire. 
     *Resposta: A. 8,19°; B. 20°; C. 24,62°*
 
-8. El dipòsit d'aigua de la figura està ple d'aigua ($n=1,33$). Un raig de llum incideix rasant a la paret lateral del dipòsit i es refracta com es veu a la figura. Determineu el valor de l'angle d'incidència del raig.
+8. El dipòsit d'aigua de la figura està ple d'aigua ($$n=1,33$$). Un raig de llum incideix rasant a la paret lateral del dipòsit i es refracta com es veu a la figura. Determineu el valor de l'angle d'incidència del raig.
     
     <img src="img_prob/estanque.svg" width="50%">
 
-9. Tenim una peça de vidre, la secció de la qual és la que s'indica a la figura. Si l'índex de refracció del vidre té un valor de $\sqrt{2}$, quin és el valor de l'angle límit per a aquest material? Dibuixa la trajectòria que seguirà el raig de llum, r, a l'interior de la peça de vidre. Es produirà una reflexió total a la cara BC?
+9. Tenim una peça de vidre, la secció de la qual és la que s'indica a la figura. Si l'índex de refracció del vidre té un valor de $$\sqrt{2}$$, quin és el valor de l'angle límit per a aquest material? Dibuixa la trajectòria que seguirà el raig de llum, r, a l'interior de la peça de vidre. Es produirà una reflexió total a la cara BC?
     
     <img src="img_prob/prisma.png" width="50%">
     <a href="sol/prob109.pdf">Solució</a>
 
-10. Un raig de llum de color groc de 580 nm es propaga per l’aire a una velocitat de $3,0\times10^{8}\,\mathrm{m/s}$ i incideix sobre un vidre que té un índex de refracció d’1,55 per a aquesta llum. Calculeu: 
+10. Un raig de llum de color groc de 580 nm es propaga per l’aire a una velocitat de $$3,0\times10^{8}\,\mathrm{m/s}$$ i incideix sobre un vidre que té un índex de refracció d’1,55 per a aquesta llum. Calculeu: 
     1. La freqüència de la llum groga en l’aire i la seva velocitat de propagació en el vidre. 
     2. La freqüència i la longitud d’ona de la llum groga en el vidre. 
 
@@ -104,8 +104,8 @@
     1. Calcula la potència de la lent.
     2. Dibuixa la marxa dels raigs i la imatge formada por la lent. Quines són la seva mida i la seva posició?
 
-3. Troba la imatge d'un objecte d'1,4 cm d'altura situat a 30 cm a l'esquerra del focus principal d'una lent divergent de $-5\,\mathrm{D}$ de potència. Quin és l'augment lateral d'aquesta imatge? Fes la marxa dels raigs.
+3. Troba la imatge d'un objecte d'1,4 cm d'altura situat a 30 cm a l'esquerra del focus principal d'una lent divergent de $$-5\,\mathrm{D}$$ de potència. Quin és l'augment lateral d'aquesta imatge? Fes la marxa dels raigs.
 
-4. Una lupa és un instrument òptic que permet ampliar la mida dels objectes i consisteix en una lent convergent que té una distància focal petita. Si una lupa té una distància focal de 3 cm, a quina distància hem de situar un objecte de 0,5 cm si volem obtenir-ne una imatge virtual i 4 vegades més gran? En aquest cas, on està situada la imatge? Què passaria si col·loquéssim l’objecte a una distància de 5 cm de la lupa? *Resposta:* $2,3\mathrm{cm}; 9,1\,\mathrm{cm}; 7,4\,\mathrm{cm}; 0,75\,\mathrm{cm}$.
+4. Una lupa és un instrument òptic que permet ampliar la mida dels objectes i consisteix en una lent convergent que té una distància focal petita. Si una lupa té una distància focal de 3 cm, a quina distància hem de situar un objecte de 0,5 cm si volem obtenir-ne una imatge virtual i 4 vegades més gran? En aquest cas, on està situada la imatge? Què passaria si col·loquéssim l’objecte a una distància de 5 cm de la lupa? *Resposta:* $$2,3\mathrm{cm}; 9,1\,\mathrm{cm}; 7,4\,\mathrm{cm}; 0,75\,\mathrm{cm}$$.
 
 5. De quantes diòptries ha de ser una lent biconvexa per tal que la mida de la imatge sigui el doble que la mida de l'objecte, si aquest es troba a 25 cm de la lent? *Resposta: 2D*

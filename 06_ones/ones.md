@@ -56,11 +56,11 @@ Les ones no només transmeten informació sinó també energia, gairebé tota la
 
 En els moviments periòdics hi ha magnituds que varien amb els temps, tot i això arriba un moment en que aquestes magnituds tornen a prendre el valor inicial i, a partir d'aquell moment, repeteixen els mateixos valors. Diem aleshores que s'ha completat un cicle.
 
-En els moviments periòdics s'anomena període, T, al temps que dura un cicle. Si mesurem el temps $\Delta t$ que tarda un sistema en fer $n$ cicles podem obtenir el valor del període com
+En els moviments periòdics s'anomena període, T, al temps que dura un cicle. Si mesurem el temps $$\Delta t$$ que tarda un sistema en fer $$n$$ cicles podem obtenir el valor del període com
 
 $$T=\frac{\Delta t}{n}$$
  
-Una magnitud relacionada amb el període és la freqüència, $\nu$, que correspon al nombre de cicles que es fan per unitat de temps i es mesura en $\mathrm{s^{-1}}$ o hertz (Hz): 
+Una magnitud relacionada amb el període és la freqüència, $$\nu$$, que correspon al nombre de cicles que es fan per unitat de temps i es mesura en $$\mathrm{s^{-1}}$$ o hertz (Hz): 
 
 $$\nu=\frac{n}{\Delta t}$$
 
@@ -81,38 +81,38 @@ Definim el MHS com la projecció d'un moviment circular uniforme sobre la recta 
 
 <figure>
   <img src="img/mvhs_def.svg" width="70%">
-  <figcaption> En la figura es poden veure posicions successives (A0, A1, A2, ...) d'un mòbil amb moviment circular a intervals iguals de temps . La seva projecció sobre la recta (B0, B1, B2, ...) descriu un MHS. La freqüència angular del MHS coincideix amb la velocitat angular, $\omega$, del moviment circular. </figcaption>
+  <figcaption> En la figura es poden veure posicions successives (A0, A1, A2, ...) d'un mòbil amb moviment circular a intervals iguals de temps . La seva projecció sobre la recta (B0, B1, B2, ...) descriu un MHS. La freqüència angular del MHS coincideix amb la velocitat angular, $$\omega$$, del moviment circular. </figcaption>
 </figure>
 
 ### L'Equació del moviment harmònic simple <a class="anchor" id="2.1"></a>
 
-Si tenim en compte la definició de MHS com la projecció d'un moviment circular uniforme podem deduir l'equació de moviment del MHS. Considerem un moviment circular de radi A amb velocitat angular $\omega$, l'angle girat durant un temps $t$ serà $\varphi=\omega t$ i la projecció sobre la recta serà 
+Si tenim en compte la definició de MHS com la projecció d'un moviment circular uniforme podem deduir l'equació de moviment del MHS. Considerem un moviment circular de radi A amb velocitat angular $$\omega$$, l'angle girat durant un temps $$t$$ serà $$\varphi=\omega t$$ i la projecció sobre la recta serà 
 
 
 $$\begin{equation}\label{eq:mhs}
 x=A\sin(\varphi)=A\sin(\omega t)
 \end{equation}$$
 
-Direm que $\varphi$ és la fase del MHS i, com veiem, és una funció del temps. El moviment està limitat a moure's dintre del rang [-A, A]. La posició del mòbil es coneix com elongació i anomenarem amplitud de l'oscil·lació a la quantitat A, 
-que correspon a l'elongació màxima. La freqüència angular, $\omega$, del MHS coincideix amb la velocitat angular del MCU generatriu. De l'equació $\eqref{eq:mhs}$ veiem que l'elongació corresponent a l'instant inicial $(t=0)$ és igual a zero i això pot ser diferent si el moviment comença des d'una altra posició. Per aquest motiu no podem considerar l'equació $\eqref{eq:mhs}$ com a una equació general per a descriure un MHS. Per a poder tenir una descripció general del MHS hem de donar a l'equació la llibertat de prende qualsevol valor inicial entre -A i A. Això ho podem aconseguir afegint una constant de fase o fase inicial, $\varphi_{0}$, a la fase $\varphi$ de l'equació $\eqref{eq:mhs}$. D'aquesta manera ens queda:
+Direm que $$\varphi$$ és la fase del MHS i, com veiem, és una funció del temps. El moviment està limitat a moure's dintre del rang [-A, A]. La posició del mòbil es coneix com elongació i anomenarem amplitud de l'oscil·lació a la quantitat A, 
+que correspon a l'elongació màxima. La freqüència angular, $$\omega$$, del MHS coincideix amb la velocitat angular del MCU generatriu. De l'equació $$\eqref{eq:mhs}$$ veiem que l'elongació corresponent a l'instant inicial $$(t=0)$$ és igual a zero i això pot ser diferent si el moviment comença des d'una altra posició. Per aquest motiu no podem considerar l'equació $$\eqref{eq:mhs}$$ com a una equació general per a descriure un MHS. Per a poder tenir una descripció general del MHS hem de donar a l'equació la llibertat de prende qualsevol valor inicial entre -A i A. Això ho podem aconseguir afegint una constant de fase o fase inicial, $$\varphi_{0}$$, a la fase $$\varphi$$ de l'equació $$\eqref{eq:mhs}$$. D'aquesta manera ens queda:
 
 $$\begin{equation}
 x=A\sin(\omega t+\varphi_{0})\label{eq:eq_mov_mhs}
 \end{equation}$$
 
-on $A$, $\omega$ i $\varphi_{0}$ són paràmetres constants. Un cop determinats aquests paràmetres el MHS queda completament determinat. 
+on $$A$$, $$\omega$$ i $$\varphi_{0}$$ són paràmetres constants. Un cop determinats aquests paràmetres el MHS queda completament determinat. 
 
-El moviment es torna a repetir quan ha passat un temps $T$ al que anomenem període de manera que s'ha de complir que $\omega T=2\pi$ expressió que relaciona el període amb la freqüència angular. Tenim, doncs
+El moviment es torna a repetir quan ha passat un temps $$T$$ al que anomenem període de manera que s'ha de complir que $$\omega T=2\pi$$ expressió que relaciona el període amb la freqüència angular. Tenim, doncs
 
 $$T=\frac{2\pi}{\omega}$$
 
-Utilitzant la relació $\eqref{eq:freq}$ també podem escriure 
+Utilitzant la relació $$\eqref{eq:freq}$$ també podem escriure 
 
 $$\omega=2\pi\nu$$
 
 ### Velocitat i acceleració <a class="anchor" id="2.2"></a>
 
-Un cop tenim l'equació de moviment $\eqref{eq:eq_mov_mhs}$ que ens dóna la posició del mòbil com a funció del temps, podem deduir l'equació de la velocitat perquè sabem que la derivada de la posició ens dóna la velocitat. Si prenem la derivada de l'equació $\eqref{eq:eq_mov_mhs}$ obtenim
+Un cop tenim l'equació de moviment $$\eqref{eq:eq_mov_mhs}$$ que ens dóna la posició del mòbil com a funció del temps, podem deduir l'equació de la velocitat perquè sabem que la derivada de la posició ens dóna la velocitat. Si prenem la derivada de l'equació $$\eqref{eq:eq_mov_mhs}$$ obtenim
 
 $$v=\frac{dx}{dt}=A\omega\cos(\omega t+\varphi_{0})$$
  
@@ -133,11 +133,11 @@ En aquest cas obtenim que l'acceleració es comporta de manera contraria a l'elo
 
 $$a_{\mathrm{max}}=A\omega^{2}$$
 
-quan $\sin(\omega t+\varphi_{0})=-1$.
+quan $$\sin(\omega t+\varphi_{0})=-1$$.
 
 ### Oscil·lació d'una molla <a class="anchor" id="2.3"></a>
 
-Si comparem l'equació $\eqref{eq:acceleracio}$ amb l'equació $\eqref{eq:eq_mov_mhs}$ veiem que l'acceleració està relacionada amb l'elongació a través de l'expressió <sup><a href="#fn2" id="ref2">2</a></sup>
+Si comparem l'equació $$\eqref{eq:acceleracio}$$ amb l'equació $$\eqref{eq:eq_mov_mhs}$$ veiem que l'acceleració està relacionada amb l'elongació a través de l'expressió <sup><a href="#fn2" id="ref2">2</a></sup>
 
 $$\begin{equation}\label{eq:a_vs_x}
 a=-\omega^{2}x
@@ -149,13 +149,13 @@ $$\begin{equation}\label{eq:hooke}
 F=ma=-m\omega^{2}x
 \end{equation}$$  
  
-Veiem de l'expressió $\eqref{eq:hooke}$ que la força és proporcional a l'elongació. Però nosaltres ja coneixem un sistema per al qual la força resulta proporcional a l'elongació, es tracta de la molla, que segueix la llei de Hooke:
+Veiem de l'expressió $$\eqref{eq:hooke}$$ que la força és proporcional a l'elongació. Però nosaltres ja coneixem un sistema per al qual la força resulta proporcional a l'elongació, es tracta de la molla, que segueix la llei de Hooke:
 
 $$\begin{equation}\label{eq:hooke2}
 F=-kx
 \end{equation}$$  
 
-on $k$ és la constant elàstica. Veiem que si apartem una molla de la seva posició d'equilibri i la deixem anar, aquesta descriurà un MHS. Si igualem l'equació $\eqref{eq:hooke}$ amb l'equació $\eqref{eq:hooke2}$ obtenim que 
+on $$k$$ és la constant elàstica. Veiem que si apartem una molla de la seva posició d'equilibri i la deixem anar, aquesta descriurà un MHS. Si igualem l'equació $$\eqref{eq:hooke}$$ amb l'equació $$\eqref{eq:hooke2}$$ obtenim que 
 
 $$\begin{equation}\label{eq:k=mw2}
 k=m\omega^{2}
@@ -170,7 +170,7 @@ $$
 
 <figure>
   <img src="img/molla.png" width="50%">
-  <figcaption> Oscil·lació d'una molla. La força resulta proporcional a l'elongació i intenta restaurar l'equilibri. El moviment resultant és un MHS, la freqüència angular del qual està relacionada amb la constant elàstica, $k$, de la molla i de la massa, $m$, unida a ella a través de l'equació $\eqref{eq:freq_molla}$.</figcaption>
+  <figcaption> Oscil·lació d'una molla. La força resulta proporcional a l'elongació i intenta restaurar l'equilibri. El moviment resultant és un MHS, la freqüència angular del qual està relacionada amb la constant elàstica, $$k$$, de la molla i de la massa, $$m$$, unida a ella a través de l'equació $$\eqref{eq:freq_molla}$$.</figcaption>
 </figure>
 
 ### El pèndol senzill <a class="anchor" id="2.4"></a>
@@ -181,7 +181,7 @@ El pèndol de la figura té una longitud L. Per a veure quin tipus de moviment t
 
 $$F=ma_{t}=-mg\sin(\varphi)$$
 
-on $g$ correspon al mòdul de l'acceleració de la gravetat. El signe negatiu apareix per a indicar que la força té el signe contrari a l'angle, que és positiu en el sentit contrari al de les manetes del rellotge.
+on $$g$$ correspon al mòdul de l'acceleració de la gravetat. El signe negatiu apareix per a indicar que la força té el signe contrari a l'angle, que és positiu en el sentit contrari al de les manetes del rellotge.
 
 Per tant, l'acceleració serà
 
@@ -201,10 +201,10 @@ Si considerem oscil·lacions petites podem fer la següent aproximació
 $$\sin(\varphi)\simeq\varphi$$
  
 
-Hauríem d'aclarir què volem dir amb oscil·lacions petites. Farem una taula amb els valors de $\varphi$ i de $\sin(\varphi)$:
+Hauríem d'aclarir què volem dir amb oscil·lacions petites. Farem una taula amb els valors de $$\varphi$$ i de $$\sin(\varphi)$$:
 
 
-|$\varphi$ (graus)|$\varphi$ (rad)|$\sin(\varphi)$|
+|$$\varphi$$ (graus)|$$\varphi$$ (rad)|$$\sin(\varphi)$$|
 |-----------------|---------------|---------------|
 |0                |0              |0              |
 |1	              |0,017453	      |0,017452       |
@@ -213,7 +213,7 @@ Hauríem d'aclarir què volem dir amb oscil·lacions petites. Farem una taula am
 |20	              |0,349066	      |0,342020       |
 |30	              |0,523598	      |0,500000       |
 
-Podem considerar oscil·lacions d'amplituds petites les que tenen un apartament de la vertical més petit que $10^{\circ}$, ja que la diferència entre l'angle i el seu sinus està en el quart decimal. Com sempre tot depèn de la precisió amb la que volem mesurar l'elongació però, per a angles per sota dels 10 graus l'aproximació resulta prou bona. Fent l'aproximació, l'equació $\eqref{eq:a_t}$ es transforma en
+Podem considerar oscil·lacions d'amplituds petites les que tenen un apartament de la vertical més petit que $$10^{\circ}$$, ja que la diferència entre l'angle i el seu sinus està en el quart decimal. Com sempre tot depèn de la precisió amb la que volem mesurar l'elongació però, per a angles per sota dels 10 graus l'aproximació resulta prou bona. Fent l'aproximació, l'equació $$\eqref{eq:a_t}$$ es transforma en
 
 $$a_{t}=-g\varphi$$
 
@@ -229,7 +229,7 @@ Agrupant les constants ens queda
 
 $$a_{t}=-\frac{g}{L}x$$
 
-una relació on l'acceleració es proporcional a l'elongació i de signe contrari. Ja havíem vist que aquest tipus de relació segueix un MHS (veure equació $\eqref{eq:a_vs_x}$). Si igualem ambdues equacions obtenim que el moviment té una freqüència angular: 
+una relació on l'acceleració es proporcional a l'elongació i de signe contrari. Ja havíem vist que aquest tipus de relació segueix un MHS (veure equació $$\eqref{eq:a_vs_x}$$). Si igualem ambdues equacions obtenim que el moviment té una freqüència angular: 
 
 $$\omega=\sqrt{\frac{g}{L}}$$
 
@@ -253,7 +253,7 @@ Ja sabem que la força elàstica és una força conservativa que té una energia
 
 $$U=\frac{1}{2}kx^{2}$$
 
-on $x$ correspon a l'elongació i $k$ és la constant elàstica de la molla. Per tant l'energia mecànica del sistema es podrà escriure
+on $$x$$ correspon a l'elongació i $$k$$ és la constant elàstica de la molla. Per tant l'energia mecànica del sistema es podrà escriure
 
 $$E_{M}=E_{C}+U=\frac{1}{2}mv^{2}+\frac{1}{2}kx^{2}$$
 
@@ -261,13 +261,13 @@ on el primer terme correspon a l'energia cinètica i el segon a l'energia potenc
 
 Podem estudiar alguns casos particulars:
 
-* Quan l'elongació és màxima tenim que $v=0$ i $x=A$, en aquest cas l'expressió de l'energia mecànica ens dóna 
+* Quan l'elongació és màxima tenim que $$v=0$$ i $$x=A$$, en aquest cas l'expressió de l'energia mecànica ens dóna 
 
 $$\begin{equation}\label{eq:EM1}
 E_{M}=\frac{1}{2}kA^{2}
 \end{equation}$$ 
 
-* Quan la massa passa pel punt d'equilibri (part central), la velocitat pren el seu valor màxim donat per l'equació $\eqref{eq:vmax}$ i l'elongació és nul·la, per tant, només tindrem energia cinètica
+* Quan la massa passa pel punt d'equilibri (part central), la velocitat pren el seu valor màxim donat per l'equació $$\eqref{eq:vmax}$$ i l'elongació és nul·la, per tant, només tindrem energia cinètica
 
 $$\begin{equation}\label{eq:EM2}
 E_{M}=E_{C}=\frac{1}{2}mv_{\mathrm{max}}^{2}=\frac{1}{2}m(A\omega)^{2}
@@ -277,7 +277,7 @@ Podem veure que si igualem les expressions de les energies mecàniques dels dos 
 
 $$k=m\omega^{2}$$
 
-expressió a la que ja hi havíem arribat en l'equació $\eqref{eq:k=mw2}$, la qual cosa demostra que les dues energies mecàniques són iguals i que és una constant de moviment. Per altra banda el fet de comptar amb una expressió per a l'energia potencial elàstica fa que aquesta sigui conservativa i, per tant, l'energia mecànica s'ha de conservar. Tant l'expressió $\eqref{eq:EM1}$, com la $\eqref{eq:EM2}$ ens serveixen per a calcular l'energia mecànica en qualsevol punt de la trajectòria degut a la seva constància i això ens serà de gran utilitat a l'hora de resoldre problemes.
+expressió a la que ja hi havíem arribat en l'equació $$\eqref{eq:k=mw2}$$, la qual cosa demostra que les dues energies mecàniques són iguals i que és una constant de moviment. Per altra banda el fet de comptar amb una expressió per a l'energia potencial elàstica fa que aquesta sigui conservativa i, per tant, l'energia mecànica s'ha de conservar. Tant l'expressió $$\eqref{eq:EM1}$$, com la $$\eqref{eq:EM2}$$ ens serveixen per a calcular l'energia mecànica en qualsevol punt de la trajectòria degut a la seva constància i això ens serà de gran utilitat a l'hora de resoldre problemes.
 
 ## Moviment ondulatori <a class="anchor" id="3"></a>
 
@@ -344,37 +344,37 @@ Segons el temps de durada de la pertorbació que l'origina les podem classificar
 
 ### Les ones harmòniques <a class="anchor" id="4.1"></a>
 
-Ja hem vist com descriure matemàticament un moviment oscil·latori harmònic. Si ara considerem que aquest moviment harmònic es pot propagar per l'espai a una velocitat de propagació<sup><a href="#fn4" id="ref4">4</a></sup> $v$, volem obtenir una expressió matemàtica que pugui descriure la pertorbació tant en els temps com a l'espai.
+Ja hem vist com descriure matemàticament un moviment oscil·latori harmònic. Si ara considerem que aquest moviment harmònic es pot propagar per l'espai a una velocitat de propagació<sup><a href="#fn4" id="ref4">4</a></sup> $$v$$, volem obtenir una expressió matemàtica que pugui descriure la pertorbació tant en els temps com a l'espai.
 
-Considerarem el moviment oscil·latori de l'extrem d'una corda. Aquest extrem es troba en la posició $x=0$, i en l'instant $t=0$ suposarem que es troba amb l'elongació màxima $y=2\,\mathrm{m}$.
+Considerarem el moviment oscil·latori de l'extrem d'una corda. Aquest extrem es troba en la posició $$x=0$$, i en l'instant $$t=0$$ suposarem que es troba amb l'elongació màxima $$y=2\,\mathrm{m}$$.
 
-Si, per exemple, pensem que la freqüència angular és de $\pi/3$, el moviment oscil·latori de l'extrem de la corda ens dona la gràfica de la figura.
+Si, per exemple, pensem que la freqüència angular és de $$\pi/3$$, el moviment oscil·latori de l'extrem de la corda ens dona la gràfica de la figura.
 
 <figure>
   <img src="img/ona1.png" width="70%">
-  <figcaption> Moviment vibratori de l'extrem d'una corda d'amplitud 2 m i pulsació $\pi/3$ amb elongació màxima en l'instant inicial.</figcaption>
+  <figcaption> Moviment vibratori de l'extrem d'una corda d'amplitud 2 m i pulsació $$\pi/3$$ amb elongació màxima en l'instant inicial.</figcaption>
 </figure>
 
-Suposarem que l'ona generada per aquest moviment harmònic es propaga amb una velocitat $v=0,5\,\mathrm{m/s}$. Aleshores el màxim que tenim a la posició $x=0$ es trobarà a la posició $x=1,5\,\mathrm{m}$ al cap de 3 segons (veure Figura). Per tant per a descriure el comportament de l'ona en la posició $x=1,5\,\mathrm{m}$ hem de tenir un retràs de fase, ja que el moviment porta un retràs igual al temps que ha tardat la pertorbació a arribar a la posició $x=3\,\mathrm{m}$. El temps es pot calcular com 
+Suposarem que l'ona generada per aquest moviment harmònic es propaga amb una velocitat $$v=0,5\,\mathrm{m/s}$$. Aleshores el màxim que tenim a la posició $$x=0$$ es trobarà a la posició $$x=1,5\,\mathrm{m}$$ al cap de 3 segons (veure Figura). Per tant per a descriure el comportament de l'ona en la posició $$x=1,5\,\mathrm{m}$$ hem de tenir un retràs de fase, ja que el moviment porta un retràs igual al temps que ha tardat la pertorbació a arribar a la posició $$x=3\,\mathrm{m}$$. El temps es pot calcular com 
 
 $$t=\frac{x}{v}=\frac{1,5\,\mathrm{m}}{0,5\,\mathrm{m/s}}=3\mathrm{\,s}$$
 
 <figure>
   <img src="img/ona2.png" width="70%">
-  <figcaption> Variació de l'elongació en el temps en un punt ubicat en la posició $x=3\,\mathrm{m}$. Veiem com el màxim que es trobava en l'instant inicial en l'extrem de la corda ($x=0$), ara el tenim en l'instant $t=3\,\mathrm{s}$ en la posició $x=1,5\,\mathrm{m}$ com a resultat de que la pertorbació va tardar 3 s en recórrer aquella distància a una velocitat de $0,5\,\mathrm{m/s}$. </figcaption>
+  <figcaption> Variació de l'elongació en el temps en un punt ubicat en la posició $$x=3\,\mathrm{m}$$. Veiem com el màxim que es trobava en l'instant inicial en l'extrem de la corda ($$x=0$$), ara el tenim en l'instant $$t=3\,\mathrm{s}$$ en la posició $$x=1,5\,\mathrm{m}$$ com a resultat de que la pertorbació va tardar 3 s en recórrer aquella distància a una velocitat de $$0,5\,\mathrm{m/s}$$. </figcaption>
 </figure>
 
-Fent servir aquest raonament per a qualsevol posició genèrica $x$ podem obtenir l'equació d'ona
+Fent servir aquest raonament per a qualsevol posició genèrica $$x$$ podem obtenir l'equació d'ona
 
 $$y=A\sin\big(\omega\big(t-\frac{x}{v}\big)+\varphi_{0}\big)$$
 
-per a qualsevol parell de valors $t$ i $x$. 
+per a qualsevol parell de valors $$t$$ i $$x$$. 
 
-Si distribuïm $\omega obtenim
+Si distribuïm $$\omega obtenim
 
 $$y=A\sin\big(\omega t-\frac{\omega}{v}x+\varphi_{0}\big)$$
 
-Anomenarem nombre d'ona, $k$, a la quantitat 
+Anomenarem nombre d'ona, $$k$$, a la quantitat 
 
 $$k=\frac{\omega}{v}$$
 
@@ -388,7 +388,7 @@ Veiem que el moviment ondulatori és un moviment periòdic tant en els temps com
 
 $$\omega T=2\pi$$
 
-De la mateixa manera podem establir una relació entre el nombre d'ona i la distància a la que el moviment torna a estar en el mateix estat de vibració. Aquesta distància l'anomenem **longitud d'ona** i la denotem amb la lletra grega lambda, $\lambda$. Fent una analogia amb el cas temporal tenim que
+De la mateixa manera podem establir una relació entre el nombre d'ona i la distància a la que el moviment torna a estar en el mateix estat de vibració. Aquesta distància l'anomenem **longitud d'ona** i la denotem amb la lletra grega lambda, $$\lambda$$. Fent una analogia amb el cas temporal tenim que
 
 $$k\lambda=2\pi$$
 
@@ -398,7 +398,7 @@ $$\lambda=\frac{2\pi}{k}$$
 
 La longitud d'ona té unitats de longitud i en l'SI es mesura en metres.
 
-Hem vista que quan una ona es propaga en la direcció positiva de l'eix $x$, l'equació corresponent és la $\eqref{eq:eq_ones}$. Si l'ona es propaga en el sentit negatiu de l'eix $x$, l'equació serà
+Hem vista que quan una ona es propaga en la direcció positiva de l'eix $$x$$, l'equació corresponent és la $$\eqref{eq:eq_ones}$$. Si l'ona es propaga en el sentit negatiu de l'eix $$x$$, l'equació serà
 
 $$y(x,t)=A\sin\big(\omega t+kx+\varphi_{0}\big)$$
 
@@ -486,11 +486,11 @@ Com ja hem dit, quan més d'una ona ocupa el mateix espai al mateix temps, en ca
   <figcaption> Experiment de la doble escletxa de Young. La superposició de les ones secundàries creades a les escletxes produeixen sobre la pantalla un patró d'interferència.</figcaption>
 </figure>
 
-El tractament matemàtic per a entendre què està passant sobre la pantalla no és difícil. Ens ajudarem amb l'esquema de la Figura següent. Allí podem observar que hi ha dues escletxes A i B separades una distància d. També tenim una pantalla separada una distància L respecte de les escletxes. Veurem quin tipus d'il·luminació tindrem en el punt P que està a una distància y del centre de la pantalla O. Per a fer-lo estudiarem la diferència de fase amb que arribaran les ones al punt P i això està relacionat amb el camí seguit per cada ona. En el cas de l'ona que parteix del punt A el camí seguit fins arribar al punt P està assenyalat com $r_{1}$ i en el cas de l'ona que parteix del punt B està assenyalat com camí $r_{2}$. Si en comptes de considerar el punt P estiguéssim veient com seria la llum que arriba al punt O la cosa seria fàcil, perquè com que el punt O està just en mig hi ha una total simetria i el camí de les dues ones tindrien les mateixes longituds, per tant, si les ones parteixen en fase des de les escletxes, al recórrer el mateix camí, arribarien al punt O també en fase i això produiria interferència constructiva al punt O.
+El tractament matemàtic per a entendre què està passant sobre la pantalla no és difícil. Ens ajudarem amb l'esquema de la Figura següent. Allí podem observar que hi ha dues escletxes A i B separades una distància d. També tenim una pantalla separada una distància L respecte de les escletxes. Veurem quin tipus d'il·luminació tindrem en el punt P que està a una distància y del centre de la pantalla O. Per a fer-lo estudiarem la diferència de fase amb que arribaran les ones al punt P i això està relacionat amb el camí seguit per cada ona. En el cas de l'ona que parteix del punt A el camí seguit fins arribar al punt P està assenyalat com $$r_{1}$$ i en el cas de l'ona que parteix del punt B està assenyalat com camí $$r_{2}$$. Si en comptes de considerar el punt P estiguéssim veient com seria la llum que arriba al punt O la cosa seria fàcil, perquè com que el punt O està just en mig hi ha una total simetria i el camí de les dues ones tindrien les mateixes longituds, per tant, si les ones parteixen en fase des de les escletxes, al recórrer el mateix camí, arribarien al punt O també en fase i això produiria interferència constructiva al punt O.
  
 <figure>
   <img src="img/young1.svg" width="80%">
-  <figcaption>Esquema de l'experiment de Young on es veu el camí recorregut per cada ona $r_{1}$ i $r_{2}$ des de que surten de les escletxes A i B fins arribar al punt P.</figcaption>
+  <figcaption>Esquema de l'experiment de Young on es veu el camí recorregut per cada ona $$r_{1}$$ i $$r_{2}$$ des de que surten de les escletxes A i B fins arribar al punt P.</figcaption>
 </figure>
 
 Per tant, hem vist que al punt central ha d'haver-hi llum. Però, es clar, si en movem sobre la pantalla els camins traçats per les ones deixaran de ser de la mateixa longitud i les ones deixaran d'arribar en fase a la pantalla, en alguns punts arribaran en oposició de fase (contrafase) i allí es produirà interferència destructiva. El que veurem aleshores és foscor<sup><a href="#fn5" id="ref5">5</a></sup>. Si ens allunyem una mica més les ones tornen a estar en fase i tornem a tenir interferència constructiva i allí veurem una banda il·luminada, i així el patró s'anirà reproduint. 
@@ -501,7 +501,7 @@ Per a saber quin tipus d'interferència tindrem al punt P hem de mirar la difer�
 
 $$\Delta\varphi_{P}=kr_{2}-kr_{1}=k(r_{2}-r_{1})$$
 
-on $k=2\pi/\lambda$ és el nombre d'ona i $\lambda$ la longitud d'ona. Per a obtenir interferència constructiva (màxim), la diferència de fase ha de ser igual a $2n\pi$, on $n$ ha de ser un nombre enter, d'aquesta manera les ones estaran en fase i se sumaran constructivament, quedant
+on $$k=2\pi/\lambda$$ és el nombre d'ona i $$\lambda$$ la longitud d'ona. Per a obtenir interferència constructiva (màxim), la diferència de fase ha de ser igual a $$2n\pi$$, on $$n$$ ha de ser un nombre enter, d'aquesta manera les ones estaran en fase i se sumaran constructivament, quedant
 
 $$\Delta\varphi_{P}=\frac{2\pi}{\lambda}(r_{2}-r_{1})=2n\pi\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,n\mathbb{\in Z}$$
 
@@ -513,7 +513,7 @@ r_{2}-r_{1}=n\lambda\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,n\in\mathbb{Z}
 
 Es a dir, per tenir interferència constructiva, la diferència de camí entre les ones ha de ser un nombre entre de longituds d'ona. 
 
-Per a trobar la condició d'interferència destructiva hem d'imposar que la diferència de fase sigui un nombre senar de vegades $\pi$, d'aquesta manera les ones arribaran al punt P en oposició de fase. Imposant la condició queda:
+Per a trobar la condició d'interferència destructiva hem d'imposar que la diferència de fase sigui un nombre senar de vegades $$\pi$$, d'aquesta manera les ones arribaran al punt P en oposició de fase. Imposant la condició queda:
 
 $$\Delta\varphi_{P}=\frac{2\pi}{\lambda}(r_{2}-r_{1})=(2n+1)\pi\,\,\,\,\,\,\,\,\,\,\,\,\,n\in\mathbb{Z}$$
 
@@ -523,7 +523,7 @@ $$\begin{equation}\label{eq:interf_destr}
 r_{2}-r_{1}=(2n+1)\frac{\lambda}{2}\,\,\,\,\,\,\,\,\,\,\,\,\,n\in\mathbb{Z}
 \end{equation}$$ 
 
-Les relacions $\eqref{eq:interf_const}$ i $\eqref{eq:interf_destr}$ ens donen les condicions d'interferència constructiva i destructiva respectivament en funció de la diferència de camins, per tant tindrem:
+Les relacions $$\eqref{eq:interf_const}$$ i $$\eqref{eq:interf_destr}$$ ens donen les condicions d'interferència constructiva i destructiva respectivament en funció de la diferència de camins, per tant tindrem:
 
 $$r_{2}-r_{1}=\begin{cases}
 n\lambda & \,\,\,\,n\in\mathbb{Z\,\,\,\,\mathrm{interfer\grave{e}ncia\,constructiva}}\\
@@ -534,7 +534,7 @@ Ara veurem com obtenir la condició de màxim o mínim depenent de la posició y
 
 $$r_{2}-r_{1}=s=d\sin(\theta)$$
 
-i si suposem que la pantalla està prou lluny de les escletxes per a que sigui vàlid que $y\ll L$, aleshores, 
+i si suposem que la pantalla està prou lluny de les escletxes per a que sigui vàlid que $$y\ll L$$, aleshores, 
 
 $$\sin(\theta)\simeq\tan(\theta)=\frac{y}{L}$$
 
@@ -547,7 +547,7 @@ n\lambda & \,\,\,\,n\in\mathbb{Z\,\,\,\,\mathrm{interf.\,constructiva}}\\
 \end{cases}
 \end{equation}$$ 
 
-La relació $\eqref{eq:interf}$ ens dóna les condicions d'interferència constructiva o destructiva depenent de l'angle $\theta$ o la distància y de la pantalla.
+La relació $$\eqref{eq:interf}$$ ens dóna les condicions d'interferència constructiva o destructiva depenent de l'angle $$\theta$$ o la distància y de la pantalla.
 
 La interferència és un fenomen que s'ens apareix molt sovint a la vida quotidiana però moltes vegades o el sabem reconèixer. Quan veiem taques d'oli sobre aigua podem apreciar bandes de diferents colors a la llum reflectida sobre l'oli, això també passa amb la bombolles de sabó.
 
@@ -576,11 +576,11 @@ Fins ara hem estat estudiant ones viatgeres o de propagació, ara veurem que pas
 
 ### Efecte Doppler <a class="anchor" id="5.7"></a>
 
-L'efecte Doppler és un fenomen que es produeix quan un observador rep una ona (so, lum, etc.) produïda per una font en moviment relatiu respecte a l'observador. A la figura de sota es pot apreciar què passa quan una font emissora de so com el cas d'una ambulància es mou. Els fronts d'ona son emesos amb una freqüència determinada $\lambda_{0}$ però, com la font s'està movent cap a la dreta, els fronts d'ona de la part dreta comencen a ajuntar-se i als de l'esquerra els hi passa just el contrari, s'allunyen entre ells. L'efecte que es produeix és que l'observador de la dreta sent un so més agut, de longitud d'ona menor (o freqüència menor) que la que sent el conductor de l'ambulància (que es troba en repòs respecte a la font emissora). Un observador ubicat darrere l'ambulància sentirà un so més greu perquè percep una longitud d'ona més llarga (o freqüència més curta). 
+L'efecte Doppler és un fenomen que es produeix quan un observador rep una ona (so, lum, etc.) produïda per una font en moviment relatiu respecte a l'observador. A la figura de sota es pot apreciar què passa quan una font emissora de so com el cas d'una ambulància es mou. Els fronts d'ona son emesos amb una freqüència determinada $$\lambda_{0}$$ però, com la font s'està movent cap a la dreta, els fronts d'ona de la part dreta comencen a ajuntar-se i als de l'esquerra els hi passa just el contrari, s'allunyen entre ells. L'efecte que es produeix és que l'observador de la dreta sent un so més agut, de longitud d'ona menor (o freqüència menor) que la que sent el conductor de l'ambulància (que es troba en repòs respecte a la font emissora). Un observador ubicat darrere l'ambulància sentirà un so més greu perquè percep una longitud d'ona més llarga (o freqüència més curta). 
 
 <figure>
   <img src="img/doppler.svg" width="80%">
-  <figcaption>Efecte Doppler. (a) La font emissora està en repòs respecte a l'observador. (b) Quan la font està en moviment, un observador que vegi apropar-se la font sentirà un so més agut $(\lambda<\lambda_{0})$ i un observador que vegi la font allunyar-se sentirà un so més greu $(\lambda>\lambda_{0})$.</figcaption>
+  <figcaption>Efecte Doppler. (a) La font emissora està en repòs respecte a l'observador. (b) Quan la font està en moviment, un observador que vegi apropar-se la font sentirà un so més agut $$(\lambda<\lambda_{0})$$ i un observador que vegi la font allunyar-se sentirà un so més greu $$(\lambda>\lambda_{0})$$.</figcaption>
 </figure>
 
 Aquest fenomen es produeix no només amb el so, sinó amb tot tipus d'ones. Per a poder veure l'efecte Doppler amb la llum serà necessari que la font emissora es desplaci a una velocitat molt gran. De fet, l'efecte Doppler de la llum va permetre a l'astrònom [Edwin Hubble](https://ca.wikipedia.org/wiki/Edwin_Hubble) deduir que l'univers es troba en expansió a partir de la llum que ens arriba de les estrelles llunyanes. Quan va observar la llum que ens arriba de les estrelles, va trobar que l'espectre de la llum corresponia al dels elements químics que ja coneixem a la Terra però va trobar que les línies espectrals mostraven un petit desplaçament cap a freqüències més petites (longitud d'ona més llargues), un desplaçament cap al vermell, la qual cosa volia dir que les estrelles s'estaven allunyant de nosaltres. Va observar el mateix efecte en totes les direccions del cel i també va observar que quan més lluny es troba una galàxia, més ràpid s'allunya de nosaltres<sup><a href="#fn7" id="ref7">7</a></sup>. Aquesta observació va establir les bases de la teoria que posteriorment es va desenvolupar sobre l'univers en expansió, coneguda com teoria del Big Bang.
@@ -595,7 +595,7 @@ Una altra aplicació de l'efecte Doppler és el seu ús en diagnòstic per imatg
 
 ### Intensitat d'una ona <a class="anchor" id="5.8"></a>
 
-Considerem el cas d'un focus emissor d'ones que emet una certa quantitat d'energia $\Delta E$ durant un cert interval de temps $\Delta t$, si el medi de propagació de les ones és homogeni i isòtrop, aquestes ones es propagaran en fronts d'una esfèrics degut a que tindrà la mateixa velocitat de propagació en totes les direccions. A mesura que el front d'ona avança en la seva propagació abasta una superfície més gran i l'ona es va atenuant degut a que la mateixa energia s'ha de repartir en una superfície més gran. Per a tenir en consideració aquest efecte definirem una nova magnitud anomenada intensitat d'una ona, $I$, i que serà l'energia per unitat de temps i superfície normal al front d'ona. De manera que tindrem
+Considerem el cas d'un focus emissor d'ones que emet una certa quantitat d'energia $$\Delta E$$ durant un cert interval de temps $$\Delta t$$, si el medi de propagació de les ones és homogeni i isòtrop, aquestes ones es propagaran en fronts d'una esfèrics degut a que tindrà la mateixa velocitat de propagació en totes les direccions. A mesura que el front d'ona avança en la seva propagació abasta una superfície més gran i l'ona es va atenuant degut a que la mateixa energia s'ha de repartir en una superfície més gran. Per a tenir en consideració aquest efecte definirem una nova magnitud anomenada intensitat d'una ona, $$I$$, i que serà l'energia per unitat de temps i superfície normal al front d'ona. De manera que tindrem
 
 $$I=\frac{\Delta E}{\Delta t.S_{n}}$$
  
@@ -604,11 +604,11 @@ Si tenim en compte que l'energia per unitat de temps és la potència
 
 $$P=\frac{\Delta E}{\Delta t}$$
 
-que es mesura en watts ($\mathrm{W=J.s^{-1}}$), la intensitats es pot escriure com
+que es mesura en watts ($$\mathrm{W=J.s^{-1}}$$), la intensitats es pot escriure com
 
 $$I=\frac{P}{S_{n}}$$
 
-i aleshores, la intensitat tindrà per unitats $\mathrm{W/m^{2}}$.
+i aleshores, la intensitat tindrà per unitats $$\mathrm{W/m^{2}}$$.
 
 La intensitat és una magnitud que ens serveix per a quantificar l'atenuació d'una ona amb la distància. Si considerem una ona generada per un focus emissor de potència P, que es propaga per l'aire de manera isòtropa (amb la mateixa velocitat en totes direccions), els seus fronts d'ona tindran forma esfèrica. L'energia generada per l'ona es va repartint en fronts d'ona cada cop més grans a mesura que avança i això fa que l'ona es vagi atenuant. 
 
@@ -618,11 +618,11 @@ La intensitat és una magnitud que ens serveix per a quantificar l'atenuació d'
 </figure>
 
 
-Podem veure com varia la intensitat de l'ona a mesura que el front d'ona va augmentat el seu radi. A una distància $r_{1}$ del focus emissor la intensitat serà
+Podem veure com varia la intensitat de l'ona a mesura que el front d'ona va augmentat el seu radi. A una distància $$r_{1}$$ del focus emissor la intensitat serà
 
 $$I_{1}=\frac{P}{S}=\frac{P}{4\pi r_{1}^{2}}$$
 
-i, equivalentment, a una distància $r_{2}$:
+i, equivalentment, a una distància $$r_{2}$$:
 
 $$I_{2}=\frac{P}{4\pi r_{2}^{2}}$$
  
@@ -648,11 +648,11 @@ $$\frac{A_{1}}{A_{2}}=\frac{r_{2}}{r_{1}}$$
 
 ### Nivell d'intensitat sonora <a class="anchor" id="6.1"></a>
 
-L'oïda humana és capaç de percebre sons d'intensitats que van des de $10^{-12}\mathrm{Wm^{-2}}$ fins a $1\,\mathrm{Wm^{-2}}$. Aquesta és una escala molt àmplia que abasta 12 ordres de magnitud, a més a més la oïda humana no respon als estímuls sonors de manera proporcional a la intensitat tal com l'hem definida. Encara que la forma amb la que hem definit la intensitat és una manera objectiva, la manera a la que respon l'oïda s'assembla més a una escala logarítmica. Es per això que es defineix el **nivell d'intensitat sonor** com
+L'oïda humana és capaç de percebre sons d'intensitats que van des de $$10^{-12}\mathrm{Wm^{-2}}$$ fins a $$1\,\mathrm{Wm^{-2}}$$. Aquesta és una escala molt àmplia que abasta 12 ordres de magnitud, a més a més la oïda humana no respon als estímuls sonors de manera proporcional a la intensitat tal com l'hem definida. Encara que la forma amb la que hem definit la intensitat és una manera objectiva, la manera a la que respon l'oïda s'assembla més a una escala logarítmica. Es per això que es defineix el **nivell d'intensitat sonor** com
 
 $$\beta=10\log\bigg(\frac{I}{I_{0}}\bigg)$$
 
-on $I_{0}=10^{-12}\,\mathrm{Wm^{-2}}$. Amb aquesta definició $\beta$ té unitats de decibels (dB). El nivell mínim de percepció (llindar d'audició) correspon a $I=I_{0}$, el que ens dona $\beta=0\,\mathrm{dB}$ i el llindar del dolor correspon a $I=1\,\mathrm{W/m^{2}}$ que ens dóna $\beta=120\,\mathrm{dB}$.
+on $$I_{0}=10^{-12}\,\mathrm{Wm^{-2}}$$. Amb aquesta definició $$\beta$$ té unitats de decibels (dB). El nivell mínim de percepció (llindar d'audició) correspon a $$I=I_{0}$$, el que ens dona $$\beta=0\,\mathrm{dB}$$ i el llindar del dolor correspon a $$I=1\,\mathrm{W/m^{2}}$$ que ens dóna $$\beta=120\,\mathrm{dB}$$.
   A la Taula podem observar els nivells sonors corresponents a diferents situacions.
 
 
@@ -704,7 +704,7 @@ De les expressions anteriors podem tractar de deduir una única expressió gener
 
 $$\lambda_{n}=\frac{2L}{n}\,\,\,\,\,\,\,\,\,\,\,\mathrm{amb}\,n\in\mathbb{N}$$
 
-Si tenim en compte que la freqüència està relacionada amb la longitud d'ona a través de la relació $\lambda\nu=v$, podem escriure la expressió de la freqüència dels modes normals de vibració d'una corda 
+Si tenim en compte que la freqüència està relacionada amb la longitud d'ona a través de la relació $$\lambda\nu=v$$, podem escriure la expressió de la freqüència dels modes normals de vibració d'una corda 
 
 $$\nu_{n}=\frac{v}{\lambda_{n}}=n\frac{v}{2L}=n\nu_{1}\,\,\,\,\,\,\,\,\,\,\,\,\,\mathrm{amb}\,n\in\mathbb{N}$$
  
@@ -715,7 +715,7 @@ Hi ha molts instruments musicals que basen el seu funcionament en produir les on
 
 $$L=\frac{\lambda_{1}}{4}$$
 
-on $L$ és la longitud del tub. Per tant, 
+on $$L$$ és la longitud del tub. Per tant, 
 
 $$\lambda_{1}=4L$$
  
@@ -774,7 +774,7 @@ $$\nu_{n}=\frac{v}{\lambda_{n}}=n\frac{v}{2L}=n\nu_{1}\,\,\,\,\,\,\,\,\,\,\,\,\,
 
 <sup id="fn1">1. Els moviments periòdics ens permeten mesurar el temps. El temps que tarda la Terra en fer una volta al voltant del Sol ens permet definir l'any, el temps que tarda la Lluna en envoltar la Terra ens permet definir el mes i el temps que tarda la Terra en donar un gir sobre si mateixa permet definir el dia. <a href="#ref1" title="Tornar al text.">↩</a></sup>
 
-<sup id="fn2">2. A vegades es fa servir l'equació $\eqref{eq:a_vs_x}$ com a definició de MHS i, a partir d'ella es dedueix l'equació de moviment $\eqref{eq:eq_mov_mhs}$. Qualsevol de les dues aproximacions són equivalents com ja hem demostrat.
+<sup id="fn2">2. A vegades es fa servir l'equació $$\eqref{eq:a_vs_x}$$ com a definició de MHS i, a partir d'ella es dedueix l'equació de moviment $$\eqref{eq:eq_mov_mhs}$$. Qualsevol de les dues aproximacions són equivalents com ja hem demostrat.
 <a href="#ref2" title="Tornar al text.">↩</a></sup>
 
 <sup id="fn3">3. Tant la força pes com la recció normal són en aquest cas perpendiculars al moviment, per tant fan un treball nul que no juga cap paper en l'energia del sistema. Podríem també veure'l d'aquesta manera.<a href="#ref3" title="Tornar al text.">↩</a></sup>

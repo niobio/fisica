@@ -47,7 +47,7 @@ on la constant de proporcionalitat entre la força i l'acceleració és la massa
 
 Podem veure d'aquesta llei que una mateixa força pot produir diferents acceleracions si s'apliquen a cossos de diferents masses. Un cos molt massiu tindrà una acceleració petita, mentre que un cos amb poca massa s'accelerarà molt. Podem dir que la massa és una mesura del que costa canviar l'estat de moviment d'un cos, és a dir, de la inèrcia del cos. La massa és una propietat intrínseca del cos, es dir, només depèn del cos i no d'agents externs. 
 
-En el Sistema Internacional d'unitats, la unitat de massa és el kilogram (kg) i és una unitat fonamental. Tenint en compte que l'acceleració es mesura en $\mathrm{m/s^{2}}$, la unitat de força ha de ser $\mathrm{kg.m/s^{2}}$. Per ser la força una magnitud prou important aquesta unitat porta el nom de newton i es designa amb la lletra N.
+En el Sistema Internacional d'unitats, la unitat de massa és el kilogram (kg) i és una unitat fonamental. Tenint en compte que l'acceleració es mesura en $$\mathrm{m/s^{2}}$$, la unitat de força ha de ser $$\mathrm{kg.m/s^{2}}$$. Per ser la força una magnitud prou important aquesta unitat porta el nom de newton i es designa amb la lletra N.
 
 Per calcular la força neta aplicada sobre un cos hem de fer la suma vectorial de totes les forces aplicades.
 
@@ -68,7 +68,7 @@ Una conseqüència important d'aquest principi és que el parell de forces corre
 ## La força pes
 Si sostenim un objecte amb la mà sentim una força que el cos ens fa sobre la mà i que apunta cap avall, podríem dir que estem “sentint el seu pes”, però què es en realitat aquesta força? qui l'origina? A la natura hi ha només 4 forces fonamentals i qualsevol tipus d'interacció es pot entendre com a causada per alguna d'aquestes forces. Una d'aquestes forces fonamentals és la força gravitatòria. Es tracta d'una força que es produeix sempre entre cossos que tinguin una propietat de la natura anomenada massa. Tots els cossos materials tenen aquesta propietat, per tant entre ells hi haurà una força gravitatòria que sempre serà atractiva. De les forces fonamentals aquesta és la que coneixem millor encara que sigui la més feble de les quatre, això és perquè l'atracció gravitatòria que produeix la Terra sobre els cossos al nostre voltant resulta prou intensa per a que sigui notable. I això és possible per la immensa massa que té la Terra. De fet l'atracció gravitatòria es produeix entre tots els cossos amb massa però com la massa dels cossos normals es petita aquesta força no la notem. Intentarem ara veure com podem determinar el pes d'un objecte.
 
-La força pes és la força d'atracció que produeix el planeta sobre tots els cossos. Per entendre aquesta força podem fer el llegendari experiment que va en Galileu enfilant-se a la torre de Pisa i deixant caure dos objectes de pesos diferents. En aquest experiment Galileu va demostrar que els dos cossos queien amb la mateixa acceleració, que prop de la superfície de la Terra és de $9,81\,\mathrm{m/s^{2}}$.
+La força pes és la força d'atracció que produeix el planeta sobre tots els cossos. Per entendre aquesta força podem fer el llegendari experiment que va en Galileu enfilant-se a la torre de Pisa i deixant caure dos objectes de pesos diferents. En aquest experiment Galileu va demostrar que els dos cossos queien amb la mateixa acceleració, que prop de la superfície de la Terra és de $$9,81\,\mathrm{m/s^{2}}$$.
 
 <p>
 <figure>
@@ -76,7 +76,7 @@ La força pes és la força d'atracció que produeix el planeta sobre tots els c
   <figcaption> <strong>Experiment de Galileo Galilei a la torre inclinada de Pisa. Tots els objectes cauen amb la mateixa acceleració si el fregament que l'aire fa sobre ells és el mateix.</strong> </figcaption>
 </figure>
 </p>
-Aleshores, si tenim un cos d'1 kg de massa i el deixem caure, sabem que caurà a $9,81\,\mathrm{m/s^{2}}$, per tant, si fem servir la segona llei de Newton tenim 
+Aleshores, si tenim un cos d'1 kg de massa i el deixem caure, sabem que caurà a $$9,81\,\mathrm{m/s^{2}}$$, per tant, si fem servir la segona llei de Newton tenim 
 
 $$P=mg=1\,\mathrm{kg\times9,81\,m/s^{2}=9,81\,N}$$
 
@@ -90,9 +90,9 @@ que el seu pes és de 9,81 N. Aquesta serà la força que exerceix la Terra sob
 
 ## Restriccions al moviment
 
-Ja hem vist una força, la força pes, que no necessita el contacte per actuar, actua a distància. Hi ha altres forces que imposen restriccions al moviment, com poden ser les forces de contacte amb el terra o parets que imposen que la superfície de la paret o el terra no es pugui travessar. Aquestes forces són perpendiculars a les superfícies de contacte i per aquest motiu són conegudes com **forces normals** (normal és un sinònim de perpendicular) i moltes vegades les simbolitzem amb la lletra $\vec{N}$.
+Ja hem vist una força, la força pes, que no necessita el contacte per actuar, actua a distància. Hi ha altres forces que imposen restriccions al moviment, com poden ser les forces de contacte amb el terra o parets que imposen que la superfície de la paret o el terra no es pugui travessar. Aquestes forces són perpendiculars a les superfícies de contacte i per aquest motiu són conegudes com **forces normals** (normal és un sinònim de perpendicular) i moltes vegades les simbolitzem amb la lletra $$\vec{N}$$.
 
-Estudiem un cas a mode d'exemple. Suposem que tenim un cos de massa $m=2\,\mathrm{kg}$ sobre una superfície plana horitzontal i sense fregament i apliquem una força $F=30\,\mathrm{N}$ formant un angle de $37^{\circ}$ amb la superfície horitzontal. Volem determinar la força de contacte que farà el terra sobre el cos i l'acceleració amb la que es mourà el cos.
+Estudiem un cas a mode d'exemple. Suposem que tenim un cos de massa $$m=2\,\mathrm{kg}$$ sobre una superfície plana horitzontal i sense fregament i apliquem una força $$F=30\,\mathrm{N}$$ formant un angle de $$37^{\circ}$$ amb la superfície horitzontal. Volem determinar la força de contacte que farà el terra sobre el cos i l'acceleració amb la que es mourà el cos.
 
 Per tenir més clara fem un esquema de la situació a la figura inferior.
 
@@ -107,7 +107,7 @@ Per resoldre aquesta situació hem de seguir els següents passos:
 
 <ol>
 <li><strong>Adopció d'un sistema de referència</strong>
-Com les forces i les acceleracions són magnituds vectorials, les hem de poder representar en l'espai o, com en aquest cas, en el pla. Per aquest motiu hem d'adoptar un marc de referència sobre el pla a través de l'elecció un parell d'eixos ortogonals $x-y$. L'elecció de las direccions dels eixos en principi és arbitrària però, depenent de la nostra elecció, la resolució es pot fer més senzilla o més complicada. Per aquest motiu convé triar la direcció de un dels eixos coincidint amb la direcció de l'acceleració del cos (si resulta que la podem saber a priori). En aquest cas hi ha el cos no pot baixar degut a la restricció del moviment que fa el terra. Per tant es pot moure en direcció horitzontal o, si la força $\vec{F}$ resulta prou elevada podria pujar. En tot cas sembla raonable triar els eixos en les direccions horitzontal i vertical.
+Com les forces i les acceleracions són magnituds vectorials, les hem de poder representar en l'espai o, com en aquest cas, en el pla. Per aquest motiu hem d'adoptar un marc de referència sobre el pla a través de l'elecció un parell d'eixos ortogonals $$x-y$$. L'elecció de las direccions dels eixos en principi és arbitrària però, depenent de la nostra elecció, la resolució es pot fer més senzilla o més complicada. Per aquest motiu convé triar la direcció de un dels eixos coincidint amb la direcció de l'acceleració del cos (si resulta que la podem saber a priori). En aquest cas hi ha el cos no pot baixar degut a la restricció del moviment que fa el terra. Per tant es pot moure en direcció horitzontal o, si la força $$\vec{F}$$ resulta prou elevada podria pujar. En tot cas sembla raonable triar els eixos en les direccions horitzontal i vertical.
 </li>
 
 <li><strong>Diagrama de forces o diagrama de cos lliure</strong>
@@ -123,7 +123,7 @@ El següent pas consisteix en aïllar el cos de tot el que l'envolta i represent
 
 <li><strong>Descompondre les forces en les direccions dels eixos ortogonals</strong>
 
-Podem observar que la direcció de la força $\vec{F}$ no coincideix amb la direcció de cap dels eixos, per tant el que farem serà descompondre la força en les seves dues components ortogonals que coincideixen amb els eixos de coordenades. En aquest cas la força $\vec{F}$ queda expressada amb dos components:
+Podem observar que la direcció de la força $$\vec{F}$$ no coincideix amb la direcció de cap dels eixos, per tant el que farem serà descompondre la força en les seves dues components ortogonals que coincideixen amb els eixos de coordenades. En aquest cas la força $$\vec{F}$$ queda expressada amb dos components:
 
 $$F_{x}=F\cos(37^{\circ})$$
 
@@ -135,11 +135,11 @@ Un cop coneixem totes les interaccions que té el nostre sistema, podem escriure
 
 $$F_{x}=ma_{x}F_{y}+N-mg=ma_{y}$$
 
-Ara es tracta de resoldre el sistema d'equacions per trobar el valor de l'acceleració i la força de contacte amb el terra. Podem destacar que el sistema que tenim està format per dues equacions i que en principi tenim 3 incògnites $(a_{x},\,a_{y}\,\mathrm{i}\,N)$. Per a poder resoldre el sistema s'hauria d'aportar una altra equació. Aquí es planteja una qüestió interessant, que té a veure amb la restricció al moviment que imposa la superfície de contacte, es poden donar dues situacions:
+Ara es tracta de resoldre el sistema d'equacions per trobar el valor de l'acceleració i la força de contacte amb el terra. Podem destacar que el sistema que tenim està format per dues equacions i que en principi tenim 3 incògnites $$(a_{x},\,a_{y}\,\mathrm{i}\,N)$$. Per a poder resoldre el sistema s'hauria d'aportar una altra equació. Aquí es planteja una qüestió interessant, que té a veure amb la restricció al moviment que imposa la superfície de contacte, es poden donar dues situacions:
 <ul>
-<li>Si el component vertical de la força $F$, es a dir, $F_{y}$ supera el valor del pes, $mg$, aleshores el cos s'eleva i deixa d'estar en contacte amb el terra, per tant, en aquest cas $N=0$. I aquesta és l'equació que ens faltava per resoldre el sistema.</li>
+<li>Si el component vertical de la força $$F$$, es a dir, $$F_{y}$$ supera el valor del pes, $$mg$$, aleshores el cos s'eleva i deixa d'estar en contacte amb el terra, per tant, en aquest cas $$N=0$$. I aquesta és l'equació que ens faltava per resoldre el sistema.</li>
 
-<li>Si el component vertical de la força $F$, no supera el valor del pes, aleshores el cos roman sempre en contacte amb el terra i, com no hi ha moviment en la direcció vertical, no hi ha acceleració vertical i s'ha de verificar que $a_{y}=0$. En aquest cas aquesta és l'equació addicional que necessitàvem.</li>
+<li>Si el component vertical de la força $$F$$, no supera el valor del pes, aleshores el cos roman sempre en contacte amb el terra i, com no hi ha moviment en la direcció vertical, no hi ha acceleració vertical i s'ha de verificar que $$a_{y}=0$$. En aquest cas aquesta és l'equació addicional que necessitàvem.</li>
 </ul>
 </li>
 
@@ -196,7 +196,7 @@ La gràfica mostra que quan la força aplicada, F, és més petita que la força
 
 $$F_{e_{max}}=\mu_{e}N$$
 
-on $N$ és la força de contacte entre el cos i la superfície (força normal) i $\mu_{e}$ és un coeficient adimensional de proporcionalitat que depèn de les superfícies en contacte i anomenem coeficient de fregament estàtic.
+on $$N$$ és la força de contacte entre el cos i la superfície (força normal) i $$\mu_{e}$$ és un coeficient adimensional de proporcionalitat que depèn de les superfícies en contacte i anomenem coeficient de fregament estàtic.
 
 En general tindrem que 
 
@@ -206,17 +206,17 @@ Quan el cos comença a moure's, la força de fregament disminueix i passa a ser 
 
 $$F_{d}=\mu_{d}N$$
 
-on $N$ és la força normal i $\mu_{d}$ és el coeficient de fregament dinàmic (adimensional). 
+on $$N$$ és la força normal i $$\mu_{d}$$ és el coeficient de fregament dinàmic (adimensional). 
 
 ## Força elàstica
 
 Ja hem vist que com a resultat de l'aplicació d'una força sobre un cos, el cos es pot accelerar. Ara veurem un altre efecte possible a partir de l'aplicació d'una força sobre un cos, com ser la deformació del cos. Anomenem **elasticitat** a la capacitat que té un cos per a recuperar la seva forma després que la força hagi deixat d'actuar. Podem interpretar la elasticitat com deguda a les forces produïdes per las partícules que formen part del cos, que al ser deformat canvien les seves posicions relatives i això fa aparèixer forces que intenten tornar a posar les partícules a les seves posicions d'equilibri originals, aquesta força recuperadora és la que fa que el cos torni a la seva forma original quan la força que produeix la deformació deixa d'actuar.
 
-Els materials presenten diferents graus d'elasticitat depenent de les seves propietats microscòpiques, el cautxú és força elàstic mentre que el vidre no. El cas més típic de cos elàstic és el d'una molla o ressort helicoidal. La força elàstica o força recuperadora apareix quan la molla de longitud lliure $x_{0}$ és apartada i pren una longitud $x$ diferent. 
+Els materials presenten diferents graus d'elasticitat depenent de les seves propietats microscòpiques, el cautxú és força elàstic mentre que el vidre no. El cas més típic de cos elàstic és el d'una molla o ressort helicoidal. La força elàstica o força recuperadora apareix quan la molla de longitud lliure $$x_{0}$$ és apartada i pren una longitud $$x$$ diferent. 
 
 ### Llei de Hooke
 
-Considerem el cas d'una molla que està unida a una paret en el seu costat esquerre i a un cos en l'altre extrem (veure figura inferior). En el cas (a) es veu que si la molla té la seva longitud natural o longitud lliure, no hi ha cap força horitzontal i les úniques forces a les que està sotmès el cos són el seu pes i la reacció del terra que l'equilibra per obtenir una força neta nul·la. El cos està en repòs en aquestes condicions. En la situació de la figura (b), estirem la molla des de la seva posició d'equilibri $x_{0}$ fins a una nova posició $x$. En aquest cas apareix una força cap a l'esquerra que intenta tornar el cos a la seva posició d'equilibri. Si comprimim la molla cap a la esquerra des de la seva posició d'equilibri (cas (c))apareix una força cap a la dreta que intenta tornar el cos cap a la posició d'equilibri.
+Considerem el cas d'una molla que està unida a una paret en el seu costat esquerre i a un cos en l'altre extrem (veure figura inferior). En el cas (a) es veu que si la molla té la seva longitud natural o longitud lliure, no hi ha cap força horitzontal i les úniques forces a les que està sotmès el cos són el seu pes i la reacció del terra que l'equilibra per obtenir una força neta nul·la. El cos està en repòs en aquestes condicions. En la situació de la figura (b), estirem la molla des de la seva posició d'equilibri $$x_{0}$$ fins a una nova posició $$x$$. En aquest cas apareix una força cap a l'esquerra que intenta tornar el cos a la seva posició d'equilibri. Si comprimim la molla cap a la esquerra des de la seva posició d'equilibri (cas (c))apareix una força cap a la dreta que intenta tornar el cos cap a la posició d'equilibri.
 
 <p>
 <figure>
@@ -229,14 +229,14 @@ Resulta un fet experimental que si l'estirament o compressió de la molla són p
 
 $$F=-k(x-x_{0})=-k\Delta x$$
 
-on la constant de proporcionalitat $k$ es coneix com **constant elàstica** o **constant recuperadora** i $\Delta x$ és l'**elongació** de la molla. Les unitats de $k$ són $\mathrm{N/m}$ (newton/metre). Degut a que la força sempre s'oposa a la variació de la longitud apareix el signe "$-$" a l'equació.
+on la constant de proporcionalitat $$k$$ es coneix com **constant elàstica** o **constant recuperadora** i $$\Delta x$$ és l'**elongació** de la molla. Les unitats de $$k$$ són $$\mathrm{N/m}$$ (newton/metre). Degut a que la força sempre s'oposa a la variació de la longitud apareix el signe "$$-$$" a l'equació.
 
 A la figura inferior es pot veure la gràfica de la força elàstica en funció de l'elongació en el cas d'una molla de constant elàstica igual a 50 N/m. La constant elàstica és el pendent de la recta.
 
 <p>
 <figure>
   <img src="img/forca_elast.svg" alt="" width="70%">
-  <figcaption> <strong>Gràfica de la força elàstica en funció de l'elongació. En aquest cas no s'ha considerat el signe negatiu i s'ha representat el mòdul de la força. La constant elàstica correspon al pendent de la recta, que en aquest cas particular val $50\,\mathrm{N/m}$.</strong> </figcaption>
+  <figcaption> <strong>Gràfica de la força elàstica en funció de l'elongació. En aquest cas no s'ha considerat el signe negatiu i s'ha representat el mòdul de la força. La constant elàstica correspon al pendent de la recta, que en aquest cas particular val $$50\,\mathrm{N/m}$$.</strong> </figcaption>
 </figure>
 </p>
 
@@ -250,7 +250,7 @@ Ja hem vist que si coneixem les forces implicades en una interacció, a partir d
 
 $$\vec{p}=m\vec{v}$$
 
-És una magnitud vectorial que té la mateixa direcció i sentit que la velocitat i les seves unitats són $\mathrm{kgm/s}$ en el SI.
+És una magnitud vectorial que té la mateixa direcció i sentit que la velocitat i les seves unitats són $$\mathrm{kgm/s}$$ en el SI.
 
 ### Teorema de l'impuls i la quantitat de moviment
 
@@ -264,11 +264,11 @@ $$\left(\sum_{i}\vec{F_{i}}\right)\Delta t=\Delta\vec{p}$$
 
 És a dir, la força neta sobre el sistema multiplicat pel temps d'actuació d'aquesta força neta, resulta igual a la variació de la quantitat de moviment.
 
-Aprofitarem per definir ara altra magnitud física, l'**impuls mecànic**, $\vec{I}$,
+Aprofitarem per definir ara altra magnitud física, l'**impuls mecànic**, $$\vec{I}$$,
 
 $$\vec{I}=\left(\sum_{i}\vec{F_{i}}\right)\Delta t=\vec{F}\Delta t$$
 
-Les unitats de l'impuls són $\mathrm{Ns}$ en el SI.
+Les unitats de l'impuls són $$\mathrm{Ns}$$ en el SI.
 
 En la figura de sota es pot veure la gràfica de la força en funció del temps en el cas d'una força constant. En aquest cas es pot veure clarament que l'impuls es pot interpretar com l'àrea sota dintre de la gràfica (zona grisa).
 
@@ -292,7 +292,7 @@ Amb la definició d'impuls que hem adoptat podem enunciar el **teorema de l'impu
 
 $$\Delta\vec{p}=\vec{I}$$
 
-Un corol·lari important d'aquest teorema ens diu que si el sistema no rep cap força neta ($\vec{F}=0$), aleshores l'increment de quantitat de moviment resulta nul, això vol dir que la quantitat de moviment roman constant, en aquests casos diem que la quantitat de moviment es conserva.
+Un corol·lari important d'aquest teorema ens diu que si el sistema no rep cap força neta ($$\vec{F}=0$$), aleshores l'increment de quantitat de moviment resulta nul, això vol dir que la quantitat de moviment roman constant, en aquests casos diem que la quantitat de moviment es conserva.
 
 $$\Delta\vec{p}=\vec{p}-\vec{p}_{0}=0$$
 

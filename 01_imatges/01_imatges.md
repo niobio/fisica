@@ -14,7 +14,7 @@ Per a l'estudi de la formació d'imatges tindrem en compte un parell de fets ben
 
 * La llum es propaga en línia recta en un medi homogeni <sup><a href="#fn2" id="ref2">2</a></sup>. Indicarem la seva trajectòria dibuixant raigs que indicaran el camí traçat per la llum.
 
-* La velocitat de la llum és constant en un medi homogeni. Al buit la velocitat és $c=3\times10^{8}\,\mathrm{m/s}$
+* La velocitat de la llum és constant en un medi homogeni. Al buit la velocitat és $$c=3\times10^{8}\,\mathrm{m/s}$$
   i, a efectes pràctics, considerarem que la velocitat a l'aire és la mateixa.
 
 ## Llei de la reflexió
@@ -26,7 +26,7 @@ Podem destacar dos tipus de reflexió. Quan la superfície especular és plana t
   <figcaption> <strong>Reflexió especular i difusa. La llei de la reflexió es verifica localment en ambdues superfícies però només a la imatge de l'esquerra tots els raigs tenen el mateix angle d'incidència i de reflexió.</strong> </figcaption>
 </figure>
 
-La llei de la reflexió sobre superfícies planes estableix que l'angle de reflexió és igual a l'angle d'incidència. Si anomenem $\alpha_{i}$ l'angle dels raigs d'incidència i $\alpha_{r}$ l'angle format pels raigs reflectits, tenim que la llei de la reflexió s'escriu:
+La llei de la reflexió sobre superfícies planes estableix que l'angle de reflexió és igual a l'angle d'incidència. Si anomenem $$\alpha_{i}$$ l'angle dels raigs d'incidència i $$\alpha_{r}$$ l'angle format pels raigs reflectits, tenim que la llei de la reflexió s'escriu:
 
 $$\alpha_{r}=\alpha_{i}$$
 
@@ -39,22 +39,22 @@ Els angles d'incidència i reflexió es mesuren respecte de la línia perpendicu
 
 ## Refracció de la llum
 
-Com ja ho hem dit, la llum es propaga en un medi homogeni a una velocitat constant, però quan la llum passa d'un medi a un altre la seva velocitat de propagació canvia i això pot produir un canvi en la direcció de propagació de la llum. Aquest canvi en la direcció de propagació de la llum l'anomenen refracció de la llum. A la Figura [fig:refrac] es pot veure un raig de llum que incideix des d'una medi 1 amb un angle $\alpha_{1}$ respecte a la normal de la superfície de separació dels dos medis. Quan travessa la superfície passa a propagar-se en el medi 2 amb un angle $\alpha_{2}$ respecte a la mateixa recta normal. També es pot veure un raig reflectit. Sempre que hi ha una superfície de separació de dos medis hi haurà llum reflectida què, com ja hem vist, segueix la llei de la reflexió $(\alpha_{1}=\alpha_{1}^{,})$.
+Com ja ho hem dit, la llum es propaga en un medi homogeni a una velocitat constant, però quan la llum passa d'un medi a un altre la seva velocitat de propagació canvia i això pot produir un canvi en la direcció de propagació de la llum. Aquest canvi en la direcció de propagació de la llum l'anomenen refracció de la llum. A la Figura [fig:refrac] es pot veure un raig de llum que incideix des d'una medi 1 amb un angle $$\alpha_{1}$$ respecte a la normal de la superfície de separació dels dos medis. Quan travessa la superfície passa a propagar-se en el medi 2 amb un angle $$\alpha_{2}$$ respecte a la mateixa recta normal. També es pot veure un raig reflectit. Sempre que hi ha una superfície de separació de dos medis hi haurà llum reflectida què, com ja hem vist, segueix la llei de la reflexió $$(\alpha_{1}=\alpha_{1}^{,})$$.
 
 <figure>
   <img src="img/llei_refrac.svg" alt="" width="60%">
   <figcaption> <strong>Refracció de la llum. La llum es propaga per un medi 1 i passa a un medi 2 amb propietats òptiques diferents, com a conseqüència, la direcció de propagació canvia. La llei que descriu aquest comportament és la llei de Snell.</strong> </figcaption>
 </figure>
 
-Els dos angles $\alpha_{1}$ i $\alpha_{2}$ estan relacionats amb la velocitat de propagació de la llum ens els dos medis, $v_{1}$ i $v_{2}$ respectivament, a través de la llei de la refracció de la llum o **llei de Snell**:
+Els dos angles $$\alpha_{1}$$ i $$\alpha_{2}$$ estan relacionats amb la velocitat de propagació de la llum ens els dos medis, $$v_{1}$$ i $$v_{2}$$ respectivament, a través de la llei de la refracció de la llum o **llei de Snell**:
 
 $$\frac{\sin(\alpha_{1})}{v_{1}}=\frac{\sin(\alpha_{2})}{v_{2}}$$
 
-Podem deduir de la llei que si la llum passa a un segon medi on es propaga a una velocitat més petita, $(v_{2}<v_{1})$, l'angle de sortida serà més petit que l'angle d'entrada $(\alpha_{2}<\alpha_{1})$. El mateix raonament és valid en cas contrari, si la velocitat del segon medi és més gran, també ho serà l'angle de sortida. Pots dir quin dels dos casos mostra la figura anterior? 
+Podem deduir de la llei que si la llum passa a un segon medi on es propaga a una velocitat més petita, $$(v_{2}<v_{1})$$, l'angle de sortida serà més petit que l'angle d'entrada $$(\alpha_{2}<\alpha_{1})$$. El mateix raonament és valid en cas contrari, si la velocitat del segon medi és més gran, també ho serà l'angle de sortida. Pots dir quin dels dos casos mostra la figura anterior? 
 
 ## Índex de refracció
 
-A la llei de Snell apareixen les velocitats de propagació de la llum. Per a no tenir que treballar amb valors de velocitats tan grans (recordem que la velocitat de la llum al buit és $c=3\times10^{8}\mathrm{m/s})$ el que es fa és multiplicar ambdós membres de l'equació $\eqref{eq:snell}$ per la velocitat de la llum al buit, $c$, per a obtenir
+A la llei de Snell apareixen les velocitats de propagació de la llum. Per a no tenir que treballar amb valors de velocitats tan grans (recordem que la velocitat de la llum al buit és $$c=3\times10^{8}\mathrm{m/s})$$ el que es fa és multiplicar ambdós membres de l'equació $$\eqref{eq:snell}$$ per la velocitat de la llum al buit, $$c$$, per a obtenir
 
 $$
 \begin{equation}\label{eq:snell}
@@ -63,7 +63,7 @@ $$
 $$
 
 
-Definirem índex de refracció, $n$, d'un medi on la velocitat de propagació és $v$ al quocient
+Definirem índex de refracció, $$n$$, d'un medi on la velocitat de propagació és $$v$$ al quocient
 
 $$n=\frac{c}{v}$$
 
@@ -71,7 +71,7 @@ Podem observar que l'índex de refracció és una magnitud adimensional (no port
 
 $$n_{1}\sin(\alpha_{1})=n_{2}\sin(\alpha_{2})$$
 
-on $n_{1}$ i $n_{2}$ són, respectivament, els índex de refracció dels medis 1 i 2.
+on $$n_{1}$$ i $$n_{2}$$ són, respectivament, els índex de refracció dels medis 1 i 2.
 
 A la taula següent es pot observar el llistat dels índex de refracció d'alguns materials.
 
@@ -93,23 +93,23 @@ Ja hem vist que quan la llum travessa una superfície de separació entre dos me
 
 <figure>
   <img src="img/angle_limit.svg" alt="" width="100%">
-  <figcaption> <strong>Reflexió total interna. Quan la llum passa de l'aigua a l'aire, l'angle refractat, $\alpha_{2}^{,}$, resulta més gran que l'angle d'incidència, $\alpha_{1}$. Si augmentem l'angle $\alpha_{1}$ arribarà a un valor per al qual l'angle de refracció és rasant $(\alpha_{2}^{,}=90^{\circ})$. Aquest angle d'incidència es diu angle límit, $\alpha_{L}$, i a partir d'aquest valor no hi ha raig refractat i només tenim llum reflectida.</strong></figcaption>
+  <figcaption> <strong>Reflexió total interna. Quan la llum passa de l'aigua a l'aire, l'angle refractat, $$\alpha_{2}^{,}$$, resulta més gran que l'angle d'incidència, $$\alpha_{1}$$. Si augmentem l'angle $$\alpha_{1}$$ arribarà a un valor per al qual l'angle de refracció és rasant $$(\alpha_{2}^{,}=90^{\circ})$$. Aquest angle d'incidència es diu angle límit, $$\alpha_{L}$$, i a partir d'aquest valor no hi ha raig refractat i només tenim llum reflectida.</strong></figcaption>
 </figure>
 
-Aquest fenomen es diu refracció i hem vist que quan la llum passa d'un medi a un altre d'índex de refracció més alt, la llum transmesa surt amb un angle més petit respecte a la normal. Si tenim el cas invers on la llum passa d'un medi d'índex més alt cap a un d'índex més baix, com és el cas de passar d'aigua a l'aire o de vidre a l'aire, la relació d'angles s'inverteix, en aquest cas tenim que $\alpha_{2}^{,}>\alpha_{1}$ (veure figura anterior).
+Aquest fenomen es diu refracció i hem vist que quan la llum passa d'un medi a un altre d'índex de refracció més alt, la llum transmesa surt amb un angle més petit respecte a la normal. Si tenim el cas invers on la llum passa d'un medi d'índex més alt cap a un d'índex més baix, com és el cas de passar d'aigua a l'aire o de vidre a l'aire, la relació d'angles s'inverteix, en aquest cas tenim que $$\alpha_{2}^{,}>\alpha_{1}$$ (veure figura anterior).
 
-Si continuem augmentant l'angle d'incidència trobarem que hi arribarà el moment que per a un angle $\alpha_{1}<90^{\circ}$, tindrem un angle de refracció $\alpha_{2}^{,}=90^{\circ}$. A aquest angle l'anomenen angle límit $(\alpha_{L})$ i, a partir d'aquest angle, només hi haurà llum reflectida. Aquest fenomen es coneix com a reflexió total interna i és el que utilitzen les fibres òptiques per a transmetre informació en forma de polsos lumínics al llarg de grans distàncies sense tenir pèrdues d'energia.
+Si continuem augmentant l'angle d'incidència trobarem que hi arribarà el moment que per a un angle $$\alpha_{1}<90^{\circ}$$, tindrem un angle de refracció $$\alpha_{2}^{,}=90^{\circ}$$. A aquest angle l'anomenen angle límit $$(\alpha_{L})$$ i, a partir d'aquest angle, només hi haurà llum reflectida. Aquest fenomen es coneix com a reflexió total interna i és el que utilitzen les fibres òptiques per a transmetre informació en forma de polsos lumínics al llarg de grans distàncies sense tenir pèrdues d'energia.
 
 <figure>
   <img src="img/fibra_optica.svg" alt="" width="40%">
   <figcaption><strong>Les fibres òptiques utilitzen el fenomen de reflexió total per a transmetre informació sense pèrdues.</strong></figcaption>
 </figure>
 
-L'angle límit per a la separació de dos medis d'índex de refracció $n_{1}>n_{2}$, el podem trobar utilitzant la llei de Snell on imposarem la condició $\alpha_{2}^{,}=90^{\circ}$:
+L'angle límit per a la separació de dos medis d'índex de refracció $$n_{1}>n_{2}$$, el podem trobar utilitzant la llei de Snell on imposarem la condició $$\alpha_{2}^{,}=90^{\circ}$$:
 
 $$n_{1}\sin(\alpha_{L})=n_{2}\sin(90^{\circ})$$
 
-i, com $\sin(90^{\circ})=1$, obtenim:
+i, com $$\sin(90^{\circ})=1$$, obtenim:
 
 $$
 \begin{equation}\label{eq:angle_limit}
@@ -117,7 +117,7 @@ $$
 \end{equation}
 $$
 
-La relació $\eqref{eq:angle_limit}$ és la condició d'angle límit. A partir d'aquest valor d'angle d'incidència tindrem reflexió total. De la relació [eq:angle_limit] podem veure que la condició només es satisfà si el quocient $n_{2}/n_{1}<1$, ja que la funció sinus és una funció que sempre és menor a 1. En cas contrari, si el medi 2 tingués un índex de refracció major que el medi 1, no trobaríem solució.
+La relació $$\eqref{eq:angle_limit}$$ és la condició d'angle límit. A partir d'aquest valor d'angle d'incidència tindrem reflexió total. De la relació [eq:angle_limit] podem veure que la condició només es satisfà si el quocient $$n_{2}/n_{1}<1$$, ja que la funció sinus és una funció que sempre és menor a 1. En cas contrari, si el medi 2 tingués un índex de refracció major que el medi 1, no trobaríem solució.
 
 ## Miralls esfèrics
 
@@ -203,7 +203,7 @@ El cas on l'objecte es troba a una distància més petita a la distància focal 
 
 ## Augment lateral
 
-L'augment lateral, $m$, és la relació que hi ha entre la grandària de la imatge, $y'$, i la de l'objecte, $y$,
+L'augment lateral, $$m$$, és la relació que hi ha entre la grandària de la imatge, $$y'$$, i la de l'objecte, $$y$$,
 
 $$
 \begin{equation}\label{eq:augment}
@@ -211,7 +211,7 @@ m=\frac{y'}{y}
 \end{equation}
 $$
 
-El valor de $y'$ serà positiu quan la imatge estigui dreta i negatiu quan la imatge estigui invertida. Per altra banda si la imatge és més gran que l'objecte tindrem que $\lvert y'\rvert > y$, i quan la imatge sigui més petita que l'objecte tindrem que $\lvert y' \rvert <y$.
+El valor de $$y'$$ serà positiu quan la imatge estigui dreta i negatiu quan la imatge estigui invertida. Per altra banda si la imatge és més gran que l'objecte tindrem que $$\lvert y'\rvert > y$$, i quan la imatge sigui més petita que l'objecte tindrem que $$\lvert y' \rvert <y$$.
 
 ## Les matemàtiques dels miralls
 
@@ -223,20 +223,20 @@ $$
 \end{equation}
 $$
 
-on $s$ és la distància objecte, $s'$ és la distància imatge i $f$ és la distància focal. D'aquesta manera, si coneixem la posició de l'objecte i la distància focal del mirall, podem trobar la posició de la imatge. La diferència entre miralls còncaus i convexos radica en el signe de la distància focal, mentre que pel mirall còncau la distància focal és positiva, pels miralls convexos la distància focal resulta negativa. De fet, tot el que estigui ubicat a la dreta del mirall tindrà posició negativa, així, si obtenim un valor de $s'$ negatiu sabrem que la imatge estarà ubicada a la dreta del mirall on la llum no hi arriba i que la imatge és virtual.
+on $$s$$ és la distància objecte, $$s'$$ és la distància imatge i $$f$$ és la distància focal. D'aquesta manera, si coneixem la posició de l'objecte i la distància focal del mirall, podem trobar la posició de la imatge. La diferència entre miralls còncaus i convexos radica en el signe de la distància focal, mentre que pel mirall còncau la distància focal és positiva, pels miralls convexos la distància focal resulta negativa. De fet, tot el que estigui ubicat a la dreta del mirall tindrà posició negativa, així, si obtenim un valor de $$s'$$ negatiu sabrem que la imatge estarà ubicada a la dreta del mirall on la llum no hi arriba i que la imatge és virtual.
 
-Si observem la figura de sota, observem que els dos triangles que queden definits són semblants, ja que els angles d'incidència i reflexió són congruents $(\theta=\theta')$ degut a la llei de a reflexió i a que l'eix òptic és normal a la superfície en el punt O.
+Si observem la figura de sota, observem que els dos triangles que queden definits són semblants, ja que els angles d'incidència i reflexió són congruents $$(\theta=\theta')$$ degut a la llei de a reflexió i a que l'eix òptic és normal a la superfície en el punt O.
 
 <figure>
   <img src="img/mirall_triang.svg" alt="" width="90%">
-  <figcaption>Degut a que l'angle de reflexió és igual a l'angle d'incidència, tenim que els dos triangles són semblants i, per tant, podem deduir que $y/s=y'/s'$.</figcaption>
+  <figcaption>Degut a que l'angle de reflexió és igual a l'angle d'incidència, tenim que els dos triangles són semblants i, per tant, podem deduir que $$y/s=y'/s'$$.</figcaption>
 </figure>
 
 Degut a que els triangles són semblants tenim que es compleix les següent relació:
 
 $$\frac{y}{s}=-\frac{y'}{s'}$$
 
-on el signe negatiu apareix degut a que $y'$ resulta negativa per estar la imatge invertida i la resta de quantitats són positives. Per a poder igualar ambdós costats de l'equació, hem de posar el signe negatiu al membra de la dreta. Aquesta relació ens porta a una altra manera de calcular l'augment lateral si reconsiderem l'expressió $\eqref{eq:augment}$:
+on el signe negatiu apareix degut a que $$y'$$ resulta negativa per estar la imatge invertida i la resta de quantitats són positives. Per a poder igualar ambdós costats de l'equació, hem de posar el signe negatiu al membra de la dreta. Aquesta relació ens porta a una altra manera de calcular l'augment lateral si reconsiderem l'expressió $$\eqref{eq:augment}$$:
 
 $$
 \begin{equation}\label{eq:augment2}
@@ -244,7 +244,7 @@ m=\frac{y'}{y}=-\frac{s'}{s}
 \end{equation}
 $$
 
-Les equacions $\eqref{eq:formula_miralls}$ i $\eqref{eq:augment2}$ ens permeten obtenir de manera analítica la posició i altura de la imatge a partir de la posició i altura de l'objecte per a un mirall de distància focal coneguda. D'aquesta manera hem obtingut un mètode alternatiu al mètode gràfic per a obtenir la imatge donada per un mirall. <sup><a href="#fn6" id="ref6">6</a></sup>
+Les equacions $$\eqref{eq:formula_miralls}$$ i $$\eqref{eq:augment2}$$ ens permeten obtenir de manera analítica la posició i altura de la imatge a partir de la posició i altura de l'objecte per a un mirall de distància focal coneguda. D'aquesta manera hem obtingut un mètode alternatiu al mètode gràfic per a obtenir la imatge donada per un mirall. <sup><a href="#fn6" id="ref6">6</a></sup>
 
 
 ## Lents
@@ -276,12 +276,12 @@ De la mateixa manera, definirem focus objecte al punt per al qual si posem una f
 
 ### Potència d'una lent
 
-La distància que hi ha entre el centre de la lent i el focus s'anomena distància focal de la lent. Podem dir que quant més petita és la distància focal més potent és la lent, ja que té un poder refractiu major al desviar més la trajectòria dels raigs. Definirem com a potència d'una lent a la inversa de la seva distància focal, $f$, mesurada en metres,
+La distància que hi ha entre el centre de la lent i el focus s'anomena distància focal de la lent. Podem dir que quant més petita és la distància focal més potent és la lent, ja que té un poder refractiu major al desviar més la trajectòria dels raigs. Definirem com a potència d'una lent a la inversa de la seva distància focal, $$f$$, mesurada en metres,
 
 $$P=\frac{1}{f}$$
  
 
-Calculada d'aquesta manera la potència té unitats de **diòptries** (D)<sup><a href="#fn7" id="ref7">7</a></sup>. D'aquesta manera, una lent que té una distància focal de 50 cm (0,5 m) tindrà una potència $P=1/0,5=2\mathrm{D}$. 
+Calculada d'aquesta manera la potència té unitats de **diòptries** (D)<sup><a href="#fn7" id="ref7">7</a></sup>. D'aquesta manera, una lent que té una distància focal de 50 cm (0,5 m) tindrà una potència $$P=1/0,5=2\mathrm{D}$$. 
 
 ### Formació d'imatges per una lent convergent
 
@@ -372,7 +372,7 @@ Per l'augment lateral:
 $$m=\frac{y'}{y}=-\frac{s'}{s}$$
  
 
-Resulta important detenir-se en la convenció de signes necessària per a que les relacions anteriors siguin vàlides. Definirem com **espai objecte** l'espai que es troba a l'esquerra de la lent i **espai imatge** l'espai que es troba a la dreta de la lent. Tot el que pertany a l'objecte (posició $s$ i distància focal objecte $f$) serà positiva si està dintre de l'espai objecte i negativa en cas que estigui a l'espai imatge. De manera anàloga, tot el que pertany a la imatge (posició $s'$ i distància focal imatge $f'$) serà positiva quan es està dintre de l'espai imatge i negativa en cas contrari. En canvi, pel que fa a l'eix vertical, tot el que estigui per sobre de l'eix òptic el considerarem positiu i si està per dessota el considerarem negatiu. 
+Resulta important detenir-se en la convenció de signes necessària per a que les relacions anteriors siguin vàlides. Definirem com **espai objecte** l'espai que es troba a l'esquerra de la lent i **espai imatge** l'espai que es troba a la dreta de la lent. Tot el que pertany a l'objecte (posició $$s$$ i distància focal objecte $$f$$) serà positiva si està dintre de l'espai objecte i negativa en cas que estigui a l'espai imatge. De manera anàloga, tot el que pertany a la imatge (posició $$s'$$ i distància focal imatge $$f'$$) serà positiva quan es està dintre de l'espai imatge i negativa en cas contrari. En canvi, pel que fa a l'eix vertical, tot el que estigui per sobre de l'eix òptic el considerarem positiu i si està per dessota el considerarem negatiu. 
 
 Amb la convenció adoptada les lents convergents tenen distància focal positiva (també són conegudes com a lents positives) i les lents divergents tenen distància focal negativa (lents negatives). També passa que les imatges reals tenen una posició positiva i les virtuals tenen una posició negativa. Les imatges que estan dretes tindran una altura positiva i les que estan invertides tindran una altura negativa.
 

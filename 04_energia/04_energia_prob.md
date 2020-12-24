@@ -12,7 +12,7 @@ Suposant que els efectes del fregament són negligibles, calcula:
 <ol>
 <li>El temps que triga a arribar al peu del primer pla inclinat i la velocitat del cos en aquest moment. </li>
     <li>La màxima longitud recorreguda pel cos en la pujada pel pla inclinat de la dreta. </li>
-<li>Si el coeficient de fregament entre el cos i el primer pla inclinat fos $\mu=0,4$; quanta energia s'alliberaria en forma de calor des de l'instant inicial fins a arribar al peu del primer pla inclinat?</li>
+<li>Si el coeficient de fregament entre el cos i el primer pla inclinat fos $$\mu=0,4$$; quanta energia s'alliberaria en forma de calor des de l'instant inicial fins a arribar al peu del primer pla inclinat?</li>
     </ol>
     <br><a href="sol/prob401.pdf">Solució</a><br>
 </li>
@@ -41,7 +41,7 @@ Suposant que els efectes del fregament són negligibles, calcula:
 </li>
 <br>
 
-<li>En la gràfica següent es mostra com varia l’acceleració d’un cos de massa 10 kg que es mou en línia recta. Quin treball s’ha efectuat sobre el cos per a moure’l des de $x=0$ fins a $x=8\,\mathrm{m}$?
+<li>En la gràfica següent es mostra com varia l’acceleració d’un cos de massa 10 kg que es mou en línia recta. Quin treball s’ha efectuat sobre el cos per a moure’l des de $$x=0$$ fins a $$x=8\,\mathrm{m}$$?
 <br>
 <div align="middle">
 <img src="img_prob/treball.png" width="70%">
@@ -55,7 +55,7 @@ Suposant que els efectes del fregament són negligibles, calcula:
 </li>
 <br>
 
-<li>Deixem anar un cos d’1 kg de massa des del punt A, situat sobre una pista constituïda per un quadrant de circumferència de radi $R=1,5\,\mathrm{m}$ i en la qual es considera negligible el fregament, tal com es veu a la figura de sota. Quan el cos arriba a la part inferior del quadrant (punt C), llisca sobre una superfície horitzontal fins que queda aturat a una distància de $2,7\,\mathrm{m}$ del punt C. Trobeu: 
+<li>Deixem anar un cos d’1 kg de massa des del punt A, situat sobre una pista constituïda per un quadrant de circumferència de radi $$R=1,5\,\mathrm{m}$$ i en la qual es considera negligible el fregament, tal com es veu a la figura de sota. Quan el cos arriba a la part inferior del quadrant (punt C), llisca sobre una superfície horitzontal fins que queda aturat a una distància de $$2,7\,\mathrm{m}$$ del punt C. Trobeu: 
 <ol>
     <li>La velocitat del cos en el punt C. </li>
     <li>El coeficient de fregament cinètic entre la pista i el cos a la part horitzontal.</li> 
@@ -78,7 +78,7 @@ Suposant que els efectes del fregament són negligibles, calcula:
 </li>   
 <br>
 
-<li>Una vagoneta de fira de massa 100 kg es troba damunt d’una pista sense fregament. El tram inicial de la pista és horitzontal. A mig camí, la pista fa pujada fins a un segon tram horitzontal, al final del qual hi ha un sistema de frenada consistent en una molla de constant elàstica $k=10000\,\mathrm{N/m}$. La diferència d’altura entre els dos trams horitzontals és de 4 m.
+<li>Una vagoneta de fira de massa 100 kg es troba damunt d’una pista sense fregament. El tram inicial de la pista és horitzontal. A mig camí, la pista fa pujada fins a un segon tram horitzontal, al final del qual hi ha un sistema de frenada consistent en una molla de constant elàstica $$k=10000\,\mathrm{N/m}$$. La diferència d’altura entre els dos trams horitzontals és de 4 m.
 
 <div align="middle">
 <img src="img_prob/07_vagoneta.png" width="70%">
@@ -94,13 +94,13 @@ Si el sistema de frenada es comprimeix 1,5 m, calculeu:
 </li>
 <br>
 
-<li>Una vagoneta que pesa 500 N es troba inicialment en repòs al capdamunt d’una rampa de 20 m de llargada, 30° d’inclinació amb l’horitzontal i coeficient de fricció $\mu=0,2$. La vagoneta es deixa lliure i al final de la rampa continua el seu moviment sobre un pla horitzontal sense fricció, on topa amb una molla de constant recuperadora $k=7\times10^{4}\,\mathrm{N/m}$. Calculeu:
+<li>Una vagoneta que pesa 500 N es troba inicialment en repòs al capdamunt d’una rampa de 20 m de llargada, 30° d’inclinació amb l’horitzontal i coeficient de fricció $$\mu=0,2$$. La vagoneta es deixa lliure i al final de la rampa continua el seu moviment sobre un pla horitzontal sense fricció, on topa amb una molla de constant recuperadora $$k=7\times10^{4}\,\mathrm{N/m}$$. Calculeu:
 <ol>
 <li>La velocitat amb què la vagoneta arriba al final de la rampa.</li>
 <li>El temps que la vagoneta triga a arribar al final de la rampa. </li>
 <li>La deformació màxima que es produeix en la molla, si no s’ha perdut energia mecànica en la col·lisió. </li>
     </ol>
-Considereu $g=10\,\mathrm{m/s^{2}}$.
+Considereu $$g=10\,\mathrm{m/s^{2}}$$.
     
 <div align="middle">
 <img src="img_prob/04_pla_inclinat.png" width="70%">
@@ -108,7 +108,7 @@ Considereu $g=10\,\mathrm{m/s^{2}}$.
 </li>
 <br>
 
-<li>En una atracció de fira, una vagoneta de massa M=300\,\mathrm{kg} arrenca del repòs en el punt A i arriba al punt B amb una velocitat de $10\,\mathrm{m\cdot s^{-1}}$, després de recórrer el circuit representat en la figura. Preneu $g=10\,\mathrm{m\cdot s^{-2}}$ i calculeu: 
+<li>En una atracció de fira, una vagoneta de massa M=300\,\mathrm{kg} arrenca del repòs en el punt A i arriba al punt B amb una velocitat de $$10\,\mathrm{m\cdot s^{-1}}$$, després de recórrer el circuit representat en la figura. Preneu $$g=10\,\mathrm{m\cdot s^{-2}}$$ i calculeu: 
 <ol>
     <li>El treball fet pel pes de la vagoneta des del punt A fins al punt B. </li>
     <li>La quantitat de calor alliberada, com a conseqüència del fregament, en el descens de A a B. </li>
@@ -155,7 +155,7 @@ Si no perdés energia per fregament:
 </li>
 <br>
 
-<li>Una massa $m_{1}=200\,\mathrm{g}$ es troba en repòs sobre una superfície horitzontal, sense fricció apreciable, unida a l’extrem d’una molla de massa negligible que per l’altre extrem està unida a una paret i inicialment no està ni comprimida ni estirada. Una segona massa $m_{2}=600\,\mathrm{g}$ es desplaça sobre la mateixa superfície amb una velocitat $v=4\,\mathrm{m/s}$ en el sentit indicat en la figura i experimenta un xoc frontal, perfectament inelàstic, amb $m_{1}$. La constant recuperadora de la molla val $k=500\,\mathrm{N/m}$.
+<li>Una massa $$m_{1}=200\,\mathrm{g}$$ es troba en repòs sobre una superfície horitzontal, sense fricció apreciable, unida a l’extrem d’una molla de massa negligible que per l’altre extrem està unida a una paret i inicialment no està ni comprimida ni estirada. Una segona massa $$m_{2}=600\,\mathrm{g}$$ es desplaça sobre la mateixa superfície amb una velocitat $$v=4\,\mathrm{m/s}$$ en el sentit indicat en la figura i experimenta un xoc frontal, perfectament inelàstic, amb $$m_{1}$$. La constant recuperadora de la molla val $$k=500\,\mathrm{N/m}$$.
     <div align="middle">
     <img src="img_prob/04_xoc_molla.svg" width="50%">
     </div>

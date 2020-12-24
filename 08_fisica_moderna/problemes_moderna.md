@@ -6,79 +6,79 @@
 
 ## Efecte fotoelèctric
 
-1. Si il·luminem una superfície d’un metall amb llum de $\lambda=512\,\mathrm{nm}$, l’energia cinètica màxima dels electrons emesos és de $8,65\times10^{-20}\,\mathrm{J}$. Quina serà l’energia cinètica màxima dels electrons emesos si incidim sobre aquest mateix metall amb llum de $\lambda=365\,\mathrm{nm}$? 
+1. Si il·luminem una superfície d’un metall amb llum de $$\lambda=512\,\mathrm{nm}$$, l’energia cinètica màxima dels electrons emesos és de $$8,65\times10^{-20}\,\mathrm{J}$$. Quina serà l’energia cinètica màxima dels electrons emesos si incidim sobre aquest mateix metall amb llum de $$\lambda=365\,\mathrm{nm}$$? 
 
 2. L'energia mínima necessària per arrencar electrons del coure és de 4,4 eV. Quina serà la diferència de potencial que haurem d'aplicar per impedir la sortida d'electrons de coure si aquest s'il·lumina amb una llum de 150 nm de longitud d'ona? 
 
-3. Calcula l’energia cinètica màxima dels electrons emesos per una superfície metàl·lica quan hi incideixen fotons de longitud d’ona $\lambda=2\times10^{-7}\,\mathrm{m}$. L’energia mínima per alliberar els electrons (treball d’extracció) és $W=6,72\times10^{-19}\,\mathrm{J}$.
+3. Calcula l’energia cinètica màxima dels electrons emesos per una superfície metàl·lica quan hi incideixen fotons de longitud d’ona $$\lambda=2\times10^{-7}\,\mathrm{m}$$. L’energia mínima per alliberar els electrons (treball d’extracció) és $$W=6,72\times10^{-19}\,\mathrm{J}$$.
 
 4. Quan una superfície metàl·lica s'il·lumina amb llum de 180 nm (zona ultraviolada), aquesta emet electrons. Observem també que la freqüència llindar correspon a la llum de 230 nm. 
     1. Calculeu la velocitat màxima amb què surten els electrons al principi de l'experiment. 
     2. Amb quin potencial invers han de ser frenats aquests electrons per impedir que arribin a l’ànode de la cèl·lula fotoelèctrica?
 
-5. Una llum de freqüència $6\times10^{14}\,\mathrm{Hz}$ incideix sobre una superfície metàl·lica i en surten electrons amb una energia cinètica de $2\times10^{-19}\,\mathrm{J}$. Calcula el treball d'extracció dels electrons i expressa'l en electronvolts. 
-    Resposta: $1,975\times10^{-19}\,\mathrm{J}$
+5. Una llum de freqüència $$6\times10^{14}\,\mathrm{Hz}$$ incideix sobre una superfície metàl·lica i en surten electrons amb una energia cinètica de $$2\times10^{-19}\,\mathrm{J}$$. Calcula el treball d'extracció dels electrons i expressa'l en electronvolts. 
+    Resposta: $$1,975\times10^{-19}\,\mathrm{J}$$
   
-6. Se sap que un determinat metall experimenta l’efecte fotoelèctric quan s’hi fan incidir fotons d’energia superior a 1 eV. Suposeu que sobre aquest metall hi incideixen fotons de longitud d’ona $6\times10^{-7}\,\mathrm{m}$. 
+6. Se sap que un determinat metall experimenta l’efecte fotoelèctric quan s’hi fan incidir fotons d’energia superior a 1 eV. Suposeu que sobre aquest metall hi incideixen fotons de longitud d’ona $$6\times10^{-7}\,\mathrm{m}$$. 
     1. Quant val la freqüència dels fotons incidents? 
     2.Es produeix l’efecte fotoelèctric? Per què? 
 
-7. Una radiació de llum ultraviolada, d’una freqüència d’$1,5\times10^{15}\,\mathrm{Hz}$, incideix sobre una làmina de coure de manera que es produeix efecte fotoelèctric. La freqüència mínima perquè es produeixi efecte fotoelèctric en aquest metall és $1,1\times10^{15}\,\mathrm{Hz}$. 
+7. Una radiació de llum ultraviolada, d’una freqüència d’$$1,5\times10^{15}\,\mathrm{Hz}$$, incideix sobre una làmina de coure de manera que es produeix efecte fotoelèctric. La freqüència mínima perquè es produeixi efecte fotoelèctric en aquest metall és $$1,1\times10^{15}\,\mathrm{Hz}$$. 
     1. Calculeu l’energia cinètica màxima dels fotoelectrons emesos. 
-    2. Expliqueu què passaria si la llum incident tingués una longitud d’ona de $3,0\times10^{-7}\,\mathrm{m}$. 
+    2. Expliqueu què passaria si la llum incident tingués una longitud d’ona de $$3,0\times10^{-7}\,\mathrm{m}$$. 
 
-8. Se sap que un determinat metall experimenta l’efecte fotoelèctric quan s’hi fan incidir fotons d’energia superior a 1 eV. Suposeu que sobre aquest metall hi incideixen fotons de longitud d’ona $6\times10^{-7}\,\mathrm{m}$. 
+8. Se sap que un determinat metall experimenta l’efecte fotoelèctric quan s’hi fan incidir fotons d’energia superior a 1 eV. Suposeu que sobre aquest metall hi incideixen fotons de longitud d’ona $$6\times10^{-7}\,\mathrm{m}$$. 
     1. Quant val la freqüència dels fotons incidents? 
     2. Es produeix l’efecte fotoelèctric? Per què? 
     
    **Dades**: <br>
-   $1\,\mathrm{eV=1,602\times10^{-19}\,J}$; <br>
-   $c=3\times10^{8}\,\mathrm{m\cdot s^{-1}}$;       <br>
-   $h=6,62\times10^{-34}\,\mathrm{J\cdot s}$.      <br>
+   $$1\,\mathrm{eV=1,602\times10^{-19}\,J}$$; <br>
+   $$c=3\times10^{8}\,\mathrm{m\cdot s^{-1}}$$;       <br>
+   $$h=6,62\times10^{-34}\,\mathrm{J\cdot s}$$.      <br>
 
-9. Una radiació ultraviolada de $\lambda=200\,\mathrm{nm}$ incideix sobre una placa de plom, de manera que salten electrons amb una energia cinètica màxima d’1,97 eV. Calculeu: 
+9. Una radiació ultraviolada de $$\lambda=200\,\mathrm{nm}$$ incideix sobre una placa de plom, de manera que salten electrons amb una energia cinètica màxima d’1,97 eV. Calculeu: 
     1. La funció de treball (és a dir, l’energia mínima d’extracció d’electrons) del plom. 
     2. La longitud d’ona associada als electrons emesos amb l’energia cinètica màxima.
 
     **Dades**: <br>
-     $c=3,00\times10\text{⁸}\,\mathrm{m/s}$; <br>
-     $h=6,62\times10^{-34}\,\mathrm{J\cdot s}$; <br>
-     $m_{e}=9,11\times10^{-31}\,\mathrm{kg}$; <br>
-     $q_{e}=-1,60\times10^{-19}\,\mathrm{C}$; <br>
-     $1\,\mathrm{eV=1,602\times10^{-19}\,J}$; <br>
-     $1\,\mathrm{nm=10^{-9}\,\mathrm{m}}$.
+     $$c=3,00\times10\text{⁸}\,\mathrm{m/s}$$; <br>
+     $$h=6,62\times10^{-34}\,\mathrm{J\cdot s}$$; <br>
+     $$m_{e}=9,11\times10^{-31}\,\mathrm{kg}$$; <br>
+     $$q_{e}=-1,60\times10^{-19}\,\mathrm{C}$$; <br>
+     $$1\,\mathrm{eV=1,602\times10^{-19}\,J}$$; <br>
+     $$1\,\mathrm{nm=10^{-9}\,\mathrm{m}}$$.
 
 10. Una antena de telefonia mòbil instal·lada al terrat d’un edifici emet ones electromagnètiques de 900 MHz de freqüència amb una potència de 4 W. 
     1. Calculeu quants fotons emet l’antena en un minut. 
     2. Valoreu si els fotons que emet l’antena poden produir efecte fotoelèctric en un metall que és a prop, tenint en compte que l’energia d’extracció mínima dels electrons del metall és 4,1 eV. En cas afirmatiu, calculeu l’energia cinètica dels electrons extrets. Si l’antena emet amb una potència de 8 W, com variarà l’efecte fotoelèctric que es pugui produir en el metall? 
 
-    **Dades**: $h=6,62\times10^{-34}\,\mathrm{J\cdot s}$; $1\,\mathrm{eV=1,602\times10^{-19}\,J}$.
+    **Dades**: $$h=6,62\times10^{-34}\,\mathrm{J\cdot s}$$; $$1\,\mathrm{eV=1,602\times10^{-19}\,J}$$.
 
-11. Disposem d’un tub de buit com el de la figura. L’elèctrode A és fet de potassi, que té $W_{0}=2,29\,\mathrm{eV}$ com a valor de treball d’extracció. 
+11. Disposem d’un tub de buit com el de la figura. L’elèctrode A és fet de potassi, que té $$W_{0}=2,29\,\mathrm{eV}$$ com a valor de treball d’extracció. 
     1. Determineu la velocitat amb què surten els electrons arrancats de l’elèctrode A quan l’il·luminem amb llum de color violat de 400 nm de longitud d’ona.
     <img src="img_prob/efecte_fotoelectric.png">
-    2. A continuació canviem l’elèctrode A per un altre que és fet d’un material desconegut. Per tal de determinar de quin material es tracta, l’il·luminem un altre cop amb la mateixa llum d’abans, i determinem que el potencial de frenada dels electrons de l’elèctrode A és $V_{f}=0,17\,\mathrm{V}$. Determineu el treball d’extracció del material i indiqueu de quin element és fet a partir de la taula de valors següent:
+    2. A continuació canviem l’elèctrode A per un altre que és fet d’un material desconegut. Per tal de determinar de quin material es tracta, l’il·luminem un altre cop amb la mateixa llum d’abans, i determinem que el potencial de frenada dels electrons de l’elèctrode A és $$V_{f}=0,17\,\mathrm{V}$$. Determineu el treball d’extracció del material i indiqueu de quin element és fet a partir de la taula de valors següent:
 
 |Element|Ba|Li|Mg|As|Al|Bi|Cr|Ag|Be|
 |-------|--|--|--|--|--|--|--|--|--|
-|$W_{0}$ (eV)|2,70|2,93|3,66|3,75|4,08|4,34|4,50|4,73|4,98|
+|$$W_{0}$$ (eV)|2,70|2,93|3,66|3,75|4,08|4,34|4,50|4,73|4,98|
 
    **Dades**: <br>
-    Massa de l’electró, $m_{\mathrm{electr\acute{o}}}=9,11\times10^{-31}\,\mathrm{kg}$, <br>
-    Constant de Planck, $h=6,63\times10^{-34}\,\mathrm{Js}$, <br>
-    Velocitat de la llum, $c=3,00\times10^{8}\,\mathrm{ms^{-1}}$, <br>
-    $1\,\mathrm{eV=1,60\times10^{-19}\,\mathrm{J}}$
+    Massa de l’electró, $$m_{\mathrm{electr\acute{o}}}=9,11\times10^{-31}\,\mathrm{kg}$$, <br>
+    Constant de Planck, $$h=6,63\times10^{-34}\,\mathrm{Js}$$, <br>
+    Velocitat de la llum, $$c=3,00\times10^{8}\,\mathrm{ms^{-1}}$$, <br>
+    $$1\,\mathrm{eV=1,60\times10^{-19}\,\mathrm{J}}$$
 
 <ol start="12">
-<li> En una experiència de laboratori, es mesura l’energia cinètica màxima dels electrons que salten quan es fan incidir radiacions de freqüència diferent sobre una placa d’un material. Els resultats obtinguts es mostren en la taula següent, en què $E_{c}$ representa l’energia cinètica, i $\nu$, la freqüència:
+<li> En una experiència de laboratori, es mesura l’energia cinètica màxima dels electrons que salten quan es fan incidir radiacions de freqüència diferent sobre una placa d’un material. Els resultats obtinguts es mostren en la taula següent, en què $$E_{c}$$ representa l’energia cinètica, i $$\nu$$, la freqüència:
 </li>
 
 <table style="width:50%;">
 <tr>
-<td>$E_{c}\,\mathrm{(eV)}$</td><td>0</td><td>0</td><td>2,07</td><td>4,14</td>
+<td>$$E_{c}\,\mathrm{(eV)}$$</td><td>0</td><td>0</td><td>2,07</td><td>4,14</td>
 </tr>
 <tr>
-<td>$\nu\,\mathrm{(PHz)}$</td><td>0,500</td><td>1,00</td><td>1,50</td><td>2,00</td>
+<td>$$\nu\,\mathrm{(PHz)}$$</td><td>0,500</td><td>1,00</td><td>1,50</td><td>2,00</td>
 </tr>
 </table>
 <ol>
@@ -91,7 +91,7 @@
     <li>La funció de treball; és a dir, l’energia mínima d’extracció d’electrons.</li>
     Expresseu els resultats en unitats del sistema internacional (SI). 
     <br>
-    <strong>Dades</strong>: $1\,\mathrm{eV=1,60\times10^{-19}\,\mathrm{J}}$; $1\,\mathrm{PHz=10^{15}\,\mathrm{Hz}}$.
+    <strong>Dades</strong>: $$1\,\mathrm{eV=1,60\times10^{-19}\,\mathrm{J}}$$; $$1\,\mathrm{PHz=10^{15}\,\mathrm{Hz}}$$.
 </ol>
 </ol> 
 
@@ -108,32 +108,32 @@
 </li>
 <br>
     
-<li>Calculeu l’energia i la quantitat de moviment dels fotons de llum roja de longitud d’ona $\lambda=600\,\mathrm{nm}$.
+<li>Calculeu l’energia i la quantitat de moviment dels fotons de llum roja de longitud d’ona $$\lambda=600\,\mathrm{nm}$$.
 </li>
-    <strong>Dades</strong>: $h=6,62\times10^{-34}\,\mathrm{J\cdot s}$; $c=3\times10^{8}\,\mathrm{m\cdot s^{-1}}$. 
+    <strong>Dades</strong>: $$h=6,62\times10^{-34}\,\mathrm{J\cdot s}$$; $$c=3\times10^{8}\,\mathrm{m\cdot s^{-1}}$$. 
 <br> <a href="sol/prob814.pdf">Solució</a><br> <br>
 
 <li>Calculeu el valor de la longitud d’ona d’un fotó d’energia 3 keV.
 </li>
-    <strong>Dades</strong>: $h=6,62\times10^{-34}\,\mathrm{J\cdot s}$; $c=3\times10^{8}\,\mathrm{m\cdot s^{-1}}$; $1\,\mathrm{eV=1,602\times10^{-19}\,J}$.
+    <strong>Dades</strong>: $$h=6,62\times10^{-34}\,\mathrm{J\cdot s}$$; $$c=3\times10^{8}\,\mathrm{m\cdot s^{-1}}$$; $$1\,\mathrm{eV=1,602\times10^{-19}\,J}$$.
 <br><a href="sol/prob815.pdf">Solució</a><br><br> 
     
-<li>Se sap que la sensibilitat més gran de l’ull humà correspon a la llum de longitud d’ona $\lambda=5,5\times10^{-7}\,\mathrm{m}$. Determineu l’energia i la quantitat de moviment dels fotons d’aquesta longitud d’ona. 
+<li>Se sap que la sensibilitat més gran de l’ull humà correspon a la llum de longitud d’ona $$\lambda=5,5\times10^{-7}\,\mathrm{m}$$. Determineu l’energia i la quantitat de moviment dels fotons d’aquesta longitud d’ona. 
 </li>
-    <strong>Dades</strong>: $c=3\times10^{8}\,\mathrm{m/s}$; $h=6,62\times10^{-34}\,\mathrm{J\cdot s}$.
+    <strong>Dades</strong>: $$c=3\times10^{8}\,\mathrm{m/s}$$; $$h=6,62\times10^{-34}\,\mathrm{J\cdot s}$$.
 <br><a href="sol/prob816.pdf">Solució</a><br><br> 
     
-<li>Entre dos punts A i B s’estableix una diferència de potencial $V_{A}-V_{B}=120\,\mathrm{V}$. Un electró està situat al punt B, inicialment en repòs. Determineu: 
+<li>Entre dos punts A i B s’estableix una diferència de potencial $$V_{A}-V_{B}=120\,\mathrm{V}$$. Un electró està situat al punt B, inicialment en repòs. Determineu: 
     <ol>
         <li>La velocitat amb què arriba al punt A.</li>
         <li>La longitud d’ona de de Broglie de l’electró, corresponent a la velocitat anterior.</li>
     </ol>
     </li>
-    <strong>Dades</strong>: $h=6,62\times10^{-34}\,\mathrm{J\cdot s}$, $q_{e}=-1,60\times10^{-19}\,\mathrm{C}$, $m_{e}=9,11\times10^{-31}\,\mathrm{kg}$
+    <strong>Dades</strong>: $$h=6,62\times10^{-34}\,\mathrm{J\cdot s}$$, $$q_{e}=-1,60\times10^{-19}\,\mathrm{C}$$, $$m_{e}=9,11\times10^{-31}\,\mathrm{kg}$$
 <br><a href="sol/prob817.pdf">Solució</a><br><br> 
     
 <li>Calculeu l’energia i la longitud d’ona d’un fotó de 1.015 Hz de freqüència. </li>
-<strong>Dades</strong>: $c=3\times10^{8}\,\mathrm{m/s}$; $h=6,625\times10^{-34}\,\mathrm{J\cdot s}$.
+<strong>Dades</strong>: $$c=3\times10^{8}\,\mathrm{m/s}$$; $$h=6,625\times10^{-34}\,\mathrm{J\cdot s}$$.
     <br><a href="sol/prob818.pdf">Solució</a><br>
 </ol>
 
@@ -144,7 +144,7 @@
 <ol start="19">
 <li>Calcula la indeterminació en la quantitat de moviment i en la velocitat de l'electró de l'àtom d'hidrogen a la primera òrbita de Bohr. El radi és 0,529 Å i volem que la indeterminació en la posició sigui l'1% d'aquest radi. Expressa la indeterminació en la velocitat en funció de la velocitat de la llum.</li>
 <br>
-<li>Un electró es troba dintre d'una capsa de $2\,\mathrm{nm}$ d'arista. Determineu l'incertesa en:
+<li>Un electró es troba dintre d'una capsa de $$2\,\mathrm{nm}$$ d'arista. Determineu l'incertesa en:
     <ol>
         <li>la seva velocitat,</li>
         <li>la seva longitud d'ona.</li>
@@ -161,14 +161,14 @@
         <li>Quina quantitat es tindrà d'aquí a un mes? </li>
     </ol></li><br>
     
-<li>Sabem que el període de semidesintegració del $\mathrm{^{14}C}$ és de 5.730 anys i un gram de carboni actual té una activitat de 920 desintegracions per hora. Una mostra de fusta conté 10 g de carboni i té una velocitat de desintegració del carboni 14 de 100 comptes/min. Quina és l'edat de la mostra? 
+<li>Sabem que el període de semidesintegració del $$\mathrm{^{14}C}$$ és de 5.730 anys i un gram de carboni actual té una activitat de 920 desintegracions per hora. Una mostra de fusta conté 10 g de carboni i té una velocitat de desintegració del carboni 14 de 100 comptes/min. Quina és l'edat de la mostra? 
 </li><br>
     
-<li>Una excavació arqueològica en terres egípcies ha revelat un gran nombre de troballes d'una època desconeguda. Si la concentració de carboni-14 $(T_{1/2}=5730\,\mathrm{anys})$ en la fusta d'un taüt trobat és d'un 61% respecte de la concentració actual de la mateixa fusta actualment, de quin any podem pensar que és el taüt?
+<li>Una excavació arqueològica en terres egípcies ha revelat un gran nombre de troballes d'una època desconeguda. Si la concentració de carboni-14 $$(T_{1/2}=5730\,\mathrm{anys})$$ en la fusta d'un taüt trobat és d'un 61% respecte de la concentració actual de la mateixa fusta actualment, de quin any podem pensar que és el taüt?
     <a href="sol/radioactivitat_03.pdf">Solució</a>
     </li><br>
     
-<li>L’activitat d’1 Ci correspon a $3,7\times10^{10}$ becquerels o desintegracions per segon. Un gram de l’isòtop de radi $\mathrm{_{88}^{226}Ra}$ té una activitat d’1 Ci. Determineu el període de semidesintegració del radi en anys. 
+<li>L’activitat d’1 Ci correspon a $$3,7\times10^{10}$$ becquerels o desintegracions per segon. Un gram de l’isòtop de radi $$\mathrm{_{88}^{226}Ra}$$ té una activitat d’1 Ci. Determineu el període de semidesintegració del radi en anys. 
     <a href="sol/radioactivitat_04.pdf">Solució</a>
     </li><br>
     
@@ -179,7 +179,7 @@
 <li>Quin és el període de semidesintegració d'un nucli radiactiu l'activitat del qual disminueix en 1/8 al cap d'un dia?
     </li><br>
     
-<li>La central nuclear de Fukushima al Japó va patir l'any 2011 l'accident nuclear més greu de la història degut a un terratrèmol i un posterior tsunami devastadors. Quatre dels seus sis reactors es van fondre. Actualment la zona que rodeja la central té restringit l'accés degut als perillosos nivells de radioactivitat. Un dels isòtops radioactius que es troben a la zona és el Cesi-137 $(\mathrm{^{137}Cs})$, que decau en Bari-137 $(\mathrm{^{137}Ba})$, que és estable, amb un període de semidesintegració 30,17 anys. 
+<li>La central nuclear de Fukushima al Japó va patir l'any 2011 l'accident nuclear més greu de la història degut a un terratrèmol i un posterior tsunami devastadors. Quatre dels seus sis reactors es van fondre. Actualment la zona que rodeja la central té restringit l'accés degut als perillosos nivells de radioactivitat. Un dels isòtops radioactius que es troben a la zona és el Cesi-137 $$(\mathrm{^{137}Cs})$$, que decau en Bari-137 $$(\mathrm{^{137}Ba})$$, que és estable, amb un període de semidesintegració 30,17 anys. 
     <ol>
         <li>Quin tipus de decaïment té el Cesi-137? Escriu la equació desenvolupada del decaiment.</li>
     <li>Si en una mostra de terreny s'ha tobat una activitat de 5000 Bq i es considera que el nivel d'activitat segur per als humans ha d'estar per sota els 200 Bq. Quants anys han de passar fins que s'arribi als nivells de seguretat?</li>
@@ -187,10 +187,10 @@
     <a href="sol/radioactivitat_07.pdf">Solució</a>
         </li><br>
     
-<li>El iode pot ser un radiofàrmac. L’isòtop $\mathrm{\_{53}^{131}I}$ és una font de raigs gamma. S’injecta al pacient per poder obtenir imatges gammagràfiques. Aquest radioisòtop té un període de semidesintegració de 13,2 h.
+<li>El iode pot ser un radiofàrmac. L’isòtop $$\mathrm{\_{53}^{131}I}$$ és una font de raigs gamma. S’injecta al pacient per poder obtenir imatges gammagràfiques. Aquest radioisòtop té un període de semidesintegració de 13,2 h.
     <ol>
-    <li>Quina fracció de $\mathrm{\_{53}^{131}I}$ resta al cos 24,0 hores després d’injectar el fàrmac? </li>
-    <li>En un altre procés, el $\mathrm{\_{53}^{131}I}$ també pot produir $\mathrm{\_{54}^{131}Xe}$. Escriviu l’esquema del procés nuclear. Quina partícula s’emet?</li>
+    <li>Quina fracció de $$\mathrm{\_{53}^{131}I}$$ resta al cos 24,0 hores després d’injectar el fàrmac? </li>
+    <li>En un altre procés, el $$\mathrm{\_{53}^{131}I}$$ també pot produir $$\mathrm{\_{54}^{131}Xe}$$. Escriviu l’esquema del procés nuclear. Quina partícula s’emet?</li>
     </ol>
     </li>
     <div align="middle">
@@ -199,21 +199,21 @@
     <a href="sol/radioactivitat_08.pdf">Solució</a>
     <br>
 
-<li>La radioactivitat és un mitjà fiable per a calcular l’edat de les roques i minerals que contenen isòtops radioactius concrets. Aquest sistema de datació radiomètrica ens permet mesurar el temps geològic. Un d’aquests mètodes es basa en la desintegració de l’isòtop $\mathrm{\_{19}^{40}K}$ (potassi) en $\mathrm{\_{18}^{40}Ar}$ (argó). El rellotge potassi-argó comença a funcionar quan els minerals que contenen potassi cristal·litzen a partir d’un magma o dins una roca. En aquest moment, els nous minerals contenen $\mathrm{\_{19}^{40}K}$ i no contenen $\mathrm{\_{18}^{40}Ar}$. A mesura que passa el temps, el $\mathrm{\_{19}^{40}K}$ es desintegra i tots els àtoms de $\mathrm{\_{18}^{40}Ar}$ que trobem en el mineral en un temps posterior a la formació provenen de la descomposició del $\mathrm{\_{19}^{40}K}$. 
+<li>La radioactivitat és un mitjà fiable per a calcular l’edat de les roques i minerals que contenen isòtops radioactius concrets. Aquest sistema de datació radiomètrica ens permet mesurar el temps geològic. Un d’aquests mètodes es basa en la desintegració de l’isòtop $$\mathrm{\_{19}^{40}K}$$ (potassi) en $$\mathrm{\_{18}^{40}Ar}$$ (argó). El rellotge potassi-argó comença a funcionar quan els minerals que contenen potassi cristal·litzen a partir d’un magma o dins una roca. En aquest moment, els nous minerals contenen $$\mathrm{\_{19}^{40}K}$$ i no contenen $$\mathrm{\_{18}^{40}Ar}$$. A mesura que passa el temps, el $$\mathrm{\_{19}^{40}K}$$ es desintegra i tots els àtoms de $$\mathrm{\_{18}^{40}Ar}$$ que trobem en el mineral en un temps posterior a la formació provenen de la descomposició del $$\mathrm{\_{19}^{40}K}$$. 
         <ol>
-    <li>Escriviu la reacció nuclear de l’emissió de partícules $\beta$ de l’isòtop $\mathrm{\_{19}^{40}K}$.</li>
-    <li>En una roca s’han trobat 10,0 g de $\mathrm{\_{19}^{40}K}$ i 10,0 g de $\mathrm{\_{18}^{40}Ar}$. Quina quantitat de $\mathrm{\_{19}^{40}K}$ hi haurà quan hauran transcorregut $5,00\times10^{9}\,\mathrm{anys}$? Fent servir la datació radiomètrica basada en el potassi-argó, digueu quina edat té la roca. Considereu que el $\mathrm{\_{19}^{40}K}$ es desintegra només en $\mathrm{\_{18}^{40}Ar}$. </li>
+    <li>Escriviu la reacció nuclear de l’emissió de partícules $$\beta$$ de l’isòtop $$\mathrm{\_{19}^{40}K}$$.</li>
+    <li>En una roca s’han trobat 10,0 g de $$\mathrm{\_{19}^{40}K}$$ i 10,0 g de $$\mathrm{\_{18}^{40}Ar}$$. Quina quantitat de $$\mathrm{\_{19}^{40}K}$$ hi haurà quan hauran transcorregut $$5,00\times10^{9}\,\mathrm{anys}$$? Fent servir la datació radiomètrica basada en el potassi-argó, digueu quina edat té la roca. Considereu que el $$\mathrm{\_{19}^{40}K}$$ es desintegra només en $$\mathrm{\_{18}^{40}Ar}$$. </li>
         </ol>
-    <strong>Dada</strong>: Període de semidesintegració del $\mathrm{\_{19}^{40}K}$, $t_{1/2}=1,25\times10^{9}\,\mathrm{anys}$.
+    <strong>Dada</strong>: Període de semidesintegració del $$\mathrm{\_{19}^{40}K}$$, $$t_{1/2}=1,25\times10^{9}\,\mathrm{anys}$$.
     <a href="sol/radioactivitat_09.pdf">Solució</a>
     </li><br>
     
 <li>Una gammagrafia òssia és una prova diagnòstica que consisteix a injectar per via intravenosa una substància que conté un cert isòtop radioactiu que es diposita en els ossos i que emet raigs gamma. La radiació emesa es detecta amb una gamma-càmera que escaneja el cos i pren imatges de la quantitat de l’isòtop acumulada en els ossos. En aquest tipus de gammagrafies s’utilitza el tecneci 99 com a radioisòtop. 
     <ol>
         <li>Quant s’haurà reduït el nombre de nuclis de l’isòtop injectat al cap d’un dia? </li>
-    <li>El $\mathrm{_{43}^{99}Tc}$ prové de la desintegració beta d’un altre element. Indiqueu el nombre de protons i neutrons del nucli del qual prové. </li>
+    <li>El $$\mathrm{_{43}^{99}Tc}$$ prové de la desintegració beta d’un altre element. Indiqueu el nombre de protons i neutrons del nucli del qual prové. </li>
     </ol>
-    <strong>Dades</strong>: $t_{1/2}(\mathrm{^{99}Tc})=6,00\,\mathrm{h}$.
+    <strong>Dades</strong>: $$t_{1/2}(\mathrm{^{99}Tc})=6,00\,\mathrm{h}$$.
     <a href="sol/radioactivitat_10.pdf">Solució</a>
 </li><br>
     
@@ -246,12 +246,12 @@ $$\mathrm{_{84}^{210}Po\longrightarrow_{y}^{x}Pb+_{2}^{4}He}$$
     </ol>
     </li>
     <strong>Dades</strong>: <br>
-    $m(\mathrm{\_{84}^{210}Po})=209,983\,\mathrm{u}$; <br>
-    $m(\mathrm{\_{y}^{x}Pb})=205,974\,\mathrm{u}$; <br>
-    $m(\mathrm{\_{2}^{4}He})=4,003\,\mathrm{u}$; <br>
-    $1\,\mathrm{u=1,66\times10^{-27}\,\mathrm{kg}}$; <br> 
-    $1\,\mathrm{eV=1,6\times10^{-19}\,J}$; <br>
-    $c\mathrm{=3\times10^{8}\,m/s}$. <br>
+    $$m(\mathrm{\_{84}^{210}Po})=209,983\,\mathrm{u}$$; <br>
+    $$m(\mathrm{\_{y}^{x}Pb})=205,974\,\mathrm{u}$$; <br>
+    $$m(\mathrm{\_{2}^{4}He})=4,003\,\mathrm{u}$$; <br>
+    $$1\,\mathrm{u=1,66\times10^{-27}\,\mathrm{kg}}$$; <br> 
+    $$1\,\mathrm{eV=1,6\times10^{-19}\,J}$$; <br>
+    $$c\mathrm{=3\times10^{8}\,m/s}$$. <br>
     <a href="sol/radioactivitat_12.pdf">Solució</a>
     <br>
     
@@ -268,31 +268,31 @@ $$\mathrm{_{84}^{210}Po\longrightarrow_{y}^{x}Pb+_{2}^{4}He}$$
     <a href="sol/radioactivitat_13.pdf">Solució</a>
 </li><br>
     
-<li>El iode 131 és un isòtop radioactiu que emet $\beta^{-}$ i $\gamma$, té un període de semidesintegració de vuit dies i es fa servir per a tractar el càncer i altres malalties de la glàndula tiroide. La reacció de descomposició és la següent: 
+<li>El iode 131 és un isòtop radioactiu que emet $$\beta^{-}$$ i $$\gamma$$, té un període de semidesintegració de vuit dies i es fa servir per a tractar el càncer i altres malalties de la glàndula tiroide. La reacció de descomposició és la següent: 
     $$\mathrm{_{53}^{131}I\longrightarrow_{y}^{x}Xe+\beta^{-}+_{0}^{0}\gamma}$$
      <ol>
-    <li>Determineu el valor dels nombres màssic i atòmic del xenó (x i y en la reacció, respectivament). Si les partícules $\beta^{-}$ s’emeten a una velocitat de $2\times10^{5}\,\mathrm{km/s}$, calculeu-ne la longitud d’ona associada.</li> 
+    <li>Determineu el valor dels nombres màssic i atòmic del xenó (x i y en la reacció, respectivament). Si les partícules $$\beta^{-}$$ s’emeten a una velocitat de $$2\times10^{5}\,\mathrm{km/s}$$, calculeu-ne la longitud d’ona associada.</li> 
     <li>Un pacient rep un tractament amb iode 131. Quants dies han de transcórrer perquè la quantitat de iode 131 al cos del pacient es redueixi fins al 12,5 % del valor inicial? </li>
-   <strong>Dades</strong>: $m_{\beta}=9,11\times10^{-31}\,\mathrm{kg}$; $h=6,62\times10^{-34}\,\mathrm{Js}$.
+   <strong>Dades</strong>: $$m_{\beta}=9,11\times10^{-31}\,\mathrm{kg}$$; $$h=6,62\times10^{-34}\,\mathrm{Js}$$.
     <a href="sol/radioactivitat_14.pdf">Solució</a>
     </ol>
     </li>
     <br>
     
-<li>L’any 2011 ha estat declarat Any Internacional de la Química, per commemorar, entre altres fets, que fa cent anys Marie Curie va ser guardonada amb el Premi Nobel de Química pel descobriment del radi, entre altres mèrits. El període de semidesintegració del radi és $1,59\times10^{3}\,\mathrm{anys}$. Si el 1911 es va guardar una mostra d’1,00 g de radi, calculeu: 
+<li>L’any 2011 ha estat declarat Any Internacional de la Química, per commemorar, entre altres fets, que fa cent anys Marie Curie va ser guardonada amb el Premi Nobel de Química pel descobriment del radi, entre altres mèrits. El període de semidesintegració del radi és $$1,59\times10^{3}\,\mathrm{anys}$$. Si el 1911 es va guardar una mostra d’1,00 g de radi, calculeu: 
     <ol>
     <li>La quantitat de radi de la mostra que queda actualment. </li>
     <li>L’activitat radioactiva inicial de la mostra d’1,00 g de radi, i l’activitat radioactiva del radi que queda de la mostra avui. </li>
     </ol>
-    <strong>Dades</strong>: $N_{A}=6,02\times10^{23}\,\mathrm{mol^{-1}}$; $m_{a}(\mathrm{Ra})=226\,\mathrm{u}$.
+    <strong>Dades</strong>: $$N_{A}=6,02\times10^{23}\,\mathrm{mol^{-1}}$$; $$m_{a}(\mathrm{Ra})=226\,\mathrm{u}$$.
     <a href="sol/radioactivitat_15.pdf">Solució</a>
     </li><br>
     
-<li>La tècnica de diagnòstic a partir de la imatge que s’obté mitjançant tomografia per emissió de positrons (PET, Positron Emission Tomography) es fonamenta en l’anihilació entre la matèria i l’antimatèria. Els positrons, emesos pels nuclis de fluor, $^{18}\mathrm{F}$, injectats al pacient com a radiofàrmac, s’anihilen en entrar en contacte amb els electrons dels teixits del cos i de cadascuna d’aquestes anihilacions es creen fotons, a partir dels quals s’obté la imatge. La desintegració d’un nucli de fluor, $^{18}\mathrm{F}$, es pot escriure mitjançant la reacció nuclear següent:
+<li>La tècnica de diagnòstic a partir de la imatge que s’obté mitjançant tomografia per emissió de positrons (PET, Positron Emission Tomography) es fonamenta en l’anihilació entre la matèria i l’antimatèria. Els positrons, emesos pels nuclis de fluor, $$^{18}\mathrm{F}$$, injectats al pacient com a radiofàrmac, s’anihilen en entrar en contacte amb els electrons dels teixits del cos i de cadascuna d’aquestes anihilacions es creen fotons, a partir dels quals s’obté la imatge. La desintegració d’un nucli de fluor, $$^{18}\mathrm{F}$$, es pot escriure mitjançant la reacció nuclear següent:
 $${_9}^{18}\textrm{F}\longrightarrow\mathrm{_{8}^{x}O+\mathrm{_{z}^{y}e^{+}+_{0}^{0}\nu}}$$
     <ol>
-    <li>Digueu quants neutrons i quants protons té aquest isòtop artificial de fluor, $^{18}\mathrm{F}$. Completeu la reacció nuclear, és a dir, determineu $x$, $y$ i $z$. </li>
-    <li>El període de semidesintegració del $^{18}\mathrm{F}$ és 109,77 s. Calculeu el temps que ha de passar perquè quedi una vuitena part de la quantitat inicial de $^{18}\mathrm{F}$. Quin percentatge de partícules quedaran al cap d’una hora? Tenint en compte aquest resultat, digueu si podríem emmagatzemar gaire temps aquest radiofàrmac i justifiqueu-ho.</li>
+    <li>Digueu quants neutrons i quants protons té aquest isòtop artificial de fluor, $$^{18}\mathrm{F}$$. Completeu la reacció nuclear, és a dir, determineu $$x$$, $$y$$ i $$z$$. </li>
+    <li>El període de semidesintegració del $$^{18}\mathrm{F}$$ és 109,77 s. Calculeu el temps que ha de passar perquè quedi una vuitena part de la quantitat inicial de $$^{18}\mathrm{F}$$. Quin percentatge de partícules quedaran al cap d’una hora? Tenint en compte aquest resultat, digueu si podríem emmagatzemar gaire temps aquest radiofàrmac i justifiqueu-ho.</li>
     </ol>
     <a href="sol/radioactivitat_16.pdf">Solució</a>
     </li>
@@ -315,7 +315,7 @@ $${_9}^{18}\textrm{F}\longrightarrow\mathrm{_{8}^{x}O+\mathrm{_{z}^{y}e^{+}+_{0}
      <ol>
     <li>Determineu els valors dels coeficients a, b, c i d. Quin nom té la partícula que el Pu-240 ha capturat en la primera reacció? Com s’anomena la desintegració descrita en la Glenn Theodore Seaborg segona reacció? </li>
     <li>Calculeu el percentatge de nuclis de Am-241 que s’han desintegrat des del 1944 fins ara. </li>
-    <strong>Dada</strong>: Període de semidesintegració de l’americi 241, $t_{1/2}=432\,\mathrm{anys}$.
+    <strong>Dada</strong>: Període de semidesintegració de l’americi 241, $$t_{1/2}=432\,\mathrm{anys}$$.
     <img src="img_prob/seaborg.png">
     </ol>
     </li><br>
@@ -328,43 +328,43 @@ $${_9}^{18}\textrm{F}\longrightarrow\mathrm{_{8}^{x}O+\mathrm{_{z}^{y}e^{+}+_{0}
     <li>Calculeu l’energia produïda en la fissió d’un nucli d’urani 235, d’acord amb la reacció anterior. </li>
     </ol>
     <br><strong>Dades</strong>: <br>
-    $m_{\mathrm{neutr\acute{o}}}=1,00866\,\mathrm{\mathrm{u}}$; <br>
-    $m\mathrm{(^{235}U)}=235,124\,\mathrm{u}$; <br>
-    $m(\mathrm{^{95}Sr})=94,9194\,\mathrm{u}$; <br>
-    $m(\mathrm{^{139}Xe})=138,919\,\mathrm{u}$; <br>
-    $c=2,99792\times10^{8}\,\mathrm{ms^{-1}}$; <br>
-    $1\,\mathrm{u=1,66054\times10^{-27}\,\mathrm{kg}}$.
+    $$m_{\mathrm{neutr\acute{o}}}=1,00866\,\mathrm{\mathrm{u}}$$; <br>
+    $$m\mathrm{(^{235}U)}=235,124\,\mathrm{u}$$; <br>
+    $$m(\mathrm{^{95}Sr})=94,9194\,\mathrm{u}$$; <br>
+    $$m(\mathrm{^{139}Xe})=138,919\,\mathrm{u}$$; <br>
+    $$c=2,99792\times10^{8}\,\mathrm{ms^{-1}}$$; <br>
+    $$1\,\mathrm{u=1,66054\times10^{-27}\,\mathrm{kg}}$$.
     </li><br>
 <li>Completa les reaccions nuclears següents: 
     <br>
         <ol>
-            <li>$^{9}\mathrm{Be+{}^{4}He}\longrightarrow\mathrm{^{12}C+\ldots+\gamma}$</li>
-            <li>$^{128}\mathrm{I}\longrightarrow\mathrm{^{128}Xe+\ldots+\gamma}$</li>
-            <li>$^{129}\mathrm{Ba}\longrightarrow\mathrm{^{129}Cs+\ldots+\gamma}$</li>
-            <li>$^{35}\mathrm{Cl+{}^{1}n}\longrightarrow\mathrm{^{36}S+\ldots+\gamma}$</li>
-            <li>$^{208}\mathrm{Po}\longrightarrow\mathrm{^{204}Pb+\ldots+\gamma}$</li>
-            <li>$\ldots+{}^{222}\mathrm{Rn}\longrightarrow\mathrm{^{226}Ra+\gamma}$</li>
+            <li>$$^{9}\mathrm{Be+{}^{4}He}\longrightarrow\mathrm{^{12}C+\ldots+\gamma}$$</li>
+            <li>$$^{128}\mathrm{I}\longrightarrow\mathrm{^{128}Xe+\ldots+\gamma}$$</li>
+            <li>$$^{129}\mathrm{Ba}\longrightarrow\mathrm{^{129}Cs+\ldots+\gamma}$$</li>
+            <li>$$^{35}\mathrm{Cl+{}^{1}n}\longrightarrow\mathrm{^{36}S+\ldots+\gamma}$$</li>
+            <li>$$^{208}\mathrm{Po}\longrightarrow\mathrm{^{204}Pb+\ldots+\gamma}$$</li>
+            <li>$$\ldots+{}^{222}\mathrm{Rn}\longrightarrow\mathrm{^{226}Ra+\gamma}$$</li>
         </ol>
     </li><br>
 <li>Completa les reaccions de fissió nuclear següents:
     <ol>
-        <li>$\mathrm{^{235}U+_{0}^{1}n\longrightarrow^{101}Mo+^{132}Sn+\ldots}$</li>
-        <li>$\mathrm{^{239}Pu+\_{0}^{1}n\longrightarrow^{100}Tc+\ldots+4\_{0}^{1}n}$</li>
-        <li>$\mathrm{^{235}U+\_{0}^{1}n\longrightarrow^{94}Sr+\ldots+2{}\_{0}^{1}n}$</li>
-        <li>$\mathrm{^{239}Pu+\_{0}^{1}n\longrightarrow\ldots+^{133}In+3\_{0}^{1}n}$</li>
+        <li>$$\mathrm{^{235}U+_{0}^{1}n\longrightarrow^{101}Mo+^{132}Sn+\ldots}$$</li>
+        <li>$$\mathrm{^{239}Pu+\_{0}^{1}n\longrightarrow^{100}Tc+\ldots+4\_{0}^{1}n}$$</li>
+        <li>$$\mathrm{^{235}U+\_{0}^{1}n\longrightarrow^{94}Sr+\ldots+2{}\_{0}^{1}n}$$</li>
+        <li>$$\mathrm{^{239}Pu+\_{0}^{1}n\longrightarrow\ldots+^{133}In+3\_{0}^{1}n}$$</li>
     </ol>
     </li>
 </ol>
 
 ### Dades útils
 
-* Constant elèctrica: $ k = 9\times10^{9}\,\mathrm{Nm^{2}/C^{2}}$
-* Massa de l'electró: $ m_{e} = 9,109\times10^{-31}\,\mathrm{kg}$
-* Constant de Plank: $h = 6,63\times10^{-34}\,\mathrm{J\text{·}s}$
-* Constant de gravitació: $G = 6,76\times10^{-11}\,\mathrm{Nm^{2}C^{-2}}$
-* Número d'Avogadro: $N_{Av} =	6,02\times10^{23}\,\mathrm{nuclis/mol}$
-* Càrrega de l'electró:	$e =-1,6\times10^{-19}\,\mathrm{C}$
-* Velocitat de la llum al buit: $c = 3\times10^{8}\,\mathrm{m\cdot s^{-1}}$
+* Constant elèctrica: $$ k = 9\times10^{9}\,\mathrm{Nm^{2}/C^{2}}$$
+* Massa de l'electró: $$ m_{e} = 9,109\times10^{-31}\,\mathrm{kg}$$
+* Constant de Plank: $$h = 6,63\times10^{-34}\,\mathrm{J\text{·}s}$$
+* Constant de gravitació: $$G = 6,76\times10^{-11}\,\mathrm{Nm^{2}C^{-2}}$$
+* Número d'Avogadro: $$N_{Av} =	6,02\times10^{23}\,\mathrm{nuclis/mol}$$
+* Càrrega de l'electró:	$$e =-1,6\times10^{-19}\,\mathrm{C}$$
+* Velocitat de la llum al buit: $$c = 3\times10^{8}\,\mathrm{m\cdot s^{-1}}$$
 <br><br><br>
 <img src="img_prob/Periodic_table_blanco.png">
 

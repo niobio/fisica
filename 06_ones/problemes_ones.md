@@ -7,16 +7,16 @@
 
 ## Moviment Vibratori Harmònic Simple
 
-1. Sigui un m.v.h.s. amb equació $x=2\sin\left(4\pi t+\frac{\pi}{4}\right)$ en què $x$ s'expressa en cm i $t$ en s. Digues quina de les següents respostes és la correcta: 
+1. Sigui un m.v.h.s. amb equació $$x=2\sin\left(4\pi t+\frac{\pi}{4}\right)$$ en què $$x$$ s'expressa en cm i $$t$$ en s. Digues quina de les següents respostes és la correcta: 
 
-    1. La freqüència és $4\pi\,\mathrm{Hz}$, l'amplitud és 2 cm i la fase inicial és $\pi/4$.
-    2. La freqüència angular és 4 rad/s, l'amplitud és 2 cm i la fase inicial és $\pi/4$.
-    3. La freqüència és 2 Hz, l'amplitud és 2 cm i la fase inicial és $\pi/4$.
-    4. La freqüència angular és $4\pi$, l'amplitud és 2 m i la fase inicial és $\pi/4$.
-    5. La freqüència és 2 Hz, l'amplitud és 2 cm i la fase inicial $4\pi$.
+    1. La freqüència és $$4\pi\,\mathrm{Hz}$$, l'amplitud és 2 cm i la fase inicial és $$\pi/4$$.
+    2. La freqüència angular és 4 rad/s, l'amplitud és 2 cm i la fase inicial és $$\pi/4$$.
+    3. La freqüència és 2 Hz, l'amplitud és 2 cm i la fase inicial és $$\pi/4$$.
+    4. La freqüència angular és $$4\pi$$, l'amplitud és 2 m i la fase inicial és $$\pi/4$$.
+    5. La freqüència és 2 Hz, l'amplitud és 2 cm i la fase inicial $$4\pi$$.
     <br><a href="sol/prob601.pdf">Solució</a><br><br>
 
-2. En el m.v.h.s. d'equació $x=12\sin(2\pi t)$ amb unitats del sistema SI, calcula el valor de l'acceleració quan l'elongació val 8 m.
+2. En el m.v.h.s. d'equació $$x=12\sin(2\pi t)$$ amb unitats del sistema SI, calcula el valor de l'acceleració quan l'elongació val 8 m.
 <br><a href="sol/prob602.pdf">Solució</a><br><br>
 
 3. Un mòbil presenta un moviment vibratori harmònic simple amb un període de 0,5 s i una amplitud de 2 mm. 
@@ -38,45 +38,45 @@ $$v=\frac{4\pi}{3}\cos\left(\frac{\pi}{3}t+\frac{\pi}{2}\right)\,\mathrm{m/s}$$
     <img src="img_prob/mvhs.png" width="400px">
     <br><a href="sol/prob605.pdf">Solució</a><br><br>
 
-6. Dues masses $m_{1}$ i $m_{2}$ tal que $m_{1}=2m_{2}$, es pengen dels extrems de dues molles iguals i es deixen oscil·lar, quina serà la relació entre els períodes $T_{1}$ i $T_{2}$ dels respectius moviments? Justifica la teva resposta. 
-    1. $T_{1}=T_{2}$
-    2. $T_{1}=2T_{2}$
-    3. $T_{1}=0,5T_{2}$
-    4. $T_{1}=1,4T_{2}$
+6. Dues masses $$m_{1}$$ i $$m_{2}$$ tal que $$m_{1}=2m_{2}$$, es pengen dels extrems de dues molles iguals i es deixen oscil·lar, quina serà la relació entre els períodes $$T_{1}$$ i $$T_{2}$$ dels respectius moviments? Justifica la teva resposta. 
+    1. $$T_{1}=T_{2}$$
+    2. $$T_{1}=2T_{2}$$
+    3. $$T_{1}=0,5T_{2}$$
+    4. $$T_{1}=1,4T_{2}$$
     <br><a href="sol/prob606.pdf">Solució</a><br><br>
 7. Tenim dos pèndols de la mateixa massa, però la longitud d'un és el doble de la de l'altre. Aleshores, digues quines d'aquestes afirmacions és correcta (justifica la teva resposta): 
     1. Els períodes són iguals. 
     2. El període d'un és el doble de l'altre. 
-    3. El període d'un és $\sqrt{2}$ vegades el de l'altre. 
-    4. El període d'un és $2\pi$ vegades el de l'altre. 
+    3. El període d'un és $$\sqrt{2}$$ vegades el de l'altre. 
+    4. El període d'un és $$2\pi$$ vegades el de l'altre. 
     5. No es pot dir res de la relació entre períodes si no se sap el valor de la massa dels pèndols.
     <br><a href="sol/prob607.pdf">Solució</a><br><br>
 
-8. Un pèndol està composat per una massa de 10 kg i un fil d’1 m de longitud. ($\lvert g \rvert=9,8\,\mathrm{m/s^{2}}$): 
+8. Un pèndol està composat per una massa de 10 kg i un fil d’1 m de longitud. ($$\lvert g \rvert=9,8\,\mathrm{m/s^{2}}$$): 
     1. Troba el seu període d’oscil·lació per a petites oscil·lacions. 
     2. Quina constant elàstica hauria de tenir una molla amb la mateixa massa penjada per tenir el mateix període d’oscil·lació? 
     3. Si es dugués el mateix pèndol a un planeta on l’acceleració de la gravetat fos la meitat de la de la Terra, com canviaria el període d’oscil·lació? Si es dugués la mateixa molla del apartat (B) al mateix planeta: canviaria el seu període en la mateixa proporció? Justifica-ho.
     <br><a href="sol/prob608.pdf">Solució</a><br><br>
  
-9. Una partícula descriu un moviment vibratori harmònic d’amplitud A i pulsació $\omega$. Si dupliquem alhora l’amplitud i el període del moviment, canviarà l’energia cinètica de la partícula quan passi pel punt central de l’oscil·lació? Justifiqueu la resposta. 
+9. Una partícula descriu un moviment vibratori harmònic d’amplitud A i pulsació $$\omega$$. Si dupliquem alhora l’amplitud i el període del moviment, canviarà l’energia cinètica de la partícula quan passi pel punt central de l’oscil·lació? Justifiqueu la resposta. 
     <br><a href="sol/prob609.pdf">Solució</a><br><br>
 
-10. La posició d’una partícula puntual de massa 500 g que descriu un moviment vibratori harmònic ve donada, en unitats del SI, per $x=0,30\sin(20\pi t)$. Calculeu: 
+10. La posició d’una partícula puntual de massa 500 g que descriu un moviment vibratori harmònic ve donada, en unitats del SI, per $$x=0,30\sin(20\pi t)$$. Calculeu: 
     1. L’energia cinètica màxima de la partícula. 
     2. La força màxima que actua sobre ella. 
     <br><a href="sol/prob610.pdf">Solució</a><br><br>
 
-11. Sobre una taula horitzontal hi ha una massa de 380 g lligada a l’extrem d’una molla de constant recuperadora $k=15\,\mathrm{N/m}$. L’altre extrem de la molla és fix, i el fregament del conjunt és negligible. Desplacem la massa 10 cm des de la posició d’equilibri, tal com es veu a les figures següents, i la deixem anar. 
+11. Sobre una taula horitzontal hi ha una massa de 380 g lligada a l’extrem d’una molla de constant recuperadora $$k=15\,\mathrm{N/m}$$. L’altre extrem de la molla és fix, i el fregament del conjunt és negligible. Desplacem la massa 10 cm des de la posició d’equilibri, tal com es veu a les figures següents, i la deixem anar. 
     <img src="img_prob/08_molla.png" width="200px">
     Trobeu: 
     1. El període del moviment. 
-    2. L’equació del moviment, tenint en compte que quan $t=0\,\mathrm{s}$, la molla està a l’elongació màxima positiva, com es veu a la segona figura. 
+    2. L’equació del moviment, tenint en compte que quan $$t=0\,\mathrm{s}$$, la molla està a l’elongació màxima positiva, com es veu a la segona figura. 
     3. L’energia cinètica de la massa quan passa per un punt situat 2 cm a la dreta de la posició d’equilibri. 
     <br><a href="sol/prob611.pdf">Solució</a><br><br>
     
 12. Un objecte de massa 3 kg penja d’una molla. Des de la seva posició d’equilibri l’estirem cap avall una distància de 25 cm i, des d’aquest punt i trobant-se inicialment en repòs, el deixem oscil·lar lliurement. El període d’oscil·lació és 
 d’1 s. Determineu: 
-    1. Les constants A, $\omega$, $\phi$, en unitats de l’SI, de l’equació $y=A\cos(\omega t+\phi)$ que descriu el moviment de l’objecte. 
+    1. Les constants A, $$\omega$$, $$\phi$$, en unitats de l’SI, de l’equació $$y=A\cos(\omega t+\phi)$$ que descriu el moviment de l’objecte. 
     2. El valor màxim de l’acceleració de l’objecte, la seva direcció i sentit, i els punts de la trajectòria en què s’assoleix. 
     3. La constant recuperadora de la molla. 
     <br><a href="sol/prob612.pdf">Solució</a><br><br>
@@ -87,7 +87,7 @@ d’1 s. Determineu:
     3. La tensió màxima de la cadena.
     <br><a href="sol/prob613.pdf">Solució</a><br><br>
     
-14. Un oscil·lador harmònic està format per una molla ideal de massa negligible i una partícula puntual unida a l’extrem de la molla, de massa $m=40\,\mathrm{g}$. El període d’oscil·lació és de 2 s.
+14. Un oscil·lador harmònic està format per una molla ideal de massa negligible i una partícula puntual unida a l’extrem de la molla, de massa $$m=40\,\mathrm{g}$$. El període d’oscil·lació és de 2 s.
     1. Si l’amplitud de les oscil·lacions és de 10 cm, quina velocitat màxima adquireix la massa m?
     2. Representeu en un gràfic l’acceleració de l’oscil·lador en funció del temps, i indiqueu en els eixos les escales corresponents.
     3. Quant hauria de valer la massa m perquè la freqüència de l’oscil·lador es multipliqués per dos? 
@@ -101,16 +101,16 @@ d’1 s. Determineu:
     2. El valor de la velocitat del cos quan té una elongació de 20 cm. 
     <br><a href="sol/prob615.pdf">Solució</a><br><br>
     
-16. L’èmbol d’una màquina de vapor té un recorregut $D=100\,\mathrm{cm}$ i comunica a l’eix una velocitat angular de 60 rpm. Si considerem que el moviment de l’èmbol descriu un moviment harmònic simple, deduïu el valor de la velocitat que té quan és a una distància de 20 cm d’un dels extrems del recorregut. 
+16. L’èmbol d’una màquina de vapor té un recorregut $$D=100\,\mathrm{cm}$$ i comunica a l’eix una velocitat angular de 60 rpm. Si considerem que el moviment de l’èmbol descriu un moviment harmònic simple, deduïu el valor de la velocitat que té quan és a una distància de 20 cm d’un dels extrems del recorregut. 
 <img src="img_prob/embolo.png" width="200px">
 <br><a href="sol/prob616.pdf">Solució</a><br><br>
 
-17. Una massa $m=0,3\,\mathrm{kg}$, situada en un pla horitzontal sense fricció i unida a una molla horitzontal, descriu un moviment vibratori harmònic. L’energia cinètica màxima de la massa és 15 J. 
+17. Una massa $$m=0,3\,\mathrm{kg}$$, situada en un pla horitzontal sense fricció i unida a una molla horitzontal, descriu un moviment vibratori harmònic. L’energia cinètica màxima de la massa és 15 J. 
     1. Si sabem que entre els dos punts del recorregut en què el cos té una velocitat nul·la hi ha una distància de 50 cm, calculeu l’amplitud, la freqüència i el període del moviment i la constant elàstica de la molla. 
-    2. Calculeu la posició, la velocitat i l’acceleració del cos en l’instant $t=3\,\mathrm{s}$, considerant que quan $t=0$ el cos té l’energia cinètica màxima. 
+    2. Calculeu la posició, la velocitat i l’acceleració del cos en l’instant $$t=3\,\mathrm{s}$$, considerant que quan $$t=0$$ el cos té l’energia cinètica màxima. 
 <br><a href="sol/prob617.pdf">Solució</a><br><br>
 
-18. Una molla de constant $k=125\,\mathrm{N/m}$ té un extrem fix i, en l’altre, hi ha lligada una massa de 200 g que pot lliscar sobre una superfície horitzontal sense fregament. Desplacem inicialment la massa 12 cm de la posició d’equilibri, tot allargant la molla, i la deixem anar. Determineu: 
+18. Una molla de constant $$k=125\,\mathrm{N/m}$$ té un extrem fix i, en l’altre, hi ha lligada una massa de 200 g que pot lliscar sobre una superfície horitzontal sense fregament. Desplacem inicialment la massa 12 cm de la posició d’equilibri, tot allargant la molla, i la deixem anar. Determineu: 
     1. El valors màxims de les energies cinètica i potencial assolides durant el moviment i la velocitat màxima de la massa. 
     2. El període i la freqüència del moviment harmònic resultant. Escriviu també l’equació d’aquest moviment prenent t=0 com l’instant en què s’ha deixat anar la massa. 
 <br><a href="sol/prob618.pdf">Solució</a><br><br>
@@ -133,8 +133,8 @@ d’1 s. Determineu:
 <img src="img_prob/grafica_molla.png" width="300px">
 <br><a href="sol/prob621.pdf">Solució</a><br><br>
 
-22. En la vida quotidiana estem sotmesos a moviments vibratoris. Per exemple, en caminar, córrer, viatjar amb algun mitjà de locomoció o estar a prop d’alguna màquina. A l’hora de dissenyar vehicles i màquines, cal fer un estudi d’aquests moviments per tal d’aconseguir que siguin confortables i segurs, ja que els efectes de les vibracions poden anar des de simples molèsties fins al dolor o la mort. Aquests estudis solen utilitzar l’acceleració màxima del moviment vibratori com a variable, per a relacionar-la amb les molèsties que percebem. Se sap que som molt sensibles a un moviment vibratori de 6,0 Hz i que, amb aquesta freqüència, a partir d’una acceleració màxima de $6,0\,\mathrm{ms^{-2}}$, les molèsties són tan fortes que ens poden arribar a alarmar. 
-    1. Calculeu l’amplitud d’oscil·lació que correspon a un moviment vibratori harmònic de 6,0 Hz i una acceleració màxima de $6,0\,\mathrm{ms^{-2}}$. 
+22. En la vida quotidiana estem sotmesos a moviments vibratoris. Per exemple, en caminar, córrer, viatjar amb algun mitjà de locomoció o estar a prop d’alguna màquina. A l’hora de dissenyar vehicles i màquines, cal fer un estudi d’aquests moviments per tal d’aconseguir que siguin confortables i segurs, ja que els efectes de les vibracions poden anar des de simples molèsties fins al dolor o la mort. Aquests estudis solen utilitzar l’acceleració màxima del moviment vibratori com a variable, per a relacionar-la amb les molèsties que percebem. Se sap que som molt sensibles a un moviment vibratori de 6,0 Hz i que, amb aquesta freqüència, a partir d’una acceleració màxima de $$6,0\,\mathrm{ms^{-2}}$$, les molèsties són tan fortes que ens poden arribar a alarmar. 
+    1. Calculeu l’amplitud d’oscil·lació que correspon a un moviment vibratori harmònic de 6,0 Hz i una acceleració màxima de $$6,0\,\mathrm{ms^{-2}}$$. 
     2. Calculeu el valor de la constant elàstica d’una molla per tal que una massa de 85 kg que hi estigui enganxada oscil·li amb una freqüència de 6,0 Hz. 
 <br><a href="sol/prob622.pdf">Solució</a><br><br>
 
@@ -144,18 +144,18 @@ d’1 s. Determineu:
     2. Escriviu l’equació del moviment i calculeu l’energia mecànica total del sistema.
 <br><a href="sol/prob623.pdf">Solució</a><br><br>
 
-24. Una partícula de massa 500 g descriu un moviment vibratori harmònic de manera que la seva posició (en unitats del sistema internacional) ve donada per $x=0,20\sin(10\pi t)$, on $t$ és el temps. Calculeu l’energia cinètica màxima de la partícula i la força màxima que actua sobre ella. Indiqueu en quins punts de l’oscil·lació s’assoleixen aquests valors màxims. 
+24. Una partícula de massa 500 g descriu un moviment vibratori harmònic de manera que la seva posició (en unitats del sistema internacional) ve donada per $$x=0,20\sin(10\pi t)$$, on $$t$$ és el temps. Calculeu l’energia cinètica màxima de la partícula i la força màxima que actua sobre ella. Indiqueu en quins punts de l’oscil·lació s’assoleixen aquests valors màxims. 
 
 
 ## Moviment ondulatori
 
 <ol>
-<li>Un radar utilitza ones electromagnètiques de freqüència $5\times10^{11}\,\mathrm{Hz}$. 
+<li>Un radar utilitza ones electromagnètiques de freqüència $$5\times10^{11}\,\mathrm{Hz}$$. 
     <ol>
     <li>Quantes longituds d’ona hi ha entre l’estació i un avió situat a 25 km de distància? </li>
     <li>Quant de temps transcorre des que s’emet un pols fins que retorna a l’estació, després de rebotar a l’avió?</li>
     </ol>
-    Dada: Velocitat de la llum: $c=3\times10^{8}\,\mathrm{m/s}$
+    Dada: Velocitat de la llum: $$c=3\times10^{8}\,\mathrm{m/s}$$
 </li>
 <br><a href="sol/prob6101.pdf">Solució</a><br><br>
 
@@ -171,7 +171,7 @@ d’1 s. Determineu:
 </li>
 <br><a href="sol/prob6103.pdf">Solució</a><br><br>
 
-<li>Una ona elàstica ve descrita per l’equació d’ones $y(x,t)=0,1\sin2\pi(x-10t)$, en unitats de l’SI. Determineu: 
+<li>Una ona elàstica ve descrita per l’equació d’ones $$y(x,t)=0,1\sin2\pi(x-10t)$$, en unitats de l’SI. Determineu: 
     <ol>
     <li>La longitud d’ona i el període. </li>
     <li>La velocitat de propagació de l’ona. </li>
@@ -183,7 +183,7 @@ d’1 s. Determineu:
     $$y=10\sin\pi(50t-x)$$
     <ol>
     <li>Calcula la velocitat de propagació d'aquesta ona.</li>
-    <li>Quina és la distància mínima entre dos punts de l'ona la diferència de fase de la qual és de $\pi/2$ radians? Quant tarda l'ona a propagar-se aquesta distància.</li>
+    <li>Quina és la distància mínima entre dos punts de l'ona la diferència de fase de la qual és de $$\pi/2$$ radians? Quant tarda l'ona a propagar-se aquesta distància.</li>
     </ol>
 </li>
 <br><a href="sol/prob6105.pdf">Solució</a><br><br>
@@ -239,16 +239,16 @@ d’1 s. Determineu:
 
     $$y=4\sin2\pi(t/2-x/4)$$
 
-    en què l'amplitud es mesura en centímetres mentre que el temps, $t$, i la distància, $x$, es mesuren en unitats del sistema internacional (SI). Calculeu:
+    en què l'amplitud es mesura en centímetres mentre que el temps, $$t$$, i la distància, $$x$$, es mesuren en unitats del sistema internacional (SI). Calculeu:
     <ol>
-    <li>La velocitat de vibració d’un punt de la corda que dista 5 m de l’extrem lliure, en l’instant $t=3\,\mathrm{s}$.</li>
+    <li>La velocitat de vibració d’un punt de la corda que dista 5 m de l’extrem lliure, en l’instant $$t=3\,\mathrm{s}$$.</li>
     <li>La diferència de fase entre dos punts de la corda que disten 1 m i 3 m de la paret, respectivament, en un mateix instant. </li>
     <li>Quant tardaria la vibració a arribar a la paret des de l’extrem lliure en què es genera, si la corda tingués una longitud de 10 m. </li>
     </ol>
 </li>
 <br><a href="sol/prob6112.pdf">Solució</a><br><br>
 
-<li>Fent servir un diapasó es genera una ona sonora unidimensional de 440 Hz de freqüència i 10 mm d’amplitud, que viatja en direcció radial des del focus emissor. La velocitat de propagació del so en l’aire, en les condicions de l’experiment, és de $330\,\mathrm{m\cdot s^{-1}}$. Determineu: 
+<li>Fent servir un diapasó es genera una ona sonora unidimensional de 440 Hz de freqüència i 10 mm d’amplitud, que viatja en direcció radial des del focus emissor. La velocitat de propagació del so en l’aire, en les condicions de l’experiment, és de $$330\,\mathrm{m\cdot s^{-1}}$$. Determineu: 
     <ol>
     <li>L’equació del moviment de l’ona generada (en unitats de l’SI). </li>
     <li>El desfasament en la vibració de dos punts separats 1,875 m en un mateix instant. </li>
@@ -277,11 +277,11 @@ d’1 s. Determineu:
 </li>
 <br><a href="sol/prob6116.pdf">Solució</a><br><br>
 
-<li>L’equació d’una ona harmònica transversal que es propaga en una corda tensa de gran longitud és $y(x,t)=0,03\sin(2\pi t-\pi x)$, on $x$ i $y$ s’expressen en metres i t, en segons. Calculeu: 
+<li>L’equació d’una ona harmònica transversal que es propaga en una corda tensa de gran longitud és $$y(x,t)=0,03\sin(2\pi t-\pi x)$$, on $$x$$ i $$y$$ s’expressen en metres i t, en segons. Calculeu: 
     <ol>
     <li>La velocitat de propagació de l’ona, el període i la longitud d’ona. </li>
     <li>L’expressió de la velocitat d’oscil·lació de les partícules de la corda i la velocitat màxima d’oscil·lació. </li>
-    <li>A l’instant $t=2,0\,\mathrm{s}$, el valor del desplaçament i la velocitat d’un punt de la corda situat a $x=0,75\,\mathrm{m}$.</li>
+    <li>A l’instant $$t=2,0\,\mathrm{s}$$, el valor del desplaçament i la velocitat d’un punt de la corda situat a $$x=0,75\,\mathrm{m}$$.</li>
     </ol>
 </li>
 <br><a href="sol/prob6117.pdf">Solució</a><br><br>
@@ -290,11 +290,11 @@ d’1 s. Determineu:
     <ol>
     <li>L’ona acústica generada per la corda del violí és descrita per l’equació
         <ol>
-        <li>$y=5\times10^{-3}\sin\left(\frac{44\pi}{17}t-880\pi x\right)$,</li>
-        <li>$y=5\times10^{-3}\sin\left(440\pi t-\frac{440}{340}x\right)$,</li>
-        <li>$y=5\times10^{-3}\sin\left(880\pi t-\frac{44\pi}{17}x\right)$,</li>
+        <li>$$y=5\times10^{-3}\sin\left(\frac{44\pi}{17}t-880\pi x\right)$$,</li>
+        <li>$$y=5\times10^{-3}\sin\left(440\pi t-\frac{440}{340}x\right)$$,</li>
+        <li>$$y=5\times10^{-3}\sin\left(880\pi t-\frac{44\pi}{17}x\right)$$,</li>
         </ol>
-        en què la $y$ representa el desplaçament en la posició $x$. L’amplitud, el desplaçament, $y$, i la distància, $x$, s’expressen en metres i el temps, $t$, en segons.
+        en què la $$y$$ representa el desplaçament en la posició $$x$$. L’amplitud, el desplaçament, $$y$$, i la distància, $$x$$, s’expressen en metres i el temps, $$t$$, en segons.
     </li>
     <li>La distància mínima entre dos punts que estan en fase és de 
         <ol>
@@ -340,13 +340,13 @@ d’1 s. Determineu:
     <li>L’angle amb què sortirà el so de la balena a l’aire. Podran sentir aquest so els grills i els saltamartins que són arran de la costa? I dalt d’un penya-segat? </li>
     <li>La longitud d’ona, dins i fora de l’aigua, del so produït per la balena. </li>
 
-    Dades: Velocitat del so a l'aire: $v_{aire}=340\,\mathrm{m/s}$; velocitat del so a l'aigua $v_{aigua}=1500\,\mathrm{m/s}$. 
+    Dades: Velocitat del so a l'aire: $$v_{aire}=340\,\mathrm{m/s}$$; velocitat del so a l'aigua $$v_{aigua}=1500\,\mathrm{m/s}$$. 
     </ol>
 </li>
 
 <!-- Efecte Doppler -->
 
-<li>La membrana d’un altaveu vibra amb una freqüència de 300 Hz i una amplitud de 1,00 mm i produeix un to pur. En les condicions de l’experiment, la velocitat del so és $340\,\mathrm{ms^{-1}}$. 
+<li>La membrana d’un altaveu vibra amb una freqüència de 300 Hz i una amplitud de 1,00 mm i produeix un to pur. En les condicions de l’experiment, la velocitat del so és $$340\,\mathrm{ms^{-1}}$$. 
     <ol>
     <li>Calculeu la longitud d’ona, la pulsació i el període del so produït. </li>
     <li>Indiqueu com seran, qualitativament, la freqüència i la longitud d’ona enregistrades per un observador en cada un dels casos següents, comparades (més gran / més petit / igual) amb la freqüència i la longitud d’ona originals: 
@@ -381,10 +381,10 @@ d’1 s. Determineu:
 
 <li>Cadascun dels extrems d’un diapasó presenta un moviment vibratori harmònic amb una freqüència de 1 000 Hz i una amplitud d’1 mm. Aquest moviment genera en l’aire una ona harmònica de so de la mateixa freqüència. El moviment dels dos extrems està en fase. 
     <ol>
-    <li>Calculeu, per a un dels extrems del diapasó, l’elongació i la velocitat del seu moviment vibratori quan faci $3,3\times10^{-4}\,\mathrm{s}$ que ha començat a vibrar, comptat a partir de la posició que correspon a la màxima amplitud. </li>
+    <li>Calculeu, per a un dels extrems del diapasó, l’elongació i la velocitat del seu moviment vibratori quan faci $$3,3\times10^{-4}\,\mathrm{s}$$ que ha començat a vibrar, comptat a partir de la posició que correspon a la màxima amplitud. </li>
     <li>Raoneu si, en l’aire, es produiria el fenomen d’interferència a partir de les ones de so que es generen en els dos extrems del diapasó. Si s’esdevé aquest fenomen, indiqueu en quins punts es produiran els màxims d’interferència. </li>
     </ol>
-    Dada: Velocitat del so a l'aire: $v_{so}=340\,\mathrm{m/s}$.
+    Dada: Velocitat del so a l'aire: $$v_{so}=340\,\mathrm{m/s}$$.
 </li>
 
 <li>Si observem el fons d’una piscina, sembla que sigui menys profunda del que realment és. Raoneu si això és conseqüència: 
@@ -425,9 +425,9 @@ d’1 s. Determineu:
     <img src="img_prob/clarinet.png" width="300px">
     <ol>
     <li>Quina és la llargària del clarinet? </li>
-    <li>Si la nota es toca amb una intensitat d’$1,00\times10^{-5}\mathrm{Wm^{-2}}$ i produeix una intensitat sonora determinada a dos metres de distància, en quants decibels augmenta el nivell de sensació sonora a la mateixa distància si la intensitat es duplica? </li>
+    <li>Si la nota es toca amb una intensitat d’$$1,00\times10^{-5}\mathrm{Wm^{-2}}$$ i produeix una intensitat sonora determinada a dos metres de distància, en quants decibels augmenta el nivell de sensació sonora a la mateixa distància si la intensitat es duplica? </li>
     </ol>
-    Dada: $v_{so}=340\,\mathrm{ms^{-1}}$
+    Dada: $$v_{so}=340\,\mathrm{ms^{-1}}$$
 </li>
 
 <li>Alguns instruments musicals, com la flauta, estan formats per un tub en què es produeixen ones estacionàries. Podem imaginar-nos la flauta com un tub ple d’aire, obert pels dos extrems, en què es formen ones estacionàries amb ventres en els dos extrems. Si la llargària del tub és 70,0 cm: 
@@ -435,7 +435,7 @@ d’1 s. Determineu:
     <li>Dibuixeu el perfil de l’ona corresponent a l’harmònic fonamental produït a l’interior del tub de la flauta. Determineu la freqüència de l’harmònic fonamental i la dels dos primers sobretons (segon i tercer harmònics) que es produiran en aquest tub. </li>
     <li>Quan fem sonar la flauta, produïm una sensació sonora de 65 dB en un observador situat a 2,0 m. Quina sensació sonora percebrà el mateix observador si en comptes d’una flauta sonen tres flautes idèntiques alhora? </li>
     </ol>
-    Dada: $v_{so}=340\,\mathrm{m/s}$.
+    Dada: $$v_{so}=340\,\mathrm{m/s}$$.
 </li>
 
 
@@ -447,7 +447,7 @@ d’1 s. Determineu:
     <li>Amb les dades anteriors, calculeu la longitud aproximada d’una vuvuzela. </li>
     <li>Un espectador es troba a 1 m d’una vuvuzela i percep 116 dB. Molest pel soroll, s’allunya fins a una distància de 50 m. Quants decibels percep, aleshores? </li>
 
-    Dades: $v_{so}=340\,\mathrm{m/s}$; $I_{0}=10^{-12}\,\mathrm{W/m^{2}}$. 
+    Dades: $$v_{so}=340\,\mathrm{m/s}$$; $$I_{0}=10^{-12}\,\mathrm{W/m^{2}}$$. 
     </ol>
 </li>
 </ol>

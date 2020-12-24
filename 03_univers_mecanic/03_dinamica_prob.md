@@ -35,14 +35,14 @@
     </ol>
 </li>
 <br>
-<li>Imagineu una col·lisió frontal entre el bloc lleuger de massa $m_{2}$ i el gran bloc de massa $m_{1}\gg m_{2}$. Durant la col·lisió:
+<li>Imagineu una col·lisió frontal entre el bloc lleuger de massa $$m_{2}$$ i el gran bloc de massa $$m_{1}\gg m_{2}$$. Durant la col·lisió:
     <div align="middle">
     <img src="img_prob/3a_ley_2.png">
     </div>
     <ol>
         <li>El bloc gran exerceix una força sobre el bloc lleuger, més gran que la força que el bloc lleuger exerceix sobre el bloc gran. </li>
         <li>El bloc lleuger exerceix una força sobre el bloc gran, més gran que la força que el bloc gran exerceix sobre el bloc lleuger. </li>
-        <li>El bloc gran exerceix una força sobre $m_{2}$, el bloc lleuger, però aquest no exerceix cap força sobre el bloc gran. </li>
+        <li>El bloc gran exerceix una força sobre $$m_{2}$$, el bloc lleuger, però aquest no exerceix cap força sobre el bloc gran. </li>
         <li>El bloc gran exerceix una força sobre el bloc lleuger, igual que la força que el bloc lleuger exerceix sobre el bloc gran.  </li>
     </ol>
 </li>
@@ -50,9 +50,9 @@
 <li>Una persona de 80 kg de massa està conduint un cotxe. Si en un determinat instant nota que el respatller del seu seient l’empeny endavant amb una força d’uns 40 N, quina de les següents situacions no pot produir l’esmentat efecte?
     <ol>
         <li>El cotxe circula costa amunt per una carretera inclinada 0,05 radians, a una celeritat (mòdul de la velocitat) constant de 30 m/s. </li>
-        <li>El cotxe circula costa avall, pel pendent anterior, augmentant la seva celeritat a un ritme d’$1,0\,\mathrm{m/s^{2}}$.  </li>
-        <li>El cotxe està frenant, a raó de $0,5\,\mathrm{m/s^{2}}$, amb l’objectiu d’acabar una maniobra (en terreny pla) de marxa enrere.</li>
-        <li>El cotxe accelera endarrere en terreny pla augmentant la seva celeritat a raó de $0,5\,\mathrm{m/s^{2}}$. </li>
+        <li>El cotxe circula costa avall, pel pendent anterior, augmentant la seva celeritat a un ritme d’$$1,0\,\mathrm{m/s^{2}}$$.  </li>
+        <li>El cotxe està frenant, a raó de $$0,5\,\mathrm{m/s^{2}}$$, amb l’objectiu d’acabar una maniobra (en terreny pla) de marxa enrere.</li>
+        <li>El cotxe accelera endarrere en terreny pla augmentant la seva celeritat a raó de $$0,5\,\mathrm{m/s^{2}}$$. </li>
     </ol>
 </li>
 <br>
@@ -88,7 +88,7 @@
     </ol>
 </li>
 <br>
-<li>Una persona de 70 kg de massa es pesa a una bàscula a dintre d'un ascensor que puja a una acceleració constant de $2\,\mathrm{m/s^{2}}$. Aleshores, la lectura de la bàscula és: 
+<li>Una persona de 70 kg de massa es pesa a una bàscula a dintre d'un ascensor que puja a una acceleració constant de $$2\,\mathrm{m/s^{2}}$$. Aleshores, la lectura de la bàscula és: 
     <ol>
         <li>0</li>
         <li>140 N</li>
@@ -136,16 +136,16 @@ sistema i la tensió de les cordes en els següents casos:
    <br><a href="sol/prob317.pdf">Solució</a><br><br>
 </li>
 
-<li>La massa $m_1$ del sistema de la figura val 40 kg, i la massa $m_2$ és
-variable. Els coeficients de fricció estàtic i cinètic entre $m_1$ i la taula són iguals i valen $\mu = 0,2$.
+<li>La massa $$m_1$$ del sistema de la figura val 40 kg, i la massa $$m_2$$ és
+variable. Els coeficients de fricció estàtic i cinètic entre $$m_1$$ i la taula són iguals i valen $$\mu = 0,2$$.
         <div align="middle">
         <img src="img_prob/politja_2cossos.png">
         </div>
         Si el sistema està inicialment en repòs,
         <ol>
-        <li>Amb quina acceleració es mourà el sistema si $m_2 = 10 \mathrm{kg}$?</li>
-        <li>Quin és el valor màxim de $m_2$ per al qual el sistema romandrà en repòs?</li>
-        <li>Si $m_2 = 6 \mathrm{kg}$, quina serà la força de fregament entre el cos i la taula? i la tensió de la corda?</li>
+        <li>Amb quina acceleració es mourà el sistema si $$m_2 = 10 \mathrm{kg}$$?</li>
+        <li>Quin és el valor màxim de $$m_2$$ per al qual el sistema romandrà en repòs?</li>
+        <li>Si $$m_2 = 6 \mathrm{kg}$$, quina serà la força de fregament entre el cos i la taula? i la tensió de la corda?</li>
         </ol>
         <br><a href="sol/prob318.pdf">Solució</a><br><br></li>
 </ol>
@@ -196,9 +196,9 @@ variable. Els coeficients de fricció estàtic i cinètic entre $m_1$ i la taula
 ## Força elàstica
 
 <ol start="23">
-<li>La constant elàstica $k$ d'una molla de longitud 12,7 cm ha estat mesurada penjant-hi dues masses de 50 g i 100 g, respectivament; les longituds que ha assolit la molla han estat 14,8 cm i 16,9 cm, respactivament.
+<li>La constant elàstica $$k$$ d'una molla de longitud 12,7 cm ha estat mesurada penjant-hi dues masses de 50 g i 100 g, respectivament; les longituds que ha assolit la molla han estat 14,8 cm i 16,9 cm, respactivament.
 <ol>
-<li>Quin és el valor de $k$ en unitats de l'SI?</li>
+<li>Quin és el valor de $$k$$ en unitats de l'SI?</li>
 <li>Quin és l'allargament que experimenta la molla quan hi pengem un cos de 60 g?</li>
 <li>Si hi pengem un cos i la molla s'allarga una longitud de 3,9 cm, quina és la massa del cos?</li>
 </ol>
@@ -215,9 +215,9 @@ variable. Els coeficients de fricció estàtic i cinètic entre $m_1$ i la taula
 </li>
 <a href="sol/prob324.pdf">Solució</a><br><br>
 
-<li>Una molla de constant recuperadora $k=50\,\mathrm{N/m}$ i longitud natural $l=2\,\mathrm{m}$ està lligada al sostre d'un ascensor. Si pengem de l'extrem lliure de la molla un cos de massa $m=3\,\mathrm{kg}$, quina serà la longitud de la molla quan:
+<li>Una molla de constant recuperadora $$k=50\,\mathrm{N/m}$$ i longitud natural $$l=2\,\mathrm{m}$$ està lligada al sostre d'un ascensor. Si pengem de l'extrem lliure de la molla un cos de massa $$m=3\,\mathrm{kg}$$, quina serà la longitud de la molla quan:
 <ol>
-    <li>L'ascensor pugi amb una acceleració igual $a=2\,\mathrm{m/s^2}$ en el sentit del moviment?</li>
+    <li>L'ascensor pugi amb una acceleració igual $$a=2\,\mathrm{m/s^2}$$ en el sentit del moviment?</li>
     <li>L'ascensor pugi a una velocitat constant?</li>
 </ol>
     R: 2,71 m i 2,59 m.<br><br>
@@ -239,16 +239,16 @@ variable. Els coeficients de fricció estàtic i cinètic entre $m_1$ i la taula
 <a href="sol/prob326.pdf">Solució</a>
 </li>
 
-<li>1. Un cos de massa $m=6\,\mathrm{kg}$ es mou amb una velocitat $v_{0}=2\,\mathrm{m/s}$ quan comença a rebre una força $F$ variable en el temps segons la gràfica que s'observa a continuació.
+<li>1. Un cos de massa $$m=6\,\mathrm{kg}$$ es mou amb una velocitat $$v_{0}=2\,\mathrm{m/s}$$ quan comença a rebre una força $$F$$ variable en el temps segons la gràfica que s'observa a continuació.
         <div align="middle">
         <img src="img_prob/impuls.png">
         </div>
 
 Tenint en compte la informació proporcionada determineu:
 <ol>
-<li>L'impuls total proporcionat al cos per la força $F$.</li>
-<li>La velocitat del cos quan $t=3\,\mathrm{s}$.</li>
-<li>La velocitat del cos quan $t=6\,\mathrm{s}$.</li>
+<li>L'impuls total proporcionat al cos per la força $$F$$.</li>
+<li>La velocitat del cos quan $$t=3\,\mathrm{s}$$.</li>
+<li>La velocitat del cos quan $$t=6\,\mathrm{s}$$.</li>
 </ol>
 <a href="sol/prob327.pdf">Solució</a>
 </li>
