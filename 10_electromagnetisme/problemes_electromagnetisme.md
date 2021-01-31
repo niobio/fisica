@@ -133,10 +133,10 @@
 13. Els axons són una part de les neurones i transmeten l’impuls nerviós. El corrent elèctric que circula per l’axó produeix un camp magnètic que podem considerar igual al que produiria un fil conductor rectilini infinitament llarg. Per dos axons paral·lels, representats en la figura següent, circula un corrent de $$0,66\times10^{-6}\mathrm{A}$$ en el mateix sentit:
 
     <img src="img_prob/pau_2011sl.png" width="30%">
-	<br><a href="sol/prob1013.pdf">Solució</a><br><br>
+	
     1. Indiqueu la direcció i el sentit del camp magnètic que produeix cada axó en la posició que ocupa l’altre. Dibuixeu la força que actua sobre cada axó causada pel corrent que circula per l’altre. 
     2. Calculeu el mòdul de la força que actua sobre 2 cm de l’axó 2 si el mòdul del camp magnètic que produeix l’axó 1 en la posició de l’axó 2 és $$1,1\times10^{-10}\mathrm{T}$$.
-
+	<br><a href="sol/prob1013.pdf">Solució</a><br><br>
 14. Es col·loca per sobre d’una balança un imant amb els pols N i S enfrontats. Tal com veiem en les figures, entre aquests dos pols passa un fil conductor horitzontal que no toca l’imant. El fil elèctric s’aguanta mitjançant dos suports aïllants que recolzen sobre el plat de la balança. En absència de corrent elèctric pel fil, la balança indica un pes de 2,400 N. Quan circula corrent elèctric pel fil conductor, la balança indica pesos aparents més petits, que depenen de la intensitat del corrent, a causa de l’aparició d’una força magnètica cap amunt.
 
     <img src="img_prob/pau_2010jl2a.png" width="30%">
