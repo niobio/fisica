@@ -125,15 +125,15 @@
     Justifiqueu la resposta.
     
     <img src="img_prob/04_conductors_rectilinis.png" width="100%">
-
+	<br><a href="sol/prob1011.pdf">Solució</a><br><br>
 12. Quatre fils conductors idèntics, A, B, C i D, perpendiculars al pla del paper, tallen el paper en els vèrtexs d’un quadrat tal com indica la figura. Per tots els fils circulen corrents elèctrics iguals i en el mateix sentit. Indiqueu la direcció i el sentit de la força resultant exercida sobre el conductor A per la resta de conductors. 
 
     <img src="img_prob/06_fils_conductors.png" width="30%">
-
+	<br><a href="sol/prob1012.pdf">Solució</a><br><br>
 13. Els axons són una part de les neurones i transmeten l’impuls nerviós. El corrent elèctric que circula per l’axó produeix un camp magnètic que podem considerar igual al que produiria un fil conductor rectilini infinitament llarg. Per dos axons paral·lels, representats en la figura següent, circula un corrent de $$0,66\times10^{-6}\mathrm{A}$$ en el mateix sentit:
 
     <img src="img_prob/pau_2011sl.png" width="30%">
-
+	<br><a href="sol/prob1013.pdf">Solució</a><br><br>
     1. Indiqueu la direcció i el sentit del camp magnètic que produeix cada axó en la posició que ocupa l’altre. Dibuixeu la força que actua sobre cada axó causada pel corrent que circula per l’altre. 
     2. Calculeu el mòdul de la força que actua sobre 2 cm de l’axó 2 si el mòdul del camp magnètic que produeix l’axó 1 en la posició de l’axó 2 és $$1,1\times10^{-10}\mathrm{T}$$.
 
