@@ -158,17 +158,23 @@
 
     <img src="img_prob/cond_esp.png" width="30%">
     
+    <a href="sol/prob1101.pdf">Solució</a>
+    
 2. Una resistència de $$0,2\,\Omega$$ uneix dos rails paral·lels que disten 5 cm i són en un camp magnètic uniforme de 0,1 T. Un conductor es desplaça recolzat als rails en direcció perpendicular a aquests i al camp a una velocitat de 20 cm/s. Calcula: 
     1. La força electromotriu induïda als extrems del conductor. 
     2. La intensitat del corrent induït al circuit.
     
     <img src="img_prob/rail.png" width="70%">
+    
+    <a href="sol/prob1102.pdf">Solució</a>
 
 3. Considereu un camp magnètic uniforme, perpendicular a la superfície plana delimitada per un fil metàl·lic un forma de $$\subset$$, i una barra metàl·lica que es mou sobre el fil a velocitat constant i en el sentit indicat en la figura. El símbol $$\times$$ indica que el camp apunta cap a dins del paper.
     1. En quin sentit circula el corrent induït en el circuit? Justifiqueu la resposta.
     2. Quin moviment hauria de descriure la barra perquè el corrent induït fos altern? Per què?
 
     <img src="img_prob/04_ferradura.png" width="70%">
+    
+    <a href="sol/prob1103.pdf">Solució</a>
 
 4. En aquest gràfic es representa la variació del flux magnètic amb el temps en un circuit.
 
