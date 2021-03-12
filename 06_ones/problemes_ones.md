@@ -145,7 +145,7 @@ d’1 s. Determineu:
 <br><a href="sol/prob623.pdf">Solució</a><br><br>
 
 24. Una partícula de massa 500 g descriu un moviment vibratori harmònic de manera que la seva posició (en unitats del sistema internacional) ve donada per $$x=0,20\sin(10\pi t)$$, on $$t$$ és el temps. Calculeu l’energia cinètica màxima de la partícula i la força màxima que actua sobre ella. Indiqueu en quins punts de l’oscil·lació s’assoleixen aquests valors màxims. 
-
+<br><a href="sol/prob624.pdf">Solució</a><br><br>
 
 ## Moviment ondulatori
 
