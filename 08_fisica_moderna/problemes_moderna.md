@@ -6,26 +6,30 @@
 
 ## Efecte fotoelèctric
 
-1. Si il·luminem una superfície d’un metall amb llum de $$\lambda=512\,\mathrm{nm}$$, l’energia cinètica màxima dels electrons emesos és de $$8,65\times10^{-20}\,\mathrm{J}$$. Quina serà l’energia cinètica màxima dels electrons emesos si incidim sobre aquest mateix metall amb llum de $$\lambda=365\,\mathrm{nm}$$? 
+1. Si il·luminem una superfície d’un metall amb llum de $$\lambda=512\,\mathrm{nm}$$, l’energia cinètica màxima dels electrons emesos és de $$8,65\times10^{-20}\,\mathrm{J}$$. Quina serà l’energia cinètica màxima dels electrons emesos si incidim sobre aquest mateix metall amb llum de $$\lambda=365\,\mathrm{nm}$$? <a href="sol/prob801.pdf">Solució</a><br>
 
-2. L'energia mínima necessària per arrencar electrons del coure és de 4,4 eV. Quina serà la diferència de potencial que haurem d'aplicar per impedir la sortida d'electrons de coure si aquest s'il·lumina amb una llum de 150 nm de longitud d'ona? 
+2. L'energia mínima necessària per arrencar electrons del coure és de 4,4 eV. Quina serà la diferència de potencial que haurem d'aplicar per impedir la sortida d'electrons de coure si aquest s'il·lumina amb una llum de 150 nm de longitud d'ona? <a href="sol/prob802.pdf">Solució</a><br>
 
 3. Calcula l’energia cinètica màxima dels electrons emesos per una superfície metàl·lica quan hi incideixen fotons de longitud d’ona $$\lambda=2\times10^{-7}\,\mathrm{m}$$. L’energia mínima per alliberar els electrons (treball d’extracció) és $$W=6,72\times10^{-19}\,\mathrm{J}$$.
+<a href="sol/prob803.pdf">Solució</a><br>
 
 4. Quan una superfície metàl·lica s'il·lumina amb llum de 180 nm (zona ultraviolada), aquesta emet electrons. Observem també que la freqüència llindar correspon a la llum de 230 nm. 
     1. Calculeu la velocitat màxima amb què surten els electrons al principi de l'experiment. 
     2. Amb quin potencial invers han de ser frenats aquests electrons per impedir que arribin a l’ànode de la cèl·lula fotoelèctrica?
+    <a href="sol/prob804.pdf">Solució</a><br>
 
 5. Una llum de freqüència $$6\times10^{14}\,\mathrm{Hz}$$ incideix sobre una superfície metàl·lica i en surten electrons amb una energia cinètica de $$2\times10^{-19}\,\mathrm{J}$$. Calcula el treball d'extracció dels electrons i expressa'l en electronvolts. 
-    Resposta: $$1,975\times10^{-19}\,\mathrm{J}$$
+    Resposta: $$1,975\times10^{-19}\,\mathrm{J}$$ <a href="sol/prob805.pdf">Solució</a><br>
   
 6. Se sap que un determinat metall experimenta l’efecte fotoelèctric quan s’hi fan incidir fotons d’energia superior a 1 eV. Suposeu que sobre aquest metall hi incideixen fotons de longitud d’ona $$6\times10^{-7}\,\mathrm{m}$$. 
     1. Quant val la freqüència dels fotons incidents? 
     2.Es produeix l’efecte fotoelèctric? Per què? 
+    <br><a href="sol/prob806.pdf">Solució</a><br>
 
 7. Una radiació de llum ultraviolada, d’una freqüència d’$$1,5\times10^{15}\,\mathrm{Hz}$$, incideix sobre una làmina de coure de manera que es produeix efecte fotoelèctric. La freqüència mínima perquè es produeixi efecte fotoelèctric en aquest metall és $$1,1\times10^{15}\,\mathrm{Hz}$$. 
     1. Calculeu l’energia cinètica màxima dels fotoelectrons emesos. 
     2. Expliqueu què passaria si la llum incident tingués una longitud d’ona de $$3,0\times10^{-7}\,\mathrm{m}$$. 
+    <a href="sol/prob807.pdf">Solució</a><br>
 
 8. Se sap que un determinat metall experimenta l’efecte fotoelèctric quan s’hi fan incidir fotons d’energia superior a 1 eV. Suposeu que sobre aquest metall hi incideixen fotons de longitud d’ona $$6\times10^{-7}\,\mathrm{m}$$. 
     1. Quant val la freqüència dels fotons incidents? 
@@ -35,6 +39,7 @@
    $$1\,\mathrm{eV=1,602\times10^{-19}\,J}$$; <br>
    $$c=3\times10^{8}\,\mathrm{m\cdot s^{-1}}$$;       <br>
    $$h=6,62\times10^{-34}\,\mathrm{J\cdot s}$$.      <br>
+	<a href="sol/prob808.pdf">Solució</a><br>
 
 9. Una radiació ultraviolada de $$\lambda=200\,\mathrm{nm}$$ incideix sobre una placa de plom, de manera que salten electrons amb una energia cinètica màxima d’1,97 eV. Calculeu: 
     1. La funció de treball (és a dir, l’energia mínima d’extracció d’electrons) del plom. 
@@ -47,16 +52,18 @@
      $$q_{e}=-1,60\times10^{-19}\,\mathrm{C}$$; <br>
      $$1\,\mathrm{eV=1,602\times10^{-19}\,J}$$; <br>
      $$1\,\mathrm{nm=10^{-9}\,\mathrm{m}}$$.
+	<a href="sol/prob809.pdf">Solució</a><br>
 
 10. Una antena de telefonia mòbil instal·lada al terrat d’un edifici emet ones electromagnètiques de 900 MHz de freqüència amb una potència de 4 W. 
     1. Calculeu quants fotons emet l’antena en un minut. 
     2. Valoreu si els fotons que emet l’antena poden produir efecte fotoelèctric en un metall que és a prop, tenint en compte que l’energia d’extracció mínima dels electrons del metall és 4,1 eV. En cas afirmatiu, calculeu l’energia cinètica dels electrons extrets. Si l’antena emet amb una potència de 8 W, com variarà l’efecte fotoelèctric que es pugui produir en el metall? 
 
     **Dades**: $$h=6,62\times10^{-34}\,\mathrm{J\cdot s}$$; $$1\,\mathrm{eV=1,602\times10^{-19}\,J}$$.
-
+	<a href="sol/prob810.pdf">Solució</a><br>
 11. Disposem d’un tub de buit com el de la figura. L’elèctrode A és fet de potassi, que té $$W_{0}=2,29\,\mathrm{eV}$$ com a valor de treball d’extracció. 
     1. Determineu la velocitat amb què surten els electrons arrancats de l’elèctrode A quan l’il·luminem amb llum de color violat de 400 nm de longitud d’ona.
     <img src="img_prob/efecte_fotoelectric.png">
+    
     2. A continuació canviem l’elèctrode A per un altre que és fet d’un material desconegut. Per tal de determinar de quin material es tracta, l’il·luminem un altre cop amb la mateixa llum d’abans, i determinem que el potencial de frenada dels electrons de l’elèctrode A és $$V_{f}=0,17\,\mathrm{V}$$. Determineu el treball d’extracció del material i indiqueu de quin element és fet a partir de la taula de valors següent:
 
 |Element|Ba|Li|Mg|As|Al|Bi|Cr|Ag|Be|
@@ -68,6 +75,7 @@
     Constant de Planck, $$h=6,63\times10^{-34}\,\mathrm{Js}$$, <br>
     Velocitat de la llum, $$c=3,00\times10^{8}\,\mathrm{ms^{-1}}$$, <br>
     $$1\,\mathrm{eV=1,60\times10^{-19}\,\mathrm{J}}$$
+    <a href="sol/prob811.pdf">Solució</a><br>
 
 <ol start="12">
 <li> En una experiència de laboratori, es mesura l’energia cinètica màxima dels electrons que salten quan es fan incidir radiacions de freqüència diferent sobre una placa d’un material. Els resultats obtinguts es mostren en la taula següent, en què $$E_{c}$$ representa l’energia cinètica, i $$\nu$$, la freqüència:
@@ -94,7 +102,7 @@
     <strong>Dades</strong>: $$1\,\mathrm{eV=1,60\times10^{-19}\,\mathrm{J}}$$; $$1\,\mathrm{PHz=10^{15}\,\mathrm{Hz}}$$.
 </ol>
 </ol> 
-
+<br><a href="sol/prob812.pdf">Solució</a><br>
 ## Dualitat ona-corpuscle
 
 <ol start="13">
