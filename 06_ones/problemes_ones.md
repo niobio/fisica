@@ -333,7 +333,7 @@ d’1 s. Determineu:
     Justifiqueu la resposta. 
     </ol>
 </li>
-
+<br><a href="sol/prob6121.pdf">Solució</a><br><br>
 
 <li>Els grills perceben sons de freqüència d’entre 20 Hz i 100 kHz i els saltamartins perceben sons d’entre 15 Hz i 35 kHz de freqüència. Les balenes blanques emeten sons de 20 Hz. Si el so de la balena arriba a la superfície amb un angle de 60° respecte de la normal, calculeu: 
     <ol>
@@ -357,7 +357,7 @@ d’1 s. Determineu:
     </li>
     </ol>
 </li>
-
+<br><a href="sol/prob6123.pdf">Solució</a><br><br>
 <li>A la sèrie televisiva Big Bang Theory, Sheldon Cooper es disfresa d'efecte Doppler (veure imatge) per a anar a una festa. Penny pregunta què és l'efecte Doppler i aleshores Sheldon li explica. Tria l'explicació d'en Sheldon:
     <ol>
     <li>És la vibració d'una ona en un pla fix de l'espai després de pasar per un doppleritzador.</li>
@@ -378,7 +378,7 @@ d’1 s. Determineu:
     <li>I en un punt situat a 30 cm d'un focus i 24 de l'altre?</li>
     </ol>
 </li>
-
+<br><a href="sol/prob6125.pdf">Solució</a><br><br>
 <li>Cadascun dels extrems d’un diapasó presenta un moviment vibratori harmònic amb una freqüència de 1 000 Hz i una amplitud d’1 mm. Aquest moviment genera en l’aire una ona harmònica de so de la mateixa freqüència. El moviment dels dos extrems està en fase. 
     <ol>
     <li>Calculeu, per a un dels extrems del diapasó, l’elongació i la velocitat del seu moviment vibratori quan faci $$3,3\times10^{-4}\,\mathrm{s}$$ que ha començat a vibrar, comptat a partir de la posició que correspon a la màxima amplitud. </li>
@@ -386,7 +386,7 @@ d’1 s. Determineu:
     </ol>
     Dada: Velocitat del so a l'aire: $$v_{so}=340\,\mathrm{m/s}$$.
 </li>
-
+<br><a href="sol/prob6126.pdf">Solució</a><br><br>
 <li>Si observem el fons d’una piscina, sembla que sigui menys profunda del que realment és. Raoneu si això és conseqüència: 
     <ol>
     <li>De l’efecte Doppler. </li>
@@ -404,7 +404,7 @@ d’1 s. Determineu:
     <li>Calcula la longitud del tub.</li>
     </ol>
 </li>
-
+<br><a href="sol/prob6128.pdf">Solució</a><br><br>
 <li>Les cordes d’una guitarra tenen una longitud de 78,0 cm. Sabem que una de les cordes, quan vibra en el seu harmònic fonamental, emet un LA, que correspon a una freqüència de 220 Hz. 
     <ol>
     <li>Dibuixeu el perfil de l’ona quan la corda vibra en l’harmònic fonamental. Quina serà la longitud d’ona del so produït? Quina és la velocitat de propagació de les ones que, per superposició, han format l’ona estacionària de la corda? </li>
