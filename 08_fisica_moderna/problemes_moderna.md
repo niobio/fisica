@@ -101,24 +101,25 @@
     <a href="sol/prob813.pdf">Solució</a><br>
   
 14. Calculeu l’energia i la quantitat de moviment dels fotons de llum roja de longitud d’ona $$\lambda=600\,\mathrm{nm}$$.
-    **Dades**: $$h=6,62\times10^{-34}\,\mathrm{J\cdot s}$$; $$c=3\times10^{8}\,\mathrm{m\cdot s^{-1}}$$. 
+    <br>
+    **Dades**:<br> $$h=6,62\times10^{-34}\,\mathrm{J\cdot s}$$; $$c=3\times10^{8}\,\mathrm{m\cdot s^{-1}}$$. 
     <br> <a href="sol/prob814.pdf">Solució</a><br> <br>
 15. Calculeu el valor de la longitud d’ona d’un fotó d’energia 3 keV.
-    **Dades**: $$h=6,62\times10^{-34}\,\mathrm{J\cdot s}$$; $$c=3\times10^{8}\,\mathrm{m\cdot s^{-1}}$$; $$1\,\mathrm{eV=1,602\times10^{-19}\,J}$$.
+    <br>**Dades**: $$h=6,62\times10^{-34}\,\mathrm{J\cdot s}$$; $$c=3\times10^{8}\,\mathrm{m\cdot s^{-1}}$$; $$1\,\mathrm{eV=1,602\times10^{-19}\,J}$$.
     <br><a href="sol/prob815.pdf">Solució</a><br><br> 
     
 16. Se sap que la sensibilitat més gran de l’ull humà correspon a la llum de longitud d’ona $$\lambda=5,5\times10^{-7}\,\mathrm{m}$$. Determineu l’energia i la quantitat de moviment dels fotons d’aquesta longitud d’ona. 
-    **Dades**: $$c=3\times10^{8}\,\mathrm{m/s}$$; $$h=6,62\times10^{-34}\,\mathrm{J\cdot s}$$.
+    <br>**Dades**:<br> $$c=3\times10^{8}\,\mathrm{m/s}$$; $$h=6,62\times10^{-34}\,\mathrm{J\cdot s}$$.
     <br><a href="sol/prob816.pdf">Solució</a><br><br> 
     
 17. Entre dos punts A i B s’estableix una diferència de potencial $$V_{A}-V_{B}=120\,\mathrm{V}$$. Un electró està situat al punt B, inicialment en repòs. Determineu: 
     1. La velocitat amb què arriba al punt A.
     2. La longitud d’ona de de Broglie de l’electró, corresponent a la velocitat anterior.
-    **Dades**: $$h=6,62\times10^{-34}\,\mathrm{J\cdot s}$$, $$q_{e}=-1,60\times10^{-19}\,\mathrm{C}$$, $$m_{e}=9,11\times10^{-31}\,\mathrm{kg}$$
+    <br>**Dades**:<br> $$h=6,62\times10^{-34}\,\mathrm{J\cdot s}$$, $$q_{e}=-1,60\times10^{-19}\,\mathrm{C}$$, $$m_{e}=9,11\times10^{-31}\,\mathrm{kg}$$
     <br><a href="sol/prob817.pdf">Solució</a><br><br> 
     
 18. Calculeu l’energia i la longitud d’ona d’un fotó de 1.015 Hz de freqüència. 
-    **Dades**: $$c=3\times10^{8}\,\mathrm{m/s}$$; $$h=6,625\times10^{-34}\,\mathrm{J\cdot s}$$.
+    <br>**Dades**:<br> $$c=3\times10^{8}\,\mathrm{m/s}$$; $$h=6,625\times10^{-34}\,\mathrm{J\cdot s}$$.
     <br><a href="sol/prob818.pdf">Solució</a><br>
     ## Principi d'indeterminació
 
@@ -151,22 +152,22 @@
     2. Si en una mostra de terreny s'ha tobat una activitat de 5000 Bq i es considera que el nivel d'activitat segur per als humans ha d'estar per sota els 200 Bq. Quants anys han de passar fins que s'arribi als nivells de seguretat?
     <br><a href="sol/radioactivitat_07.pdf">Solució</a><br>
     
-28. El iode pot ser un radiofàrmac. L’isòtop $$\mathrm{\_{53}^{131}I}$$ és una font de raigs gamma. S’injecta al pacient per poder obtenir imatges gammagràfiques. Aquest radioisòtop té un període de semidesintegració de 13,2 h.
-    1. Quina fracció de $$\mathrm{\_{53}^{131}I}$$ resta al cos 24,0 hores després d’injectar el fàrmac?
-    2. En un altre procés, el $$\mathrm{\_{53}^{131}I}$$ també pot produir $$\mathrm{\_{54}^{131}Xe}$$ Escriviu l’esquema del procés nuclear. Quina partícula s’emet?
+28. El iode pot ser un radiofàrmac. L’isòtop $$\mathrm{_{53}^{131}I}$$ és una font de raigs gamma. S’injecta al pacient per poder obtenir imatges gammagràfiques. Aquest radioisòtop té un període de semidesintegració de 13,2 h.
+    1. Quina fracció de $$\mathrm{_{53}^{131}I}$$ resta al cos 24,0 hores després d’injectar el fàrmac?
+    2. En un altre procés, el $$\mathrm{_{53}^{131}I}$$ també pot produir $$\mathrm{_{54}^{131}Xe}$$ Escriviu l’esquema del procés nuclear. Quina partícula s’emet?
     <img src="img_prob/gammagrafia.png">
     <br><a href="sol/radioactivitat_08.pdf">Solució</a><br>
 
-29. La radioactivitat és un mitjà fiable per a calcular l’edat de les roques i minerals que contenen isòtops radioactius concrets. Aquest sistema de datació radiomètrica ens permet mesurar el temps geològic. Un d’aquests mètodes es basa en la desintegració de l’isòtop $$\mathrm{\_{19}^{40}K}$$ (potassi) en $$\mathrm{\_{18}^{40}Ar}$$ (argó). El rellotge potassi-argó comença a funcionar quan els minerals que contenen potassi cristal·litzen a partir d’un magma o dins una roca. En aquest moment, els nous minerals contenen $$\mathrm{\_{19}^{40}K}$$ i no contenen $$\mathrm{\_{18}^{40}Ar}$$. A mesura que passa el temps, el $$\mathrm{\_{19}^{40}K}$$ es desintegra i tots els àtoms de $$\mathrm{\_{18}^{40}Ar}$$ que trobem en el mineral en un temps posterior a la formació provenen de la descomposició del $$\mathrm{\_{19}^{40}K}$$. 
-    1. Escriviu la reacció nuclear de l’emissió de partícules $$\beta$$ de l’isòtop $$\mathrm{\_{19}^{40}K}$$.
-    2. En una roca s’han trobat 10,0 g de $$\mathrm{\_{19}^{40}K}$$ i 10,0 g de $$\mathrm{\_{18}^{40}Ar}$$. Quina quantitat de $$\mathrm{\_{19}^{40}K}$$ hi haurà quan hauran transcorregut $$5,00\times10^{9}\,\mathrm{anys}$$? Fent servir la datació radiomètrica basada en el potassi-argó, digueu quina edat té la roca. Considereu que el $$\mathrm{\_{19}^{40}K}$$ es desintegra només en $$\mathrm{\_{18}^{40}Ar}$$. 
-    **Dada**: Període de semidesintegració del $$\mathrm{\_{19}^{40}K}$$, $$t_{1/2}=1,25\times10^{9}\,\mathrm{anys}$$.
+29. La radioactivitat és un mitjà fiable per a calcular l’edat de les roques i minerals que contenen isòtops radioactius concrets. Aquest sistema de datació radiomètrica ens permet mesurar el temps geològic. Un d’aquests mètodes es basa en la desintegració de l’isòtop $$\mathrm{_{19}^{40}K}$$ (potassi) en $$\mathrm{_{18}^{40}Ar}$$ (argó). El rellotge potassi-argó comença a funcionar quan els minerals que contenen potassi cristal·litzen a partir d’un magma o dins una roca. En aquest moment, els nous minerals contenen $$\mathrm{_{19}^{40}K}$$ i no contenen $$\mathrm{_{18}^{40}Ar}$$. A mesura que passa el temps, el $$\mathrm{_{19}^{40}K}$$ es desintegra i tots els àtoms de $$\mathrm{_{18}^{40}Ar}$$ que trobem en el mineral en un temps posterior a la formació provenen de la descomposició del $$\mathrm{_{19}^{40}K}$$. 
+    1. Escriviu la reacció nuclear de l’emissió de partícules $$\beta$$ de l’isòtop $$\mathrm{_{19}^{40}K}$$.
+    2. En una roca s’han trobat 10,0 g de $$\mathrm{_{19}^{40}K}$$ i 10,0 g de $$\mathrm{_{18}^{40}Ar}$$. Quina quantitat de $$\mathrm{_{19}^{40}K}$$ hi haurà quan hauran transcorregut $$5,00\times10^{9}\,\mathrm{anys}$$? Fent servir la datació radiomètrica basada en el potassi-argó, digueu quina edat té la roca. Considereu que el $$\mathrm{_{19}^{40}K}$$ es desintegra només en $$\mathrm{_{18}^{40}Ar}$$. 
+    <br>**Dada**:<br> Període de semidesintegració del $$\mathrm{_{19}^{40}K}$$, $$t_{1/2}=1,25\times10^{9}\,\mathrm{anys}$$.
     <br><a href="sol/radioactivitat_09.pdf">Solució</a><br>
     
 30. Una gammagrafia òssia és una prova diagnòstica que consisteix a injectar per via intravenosa una substància que conté un cert isòtop radioactiu que es diposita en els ossos i que emet raigs gamma. La radiació emesa es detecta amb una gamma-càmera que escaneja el cos i pren imatges de la quantitat de l’isòtop acumulada en els ossos. En aquest tipus de gammagrafies s’utilitza el tecneci 99 com a radioisòtop. 
     1. Quant s’haurà reduït el nombre de nuclis de l’isòtop injectat al cap d’un dia?
     2. El $$\mathrm{_{43}^{99}Tc}$$ prové de la desintegració beta d’un altre element. Indiqueu el nombre de protons i neutrons del nucli del qual prové.
-    **Dades**: $$t_{1/2}(\mathrm{^{99}Tc})=6,00\,\mathrm{h}$$.
+    <br>**Dades**:<br> $$t_{1/2}(\mathrm{^{99}Tc})=6,00\,\mathrm{h}$$.
     <br><a href="sol/radioactivitat_10.pdf">Solució</a><br>
     
 31. Hem observat una mostra d’un isòtop radioactiu. El gràfic mostra l’evolució del nombre d’àtoms de l’isòtop durant 200 dies.
@@ -174,20 +175,22 @@
     1. Determineu el període de semidesintegració de l’isòtop. Quants àtoms quedaran al cap de tres períodes de semidesintegració?
     2. Sospitem que es tracta de poloni 210 (Z = 84), un element emissor de radiació alfa. Escriviu la reacció nuclear de l’emissió alfa d’aquest isòtop.
     
-    **Dades**: Nombres atòmics i símbols d’alguns elements:
-    |80|81|82|83|84|85|86|
-    |--|--|--|--|--|--|--|
+    <br>**Dades**:<br> Nombres atòmics i símbols d’alguns elements:
+    
     |Hg|Tl|Pb|Bi|Po|At|Rn|
+    |--|--|--|--|--|--|--|
+    |80|81|82|83|84|85|86|
+    
     <br><a href="sol/radioactivitat_11.pdf">Solució</a><br>
     
 32. El poloni 210 té un període de semidesintegració de 138,4 dies i es desintegra, per emissió de partícules alfa, en un isòtop estable del plom. El procés és el següent: 
     $$\mathrm{_{84}^{210}Po\longrightarrow_{y}^{x}Pb+_{2}^{4}He}$$
     1. Determineu els índexs x i y, i el temps necessari perquè la massa del poloni es redueixi al 30 % de la massa inicial.
     2. Calculeu l’energia que es desprèn en la desintegració d’un nucli de poloni, expressada en J i en MeV.
-    **Dades**: <br>
-    $$m(\mathrm{\_{84}^{210}Po})=209,983\,\mathrm{u}$$; <br>
-    $$m(\mathrm{\_{y}^{x}Pb})=205,974\,\mathrm{u}$$; <br>
-    $$m(\mathrm{\_{2}^{4}He})=4,003\,\mathrm{u}$$; <br>
+    <br>**Dades**: <br>
+    $$m(\mathrm{_{84}^{210}Po})=209,983\,\mathrm{u}$$; <br>
+    $$m(\mathrm{_{y}^{x}Pb})=205,974\,\mathrm{u}$$; <br>
+    $$m(\mathrm{_{2}^{4}He})=4,003\,\mathrm{u}$$; <br>
     $$1\,\mathrm{u=1,66\times10^{-27}\,\mathrm{kg}}$$; <br> 
     $$1\,\mathrm{eV=1,6\times10^{-19}\,J}$$; <br>
     $$c\mathrm{=3\times10^{8}\,m/s}$$. <br>
@@ -207,13 +210,14 @@
     $$\mathrm{_{53}^{131}I\longrightarrow_{y}^{x}Xe+\beta^{-}+_{0}^{0}\gamma}$$
     1. Determineu el valor dels nombres màssic i atòmic del xenó (x i y en la reacció, respectivament). Si les partícules $$\beta^{-}$$ s’emeten a una velocitat de $$2\times10^{5}\,\mathrm{km/s}$$, calculeu-ne la longitud d’ona associada.
     2. Un pacient rep un tractament amb iode 131. Quants dies han de transcórrer perquè la quantitat de iode 131 al cos del pacient es redueixi fins al 12,5 % del valor inicial?
-   **Dades*: $$m_{\beta}=9,11\times10^{-31}\,\mathrm{kg}$$; $$h=6,62\times10^{-34}\,\mathrm{Js}$$.
+   
+    <br>**Dades*:<br> $$m_{\beta}=9,11\times10^{-31}\,\mathrm{kg}$$; $$h=6,62\times10^{-34}\,\mathrm{Js}$$.
     <br><a href="sol/radioactivitat_14.pdf">Solució</a><br>
     
 35. L’any 2011 ha estat declarat Any Internacional de la Química, per commemorar, entre altres fets, que fa cent anys Marie Curie va ser guardonada amb el Premi Nobel de Química pel descobriment del radi, entre altres mèrits. El període de semidesintegració del radi és $$1,59\times10^{3}\,\mathrm{anys}$$. Si el 1911 es va guardar una mostra d’1,00 g de radi, calculeu: 
     1. La quantitat de radi de la mostra que queda actualment. 
     2. L’activitat radioactiva inicial de la mostra d’1,00 g de radi, i l’activitat radioactiva del radi que queda de la mostra avui. 
-    **Dades**: $$N_{A}=6,02\times10^{23}\,\mathrm{mol^{-1}}$$; $$m_{a}(\mathrm{Ra})=226\,\mathrm{u}$$.
+    <br>**Dades**:<br> $$N_{A}=6,02\times10^{23}\,\mathrm{mol^{-1}}$$; $$m_{a}(\mathrm{Ra})=226\,\mathrm{u}$$.
     <br><a href="sol/radioactivitat_15.pdf">Solució</a><br>
     
 36. La tècnica de diagnòstic a partir de la imatge que s’obté mitjançant tomografia per emissió de positrons (PET, Positron Emission Tomography) es fonamenta en l’anihilació entre la matèria i l’antimatèria. Els positrons, emesos pels nuclis de fluor, $$^{18}\mathrm{F}$$, injectats al pacient com a radiofàrmac, s’anihilen en entrar en contacte amb els electrons dels teixits del cos i de cadascuna d’aquestes anihilacions es creen fotons, a partir dels quals s’obté la imatge. La desintegració d’un nucli de fluor, $$^{18}\mathrm{F}$$, es pot escriure mitjançant la reacció nuclear següent:
@@ -235,7 +239,7 @@
     $$\mathrm{_{94}^{241}Pu\longrightarrow_{95}^{241}Am+_{d}^{c}Y}$$
     1. Determineu els valors dels coeficients a, b, c i d. Quin nom té la partícula que el Pu-240 ha capturat en la primera reacció? Com s’anomena la desintegració descrita en la Glenn Theodore Seaborg segona reacció?
     2. Calculeu el percentatge de nuclis de Am-241 que s’han desintegrat des del 1944 fins ara. 
-    **Dada**: Període de semidesintegració de l’americi 241, $$t_{1/2}=432\,\mathrm{anys}$$.
+    <br>**Dada**<br>: Període de semidesintegració de l’americi 241, $$t_{1/2}=432\,\mathrm{anys}$$.
     <img src="img_prob/seaborg.png">
     <br>
 39. L’urani 235 té uns quaranta modes possibles de desintegració per absorció d’un neutró. 
@@ -263,9 +267,9 @@
 
 41. Completa les reaccions de fissió nuclear següents:
     1. $$\mathrm{^{235}U+_{0}^{1}n\longrightarrow^{101}Mo+^{132}Sn+\ldots}$$
-    2. $$\mathrm{^{239}Pu+\_{0}^{1}n\longrightarrow^{100}Tc+\ldots+4\_{0}^{1}n}$$
-    3. $$\mathrm{^{235}U+\_{0}^{1}n\longrightarrow^{94}Sr+\ldots+2{}\_{0}^{1}n}$$
-    4. $$\mathrm{^{239}Pu+\_{0}^{1}n\longrightarrow\ldots+^{133}In+3\_{0}^{1}n}$$
+    2. $$\mathrm{^{239}Pu+_{0}^{1}n\longrightarrow^{100}Tc+\ldots+4_{0}^{1}n}$$
+    3. $$\mathrm{^{235}U+_{0}^{1}n\longrightarrow^{94}Sr+\ldots+2{}_{0}^{1}n}$$
+    4. $$\mathrm{^{239}Pu+_{0}^{1}n\longrightarrow\ldots+^{133}In+3_{0}^{1}n}$$
 
 
 ### Dades útils
