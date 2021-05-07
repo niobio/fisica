@@ -133,8 +133,10 @@
 21. Un isòtop radioactiu artificial té un temps de semidesintegració de 10 dies. Si es té una mostra de 25 mg d'aquest isòtop, 
     1. Quina quantitat es tenia ara fa un mes?
     2. Quina quantitat es tindrà d'aquí a un mes? 
+    <br><a href="sol/radioactivitat_01.pdf">Solució</a><br>
     
 22. Sabem que el període de semidesintegració del $$\mathrm{^{14}C}$$ és de 5.730 anys i un gram de carboni actual té una activitat de 920 desintegracions per hora. Una mostra de fusta conté 10 g de carboni i té una velocitat de desintegració del carboni 14 de 100 comptes/min. Quina és l'edat de la mostra? 
+<br><a href="sol/radioactivitat_02.pdf">Solució</a><br>
     
 23. Una excavació arqueològica en terres egípcies ha revelat un gran nombre de troballes d'una època desconeguda. Si la concentració de carboni-14 $$(T_{1/2}=5730\,\mathrm{anys})$$ en la fusta d'un taüt trobat és d'un 61% respecte de la concentració actual de la mateixa fusta actualment, de quin any podem pensar que és el taüt?
     <br><a href="sol/radioactivitat_03.pdf">Solució</a><br>
@@ -174,7 +176,6 @@
     <img src="img_prob/grafic_decaiment.png">
     1. Determineu el període de semidesintegració de l’isòtop. Quants àtoms quedaran al cap de tres períodes de semidesintegració?
     2. Sospitem que es tracta de poloni 210 (Z = 84), un element emissor de radiació alfa. Escriviu la reacció nuclear de l’emissió alfa d’aquest isòtop.
-    
     <br>**Dades**:<br> Nombres atòmics i símbols d’alguns elements:
     
     |Hg|Tl|Pb|Bi|Po|At|Rn|
@@ -199,19 +200,19 @@
     
 33. El triti és un isòtop radioactiu de l’hidrogen. El nucli del triti té dos neutrons. 
     1. El triti es genera de manera natural a l’atmosfera quan els àtoms de nitrogen xoquen amb una certa partícula que anomenarem «?». La reacció és: 
-    $$\mathrm{_{7}^{14}N+_{y}^{x}?\longrightarrow_{6}^{12}C+_{1}^{z}T}$$
-    També es pot produir en reactors nuclears, amb la reacció següent: 
-    $$\mathrm{_{k}^{j}Li+_{y}^{x}?\longrightarrow_{2}^{4}He+_{1}^{z}T}$$
-    Determineu els valors dels índexs x, y, z, j i k. 
-    2. El període de semidesintegració del triti és, aproximadament, de dotze anys. Elaboreu una gràfica amb les variables de massa i temps en què s’observi com varia la quantitat de triti d’una mostra que inicialment és de 120 g durant els seixanta anys següents.</li>
+    <br>$$\mathrm{_{7}^{14}N+_{y}^{x}?\longrightarrow_{6}^{12}C+_{1}^{z}T}$$
+    <br>També es pot produir en reactors nuclears, amb la reacció següent: 
+    <br>$$\mathrm{_{k}^{j}Li+_{y}^{x}?\longrightarrow_{2}^{4}He+_{1}^{z}T}$$
+    <br>Determineu els valors dels índexs x, y, z, j i k. 
+    2. El període de semidesintegració del triti és, aproximadament, de dotze anys. Elaboreu una gràfica amb les variables de massa i temps en què s’observi com varia la quantitat de triti d’una mostra que inicialment és de 120 g durant els seixanta anys següents.
     <br><a href="sol/radioactivitat_13.pdf">Solució</a><br>
     
 34. El iode 131 és un isòtop radioactiu que emet $$\beta^{-}$$ i $$\gamma$$, té un període de semidesintegració de vuit dies i es fa servir per a tractar el càncer i altres malalties de la glàndula tiroide. La reacció de descomposició és la següent: 
-    $$\mathrm{_{53}^{131}I\longrightarrow_{y}^{x}Xe+\beta^{-}+_{0}^{0}\gamma}$$
+    <br>$$\mathrm{_{53}^{131}I\longrightarrow_{y}^{x}Xe+\beta^{-}+_{0}^{0}\gamma}$$
     1. Determineu el valor dels nombres màssic i atòmic del xenó (x i y en la reacció, respectivament). Si les partícules $$\beta^{-}$$ s’emeten a una velocitat de $$2\times10^{5}\,\mathrm{km/s}$$, calculeu-ne la longitud d’ona associada.
     2. Un pacient rep un tractament amb iode 131. Quants dies han de transcórrer perquè la quantitat de iode 131 al cos del pacient es redueixi fins al 12,5 % del valor inicial?
    
-    <br>**Dades*:<br> $$m_{\beta}=9,11\times10^{-31}\,\mathrm{kg}$$; $$h=6,62\times10^{-34}\,\mathrm{Js}$$.
+    <br>**Dades**:<br> $$m_{\beta}=9,11\times10^{-31}\,\mathrm{kg}$$; $$h=6,62\times10^{-34}\,\mathrm{Js}$$.
     <br><a href="sol/radioactivitat_14.pdf">Solució</a><br>
     
 35. L’any 2011 ha estat declarat Any Internacional de la Química, per commemorar, entre altres fets, que fa cent anys Marie Curie va ser guardonada amb el Premi Nobel de Química pel descobriment del radi, entre altres mèrits. El període de semidesintegració del radi és $$1,59\times10^{3}\,\mathrm{anys}$$. Si el 1911 es va guardar una mostra d’1,00 g de radi, calculeu: 
@@ -222,8 +223,8 @@
     
 36. La tècnica de diagnòstic a partir de la imatge que s’obté mitjançant tomografia per emissió de positrons (PET, Positron Emission Tomography) es fonamenta en l’anihilació entre la matèria i l’antimatèria. Els positrons, emesos pels nuclis de fluor, $$^{18}\mathrm{F}$$, injectats al pacient com a radiofàrmac, s’anihilen en entrar en contacte amb els electrons dels teixits del cos i de cadascuna d’aquestes anihilacions es creen fotons, a partir dels quals s’obté la imatge. La desintegració d’un nucli de fluor, $$^{18}\mathrm{F}$$, es pot escriure mitjançant la reacció nuclear següent:
     $${_9}^{18}\textrm{F}\longrightarrow\mathrm{_{8}^{x}O+\mathrm{_{z}^{y}e^{+}+_{0}^{0}\nu}}$$
-    1. Digueu quants neutrons i quants protons té aquest isòtop artificial de fluor, $$^{18}\mathrm{F}$$. Completeu la reacció nuclear, és a dir, determineu $$x$$, $$y$$ i $$z$$.
-    2.El període de semidesintegració del $$^{18}\mathrm{F}$$ és 109,77 s. Calculeu el temps que ha de passar perquè quedi una vuitena part de la quantitat inicial de $$^{18}\mathrm{F}$$. Quin percentatge de partícules quedaran al cap d’una hora? Tenint en compte aquest resultat, digueu si podríem emmagatzemar gaire temps aquest radiofàrmac i justifiqueu-ho.
+    1. Digueu quants neutrons i quants protons té aquest isòtop artificial de fluor, $$^{18}\mathrm{F}$$.    Completeu la reacció nuclear, és a dir, determineu $$x$$, $$y$$ i $$z$$.
+    2. El període de semidesintegració del $$^{18}\mathrm{F}$$ és 109,77 s. Calculeu el temps que ha de passar perquè quedi una vuitena part de la quantitat inicial de $$^{18}\mathrm{F}$$. Quin percentatge de partícules quedaran al cap d’una hora? Tenint en compte aquest resultat, digueu si podríem emmagatzemar gaire temps aquest radiofàrmac i justifiqueu-ho.
     <br><a href="sol/radioactivitat_16.pdf">Solució</a><br>
 
     ## Reaccions nuclears
