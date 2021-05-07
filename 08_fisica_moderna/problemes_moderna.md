@@ -77,50 +77,35 @@
     $$1\,\mathrm{eV=1,60\times10^{-19}\,\mathrm{J}}$$
     <a href="sol/prob811.pdf">Solució</a><br>
 
-<ol start="12">
-<li> En una experiència de laboratori, es mesura l’energia cinètica màxima dels electrons que salten quan es fan incidir radiacions de freqüència diferent sobre una placa d’un material. Els resultats obtinguts es mostren en la taula següent, en què $$E_{c}$$ representa l’energia cinètica, i $$\nu$$, la freqüència:
-</li>
 
-<table style="width:50%;">
-<tr>
-<td>$$E_{c}\,\mathrm{(eV)}$$</td><td>0</td><td>0</td><td>2,07</td><td>4,14</td>
-</tr>
-<tr>
-<td>$$\nu\,\mathrm{(PHz)}$$</td><td>0,500</td><td>1,00</td><td>1,50</td><td>2,00</td>
-</tr>
-</table>
-<ol>
+12. En una experiència de laboratori, es mesura l’energia cinètica màxima dels electrons que salten quan es fan incidir radiacions de freqüència diferent sobre una placa d’un material. Els resultats obtinguts es mostren en la taula següent, en què $$E_{c}$$ representa l’energia cinètica, i $$\nu$$, la freqüència:
+
+    |$$E_{c}\,\mathrm{(eV)}$$|0|0|2,07|4,14|
+    |------------------------|-|-|----|----|
+    |$$\nu\,\mathrm{(PHz)}$$|0,500|1,00|1,50|2,00|
+
     La representación gràfica dels resultats és la següent:
-    <div align="middle">
-    <img src="img_prob/grafic_fotoelectric.png">
-    </div>
+        <div align="middle">
+        <img src="img_prob/grafic_fotoelectric.png">
+        </div>
     Determineu: 
-    <li>El valor de la constant de Planck a partir de les dades d’aquest experiment.</li>
-    <li>La funció de treball; és a dir, l’energia mínima d’extracció d’electrons.</li>
+    1. El valor de la constant de Planck a partir de les dades d’aquest experiment.
+    2. La funció de treball; és a dir, l’energia mínima d’extracció d’electrons.
     Expresseu els resultats en unitats del sistema internacional (SI). 
-    <br>
-    <strong>Dades</strong>: $$1\,\mathrm{eV=1,60\times10^{-19}\,\mathrm{J}}$$; $$1\,\mathrm{PHz=10^{15}\,\mathrm{Hz}}$$.
-</ol>
-</ol> 
+**Dades**: $$1\,\mathrm{eV=1,60\times10^{-19}\,\mathrm{J}}$$; $$1\,\mathrm{PHz=10^{15}\,\mathrm{Hz}}$$.
 <br><a href="sol/prob812.pdf">Solució</a><br>
 ## Dualitat ona-corpuscle
 
-<ol start="13">
-<li>Una emissora de FM que es troba a 15 km de Barcelona transmet amb una potència d'1 kW a una freqüència de 98 MHz.
-    <ol>
-        <li>Quants fotons emet durant un segon? </li>
-        <li>Quina és la longitud d'ona dels fotons? </li>
-        <li>Quant triga la senyal en arribar als oients?</li>
-    </ol>
+13. Una emissora de FM que es troba a 15 km de Barcelona transmet amb una potència d'1 kW a una freqüència de 98 MHz.
+    1. Quants fotons emet durant un segon?
+    2. Quina és la longitud d'ona dels fotons?
+    3. Quant triga la senyal en arribar als oients?
     <a href="sol/prob813.pdf">Solució</a><br>
-</li>
-<br>
-    
-<li>Calculeu l’energia i la quantitat de moviment dels fotons de llum roja de longitud d’ona $$\lambda=600\,\mathrm{nm}$$.
-</li>
-    <strong>Dades</strong>: $$h=6,62\times10^{-34}\,\mathrm{J\cdot s}$$; $$c=3\times10^{8}\,\mathrm{m\cdot s^{-1}}$$. 
+  
+14. Calculeu l’energia i la quantitat de moviment dels fotons de llum roja de longitud d’ona $$\lambda=600\,\mathrm{nm}$$.
+**Dades**: $$h=6,62\times10^{-34}\,\mathrm{J\cdot s}$$; $$c=3\times10^{8}\,\mathrm{m\cdot s^{-1}}$$. 
 <br> <a href="sol/prob814.pdf">Solució</a><br> <br>
-
+<ol start=15>
 <li>Calculeu el valor de la longitud d’ona d’un fotó d’energia 3 keV.
 </li>
     <strong>Dades</strong>: $$h=6,62\times10^{-34}\,\mathrm{J\cdot s}$$; $$c=3\times10^{8}\,\mathrm{m\cdot s^{-1}}$$; $$1\,\mathrm{eV=1,602\times10^{-19}\,J}$$.
