@@ -59,23 +59,23 @@
     2. Valoreu si els fotons que emet l’antena poden produir efecte fotoelèctric en un metall que és a prop, tenint en compte que l’energia d’extracció mínima dels electrons del metall és 4,1 eV. En cas afirmatiu, calculeu l’energia cinètica dels electrons extrets. Si l’antena emet amb una potència de 8 W, com variarà l’efecte fotoelèctric que es pugui produir en el metall? 
 
     **Dades**: $$h=6,62\times10^{-34}\,\mathrm{J\cdot s}$$; $$1\,\mathrm{eV=1,602\times10^{-19}\,J}$$.
-	<a href="sol/prob810.pdf">Solució</a><br>
+	<br><a href="sol/prob810.pdf">Solució</a><br>
 11. Disposem d’un tub de buit com el de la figura. L’elèctrode A és fet de potassi, que té $$W_{0}=2,29\,\mathrm{eV}$$ com a valor de treball d’extracció. 
     1. Determineu la velocitat amb què surten els electrons arrancats de l’elèctrode A quan l’il·luminem amb llum de color violat de 400 nm de longitud d’ona.
     <img src="img_prob/efecte_fotoelectric.png">
     
     2. A continuació canviem l’elèctrode A per un altre que és fet d’un material desconegut. Per tal de determinar de quin material es tracta, l’il·luminem un altre cop amb la mateixa llum d’abans, i determinem que el potencial de frenada dels electrons de l’elèctrode A és $$V_{f}=0,17\,\mathrm{V}$$. Determineu el treball d’extracció del material i indiqueu de quin element és fet a partir de la taula de valors següent:
 
-|Element|Ba|Li|Mg|As|Al|Bi|Cr|Ag|Be|
-|-------|--|--|--|--|--|--|--|--|--|
-|$$W_{0}$$ (eV)|2,70|2,93|3,66|3,75|4,08|4,34|4,50|4,73|4,98|
+    |Element|Ba|Li|Mg|As|Al|Bi|Cr|Ag|Be|
+    |-------|--|--|--|--|--|--|--|--|--|
+    |$$W_{0}$$ (eV)|2,70|2,93|3,66|3,75|4,08|4,34|4,50|4,73|4,98|
 
-   **Dades**: <br>
+    **Dades**: <br>
     Massa de l’electró, $$m_{\mathrm{electr\acute{o}}}=9,11\times10^{-31}\,\mathrm{kg}$$, <br>
     Constant de Planck, $$h=6,63\times10^{-34}\,\mathrm{Js}$$, <br>
     Velocitat de la llum, $$c=3,00\times10^{8}\,\mathrm{ms^{-1}}$$, <br>
     $$1\,\mathrm{eV=1,60\times10^{-19}\,\mathrm{J}}$$
-    <a href="sol/prob811.pdf">Solució</a><br>
+    <br><a href="sol/prob811.pdf">Solució</a><br>
 
 
 12. En una experiència de laboratori, es mesura l’energia cinètica màxima dels electrons que salten quan es fan incidir radiacions de freqüència diferent sobre una placa d’un material. Els resultats obtinguts es mostren en la taula següent, en què $$E_{c}$$ representa l’energia cinètica, i $$\nu$$, la freqüència:
@@ -85,16 +85,14 @@
     |$$\nu\,\mathrm{(PHz)}$$|0,500|1,00|1,50|2,00|
 
     La representación gràfica dels resultats és la següent:
-        <div align="middle">
         <img src="img_prob/grafic_fotoelectric.png">
-        </div>
     Determineu: 
     1. El valor de la constant de Planck a partir de les dades d’aquest experiment.
     2. La funció de treball; és a dir, l’energia mínima d’extracció d’electrons.
     Expresseu els resultats en unitats del sistema internacional (SI). 
-**Dades**: $$1\,\mathrm{eV=1,60\times10^{-19}\,\mathrm{J}}$$; $$1\,\mathrm{PHz=10^{15}\,\mathrm{Hz}}$$.
-<br><a href="sol/prob812.pdf">Solució</a><br>
-## Dualitat ona-corpuscle
+    **Dades**: $$1\,\mathrm{eV=1,60\times10^{-19}\,\mathrm{J}}$$; $$1\,\mathrm{PHz=10^{15}\,\mathrm{Hz}}$$.
+    <br><a href="sol/prob812.pdf">Solució</a><br>
+    ## Dualitat ona-corpuscle
 
 13. Una emissora de FM que es troba a 15 km de Barcelona transmet amb una potència d'1 kW a una freqüència de 98 MHz.
     1. Quants fotons emet durant un segon?
