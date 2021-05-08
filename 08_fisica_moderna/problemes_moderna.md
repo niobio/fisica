@@ -6,17 +6,18 @@
 
 ## Efecte fotoelèctric
 
-1. Si il·luminem una superfície d’un metall amb llum de $$\lambda=512\,\mathrm{nm}$$, l’energia cinètica màxima dels electrons emesos és de $$8,65\times10^{-20}\,\mathrm{J}$$. Quina serà l’energia cinètica màxima dels electrons emesos si incidim sobre aquest mateix metall amb llum de $$\lambda=365\,\mathrm{nm}$$? <a href="sol/prob801.pdf">Solució</a><br>
+1. Si il·luminem una superfície d’un metall amb llum de $$\lambda=512\,\mathrm{nm}$$, l’energia cinètica màxima dels electrons emesos és de $$8,65\times10^{-20}\,\mathrm{J}$$. Quina serà l’energia cinètica màxima dels electrons emesos si incidim sobre aquest mateix metall amb llum de $$\lambda=365\,\mathrm{nm}$$? 
+<br><a href="sol/prob801.pdf">Solució</a><br>
 
-2. L'energia mínima necessària per arrencar electrons del coure és de 4,4 eV. Quina serà la diferència de potencial que haurem d'aplicar per impedir la sortida d'electrons de coure si aquest s'il·lumina amb una llum de 150 nm de longitud d'ona? <a href="sol/prob802.pdf">Solució</a><br>
+2. L'energia mínima necessària per arrencar electrons del coure és de 4,4 eV. Quina serà la diferència de potencial que haurem d'aplicar per impedir la sortida d'electrons de coure si aquest s'il·lumina amb una llum de 150 nm de longitud d'ona? <br><a href="sol/prob802.pdf">Solució</a><br>
 
 3. Calcula l’energia cinètica màxima dels electrons emesos per una superfície metàl·lica quan hi incideixen fotons de longitud d’ona $$\lambda=2\times10^{-7}\,\mathrm{m}$$. L’energia mínima per alliberar els electrons (treball d’extracció) és $$W=6,72\times10^{-19}\,\mathrm{J}$$.
-<a href="sol/prob803.pdf">Solució</a><br>
+<br><a href="sol/prob803.pdf">Solució</a><br>
 
 4. Quan una superfície metàl·lica s'il·lumina amb llum de 180 nm (zona ultraviolada), aquesta emet electrons. Observem també que la freqüència llindar correspon a la llum de 230 nm. 
     1. Calculeu la velocitat màxima amb què surten els electrons al principi de l'experiment. 
     2. Amb quin potencial invers han de ser frenats aquests electrons per impedir que arribin a l’ànode de la cèl·lula fotoelèctrica?
-    <a href="sol/prob804.pdf">Solució</a><br>
+    <br><a href="sol/prob804.pdf">Solució</a><br>
 
 5. Una llum de freqüència $$6\times10^{14}\,\mathrm{Hz}$$ incideix sobre una superfície metàl·lica i en surten electrons amb una energia cinètica de $$2\times10^{-19}\,\mathrm{J}$$. Calcula el treball d'extracció dels electrons i expressa'l en electronvolts. 
     Resposta: $$1,975\times10^{-19}\,\mathrm{J}$$ <a href="sol/prob805.pdf">Solució</a><br>
@@ -29,7 +30,7 @@
 7. Una radiació de llum ultraviolada, d’una freqüència d’$$1,5\times10^{15}\,\mathrm{Hz}$$, incideix sobre una làmina de coure de manera que es produeix efecte fotoelèctric. La freqüència mínima perquè es produeixi efecte fotoelèctric en aquest metall és $$1,1\times10^{15}\,\mathrm{Hz}$$. 
     1. Calculeu l’energia cinètica màxima dels fotoelectrons emesos. 
     2. Expliqueu què passaria si la llum incident tingués una longitud d’ona de $$3,0\times10^{-7}\,\mathrm{m}$$. 
-    <a href="sol/prob807.pdf">Solució</a><br>
+    <br><a href="sol/prob807.pdf">Solució</a><br>
 
 8. Se sap que un determinat metall experimenta l’efecte fotoelèctric quan s’hi fan incidir fotons d’energia superior a 1 eV. Suposeu que sobre aquest metall hi incideixen fotons de longitud d’ona $$6\times10^{-7}\,\mathrm{m}$$. 
     1. Quant val la freqüència dels fotons incidents? 
@@ -52,7 +53,7 @@
      $$q_{e}=-1,60\times10^{-19}\,\mathrm{C}$$; <br>
      $$1\,\mathrm{eV=1,602\times10^{-19}\,J}$$; <br>
      $$1\,\mathrm{nm=10^{-9}\,\mathrm{m}}$$.
-	<a href="sol/prob809.pdf">Solució</a><br>
+	<br><a href="sol/prob809.pdf">Solució</a><br>
 
 10. Una antena de telefonia mòbil instal·lada al terrat d’un edifici emet ones electromagnètiques de 900 MHz de freqüència amb una potència de 4 W. 
     1. Calculeu quants fotons emet l’antena en un minut. 
@@ -98,7 +99,7 @@
     1. Quants fotons emet durant un segon?
     2. Quina és la longitud d'ona dels fotons?
     3. Quant triga la senyal en arribar als oients?
-    <a href="sol/prob813.pdf">Solució</a><br>
+    <br><a href="sol/prob813.pdf">Solució</a><br>
   
 14. Calculeu l’energia i la quantitat de moviment dels fotons de llum roja de longitud d’ona $$\lambda=600\,\mathrm{nm}$$.
     <br>
