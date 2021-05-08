@@ -148,6 +148,7 @@
     <br><a href="sol/radioactivitat_05.pdf">Solució</a><br>
     
 26. Quin és el període de semidesintegració d'un nucli radiactiu l'activitat del qual disminueix en 1/8 al cap d'un dia?
+    <br><a href="sol/radioactivitat_05.pdf">Solució</a><br>
         
 27. La central nuclear de Fukushima al Japó va patir l'any 2011 l'accident nuclear més greu de la història degut a un terratrèmol i un posterior tsunami devastadors. Quatre dels seus sis reactors es van fondre. Actualment la zona que rodeja la central té restringit l'accés degut als perillosos nivells de radioactivitat. Un dels isòtops radioactius que es troben a la zona és el Cesi-137 $$(\mathrm{^{137}Cs})$$, que decau en Bari-137 $$(\mathrm{^{137}Ba})$$, que és estable, amb un període de semidesintegració 30,17 anys. 
     1. Quin tipus de decaïment té el Cesi-137? Escriu la equació desenvolupada del decaiment.
@@ -230,24 +231,29 @@
     ## Reaccions nuclears
 
 37. Si bombardegem amb neutrons el fluor 19 es forma un nou element amb emissió d'una partícula alfa, seguint l'equació:
+    <br>
     $$\mathrm{^{19}F}+n\longrightarrow\mathrm{^{?}X}+\alpha$$
     1. Quin és aquest nou element? 
     2. Quina és la seva massa atòmica?
-    <br>
+    <br><a href="sol/nuclear_37.pdf">Solució</a><br>
     
-38. L’americi (Am) és l’element de nombre atòmic 95. Els primers àtoms d’americi 241 van ser produïts el 1944 per Glenn Theodore Seaborg i els seus col·laboradors fent servir un seguit de reaccions nuclears a partir del plutoni (Pu). A con- tinuació, es mostren, incompletes, les dues últimes etapes del procés: 
-    $$\mathrm{_{94}^{240}Pu+_{b}^{a}x\longrightarrow_{94}^{241}Pu}$$
-    $$\mathrm{_{94}^{241}Pu\longrightarrow_{95}^{241}Am+_{d}^{c}Y}$$
-    1. Determineu els valors dels coeficients a, b, c i d. Quin nom té la partícula que el Pu-240 ha capturat en la primera reacció? Com s’anomena la desintegració descrita en la Glenn Theodore Seaborg segona reacció?
-    2. Calculeu el percentatge de nuclis de Am-241 que s’han desintegrat des del 1944 fins ara. 
-    <br>**Dada**<br>: Període de semidesintegració de l’americi 241, $$t_{1/2}=432\,\mathrm{anys}$$.
-    <img src="img_prob/seaborg.png">
+38. L’americi (Am) és l’element de nombre atòmic 95. Els primers àtoms d’americi 241 van ser produïts el 1944 per Glenn Theodore Seaborg i els seus col·laboradors fent servir un seguit de reaccions nuclears a partir del plutoni (Pu). A continuació, es mostren, incompletes, les dues últimes etapes del procés: 
     <br>
+    $$\mathrm{_{94}^{240}Pu}+_{b}^{a}\mathrm{X\longrightarrow_{94}^{241}Pu}$$
+    <br>
+    1. Determineu els valors dels coeficients a, b, c i d. Quin nom té la partícula que el Pu-240 ha capturat en la primera reacció? Com s’anomena la desintegració descrita en la segona reacció?
+    2. Calculeu el percentatge de nuclis de Am-241 que s’han desintegrat des del 1944 fins ara. 
+    <br>**Dada**: <br>Període de semidesintegració de l’americi 241, $$t_{1/2}=432\,\mathrm{anys}$$.
+    <img src="img_prob/seaborg.png" alt="Glenn Theodore Seaborg">
+    <br><a href="sol/nuclear_38.pdf">Solució</a><br>
+
 39. L’urani 235 té uns quaranta modes possibles de desintegració per absorció d’un neutró. 
     1. Completeu la reacció nuclear següent, que s’esdevé quan un nucli d’urani 235 absorbeix un neutró:     
+    <br>
     $$\mathrm{_{a}^{b}n+_{92}^{235}U\longrightarrow_{38}^{95}Sr+_{d}^{c}Xe+2_{a}^{b}n}$$
-        Indiqueu també quants neutrons i protons té aquest nucli d’urani.</li>
-    2. Calculeu l’energia produïda en la fissió d’un nucli d’urani 235, d’acord amb la reacció anterior. </li>
+    <br>
+    Indiqueu també quants neutrons i protons té aquest nucli d’urani.
+    2. Calculeu l’energia produïda en la fissió d’un nucli d’urani 235, d’acord amb la reacció anterior.
     <br>**Dades**: <br>
     $$m_{\mathrm{neutr\acute{o}}}=1,00866\,\mathrm{\mathrm{u}}$$; <br>
     $$m\mathrm{(^{235}U)}=235,124\,\mathrm{u}$$; <br>
@@ -255,7 +261,7 @@
     $$m(\mathrm{^{139}Xe})=138,919\,\mathrm{u}$$; <br>
     $$c=2,99792\times10^{8}\,\mathrm{ms^{-1}}$$; <br>
     $$1\,\mathrm{u=1,66054\times10^{-27}\,\mathrm{kg}}$$.
-    <br>
+    <br><a href="sol/nuclear_39.pdf">Solució</a><br>
 
 40. Completa les reaccions nuclears següents: 
     1. $$^{9}\mathrm{Be+{}^{4}He}\longrightarrow\mathrm{^{12}C+\ldots+\gamma}$$
@@ -263,7 +269,7 @@
     3. $$^{129}\mathrm{Ba}\longrightarrow\mathrm{^{129}Cs+\ldots+\gamma}$$
     4. $$^{35}\mathrm{Cl+{}^{1}n}\longrightarrow\mathrm{^{36}S+\ldots+\gamma}$$
     5. $$^{208}\mathrm{Po}\longrightarrow\mathrm{^{204}Pb+\ldots+\gamma}$$
-    6. $$\ldots+{}^{222}\mathrm{Rn}\longrightarrow\mathrm{^{226}Ra+\gamma}$$
+    6. $$\,\ldots+{}^{222}\mathrm{Rn}\longrightarrow\mathrm{^{226}Ra+\gamma}$$
     <br>
 
 41. Completa les reaccions de fissió nuclear següents:
