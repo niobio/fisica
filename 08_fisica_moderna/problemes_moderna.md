@@ -269,7 +269,8 @@
     3. $$^{129}\mathrm{Ba}\longrightarrow\mathrm{^{129}Cs+\ldots+\gamma}$$
     4. $$^{35}\mathrm{Cl+{}^{1}n}\longrightarrow\mathrm{^{36}S+\ldots+\gamma}$$
     5. $$^{208}\mathrm{Po}\longrightarrow\mathrm{^{204}Pb+\ldots+\gamma}$$
-    6. $$\,\ldots+{}^{222}\mathrm{Rn}\longrightarrow\mathrm{^{226}Ra+\gamma}$$
+    6. $$\ldots+{}^{222}\mathrm{Rn}\longrightarrow\mathrm{^{226}Ra+\gamma}$$
+    <br><a href="sol/nuclear_40.pdf">Solució</a><br>
     <br>
 
 41. Completa les reaccions de fissió nuclear següents:
@@ -277,7 +278,7 @@
     2. $$\mathrm{^{239}Pu+_{0}^{1}n\longrightarrow^{100}Tc+\ldots+4_{0}^{1}n}$$
     3. $$\mathrm{^{235}U+_{0}^{1}n\longrightarrow^{94}Sr+\ldots+2{}_{0}^{1}n}$$
     4. $$\mathrm{^{239}Pu+_{0}^{1}n\longrightarrow\ldots+^{133}In+3_{0}^{1}n}$$
-
+    <br><a href="sol/nuclear_41.pdf">Solució</a><br>
 
 ### Dades útils
 
