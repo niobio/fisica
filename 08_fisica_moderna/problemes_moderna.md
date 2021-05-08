@@ -223,7 +223,9 @@
     <br><a href="sol/radioactivitat_15.pdf">Solució</a><br>
     
 36. La tècnica de diagnòstic a partir de la imatge que s’obté mitjançant tomografia per emissió de positrons (PET, Positron Emission Tomography) es fonamenta en l’anihilació entre la matèria i l’antimatèria. Els positrons, emesos pels nuclis de fluor, $$^{18}\mathrm{F}$$, injectats al pacient com a radiofàrmac, s’anihilen en entrar en contacte amb els electrons dels teixits del cos i de cadascuna d’aquestes anihilacions es creen fotons, a partir dels quals s’obté la imatge. La desintegració d’un nucli de fluor, $$^{18}\mathrm{F}$$, es pot escriure mitjançant la reacció nuclear següent:
-    $${_9}^{18}\textrm{F}\longrightarrow\mathrm{_{8}^{x}O+\mathrm{_{z}^{y}e^{+}+_{0}^{0}\nu}}$$
+<br>
+            $${_9}^{18}\textrm{F}\longrightarrow\mathrm{_{8}^{x}O+\mathrm{_{z}^{y}e^{+}+_{0}^{0}\nu}}$$
+    <br>
     1. Digueu quants neutrons i quants protons té aquest isòtop artificial de fluor, $$^{18}\mathrm{F}$$.    Completeu la reacció nuclear, és a dir, determineu $$x$$, $$y$$ i $$z$$.
     2. El període de semidesintegració del $$^{18}\mathrm{F}$$ és 109,77 s. Calculeu el temps que ha de passar perquè quedi una vuitena part de la quantitat inicial de $$^{18}\mathrm{F}$$. Quin percentatge de partícules quedaran al cap d’una hora? Tenint en compte aquest resultat, digueu si podríem emmagatzemar gaire temps aquest radiofàrmac i justifiqueu-ho.
     <br><a href="sol/radioactivitat_16.pdf">Solució</a><br>
@@ -231,16 +233,17 @@
     ## Reaccions nuclears
 
 37. Si bombardegem amb neutrons el fluor 19 es forma un nou element amb emissió d'una partícula alfa, seguint l'equació:
+    <br><br>
+            $$\mathrm{^{19}F}+n\longrightarrow\mathrm{^{?}X}+\alpha$$
     <br>
-    $$\mathrm{^{19}F}+n\longrightarrow\mathrm{^{?}X}+\alpha$$
     1. Quin és aquest nou element? 
     2. Quina és la seva massa atòmica?
     <br><a href="sol/nuclear_37.pdf">Solució</a><br>
     
 38. L’americi (Am) és l’element de nombre atòmic 95. Els primers àtoms d’americi 241 van ser produïts el 1944 per Glenn Theodore Seaborg i els seus col·laboradors fent servir un seguit de reaccions nuclears a partir del plutoni (Pu). A continuació, es mostren, incompletes, les dues últimes etapes del procés: 
-    <br>
-    $$\mathrm{_{94}^{240}Pu}+_{b}^{a}\mathrm{X\longrightarrow_{94}^{241}Pu}$$
-    <br>
+    <br><br>
+            $$\mathrm{_{94}^{240}Pu}+_{b}^{a}\mathrm{X\longrightarrow_{94}^{241}Pu}$$
+    <br><br>
     1. Determineu els valors dels coeficients a, b, c i d. Quin nom té la partícula que el Pu-240 ha capturat en la primera reacció? Com s’anomena la desintegració descrita en la segona reacció?
     2. Calculeu el percentatge de nuclis de Am-241 que s’han desintegrat des del 1944 fins ara. 
     <br>**Dada**: <br>Període de semidesintegració de l’americi 241, $$t_{1/2}=432\,\mathrm{anys}$$.
@@ -250,8 +253,8 @@
 39. L’urani 235 té uns quaranta modes possibles de desintegració per absorció d’un neutró. 
     1. Completeu la reacció nuclear següent, que s’esdevé quan un nucli d’urani 235 absorbeix un neutró:     
     <br>
-    $$\mathrm{_{a}^{b}n+_{92}^{235}U\longrightarrow_{38}^{95}Sr+_{d}^{c}Xe+2_{a}^{b}n}$$
-    <br>
+            $$\mathrm{_{a}^{b}n+_{92}^{235}U\longrightarrow_{38}^{95}Sr+_{d}^{c}Xe+2_{a}^{b}n}$$
+    <br><br>
     Indiqueu també quants neutrons i protons té aquest nucli d’urani.
     2. Calculeu l’energia produïda en la fissió d’un nucli d’urani 235, d’acord amb la reacció anterior.
     <br>**Dades**: <br>
@@ -270,6 +273,7 @@
     4. $$^{35}\mathrm{Cl+{}^{1}n}\longrightarrow\mathrm{^{36}S+\ldots+\gamma}$$
     5. $$^{208}\mathrm{Po}\longrightarrow\mathrm{^{204}Pb+\ldots+\gamma}$$
     6. $$\ldots+{}^{222}\mathrm{Rn}\longrightarrow\mathrm{^{226}Ra+\gamma}$$
+    
     <br><a href="sol/nuclear_40.pdf">Solució</a><br>
     <br>
 
@@ -278,6 +282,7 @@
     2. $$\mathrm{^{239}Pu+_{0}^{1}n\longrightarrow^{100}Tc+\ldots+4_{0}^{1}n}$$
     3. $$\mathrm{^{235}U+_{0}^{1}n\longrightarrow^{94}Sr+\ldots+2{}_{0}^{1}n}$$
     4. $$\mathrm{^{239}Pu+_{0}^{1}n\longrightarrow\ldots+^{133}In+3_{0}^{1}n}$$
+    
     <br><a href="sol/nuclear_41.pdf">Solució</a><br>
 
 ### Dades útils
