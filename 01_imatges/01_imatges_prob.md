@@ -73,7 +73,7 @@
         2. Disminueix.
         3. No canvia.
         
-## Miralls
+    ## Miralls
 
 14. Considereu un mirall esfèric convex. Dibuixeu el diagrama de raigs necessari per localitzar la imatge d’un objecte petit en forma de fletxa situat davant del mirall, sobre el seu eix. Indiqueu si la imatge és virtual o real, dreta o invertida, reduïda o ampliada. 
 <br><a href="sol/prob114.pdf">Solució</a><br>
@@ -102,7 +102,7 @@
     *R: imatge: 22,5 m; objecte: 11 cm*
     <br><a href="sol/prob119.pdf">Solució</a><br>
 
-## Lents
+    ## Lents
 
 20. Disposem d’una lent convergent de distància focal f, amb la qual visualitzem un objecte situat a l’esquerra de la lent. Trieu la resposta que considereu correcta. 
     1. Per obtenir una imatge de l’objecte que sigui real, invertida i el doble de gran, hem de situar l’objecte: 
