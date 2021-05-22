@@ -13,7 +13,7 @@
 2. Els mòduls espacials que van posar-se damunt la superfície de Mart van enviar les imatges per mitjà de les ones electromagnètiques. Quin hagués estat el temps mínim de reacció del robot que es desplaçava sobre la superfície de Mart, si el seu control s'hagués fet des de la Terra que es trobava a 250 milions de km?
         <br><a href="sol/prob102.pdf">Solució</a><br>
 
-    <h3>Reflexió i refracció de la llum</h3>
+    <h2>Reflexió i refracció de la llum</h2>
 
 3. Calcula la velocitat de la llum vermella a l'interior d'un prisma òptic, sabent que l'índex de refracció per a aquest color és d'1,44. Calcula l'índex de refracció del color violeta del mateix prisma, sabent que la seva llum viatja en el prisma a 188.800 km/s.
 <br><a href="sol/prob103.pdf">Solució</a><br>
