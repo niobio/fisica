@@ -13,7 +13,7 @@
 2. Els mòduls espacials que van posar-se damunt la superfície de Mart van enviar les imatges per mitjà de les ones electromagnètiques. Quin hagués estat el temps mínim de reacció del robot que es desplaçava sobre la superfície de Mart, si el seu control s'hagués fet des de la Terra que es trobava a 250 milions de km?
 <br><a href="sol/prob102.pdf">Solució</a><br>
 
-## Reflexió i refracció de la llum
+    ## Reflexió i refracció de la llum
 
 3. Calcula la velocitat de la llum vermella a l'interior d'un prisma òptic, sabent que l'índex de refracció per a aquest color és d'1,44. Calcula l'índex de refracció del color violeta del mateix prisma, sabent que la seva llum viatja en el prisma a 188.800 km/s.
 <br><a href="sol/prob103.pdf">Solució</a><br>
@@ -48,6 +48,7 @@
 10. El dipòsit d'aigua de la figura està ple d'aigua ($$n=1,33$$). Un raig de llum incideix rasant a la paret lateral del dipòsit i es refracta com es veu a la figura. Determineu el valor de l'angle d'incidència del raig.
     
     <img src="img_prob/estanque.svg" width="50%">
+    <br><a href="sol/prob110.pdf">Solució</a><br>
 
 11. Tenim una peça de vidre, la secció de la qual és la que s'indica a la figura. Si l'índex de refracció del vidre té un valor de $$\sqrt{2}$$, quin és el valor de l'angle límit per a aquest material? Dibuixa la trajectòria que seguirà el raig de llum, r, a l'interior de la peça de vidre. Es produirà una reflexió total a la cara BC?
     
@@ -73,7 +74,7 @@
         2. Disminueix.
         3. No canvia.
         
-    ## Miralls
+        ## Miralls
 
 14. Considereu un mirall esfèric convex. Dibuixeu el diagrama de raigs necessari per localitzar la imatge d’un objecte petit en forma de fletxa situat davant del mirall, sobre el seu eix. Indiqueu si la imatge és virtual o real, dreta o invertida, reduïda o ampliada. 
 <br><a href="sol/prob114.pdf">Solució</a><br>
