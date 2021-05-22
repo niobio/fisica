@@ -11,7 +11,7 @@
 <br><a href="sol/prob101.pdf">Solució</a><br>
 
 2. Els mòduls espacials que van posar-se damunt la superfície de Mart van enviar les imatges per mitjà de les ones electromagnètiques. Quin hagués estat el temps mínim de reacció del robot que es desplaçava sobre la superfície de Mart, si el seu control s'hagués fet des de la Terra que es trobava a 250 milions de km?
-    <br><a href="sol/prob102.pdf">Solució</a><br>
+        <br><a href="sol/prob102.pdf">Solució</a><br>
 
     ## Reflexió i refracció de la llum
 
