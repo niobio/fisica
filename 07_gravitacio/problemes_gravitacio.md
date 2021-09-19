@@ -16,7 +16,7 @@
     <tr>
      <td>Terra</td> 
      <td>$$148 \times 10^{6}$$</td>
-     <td>$41,0$$</td>
+     <td>$$1,0$$</td>
      </tr>
      <tr>
      <td>Júpiter</td>
