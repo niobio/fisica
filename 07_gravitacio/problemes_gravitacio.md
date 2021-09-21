@@ -58,7 +58,9 @@
     Dades: Radi de la Terra: $$R_{T}=6,38\times10^{6}\,\mathrm{m}$$, velocitat de la llum: $$c=3\times10^{8}\mathrm{m/s}$$
      <br>
      <a href="sol/prob706.pdf">Solució</a>
-    ## Camp gravitatori
+    
+    <h2>Camp gravitatori</h2>
+    
 7. Tres masses de 1.000 kg cadascuna estan situades en els punts a, b i c (alineats). Calcula quin és el camp gravitatori que crea el conjunt de les tres masses en el punt P. Realitza el càlcul vectorial i després calcula'n el mòdul i la direcció.
     <img src="img_prob/masses_alineades.png" width="400px">
     <br>
