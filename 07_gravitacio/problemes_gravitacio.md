@@ -59,7 +59,6 @@
      <br>
      <a href="sol/prob706.pdf">Solució</a>
 
-
     ## Camp gravitatori
 
 7. Tres masses de 1.000 kg cadascuna estan situades en els punts a, b i c (alineats). Calcula quin és el camp gravitatori que crea el conjunt de les tres masses en el punt P. Realitza el càlcul vectorial i després calcula'n el mòdul i la direcció.
@@ -103,108 +102,83 @@
 
     ## Energia
 
-<ol start="12">
-<li>Tenim una massa de 10 kg en repòs sobre la superfície terrestre. Quin treball cal fer per pujar-la fins a una altura de 10 m? I fins a una altura de 630 km? 
-<br>
+12. Tenim una massa de 10 kg en repòs sobre la superfície terrestre. Quin treball cal fer per pujar-la fins a una altura de 10 m? I fins a una altura de 630 km? 
+    <br>
     Dades: <br>
     $$G=6,67\times10^{-11}\,\mathrm{Nm^{2}kg^{-2}}$$; <br>
     $$M_{T}=5,98\times10^{24}\,\mathrm{kg}$$; <br>
     $$R_{T}=6,37\times10^{6}\,\mathrm{m}$$. <br>
     <a href="sol/prob712.pdf">Solució</a>
-</li>
-<br>
-<li>Dos satèl·lits A i B tenen la mateixa massa i giren al voltant de la Terra en òrbites circulars, de manera que el radi de l’òrbita d’A és més gran que el radi de l’òrbita de B.
-    <ol>
-        <li>Quin dels dos satèl·lits té més energia cinètica?</li>
-        <li>Quin dels dos satèl·lits té més energia mecànica?</li>
-    </ol>
-<a href="sol/prob713.pdf">Solució</a>
-</li>
-<br>
-<li>L'any 1910 el cometa Halley es movia amb una velocitat de 55 km/s quan era a $$8,8\times10^{7}\,\mathrm{km}$$  del centre del Sol. La seva velocitat era de 42 km/s quan era a la mateixa distància al Sol que la Terra: $$1,5\times10^{8}\,\mathrm{km}$$. Aplicant la conservació de l'energia mecànica, calcula la massa del Sol.
-<br>
-<a href="sol/prob714.pdf">Solució</a>
-</li>
-<br>
-<li>Deixem anar lliurement una massa de 4 kg des del punt B. Només pot circular (sense fricció) pel carril (veure figura).
+    <br>
+13. Dos satèl·lits A i B tenen la mateixa massa i giren al voltant de la Terra en òrbites circulars, de manera que el radi de l’òrbita d’A és més gran que el radi de l’òrbita de B.
+    1. Quin dels dos satèl·lits té més energia cinètica?
+    2. Quin dels dos satèl·lits té més energia mecànica?
+    <br>
+    <a href="sol/prob713.pdf">Solució</a>
+    <br>
+14. L'any 1910 el cometa Halley es movia amb una velocitat de 55 km/s quan era a $$8,8\times10^{7}\,\mathrm{km}$$  del centre del Sol. La seva velocitat era de 42 km/s quan era a la mateixa distància al Sol que la Terra: $$1,5\times10^{8}\,\mathrm{km}$$. Aplicant la conservació de l'energia mecànica, calcula la massa del Sol.
+    <br>
+    <a href="sol/prob714.pdf">Solució</a>
+    <br>
+15. Deixem anar lliurement una massa de 4 kg des del punt B. Només pot circular (sense fricció) pel carril (veure figura).
     <img src="img_prob/rail.png" width="500px">
-    <ol>
-        <li>Anirà cap a la dreta o cap a l'esquerra? Per què?</li>
-        <li>Amb quina velocitat arribarà als punts A i C, tenint en compte la resposta anterior?</li>
+    1. Anirà cap a la dreta o cap a l'esquerra? Per què?
+    2. Amb quina velocitat arribarà als punts A i C, tenint en compte la resposta anterior?
     Rta: (b) $$4,2\times10^{-5}\,\mathrm{m/s}$$.
-    </ol>
-<a href="sol/prob715.pdf">Solució</a>
-</li>
-<br>
-
-<li>Un satèl·lit de massa 350 kg descriu òrbites circulars entorn de la Terra a una altura de 630 km. 
-    <ol>
-        <li>Quant val la intensitat del camp gravitatori creat per la Terra a aquesta altura? </li>
-        <li>Quant val l’acceleració centrípeta del satèl·lit? </li>
-        <li>Quant val l’energia mecànica del satèl·lit? </li>
-    </ol>
+    <br>
+    <a href="sol/prob715.pdf">Solució</a>
+    <br>
+16. Un satèl·lit de massa 350 kg descriu òrbites circulars entorn de la Terra a una altura de 630 km. 
+    1. Quant val la intensitat del camp gravitatori creat per la Terra a aquesta altura?
+    2. Quant val l’acceleració centrípeta del satèl·lit?
+    3. Quant val l’energia mecànica del satèl·lit?
+    <br>
     <a href="sol/prob716.pdf">Solució</a>
-</li>
-<br>
-
-<li>Des d’un lloc de la Terra es pot observar el pas de l'Estació Espacial Internacional (ISS) cada 90 minuts. Si segueix una òrbita circular, calculeu:
+    <br>
+17. Des d’un lloc de la Terra es pot observar el pas de l'Estació Espacial Internacional (ISS) cada 90 minuts. Si segueix una òrbita circular, calculeu:
     <img src="img_prob/international_Space_Station.png" width="70%">
-    <ol>
-        <li>La seva alçada sobre la superfície terrestre en km.</li>
-        <li>La seva velocitat orbital.</li>
-    </ol>
+    1. La seva alçada sobre la superfície terrestre en km.
+    2. La seva velocitat orbital.
+    <br>
     <a href="sol/prob717.pdf">Solució</a>
-</li>
-<br>
-
-<li>La massa de Saturn és de $$5,69\times10^{26}\,\mathrm{kg}$$. Un dels seus satèl·lits, Mimas, té una massa de $$3,8\times10^{19}\,\mathrm{kg}$$ i un radi d’$$1,96\times10^{5}\,\mathrm{m}$$, i descriu una òrbita pràcticament circular al voltant de Saturn de radi $$1,86\times10^{8}\,\mathrm{m}$$. Determineu: 
-    <ol>
-        <li>El període de revolució de Mimas al voltant de Saturn.</li>
-        <li>El valor de l’acceleració de la gravetat a la superfície de Mimas. </li>
-        <li>La velocitat d’escapament de la superfície de Mimas. </li>
+    <br>
+18. La massa de Saturn és de $$5,69\times10^{26}\,\mathrm{kg}$$. Un dels seus satèl·lits, Mimas, té una massa de $$3,8\times10^{19}\,\mathrm{kg}$$ i un radi d’$$1,96\times10^{5}\,\mathrm{m}$$, i descriu una òrbita pràcticament circular al voltant de Saturn de radi $$1,86\times10^{8}\,\mathrm{m}$$. Determineu: 
+    1. El període de revolució de Mimas al voltant de Saturn.
+    2. El valor de l’acceleració de la gravetat a la superfície de Mimas. 
+    3. La velocitat d’escapament de la superfície de Mimas.
     Dada: $$G=6,67\times10^{-11}\,\mathrm{Nm^{2}kg^{-2}}$$
-    </ol>
+    <br>
     <a href="sol/prob718.pdf">Solució</a>
-</li>
-<br>
-<li>El gràfic adjunt mostra com varia l’energia potencial gravitatòria d’un cos de massa 2 kg, en un planeta de radi $$R=5000\,\mathrm{km}$$, amb la distància $$h$$ a la superfície del planeta (suposant que $$h$$ és molt més petita que $R$). 
+    <br>
+19. El gràfic adjunt mostra com varia l’energia potencial gravitatòria d’un cos de massa 2 kg, en un planeta de radi $$R=5000\,\mathrm{km}$$, amb la distància $$h$$ a la superfície del planeta (suposant que $$h$$ és molt més petita que $R$). 
     <img src="img_prob/04_grafic_ep.png" width="80%">
-    <ol>
-        <li>L’acceleració de la gravetat a la superfície del planeta esmentat.</li>
-        <li>La massa del planeta.</li>
-        <li>La velocitat d’escapament en el planeta.</li>
-    </ol>
+    1. L’acceleració de la gravetat a la superfície del planeta esmentat.
+    2. La massa del planeta.
+    3. La velocitat d’escapament en el planeta.
     <br>
     Dada:<br> 
     $$G=6,67\times10^{-11}\,\mathrm{Nm^{2}/kg^{2}}$$.
     <br>
     <a href="sol/prob719.pdf">Solució</a>
-</li>
-<br>
-<li>Els satèl·lits GPS (global positioning system, ‘sistema de posicionament global’) descriuen òrbites circulars al voltant de la Terra. El conjunt dels satèl·lits permet que en qualsevol punt de la Terra una persona amb un receptor GPS pugui determinar la posició on es troba amb una precisió de pocs metres. Tots els satèl·lits GPS estan a la mateixa altura i fan dues voltes a la Terra cada 24 hores. Sabent que els satèl·lits tenen una massa de 150 kg, calculeu: 
-    <ol>
-    <li>La velocitat angular dels satèl·lits i l’altura de la seva òrbita, mesurada sobre la superfície de la Terra.</li> 
-    <li>L’energia mecànica i la velocitat lineal que té un d’aquests satèl·lits GPS en la seva òrbita. </li>
-    <li>La nova velocitat i el temps que trigaria a fer una volta a la Terra, si féssim orbitar un d’aquests satèl·lits a una altura doble. </li>
-    </ol>
+    <br>
+20. Els satèl·lits GPS (global positioning system, ‘sistema de posicionament global’) descriuen òrbites circulars al voltant de la Terra. El conjunt dels satèl·lits permet que en qualsevol punt de la Terra una persona amb un receptor GPS pugui determinar la posició on es troba amb una precisió de pocs metres. Tots els satèl·lits GPS estan a la mateixa altura i fan dues voltes a la Terra cada 24 hores. Sabent que els satèl·lits tenen una massa de 150 kg, calculeu: 
+    1. La velocitat angular dels satèl·lits i l’altura de la seva òrbita, mesurada sobre la superfície de la Terra.
+    2. L’energia mecànica i la velocitat lineal que té un d’aquests satèl·lits GPS en la seva òrbita.
+    3. La nova velocitat i el temps que trigaria a fer una volta a la Terra, si féssim orbitar un d’aquests satèl·lits a una altura doble.
+    <br>
     Dades: <br>
     $$G=6,67\times10^{-11}\,\mathrm{Nm^{2}kg^{-2}}$$; <br>
     $$M_{T}=5,98\times10^{24}\mathrm{kg}$$; <br>
     $$R_{T}=6380\,\mathrm{kg}$$.<br>
     <a href="sol/prob720.pdf">Solució</a>
-</li>
-<br>
-<li>L’any 1969, el mòdul de comandament Columbia, de la missió Apollo 11, tripulada per l’astronauta Michael Collins, orbitava a 100 km d’altura sobre la superfície de la Lluna amb un període de 118 minuts. Mentrestant, Neil Armstrong i Edwin Aldrin, els altres dos tripulants, caminaven sobre la Lluna. 
+    <br>
+21. L’any 1969, el mòdul de comandament Columbia, de la missió Apollo 11, tripulada per l’astronauta Michael Collins, orbitava a 100 km d’altura sobre la superfície de la Lluna amb un període de 118 minuts. Mentrestant, Neil Armstrong i Edwin Aldrin, els altres dos tripulants, caminaven sobre la Lluna. 
     <img src="img_prob/moon_unit.png" width="70%">
     <br>
     Calculeu: 
-    <ol>
-        <li>La massa de la Lluna i la intensitat del camp gravitatori a la superfície lunar.</li> 
-        <li>La velocitat d’escapament des de la superfície lunar.</li>
-    </ol>
+    1. La massa de la Lluna i la intensitat del camp gravitatori a la superfície lunar.
+    2. La velocitat d’escapament des de la superfície lunar.
     Dades: <br>
-        $$G=6,67\times10^{-11}\,\mathrm{Nm^{2}kg^{-2}}$$; <br>
-        $$R_{\mathrm{Lluna}}=1,74\times10^{3}\,\mathrm{km}$$.<br>
+    $$G=6,67\times10^{-11}\,\mathrm{Nm^{2}kg^{-2}}$$; <br>
+    $$R_{\mathrm{Lluna}}=1,74\times10^{3}\,\mathrm{km}$$.<br>
     <a href="sol/prob721.pdf">Solució</a>
-</li>
-</ol>
