@@ -58,9 +58,7 @@
     Dades: Radi de la Terra: $$R_{T}=6,38\times10^{6}\,\mathrm{m}$$, velocitat de la llum: $$c=3\times10^{8}\mathrm{m/s}$$
      <br>
      <a href="sol/prob706.pdf">Solució</a>
-
     ## Camp gravitatori
-
 7. Tres masses de 1.000 kg cadascuna estan situades en els punts a, b i c (alineats). Calcula quin és el camp gravitatori que crea el conjunt de les tres masses en el punt P. Realitza el càlcul vectorial i després calcula'n el mòdul i la direcció.
     <img src="img_prob/masses_alineades.png" width="400px">
     <br>
@@ -124,6 +122,7 @@
     <img src="img_prob/rail.png" width="500px">
     1. Anirà cap a la dreta o cap a l'esquerra? Per què?
     2. Amb quina velocitat arribarà als punts A i C, tenint en compte la resposta anterior?
+    <br>
     Rta: (b) $$4,2\times10^{-5}\,\mathrm{m/s}$$.
     <br>
     <a href="sol/prob715.pdf">Solució</a>
@@ -150,7 +149,7 @@
     <br>
     <a href="sol/prob718.pdf">Solució</a>
     <br>
-19. El gràfic adjunt mostra com varia l’energia potencial gravitatòria d’un cos de massa 2 kg, en un planeta de radi $$R=5000\,\mathrm{km}$$, amb la distància $$h$$ a la superfície del planeta (suposant que $$h$$ és molt més petita que $R$). 
+19. El gràfic adjunt mostra com varia l’energia potencial gravitatòria d’un cos de massa 2 kg, en un planeta de radi $$R=5000\,\mathrm{km}$$, amb la distància $$h$$ a la superfície del planeta (suposant que $$h$$ és molt més petita que $$R$$). 
     <img src="img_prob/04_grafic_ep.png" width="80%">
     1. L’acceleració de la gravetat a la superfície del planeta esmentat.
     2. La massa del planeta.
@@ -173,11 +172,13 @@
     <a href="sol/prob720.pdf">Solució</a>
     <br>
 21. L’any 1969, el mòdul de comandament Columbia, de la missió Apollo 11, tripulada per l’astronauta Michael Collins, orbitava a 100 km d’altura sobre la superfície de la Lluna amb un període de 118 minuts. Mentrestant, Neil Armstrong i Edwin Aldrin, els altres dos tripulants, caminaven sobre la Lluna. 
+    <br>
     <img src="img_prob/moon_unit.png" width="70%">
     <br>
     Calculeu: 
     1. La massa de la Lluna i la intensitat del camp gravitatori a la superfície lunar.
     2. La velocitat d’escapament des de la superfície lunar.
+    <br>
     Dades: <br>
     $$G=6,67\times10^{-11}\,\mathrm{Nm^{2}kg^{-2}}$$; <br>
     $$R_{\mathrm{Lluna}}=1,74\times10^{3}\,\mathrm{km}$$.<br>
