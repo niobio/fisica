@@ -30,7 +30,7 @@
      <br>
      <a href="sol/prob702.pdf">Solució</a>
 
-3. El planeta Mart té dues llunes: Fobos i Deimos. La òrbita de Fobos té un radi de 9377 km i tarda 7,66 h a completar-la. Deimos es troba a 23460 km del centre de Mart. Quant tarda deimos en completar una òrbita al voltant de Mart?
+3. El planeta Mart té dues llunes: Fobos i Deimos. La òrbita de Fobos té un radi de 9377 km i tarda 7,66 h a completar-la. Deimos es troba a 23460 km del centre de Mart. Quant tarda Deimos en completar una òrbita al voltant de Mart?
      <br>
      <a href="sol/prob703.pdf">Solució</a>
 
@@ -60,58 +60,48 @@
      <a href="sol/prob706.pdf">Solució</a>
 
 
-## Camp gravitatori
+    ## Camp gravitatori
 
-<ol start="7">
-<li>Tres masses de 1.000 kg cadascuna estan situades en els punts a, b i c (alineats). Calcula quin és el camp gravitatori que crea el conjunt de les tres masses en el punt P. Realitza el càlcul vectorial i després calcula'n el mòdul i la direcció.
+7. Tres masses de 1.000 kg cadascuna estan situades en els punts a, b i c (alineats). Calcula quin és el camp gravitatori que crea el conjunt de les tres masses en el punt P. Realitza el càlcul vectorial i després calcula'n el mòdul i la direcció.
     <img src="img_prob/masses_alineades.png" width="400px">
-</li>
-<br>
-<li>Hi ha un punt a l'espai entre la Terra i la Lluna en el qual el camp gravitatori és nul. Determina a quina distància de la Terra està aquest punt.
-
+    <br>
+8. Hi ha un punt a l'espai entre la Terra i la Lluna en el qual el camp gravitatori és nul. Determina a quina distància de la Terra està aquest punt.
+    <br>
     Dades: <br>
     Massa de la Terra: $$M_{T}=5,98\times10^{24}\,\mathrm{kg}$$,
     Massa de la Lluna: $$M_{L}=7,35\times10^{22}\,\mathrm{kg}$$,
     Distància Terra-Lluna: $$d_{TL}=384000\,\mathrm{km}$$,
     Constant de gravitació universal: $$G=6,673\times10^{-11}\,\mathrm{Nm^{2}/kg^{2}}$$
-</li>
-<a href="sol/prob708.pdf">Solució</a>
-<br>
-<li>Un hipotètic planeta té la mateixa massa que la Terra i un radi doble.
-    <ol>
-        <li>Quant val la gravetat a la superfície d’aquest planeta? </li>
-        <li>Si traslladem al planeta un rellotge de pèndol que a la Terra estava perfectament ajustat, s’avança o s’endarrereix? Per què? </li>
-    </ol>
-    <a href="sol/prob709.pdf">Solució</a>
-</li>
-<br>
-<li>Quatre masses puntuals estan situades als vèrtexs d’un quadrat, tal com es veu a la figura. Determina: 
-    <ol>
-    <li>El mòdul, direcció i sentit del camp gravitatori creat per les quatre masses en el centre del quadrat. </li>
-    <li>El potencial gravitatori en aquest mateix punt. </li>
-    <li>Si col·loquem una massa $$M=300\,\mathrm{kg}$$ en el centre del quadrat, quant valdrà la força sobre aquesta massa deguda a l’atracció gravitatòria del sistema format per les 4 masses? Indica quines són les components horitzontal i vertical d’aquesta força.</li>
     <br>
-    Dades: $$m_{1}=m_{2}=m_{3}=100\,\mathrm{kg}$$; $$m_{4}=200\,\mathrm{kg}$; $L=3\,\mathrm{m}$$;<br> 
+    <a href="sol/prob708.pdf">Solució</a>
+    <br>
+9. Un hipotètic planeta té la mateixa massa que la Terra i un radi doble.
+        1. Quant val la gravetat a la superfície d’aquest planeta?
+        2. Si traslladem al planeta un rellotge de pèndol que a la Terra estava perfectament ajustat, s’avança o s’endarrereix? Per què?
+    <br>
+    <a href="sol/prob709.pdf">Solució</a>
+    <br>
+10. Quatre masses puntuals estan situades als vèrtexs d’un quadrat, tal com es veu a la figura. Determina: 
+    1. El mòdul, direcció i sentit del camp gravitatori creat per les quatre masses en el centre del quadrat.
+    2.El potencial gravitatori en aquest mateix punt.
+    3.Si col·loquem una massa $$M=300\,\mathrm{kg}$$ en el centre del quadrat, quant valdrà la força sobre aquesta massa deguda a l’atracció gravitatòria del sistema format per les 4 masses? Indica quines són les components horitzontal i vertical d’aquesta força.
+    <br>
+    Dades: $$m_{1}=m_{2}=m_{3}=100\,\mathrm{kg}$$; $$m_{4}=200\,\mathrm{kg}$$; $$L=3\,\mathrm{m}$$;<br> 
         $$G=6,67\times10^{-11}\,\mathrm{Nm^{2}/kg^{2}}$$ <br>
     <img src="img_prob/masses.png" width="70%">
     <br>
     <a href="sol/prob710.pdf">Solució</a>
-    </ol>    
-</li>
-<br>
-<li>Tres masses puntuals, $$m_{1}=1\,\mathrm{kg}$$, $$m_{2}=2\,\mathrm{kg}$$ i $$m_{3}=3\,\mathrm{kg}$$, estan situades als vèrtexs d’un triangle equilàter de costat $$a=\sqrt{3}\,\mathrm{m}$$, en una regió de l’espai on no hi ha cap altre camp gravitatori que el creat per les tres masses. Determineu: 
-    <ol>
-    <li>El treball que s’ha fet per portar les masses des de l’infinit fins a la seva configuració actual (aquest treball correspon a l’energia potencial gravitatòria de la configuració).</li>
-    <li>El potencial gravitatori en el punt mitjà del segment que uneix $$m_{1}$$ i $$m_{3}$$.</li>
-    <li>El mòdul de la força d’atracció gravitatòria que experimenta la massa $$m_{1}$$. </li>
+    <br>
+11. Tres masses puntuals, $$m_{1}=1\,\mathrm{kg}$$, $$m_{2}=2\,\mathrm{kg}$$ i $$m_{3}=3\,\mathrm{kg}$$, estan situades als vèrtexs d’un triangle equilàter de costat $$a=\sqrt{3}\,\mathrm{m}$$, en una regió de l’espai on no hi ha cap altre camp gravitatori que el creat per les tres masses. Determineu: 
+    1. El treball que s’ha fet per portar les masses des de l’infinit fins a la seva configuració actual (aquest treball correspon a l’energia potencial gravitatòria de la configuració).
+    2. El potencial gravitatori en el punt mitjà del segment que uneix $$m_{1}$$ i $$m_{3}$$.
+    3. El mòdul de la força d’atracció gravitatòria que experimenta la massa $$m_{1}$$.
     <br>
     Dada: $$G=6,67\times10^{-11}\,\mathrm{Nm^{2}/kg^{2}}$$.
-    </ol>
+    <br>
     <a href="sol/prob711.pdf">Solució</a>
-</li>
-</ol>
 
-## Energia
+    ## Energia
 
 <ol start="12">
 <li>Tenim una massa de 10 kg en repòs sobre la superfície terrestre. Quin treball cal fer per pujar-la fins a una altura de 10 m? I fins a una altura de 630 km? 

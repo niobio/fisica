@@ -42,6 +42,8 @@ on a és la longitud del semieix major de l'òrbita.
 
 ## Llei de gravitació universal
 
+En Kepler va fer una aportació fonamental per entendre com funcionen el sistemes planetaris, però va ser l'Isaac Newton qui va fer una síntesi de les lleis de Kepler en una única llei i va donar una expressió matemàtica a la interacció gravitatòria. A més a més va proposar que la força gravitatòria que atreu la Lluna té el mateix origen que la que fa caure una poma, això va ser una cosa inèdita i es coneix com síntesi newtoniana. 
+
 Quin raonament va seguir Newton per a deduir la seva llei de gravitació?
 
 Si analitzem el cas d'un moviment circular
@@ -91,7 +93,7 @@ on $$G$$ és una constant anomenada **constant de gravitació universal** i val
 
 $$G=6,67\times10^{-11}\,\mathrm{Nm^{2}kg^{-2}}$$
  
-El valor de $G$ és independent dels cossos que interactuen i ens diu que la força gravitatòria és molt petita, així dues masses d'1 kg separades per una distància d'1 m experimentaran una força de $$6,67\times10^{-11}\,\mathrm{N}$$.
+El valor de $$G$$ és independent dels cossos que interactuen i ens diu que la força gravitatòria és molt petita, així dues masses d'1 kg separades per una distància d'1 m experimentaran una força de $$6,67\times10^{-11}\,\mathrm{N}$$.
 
 <img src='img/constant_G.png' style="width:70%">
 
