@@ -51,7 +51,7 @@ Dintre de la física, tenim diferents teories que resulten més adequades segons
 
 Durant el segle passat es van desenvolupar teories com la de la relativitat, la teoria quàntica, el model estàndard de partícules i la teoria estàndard del big-bang que han estat una autèntica revolució en el coneixement científic.
 
-Probablement el punt pendent de la física és la troballa d'una teoria del tot. Una teoria que permeti englobar en un mateix formalisme totes les interaccions conegudes. Això vol dir poder trobar un teoria que permeti unificar la teoria quàntica i la teoria de la gravitació (relativitat general). Els esforços dedicats a aquesta empresa han desenvolupat una teoria encara en construcció anomenada teoria de supercordes, la hipòtesi fonamental de la qual es basa és que les entitats fonamentals que formen el món fisic no són partícules sinò cordes de dimensions $10^{20}$ vegades més petites que els àtoms. El problema que presenta aquesta teoria és que les seves prediccions encara no s'han pogut demostrar perquè la verificació experimental d'aquesta teoria necessita d'energies cada vegada més grans. Els experiments que es faran en el Gran Col·lisionador d'Hadrons LHC de Ginebra, potser ajudarà a confirmar o desmentir algunes de les prediccions d'aquesta teoria. 
+Probablement el punt pendent de la física és la troballa d'una teoria del tot. Una teoria que permeti englobar en un mateix formalisme totes les interaccions conegudes. Això vol dir poder trobar un teoria que permeti unificar la teoria quàntica i la teoria de la gravitació (relativitat general). Els esforços dedicats a aquesta empresa han desenvolupat una teoria encara en construcció anomenada teoria de supercordes, la hipòtesi fonamental de la qual es basa és que les entitats fonamentals que formen el món fisic no són partícules sinò cordes de dimensions $$10^{20}$$ vegades més petites que els àtoms. El problema que presenta aquesta teoria és que les seves prediccions encara no s'han pogut demostrar perquè la verificació experimental d'aquesta teoria necessita d'energies cada vegada més grans. Els experiments que es faran en el Gran Col·lisionador d'Hadrons LHC de Ginebra, potser ajudarà a confirmar o desmentir algunes de les prediccions d'aquesta teoria. 
 
 Altre dels problemes actuals de la física està lligat amb una qüestió de gran importància per a la humanitat com ser l'obtenció d'energia de forma sostenible. La possibilitat d'obtenir energia per fusió nuclear controlada és uns dels objectius fonamentals en aquest sentit. La construcció del reactor de fusió europeu ITER permetrà avançar en aquest camí.
 
@@ -83,11 +83,11 @@ A la figura inferior es veu un esquema on hi ha representat el pou a Assuan i un
 </figure>
 </p>
 
-Si anomenem $h$ a l'altura de la columna i $d$ la longitud de l'ombra que aquesta fa sobre el terra, $D$ la distància entre Alexandria i Assuan i $R$ el radi de la Terra, la relació de proporcionalitat entre els dos triangles serà:
+Si anomenem $$h$$ a l'altura de la columna i $$d$$ la longitud de l'ombra que aquesta fa sobre el terra, $$D$$ la distància entre Alexandria i Assuan i $$R$$ el radi de la Terra, la relació de proporcionalitat entre els dos triangles serà:
 
 $$\frac{R}{D}=\frac{h}{d}$$
 
-la qual cosa ens permet conèixer el radi de la Terra, R, si coneixem les altres tres quantitats
+la qual cosa ens permet conèixer el radi de la Terra, $$R$$, si coneixem les altres tres quantitats
 
 $$R=\frac{hD}{d}$$
 
@@ -104,7 +104,7 @@ Una mica abans que Eratòstenes, cap a l'any 240 a.C., Aristarc de Samos va ser 
 </figure>
 </p>
 
-Per altra banda Aristarc, durant un eclipsi de Lluna (part dreta de la figura inferior) va mesurar el temps que tarda la Lluna en travessar el con d'ombra projectat per la Terra. Aristarc va mesurar el temps $t_{12}$ que tardava en passar de la posició 1 a la 2 i després el temps $t_{23}$ que tardava en passar de la posició 2 a la 3. Va notar que $t_{23}=2,5\times t_{12}$. Això volia dir que el diàmetre de l'ombra era 2,5 vegades més gran que el de la Lluna. Com l'ombra projectada per la Terra es reduïa en un diàmetre de la Lluna, va obtenir com a resultat que la Terra tenia un diàmetre 3,5 vegades més gran que el de la Lluna. Coneixent el diàmetre de la Terra gràcies al mètode d'Eratòstenes ens permet conèixer el de la Lluna.
+Per altra banda Aristarc, durant un eclipsi de Lluna (part dreta de la figura inferior) va mesurar el temps que tarda la Lluna en travessar el con d'ombra projectat per la Terra. Aristarc va mesurar el temps $$t_{12}$$ que tardava en passar de la posició 1 a la 2 i després el temps $$t_{23}$$ que tardava en passar de la posició 2 a la 3. Va notar que $$t_{23}=2,5\times t_{12}$$. Això volia dir que el diàmetre de l'ombra era 2,5 vegades més gran que el de la Lluna. Com l'ombra projectada per la Terra es reduïa en un diàmetre de la Lluna, va obtenir com a resultat que la Terra tenia un diàmetre 3,5 vegades més gran que el de la Lluna. Coneixent el diàmetre de la Terra gràcies al mètode d'Eratòstenes ens permet conèixer el de la Lluna.
 
 <p>
 <figure>
@@ -124,7 +124,7 @@ Un cop coneixem el diàmetre de la Lluna podem determinar la distància Terra-Ll
 </figure>
 </p>
 
-Aquests dos triangles són semblants i, per tant, els seus costats proporcionals. Si anomenem $d$ el diàmetre de la moneda, $l$ la distància ull-moneda, $D$ el diàmetre de la Lluna i $L$ la distància ull-Lluna, tenim que la següent relació de proporcionalitat:
+Aquests dos triangles són semblants i, per tant, els seus costats proporcionals. Si anomenem $$d$$ el diàmetre de la moneda, $$l$$ la distància ull-moneda, $$D$$ el diàmetre de la Lluna i $$L$$ la distància ull-Lluna, tenim que la següent relació de proporcionalitat:
 
 $$\frac{L}{D}=\frac{l}{d}$$
 
@@ -134,12 +134,12 @@ $$L=\frac{l.D}{d}$$
 
 ### La distància al Sol
 
-Aristarc també va trobar la manera de mesurar la distància Terra-Sol (un altre crack!). Què com ho va fer? Per fer-lo va escollir un dia que tingués mitja Lluna i que alhora el Sol encara es pugui veure. Queda una disposició com la de la figura de sota. Com que la Lluna té il·luminada només una meitat sabem que Sol-Terra-Lluna formen un angle recte $(90^{\circ})$, si mesurem l'angle $\alpha$ entre la direcció de la Lluna i la del Sol i, com coneixem la distància Terra-Lluna pel mètode anterior podrem determinar la distància Terra-Sol.
+Aristarc també va trobar la manera de mesurar la distància Terra-Sol (un altre crack!). Què com ho va fer? Per fer-lo va escollir un dia que tingués mitja Lluna i que alhora el Sol encara es pugui veure. Queda una disposició com la de la figura de sota. Com que la Lluna té il·luminada només una meitat sabem que Sol-Terra-Lluna formen un angle recte $$(90^{\circ})$$, si mesurem l'angle $$\alpha$$ entre la direcció de la Lluna i la del Sol i, com coneixem la distància Terra-Lluna pel mètode anterior podrem determinar la distància Terra-Sol.
 
 <p>
 <figure>
   <img src="img/dist_sol.svg" alt="" width="100%">
-  <figcaption> <strong>Forma de determinar la distància al Sol. la figura no està a escala, com el Sol està molt lluny, l'angle \alpha serà molt proper als $90^{\circ}$. </strong> </figcaption>
+  <figcaption> <strong>Forma de determinar la distància al Sol. la figura no està a escala, com el Sol està molt lluny, l'angle \alpha serà molt proper als $$90^{\circ}$$. </strong> </figcaption>
 </figure>
 </p>
 
@@ -147,19 +147,19 @@ La relació matemàtica és
 
 $$\cos\alpha=\frac{d_{TL}}{d_{TS}}$$
 
-on $d_{TL}$ és la distància Terra-Lluna (catet adjacent o contigu de l'angle $\alpha$) i $d_{TS}$ és la distància Terra-Sol (o hipotenusa del triangle). Per tant, la distància Terra-Sol es pot determinar com
+on $$d_{TL}$$ és la distància Terra-Lluna (catet adjacent o contigu de l'angle $$\alpha$$) i $$d_{TS}$$ és la distància Terra-Sol (o hipotenusa del triangle). Per tant, la distància Terra-Sol es pot determinar com
 
 $$d_{TS}=\frac{d_{TL}}{\cos\alpha}$$
 
-El valor d'$\alpha$ que va mesurar Aristarc va ser de $87^{\circ}$.
+El valor d'$$\alpha$$ que va mesurar Aristarc va ser de $$87^{\circ}$$.
 
 ### La mida del Sol
 
-Per últim, un cop sabem la distància al Sol podem determinar el diàmetre del Sol fent servir el mètode de la moneda per a crear un eclipsi solar, de la mateixa manera que vam fer per a mesurar la distància Terra-Lluna. Una altra manera de fer aquesta mesura sense posar en perill la vista és utilitzar un paper foradat i projectar la imatge del sol sobre el terra com es veu a la figura inferior, la distància al Sol, $D$, surt de la relació de proporcionalitat
+Per últim, un cop sabem la distància al Sol podem determinar el diàmetre del Sol fent servir el mètode de la moneda per a crear un eclipsi solar, de la mateixa manera que vam fer per a mesurar la distància Terra-Lluna. Una altra manera de fer aquesta mesura sense posar en perill la vista és utilitzar un paper foradat i projectar la imatge del sol sobre el terra com es veu a la figura inferior, la distància al Sol, $$D$$, surt de la relació de proporcionalitat
 
 $$\frac{H}{D}=\frac{h}{d}$$
 
-on $H$ és la distància al Sol. Així
+on $$H$$ és la distància al Sol. Així
 
 $$H=\frac{hD}{d}$$
 
@@ -196,7 +196,7 @@ Tot això porta a que tota mesura tingui un **error** associat a la mesura. Molt
 
 $$\bar{x}-\Delta x\leq x\leq\bar{x}+\Delta x$$
 
-per a la nostra magnitud mesurada $x$, on $\bar{x}$ és el valor més probable (mitjana) que hem trobat i $\Delta x$ és l'error absolut de la mesura. L'interval $(\bar{x}-\Delta x,x+\Delta x)$ s'anomena **interval de confiança** de la mesura.
+per a la nostra magnitud mesurada $$x$$, on $$\bar{x}$$ és el valor més probable (mitjana) que hem trobat i $$\Delta x$$ és l'error absolut de la mesura. L'interval $$(\bar{x}-\Delta x,x+\Delta x)$$ s'anomena **interval de confiança** de la mesura.
 
 
 
@@ -211,7 +211,7 @@ $$x=3,5\mathrm{m\pm0,3\mathrm{m=(3,5\pm0,3)\mathrm{m}}}$$
 
 ### Error relatiu
 
-L'error absolut ens dóna l'interval de confiança d'una mesura però no ens serveix per a comparar la nostra mesura amb altres. Per exemple, si mesurem el temps de caiguda d'una pilota i obtenim $(1,4 \pm 0,2)\mathrm{s}$ i, per l'altra banda mesurem el temps de viatge del metro des d'una estació a l'altre i ens dona $(140\pm0,2)\mathrm{s}$, no podrem dir que les dues mesures tenen la mateixa qualitat perquè tenen el mateix error absolut, ja que una de les mesures és 100 vegades més gran que l'altre i té el mateix error. La mesura del temps del metro té 100 vegades més qualitat. Si volem tenir idea de la qualitat de la nostra mesura resulta més útil el concepte d'error relatiu, que es defineix com el quocient entre l'error absolut i el valor de la mesura:
+L'error absolut ens dóna l'interval de confiança d'una mesura però no ens serveix per a comparar la nostra mesura amb altres. Per exemple, si mesurem el temps de caiguda d'una pilota i obtenim $$(1,4 \pm 0,2)\mathrm{s}$$ i, per l'altra banda mesurem el temps de viatge del metro des d'una estació a l'altre i ens dona $$(140\pm0,2)\mathrm{s}$$, no podrem dir que les dues mesures tenen la mateixa qualitat perquè tenen el mateix error absolut, ja que una de les mesures és 100 vegades més gran que l'altre i té el mateix error. La mesura del temps del metro té 100 vegades més qualitat. Si volem tenir idea de la qualitat de la nostra mesura resulta més útil el concepte d'error relatiu, que es defineix com el quocient entre l'error absolut i el valor de la mesura:
 
 $$\varepsilon_{r}=\frac{\Delta x}{\bar{x}}$$
 
@@ -244,27 +244,27 @@ L'**exactitud** d'un instrument o mètode de mesurament està associat a la qual
 
 ### Determinació dels errors de mesurament
 
-**Mesura única**: En el cas de tenir una única mesura d'una magnitud adoptarem coma criteri d'estimació de l'error la mínima divisió de l'instrument o mètode de mesura. Per exemple, si mesurem una distància de 25 cm amb un regle graduat en mil·límetres, donarem el resultat així: $(250\pm1)\,\mathrm{mm}$ o, equivalentment, $(25,0\pm0,1)\,\mathrm{cm}$.
+**Mesura única**: En el cas de tenir una única mesura d'una magnitud adoptarem coma criteri d'estimació de l'error la mínima divisió de l'instrument o mètode de mesura. Per exemple, si mesurem una distància de 25 cm amb un regle graduat en mil·límetres, donarem el resultat així: $$(250\pm1)\,\mathrm{mm}$$ o, equivalentment, $$(25,0\pm0,1)\,\mathrm{cm}$$.
 
-**Mesura repetitiva**: Moltes vegades podem fer moltes mesures d'una mateixa magnitud i en aquest cas determinarem el valor de la nostra mesura com la mitjana del valors mesurats i adoptarem com a criteri per a estimar l'error la distància entre el valor de la mitjana i el valor individual que més lluny es troba d'aquesta. Per exemple, suposarem que hem fet varies mesures del període d'oscil·lació d'un pèndol i obtenim els valors següents: 0,98 s; 1,01 s; 1,00 s; 1,01 s i 0,99 s. El valor de la mitjana serà 0,998 s. La distància entre la mitjana i els valors extrems són: $d_{1}=\lvert 0,998-0,98 \rvert=0,018\,\mathrm{s}$ i $d_{2}=\lvert 0,998-1,01\rvert = 0,012\, \mathrm{s}$.
-  En aquest cas veiem que la distància $d_{1}$ és la més gran i aleshores l'agafarem com a estimació de l'error. La nostra mesura serà doncs: $x=(1,00\pm0,02)\,\mathrm{s}$. Per què no hem posat $x=(0,998\pm0,018)\,\mathrm{s}$? Això ho veurem a continuació.
+**Mesura repetitiva**: Moltes vegades podem fer moltes mesures d'una mateixa magnitud i en aquest cas determinarem el valor de la nostra mesura com la mitjana del valors mesurats i adoptarem com a criteri per a estimar l'error la distància entre el valor de la mitjana i el valor individual que més lluny es troba d'aquesta. Per exemple, suposarem que hem fet varies mesures del període d'oscil·lació d'un pèndol i obtenim els valors següents: 0,98 s; 1,01 s; 1,00 s; 1,01 s i 0,99 s. El valor de la mitjana serà 0,998 s. La distància entre la mitjana i els valors extrems són: $$d_{1}=\lvert 0,998-0,98 \rvert=0,018\,\mathrm{s}$$ i $$d_{2}=\lvert 0,998-1,01\rvert = 0,012\, \mathrm{s}$$.
+  En aquest cas veiem que la distància $$d_{1}$$ és la més gran i aleshores l'agafarem com a estimació de l'error. La nostra mesura serà doncs: $$x=(1,00\pm0,02)\,\mathrm{s}$$. Per què no hem posat $$x=(0,998\pm0,018)\,\mathrm{s}$$? Això ho veurem a continuació.
 
 ## Xifres significatives
 
-> $-$ Soldat, quant enemics ha vist?
+> $$-$$ Soldat, quant enemics ha vist?
 >
-> $-$ Cinc mil u, coronel!
+> $$-$$ Cinc mil u, coronel!
 >
-> $-$ Com és que ho sap amb tanta certesa?
+> $$-$$ Com és que ho sap amb tanta certesa?
 >
-> $-$ Perquè venia un endavant i com cinc mil darrere seu!
+> $$-$$ Perquè venia un endavant i com cinc mil darrere seu!
 
 
 Aquest diàleg tan ridícul ens pot ajudar a entendre el concepte de xifra significativa. Té sentit precisar dient cinc mil u, quan no tenim certesa dels cinc mil que venen al darrere? No té sentit. En aquest cas, més o menys cinc mil més u continua sent més o menys cinc mil.
 
-El resultat d'un mesurament expressat de la forma $\bar{x}\pm\Delta x$, ha de ser consistent respecte al nombre de xifres que s'informen pel valor d'$\bar{x}$ i de la seva incertesa $\Delta x$. Això té a veure amb el nombre de xifres significatives que incloguem en cadascuna d'elles. 
+El resultat d'un mesurament expressat de la forma $$\bar{x}\pm\Delta x$$, ha de ser consistent respecte al nombre de xifres que s'informen pel valor d'$$\bar{x}$$ i de la seva incertesa $$\Delta x$$. Això té a veure amb el nombre de xifres significatives que incloguem en cadascuna d'elles. 
 
-Considerem la mesura feta a l'apartat anterior, en aquest cas teníem que el nostre resultat ens donava $x=(0,998\pm0,018)\,\mathrm{s}$. Però, si ens fixem bé, tenim incertesa al segon decimal i no té massa sentit donar un resultat amb més xifres que les que arriben fins al segon decimal, per tant, podem escriure l'error arrodonint fins al segon decimal: $\Delta x=0,02\,\mathrm{s}$. De la mateixa manera hem d'arrodonir el resultat fins al segon decimal, així $\bar{x}=1,00\,\mathrm{s}$. Recordem que per a arrodonir el que fem és sumar una unitat a l'última xifra que donem si la xifra que seguia era igual o més gran que cinc i no sumar res si la xifra que seguia era més petita que cinc. 
+Considerem la mesura feta a l'apartat anterior, en aquest cas teníem que el nostre resultat ens donava $$x=(0,998\pm0,018)\,\mathrm{s}$$. Però, si ens fixem bé, tenim incertesa al segon decimal i no té massa sentit donar un resultat amb més xifres que les que arriben fins al segon decimal, per tant, podem escriure l'error arrodonint fins al segon decimal: $$\Delta x=0,02\,\mathrm{s}$$. De la mateixa manera hem d'arrodonir el resultat fins al segon decimal, així $$\bar{x}=1,00\,\mathrm{s}$$. Recordem que per a arrodonir el que fem és sumar una unitat a l'última xifra que donem si la xifra que seguia era igual o més gran que cinc i no sumar res si la xifra que seguia era més petita que cinc. 
 
 En aquest cas donem el resultat
 
@@ -280,24 +280,24 @@ $$x=(1,00\underline{235}\pm0,02)\,\mathrm{s}$$
 
 ja que no té sentit donar un resultat amb 5 decimals quan ja no estem del tot segurs del segon decimal. Els tres últims no s'han de posar.
 
-Una possible ambigüitat pot aparèixer quan fem un canvi d'unitats. Per exemple, si volem expressar una longitud $L=(32\pm1)\,\mathrm{mm}$ en $\mu\mathrm{m}$. Quantes xifres significatives hauria de tenir el resultat després del canvi d'unitats? Si escrivim $L=32000\mu\mathrm{m}$, haurem incrementat el nombre de xifres significatives de dos a cinc, donant la impressió de que hem mesurat amb un instrument que aprecia fins a la micra, la qual cosa no és certa.
+Una possible ambigüitat pot aparèixer quan fem un canvi d'unitats. Per exemple, si volem expressar una longitud $$L=(32\pm1)\,\mathrm{mm}$$ en $$\mu\mathrm{m}$$. Quantes xifres significatives hauria de tenir el resultat després del canvi d'unitats? Si escrivim $$L=32000\mu\mathrm{m}$$, haurem incrementat el nombre de xifres significatives de dos a cinc, donant la impressió de que hem mesurat amb un instrument que aprecia fins a la micra, la qual cosa no és certa.
  
 Per a evitar aquesta ambigüitat es fa servir la notació científica. Amb el seu ús, la conversió de valor implica només la transformació de la unitat, conservant el nombre de xifres significatives del valor original. Així:
 
 $$L=(32\pm1)\,\mathrm{mm}=(32\pm1)\times10^{3}\mathrm{\mu m}=(3,2\pm0,1)\times10^{4}\mathrm{\mu m}$$
  
 
-En efecte, $32\,\mathrm{mm}$ i $3,2\times10^{4}\mu\mathrm{m}$ tenen el mateix nombre de xifres significatives. L'error d'$1\,\mathrm{mm}$ s'ha escrit com $0,1\times10^{4}\mathrm{\mu m}$, amb una sola xifra significativa en ambdós casos.
+En efecte, $$32\,\mathrm{mm}$$ i $$3,2\times10^{4}\mu\mathrm{m}$$ tenen el mateix nombre de xifres significatives. L'error d'$$1\,\mathrm{mm}$$ s'ha escrit com $$0,1\times10^{4}\mathrm{\mu m}$$, amb una sola xifra significativa en ambdós casos.
 
 Com saber quantes xifres significatives te un valor donat? Podem seguir les següents regles:
 
-* **Els zeros a l'esquerra no són significatius**: Per tant, el nombre 103 té tres xifres significatives a l'igual que 0,00000103. Això es deu a que els zeros a l'esquerra no afegeixen precisió a una mesura, sinó que només serveixen per a establir la posició de la coma decimal. Ja hem vist que la millor manera de treballar en aquests casos és utilitzar la notació científica. En aquest cas el primer valor s'expressa com $1,03\times10^{2}$ i el segon com $1,03\times10^{-6}$ on queda clar en ambdós casos que tenim tres xifres significatives. La regla podria ser la següent: per a comptar xifres significatives es comença amb el primer dígit diferent a zero i es compten tots els dígits a a partir d'aquest.
+* **Els zeros a l'esquerra no són significatius**: Per tant, el nombre 103 té tres xifres significatives a l'igual que 0,00000103. Això es deu a que els zeros a l'esquerra no afegeixen precisió a una mesura, sinó que només serveixen per a establir la posició de la coma decimal. Ja hem vist que la millor manera de treballar en aquests casos és utilitzar la notació científica. En aquest cas el primer valor s'expressa com $$1,03\times10^{2}$$ i el segon com $$1,03\times10^{-6}$$ on queda clar en ambdós casos que tenim tres xifres significatives. La regla podria ser la següent: per a comptar xifres significatives es comença amb el primer dígit diferent a zero i es compten tots els dígits a a partir d'aquest.
 
 * **Els zeros a la dreta sí són significatius**: Això és molt important: els zeros a la dreta s'han d'escriure si i només si són una part vertadera de la mesura. Per tant, no és el mateix dir que una cosa té una massa d'1 kg que dir que té una massa d'1,00 kg. La primera mida implica que la mesura s'ha fet amb una balança graduada en kg. La segona mesura ha estat feta amb una balança graduada en centèsimes de kg, es a dir en grams. La segona mesura és cent vegades més precisa que la primera, la primera té una xifra significativa i la segona té tres xifres significatives. Per exemple, en una balança analítica que té una precisió de deumil·lèsima de gram, si la balança marca 0,5700 g és necessari registrar el valor amb els dos zeros a la dreta, i no com 0,57 g. En canvi, a vegades hem de tenir cura amb els zeros a la dreta. Per això està la següent regla.
 
-* **Els zeros a la dreta no són significatius quan la seva funció és només la d'especificar la posició del punt decimal**: Per exemple, si diem que el Sol està a una distància de 150 000 000 000 m, Quantes xifres significatives hi ha? Certament no són dotze, perquè això voldria dir que es coneix la distància amb una precisió de l'ordre d'1 m. A més a més de que és una precisió impossible a la pràctica, seria massa coincidència que tal mesura tingui tants zeros, oi? Però podria passar que el primer zero o, fins i tot el segon, fossin significatius. De la manera que estan escrits no hi ha manera de saber-ho. La única manera d'evitar aquesta ambigüitat és fent servir la notació científica. Si ens diuen que el Sol està a $1,50\times10^{11}\mathrm{m}$, podem assegurar, sense cap dubte, que només el primer zero és significatiu i, per tant, n'hi ha tres xifres significatives. 
+* **Els zeros a la dreta no són significatius quan la seva funció és només la d'especificar la posició del punt decimal**: Per exemple, si diem que el Sol està a una distància de 150 000 000 000 m, Quantes xifres significatives hi ha? Certament no són dotze, perquè això voldria dir que es coneix la distància amb una precisió de l'ordre d'1 m. A més a més de que és una precisió impossible a la pràctica, seria massa coincidència que tal mesura tingui tants zeros, oi? Però podria passar que el primer zero o, fins i tot el segon, fossin significatius. De la manera que estan escrits no hi ha manera de saber-ho. La única manera d'evitar aquesta ambigüitat és fent servir la notació científica. Si ens diuen que el Sol està a $$1,50\times10^{11}\mathrm{m}$$, podem assegurar, sense cap dubte, que només el primer zero és significatiu i, per tant, n'hi ha tres xifres significatives. 
 
-* **Els nombres que són enters per naturalesa es consideren com si tinguessin un nombre infinit de xifres significatives**: Es a dir, els nombres enters per naturalesa es coneixen amb una exactitud perfecta. Per exemple, en electroquímica hi ha una equació que diu: $\Delta G=nF\Delta E$. Sense entrar en més detalls, tindrem prou en saber que $n$ és el nombre d'electrons intercanviats en una reacció redox. Posem d'exemple, la reacció $\mathrm{Cu_{2}+2Zn\rightleftharpoons2Cu+Zn_{2}}$. Aquí s'intercanvien dos electrons i no hi ha cap incertesa al respecte. Per tant, per a determinar el nombre de xifres significatives del resultat final, no s'ha de tenir en compte la precisió d'$n$ . El podem veure com si $n$ fos igual a 2,00000000000000000... 
+* **Els nombres que són enters per naturalesa es consideren com si tinguessin un nombre infinit de xifres significatives**: Es a dir, els nombres enters per naturalesa es coneixen amb una exactitud perfecta. Per exemple, en electroquímica hi ha una equació que diu: $$\Delta G=nF\Delta E$$. Sense entrar en més detalls, tindrem prou en saber que $$n$$ és el nombre d'electrons intercanviats en una reacció redox. Posem d'exemple, la reacció $$\mathrm{Cu_{2}+2Zn\rightleftharpoons2Cu+Zn_{2}}$$. Aquí s'intercanvien dos electrons i no hi ha cap incertesa al respecte. Per tant, per a determinar el nombre de xifres significatives del resultat final, no s'ha de tenir en compte la precisió d'$$n$$ . El podem veure com si $$n$$ fos igual a 2,00000000000000000... 
 
 * **Els factors de conversió generalment són exactes**: Es a dir, a l'igual que amb els nombres enters, es pot considerar que tenen un nombre infinit de xifres significatives. Encara que hi ha algunes conversions que no són exactes perquè estan determinades empíricament, altes són exactes. Per exemple, una polzada és exactament igual a 2,54 cm per definició, i una caloria són 4,184 J. Totes les conversions dintre d'un mateix sistema són exactes (1 km és exactament igual a 1000 m, i 1 peu és exactament igual a 12 polzades). 
 
@@ -305,9 +305,9 @@ Com saber quantes xifres significatives te un valor donat? Podem seguir les seg�
 
 Ara veurem com es decideix quantes xifres significatives té el resultat d'una operació matemàtica.
 
-* **En una multiplicació o divisió, ens hem de quedar amb el nombre de xifres significatives del factor menys precís**: Per exemple $1,5+3,14159265359=4,7$. No importa que la calculadora digui $4,64159265359$. El resultat té només dues xifres significatives i s'ha de reportar com $4,7$. No hem d'oblidar que hem d'arrodonir l'últim dígit: per exemple $10,0/1,5=6,7$, encara que la calculadora ens digui $6,66666666$.
+* **En una multiplicació o divisió, ens hem de quedar amb el nombre de xifres significatives del factor menys precís**: Per exemple $$1,5+3,14159265359=4,7$$. No importa que la calculadora digui $$4,64159265359$$. El resultat té només dues xifres significatives i s'ha de reportar com $$4,7$$. No hem d'oblidar que hem d'arrodonir l'últim dígit: per exemple $$10,0/1,5=6,7$$, encara que la calculadora ens digui $$6,66666666$$.
 
-* **En una suma o resta, s'han d'alinear els punts decimals i ens quedem amb la precisió del nombre que tingui menys xifres després de la coma decimal**: Veiem alguns exemples. $1,44+2,35\times10^{-5}=1,44$. Encara que la calculadora digui $1,4400235$, el segon sumant és menyspreable amb respecte al primer, per tant no afecta a la suma. Per a que quedi clar què volem dir amb això d'alinear la coma decimal, hem de veure la suma de la següent manera: 
+* **En una suma o resta, s'han d'alinear els punts decimals i ens quedem amb la precisió del nombre que tingui menys xifres després de la coma decimal**: Veiem alguns exemples. $$1,44+2,35\times10^{-5}=1,44$$. Encara que la calculadora digui $$1,4400235$$, el segon sumant és menyspreable amb respecte al primer, per tant no afecta a la suma. Per a que quedi clar què volem dir amb això d'alinear la coma decimal, hem de veure la suma de la següent manera: 
 
 <table border="0">
   <tr>
@@ -328,7 +328,7 @@ Ara veurem com es decideix quantes xifres significatives té el resultat d'una o
 </table>
 
 
-Un altre exemple: $37,59-8,3=45,9$ (la calculadora dóna 45,89, no hem d'oblidar-nos d'arrodonir-ne). 
+Un altre exemple: $$37,59-8,3=45,9$$ (la calculadora dóna 45,89, no hem d'oblidar-nos d'arrodonir-ne). 
 
 <table cellspacing="0" cellpadding="0">
   <tr>
@@ -349,7 +349,7 @@ Un altre exemple: $37,59-8,3=45,9$ (la calculadora dóna 45,89, no hem d'oblidar
 </table>
 
 
-Amb les restes s'ha de tenir especial cura, ja que dos nombres amb moltes xifres significatives però valors molt semblants poden donar un resultat amb molt poques xifres significatives. Per exemple $125,890657-125,890643=1,4\times10^{-5}$.
+Amb les restes s'ha de tenir especial cura, ja que dos nombres amb moltes xifres significatives però valors molt semblants poden donar un resultat amb molt poques xifres significatives. Per exemple $$125,890657-125,890643=1,4\times10^{-5}$$.
 
 <table cellspacing="0" cellpadding="0">
   <tr>
@@ -370,7 +370,7 @@ Amb les restes s'ha de tenir especial cura, ja que dos nombres amb moltes xifres
 </table>
 
 
-Com últim exemple, no oblidem que en el resultat poden quedar zeros a la dreta. Per exemple: $5,57-2,372=3,20$ (la calculadora ens dóna $3,198$).
+Com últim exemple, no oblidem que en el resultat poden quedar zeros a la dreta. Per exemple: $$5,57-2,372=3,20$$ (la calculadora ens dóna $$3,198$$).
 
 * **Els resultats intermedis convé guardar-los amb totes les seves xifres o, al menys, amb una xifra no significativa**: Les xifres significatives s'han de tenir en compte per a reportar el resultat final d'una operació amb una precisió realista, en canvi, en els resultats intermedis convé guardar més xifres significatives perquè amb cada arrodoniment que es fa es va perdent precisió. Si la cadena d'operacions és molt llarga aquests petits errors es van acumulant fins fer-se significatius. Si cal reportar resultats intermedis s'han de reportar amb les seves xifres significatives però, també l'hem d'apuntar amb tots les xifres en el full d'operacions (o en la memòria de la calculadora) per al seu ús en els càlculs posteriors.
 
@@ -379,14 +379,14 @@ Com últim exemple, no oblidem que en el resultat poden quedar zeros a la dreta.
 $$\frac{(5,4356\times11,29)-12,7}{4,4}+1,6456$$
  
 
-1. $5,4356-11,29=61,36\underline{7924}$. Els nombres subratllats són xifres no significatives que es guarden per a les següents operacions.
+1. $$5,4356-11,29=61,36\underline{7924}$$. Els nombres subratllats són xifres no significatives que es guarden per a les següents operacions.
 
-2. $61,36\underline{7924}-12,7=48,6\underline{67924}$
+2. $$61,36\underline{7924}-12,7=48,6\underline{67924}$$
  
 
-3. $48,6\underline{67924}/4,4=11,0\underline{608918182}$
+3. $$48,6\underline{67924}/4,4=11,0\underline{608918182}$$
  
 
-4. $11,0\underline{608918182}+1,6456=12,7\underline{064918182}$. Per tant, el valor que hem de reportar finalment és $12,7$.
+4. $$11,0\underline{608918182}+1,6456=12,7\underline{064918182}$$. Per tant, el valor que hem de reportar finalment és $$12,7$$.
 
 * **Per a operacions com arrels quadrades, potències, logaritmes i exponencials no hi ha regles senzilles** Com a primera aproximació es poden fer servir les mateixes regles que per a la multiplicació i la divisió, només hem de recordar que elevar un nombre al quadrat o al cub estem fent multiplicacions.
