@@ -28,11 +28,11 @@
     5. La Neus, la Mercè i l'Horaci 
 
 6. Digues quantes xifres significatives tenen les següents magnituds: 
-    1. $$1,230\times10^{-12}\,\mathrm{kg}$$
-    2. $$0,0000230\,\mathrm{mm}$$
-    3. $$1,0234\,\mathrm{nm}$$
-    4. $$3,2\times10^{12}\,\mathrm{cm^{3}}$$
-    5. $$0,0123\,\mathrm{ml}$$
+    1.$$1,230\times10^{-12}\,\mathrm{kg}$$
+    2.$$0,0000230\,\mathrm{mm}$$
+    3.$$1,0234\,\mathrm{nm}$$
+    4.$$3,2\times10^{12}\,\mathrm{cm^{3}}$$
+    5.$$0,0123\,\mathrm{ml}$$
 
 7. S'ha mesurat el període d'un pèndol cinc vegades i s'han obtingut , en segons, els següents resultats: 2,1 – 2,0 – 1,9 – 2,1 – 2,2 
     1. Digueu quin és el resultat del mesurament. 
@@ -46,24 +46,22 @@
     2. Calculeu el valor de la densitat del coure amb el seu error. Quantes xifres significatives té el resultat?
     3. Quina és la cota d'error relatiu?
 
-|Mostra|Volum ($$\mathrm{cm^3}$$)|Massa (g)|
-|--------|--|--|
-|mostra 1|10|86|
-|mostra 2|15|126|
-|mostra 3|20|171|
-|mostra 4|25|217|
-|mostra 5|30|258|
+    |Mostra|Volum ($$\mathrm{cm^3}$$)|Massa (g)|
+    |--------|--|--|
+    |mostra 1|10|86|
+    |mostra 2|15|126|
+    |mostra 3|20|171|
+    |mostra 4|25|217|
+    |mostra 5|30|258|
     
-<ol start="10">
-<li>Volem mesurar $$180\,\mathrm{cm^{3}}$$ d'aigua amb una proveta. Si l'error relatiu ha de ser inferior al 3%, n'hi ha prou amb una proveta graduada de $$5\,\mathrm{cm^{3}}$$ en $$5\,\mathrm{cm^{3}}$$, o cal una proveta graduada de $$2\,\mathrm{cm^{3}}$$ en $$2\,\mathrm{cm^{3}}$$? Justifica la teva resposta.</li>
+10. Volem mesurar $$180\,\mathrm{cm^{3}}$$ d'aigua amb una proveta. Si l'error relatiu ha de ser inferior al 3%, n'hi ha prou amb una proveta graduada de $$5\,\mathrm{cm^{3}}$$ en $$5\,\mathrm{cm^{3}}$$, o cal una proveta graduada de $$2\,\mathrm{cm^{3}}$$ en $$2\,\mathrm{cm^{3}}$$? Justifica la teva resposta.
 
-<li>Hem mesurat l'alçada d'una persona i l'error absolut ha estat inferior a 1 cm; també hem mesurat el diàmetre d'una moneda d'un euro i l'error ha estat inferior a 1 mm. Quin dels dos mesuraments és més precís? Per què?</li>
-</ol>
+11. Hem mesurat l'alçada d'una persona i l'error absolut ha estat inferior a 1 cm; també hem mesurat el diàmetre d'una moneda d'un euro i l'error ha estat inferior a 1 mm. Quin dels dos mesuraments és més precís? Per què?
 
-## Mètode científic
+    ## Mètode científic
 
-1. Quina era la visió aristotèlica del món?
+12. Quina era la visió aristotèlica del món?
 
-2. Explica breument en què consisteix el mètode científic. 
+13. Explica breument en què consisteix el mètode científic. 
 
-3. Què vol dir que una teoria sigui falsable?
+14. Què vol dir que una teoria sigui falsable?
