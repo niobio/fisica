@@ -7,7 +7,7 @@
 
 ## Errors i mesura
 
-1. La Maria mesura la longitud del seu llibre i obté una mesura de 25 cm amb un error absolut de 20 mm. En Bruno mesura la quantitat d'aigua que hi ha en una proveta i obté una mesura de $$30\,\mathrm{cm^{3}}$$ amb un error absolut de 4 ml. Quina mesura és més precisa, la de la Maria o la de Bruno? 
+1. La Maria mesura la longitud del seu llibre i obté una mesura de 25 cm amb un error absolut de 20 mm. En Bruno mesura la quantitat d'aigua que hi ha en una proveta i obté una mesura de $30\,\mathrm{cm^{3}}$ amb un error absolut de 4 ml. Quina mesura és més precisa, la de la Maria o la de Bruno? 
 
 2. En la mesura d’1,5 m s’ha comès un error de 10 mm i en la mesura de 400 km s’ha comès un error de 400 m. Quina de les dues mesures és més precisa? Justifica la resposta. 
 
@@ -20,7 +20,7 @@
     1. Escriviu aquestes quantitats en notació científica. 
     2. Determineu la distància en km de la Terra a l'estrella més propera. 
 
-5. La Neus mesura la longitud d'una corda i obté una mesura de 45 cm amb un error absolut de 2 mm, l'Horaci mesura la quantitat d'aigua que hi ha en una proveta i obté una mesura de $$45\,\mathrm{cm^{3}}$$ amb un error absolut de $$10\,\mathrm{m^{3}}$$ i la Mercè mesura el pes d'un tros de fusta i obté una mesura de 4,5 kg amb un error absolut de 200 g. Si ordenéssim les mesures de menor a major precisió, el resultat seria: 
+5. La Neus mesura la longitud d'una corda i obté una mesura de 45 cm amb un error absolut de 2 mm, l'Horaci mesura la quantitat d'aigua que hi ha en una proveta i obté una mesura de $45\,\mathrm{cm^{3}}$ amb un error absolut de $10\,\mathrm{m^{3}}$ i la Mercè mesura el pes d'un tros de fusta i obté una mesura de 4,5 kg amb un error absolut de 200 g. Si ordenéssim les mesures de menor a major precisió, el resultat seria: 
     1. La Neus, l'Horaci i la Mercè 
     2. L'Horaci, la Neus i la Mercè 
     3. La Mercè, la Neus i l'Horaci 
@@ -28,11 +28,11 @@
     5. La Neus, la Mercè i l'Horaci 
 
 6. Digues quantes xifres significatives tenen les següents magnituds: 
-    1. $$1,230\times10^{-12}\,\mathrm{kg}$$
-    2. $$0,0000230\,\mathrm{mm}$$
-    3. $$1,0234\,\mathrm{nm}$$
-    4. $$3,2\times10^{12}\,\mathrm{cm^{3}}$$
-    5. $$0,0123\,\mathrm{ml}$$
+    1. $1,230\times10^{-12}\,\mathrm{kg}$
+    2. $0,0000230\,\mathrm{mm}$
+    3. $1,0234\,\mathrm{nm}$
+    4. $3,2\times10^{12}\,\mathrm{cm^{3}}$
+    5. $0,0123\,\mathrm{ml}$
 
 7. S'ha mesurat el període d'un pèndol cinc vegades i s'han obtingut , en segons, els següents resultats: 2,1 – 2,0 – 1,9 – 2,1 – 2,2 
     1. Digueu quin és el resultat del mesurament. 
@@ -46,7 +46,7 @@
     2. Calculeu el valor de la densitat del coure amb el seu error. Quantes xifres significatives té el resultat?
     3. Quina és la cota d'error relatiu?
 
-|Mostra|Volum ($$\mathrm{cm^3}$$)|Massa (g)|
+|Mostra|Volum ($\mathrm{cm^3}$)|Massa (g)|
 |--------|--|--|
 |mostra 1|10|86|
 |mostra 2|15|126|
@@ -55,7 +55,7 @@
 |mostra 5|30|258|
     
 <ol start="10">
-<li>Volem mesurar $$180\,\mathrm{cm^{3}}$$ d'aigua amb una proveta. Si l'error relatiu ha de ser inferior al 3%, n'hi ha prou amb una proveta graduada de $$5\,\mathrm{cm^{3}}$$ en $$5\,\mathrm{cm^{3}}$$, o cal una proveta graduada de $$2\,\mathrm{cm^{3}}$$ en $$2\,\mathrm{cm^{3}}$$? Justifica la teva resposta.</li>
+<li>Volem mesurar $180\,\mathrm{cm^{3}}$ d'aigua amb una proveta. Si l'error relatiu ha de ser inferior al 3%, n'hi ha prou amb una proveta graduada de $5\,\mathrm{cm^{3}}$ en $5\,\mathrm{cm^{3}}$, o cal una proveta graduada de $2\,\mathrm{cm^{3}}$ en $2\,\mathrm{cm^{3}}$? Justifica la teva resposta.</li>
 
 <li>Hem mesurat l'alçada d'una persona i l'error absolut ha estat inferior a 1 cm; també hem mesurat el diàmetre d'una moneda d'un euro i l'error ha estat inferior a 1 mm. Quin dels dos mesuraments és més precís? Per què?</li>
 </ol>
