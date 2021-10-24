@@ -170,7 +170,7 @@
     Dades: <br>
     $$G=6,67\times10^{-11}\,\mathrm{Nm^{2}kg^{-2}}$$; <br>
     $$M_{T}=5,98\times10^{24}\mathrm{kg}$$; <br>
-    $$R_{T}=6380\,\mathrm{kg}$$.<br>
+    $$R_{T}=6380\,\mathrm{km}$$.<br>
     <a href="sol/prob720.pdf">Solució</a>
     <br>
 21. L’any 1969, el mòdul de comandament Columbia, de la missió Apollo 11, tripulada per l’astronauta Michael Collins, orbitava a 100 km d’altura sobre la superfície de la Lluna amb un període de 118 minuts. Mentrestant, Neil Armstrong i Edwin Aldrin, els altres dos tripulants, caminaven sobre la Lluna. 
