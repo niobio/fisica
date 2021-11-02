@@ -125,7 +125,7 @@
 <br>
 <li>Els astronautes de la missió Apol·lo 11 van depositar sobre la superfície de la Lluna un mirall amb el que es pot determinar la distància Terra-Lluna. Des de la Terra s'envia un pols làser i es mesura el temps que tarda en viatjar d'anada i tornada. Sabent que el temps mesurat en el viatge d'anada i tornada és de 2,564 s i que la velocitat de la llum és de 299792458 m/s:
 <div align="middle">
-        <img src="img_prob/laser_lluna.svg">
+        <img src="img_prob/laser_lluna.png">
     </div>
     <ol>
         <li>Determineu la distància Terra-Lluna</li>

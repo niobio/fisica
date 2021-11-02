@@ -123,9 +123,12 @@
     <a href="sol/prob210.pdf">Solució</a>
 </li>
 <br>
-<li>Els astronautes de la missió Apol·lo 11 van depositar sobre la superfície de la Lluna un mirall amb el que es pot determinar la distància Terra-Lluna. Des de la Terra s'envia un pols làser i es mesura el temps que tarda en viatjar d'anada i tornada. Sabent que el temps mesurat en el viatge d'anada i tornada és de 2,564 s i que la velocitat de la llum és de 299792458 m/s,  
+<li>Els astronautes de la missió Apol·lo 11 van depositar sobre la superfície de la Lluna un mirall amb el que es pot determinar la distància Terra-Lluna. Des de la Terra s'envia un pols làser i es mesura el temps que tarda en viatjar d'anada i tornada. Sabent que el temps mesurat en el viatge d'anada i tornada és de 2,564 s i que la velocitat de la llum és de 299792458 m/s:
+<div align="middle">
+        <img src="img_prob/laser_lluna.svg">
+    </div>
     <ol>
-        <li>determineu la distància Terra-Lluna</li>
+        <li>Determineu la distància Terra-Lluna</li>
         <li>Si cada any s'observa que la Lluna s'allunya 3,8 cm, quina diferència de temps es mesura cada any respecte a l'any anterior?</li>
     </ol>
     <!-- <a href="sol/prob211.pdf">Solució</a>-->
