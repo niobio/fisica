@@ -131,11 +131,11 @@
         <li>Determineu la distància Terra-Lluna</li>
         <li>Si cada any s'observa que la Lluna s'allunya 3,8 cm, quina diferència de temps es mesura cada any respecte a l'any anterior?</li>
     </ol>
-    <!-- <a href="sol/prob211.pdf">Solució</a>-->
+    <a href="sol/prob211.pdf">Solució</a>
 </li>
 <br>
-<li>Sabent que la velocitat de la llum és de \(3,0\times10^{8}\mathrm{m/s}\) i que el so es propaga a una velocitat de \(340\,\mathrm{m/s}\). A quina distància es va produir un llamp que sentim 3 segons després de vuere'l? Quines aproximacions podem fer?
-    <!-- <a href="sol/prob212.pdf">Solució</a> -->
+<li>Sabent que la velocitat de la llum és de \(3,0\times10^{8}\mathrm{m/s}\) i que el so es propaga a una velocitat de \(340\,\mathrm{m/s}\). A quina distància es va produir un llamp que sentim 3 segons després de veure'l? Quines aproximacions podem fer?
+    <a href="sol/prob212.pdf">Solució</a>
 </li>
 <br>
 
