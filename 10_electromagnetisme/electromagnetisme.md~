@@ -531,9 +531,9 @@ $$\Phi=BS\cos\theta=BS\cos\omega t$$
 
 Al haver-hi una variació del flux magnètic amb el temps apareixerà als extrems de la bobina segons la llei de Faraday-Lenz
 
-$$\varepsilon=-\frac{d\Phi}{dt}=BS\omega\sin\omega t=\hat{\varepsilon}\sin\omega t$$
+$$\varepsilon=-\frac{d\Phi}{dt}=BS\sin\omega t=\hat{\varepsilon}\sin\omega t$$
 
-on $$\hat{\varepsilon}=BS\omega$$ és el valor màxim de la fem induïda. L'electricitat amb aquest comportament s'anomena corrent altern (C.A.) i és la que fem servir les nostres llars i a la indústria.
+on $$\hat{\varepsilon}=BS$$ és el valor màxim de la fem induïda. L'electricitat amb aquest comportament s'anomena corrent altern (C.A.) i és la que fem servir les nostres llars i a la indústria.
 
 La figura següent mostra la gràfica d'una tensió alterna de valor màxim de 20 V i un període d'1 s.
 
