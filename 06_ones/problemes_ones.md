@@ -286,7 +286,9 @@ d’1 s. Determineu:
 		1. $$y=5\times10^{-3}\sin\left(\frac{44\pi}{17}t-880\pi x\right)$$,
 		2. $$y=5\times10^{-3}\sin\left(440\pi t-\frac{440}{340}x\right)$$,
 		3. $$y=5\times10^{-3}\sin\left(880\pi t-\frac{44\pi}{17}x\right)$$,
-        en què la $$y$$ representa el desplaçament en la posició $$x$$. L’amplitud, el desplaçament, $$y$$, i la distància, $$x$$, s’expressen en metres i el temps, $$t$$, en segons.
+
+		en què la $$y$$ representa el desplaçament en la posició $$x$$. L’amplitud, el desplaçament, $$y$$, i la distància, $$x$$, s’expressen en metres i el temps, $$t$$, en segons.
+
 	2. La distància mínima entre dos punts que estan en fase és de 
 		1. 0,773 m.
         2. 0,386 m.
