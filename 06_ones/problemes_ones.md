@@ -39,11 +39,14 @@ $$v=\frac{4\pi}{3}\cos\left(\frac{\pi}{3}t+\frac{\pi}{2}\right)\,\mathrm{m/s}$$
     <br><a href="sol/prob605.pdf">Solució</a><br><br>
 
 6. Dues masses $$m_{1}$$ i $$m_{2}$$ tal que $$m_{1}=2m_{2}$$, es pengen dels extrems de dues molles iguals i es deixen oscil·lar, quina serà la relació entre els períodes $$T_{1}$$ i $$T_{2}$$ dels respectius moviments? Justifica la teva resposta. 
-    1. $$T_{1}=T_{2}$$
-    2. $$T_{1}=2T_{2}$$
-    3. $$T_{1}=0,5T_{2}$$
-    4. $$T_{1}=1,4T_{2}$$
+
+	1. $$T_{1}=T_{2}$$
+	2. $$T_{1}=2T_{2}$$
+	3. $$T_{1}=0,5T_{2}$$
+	4. $$T_{1}=1,4T_{2}$$
+    
     <br><a href="sol/prob606.pdf">Solució</a><br><br>
+    
 7. Tenim dos pèndols de la mateixa massa, però la longitud d'un és el doble de la de l'altre. Aleshores, digues quines d'aquestes afirmacions és correcta (justifica la teva resposta): 
     1. Els períodes són iguals. 
     2. El període d'un és el doble de l'altre. 
@@ -66,9 +69,12 @@ $$v=\frac{4\pi}{3}\cos\left(\frac{\pi}{3}t+\frac{\pi}{2}\right)\,\mathrm{m/s}$$
     2. La força màxima que actua sobre ella. 
     <br><a href="sol/prob610.pdf">Solució</a><br><br>
 
-11. Sobre una taula horitzontal hi ha una massa de 380 g lligada a l’extrem d’una molla de constant recuperadora $$k=15\,\mathrm{N/m}$$. L’altre extrem de la molla és fix, i el fregament del conjunt és negligible. Desplacem la massa 10 cm des de la posició d’equilibri, tal com es veu a les figures següents, i la deixem anar. 
+11. Sobre una taula horitzontal hi ha una massa de 380 g lligada a l’extrem d’una molla de constant recuperadora $$k=15\,\mathrm{N/m}$$. L’altre extrem de la molla és fix, i el fregament del conjunt és negligible. Desplacem la massa 10 cm des de la posició d’equilibri, tal com es veu a les figures següents, i la deixem anar.
+	<br> 
     <img src="img_prob/08_molla.png" width="200px">
+    <br>
     Trobeu: 
+    
     1. El període del moviment. 
     2. L’equació del moviment, tenint en compte que quan $$t=0\,\mathrm{s}$$, la molla està a l’elongació màxima positiva, com es veu a la segona figura. 
     3. L’energia cinètica de la massa quan passa per un punt situat 2 cm a la dreta de la posició d’equilibri. 
@@ -79,6 +85,7 @@ d’1 s. Determineu:
     1. Les constants A, $$\omega$$, $$\phi$$, en unitats de l’SI, de l’equació $$y=A\cos(\omega t+\phi)$$ que descriu el moviment de l’objecte. 
     2. El valor màxim de l’acceleració de l’objecte, la seva direcció i sentit, i els punts de la trajectòria en què s’assoleix. 
     3. La constant recuperadora de la molla. 
+    
     <br><a href="sol/prob612.pdf">Solució</a><br><br>
 
 13. Un gronxador està format per una cadira d’1,5 kg i una cadena d’1,80 m de longitud i massa negligible. Una nena de 20 kg s’hi gronxa. En el punt més alt de l’oscil·lació, la cadena forma un angle de 40° amb la vertical. Determineu: 
@@ -94,15 +101,18 @@ d’1 s. Determineu:
     <br><a href="sol/prob614.pdf">Solució</a><br><br>
 
 15. Una molla, situada sobre una taula horitzontal sense fregament, està fixada per un dels extrems a una paret i a l’altre extrem hi ha lligat un cos de 0,5 kg de massa. La molla no està deformada inicialment. Desplacem el cos una distància de 50 cm de la seva posició d’equilibri i el deixem moure lliurement, amb la qual cosa descriu un moviment vibratori harmònic simple. L’energia potencial del sistema en funció del desplaçament es representa amb la paràbola de la gràfica següent. 
+<br>
 <img src="img_prob/molla.svg" width="200px">
 <img src="img_prob/parabola.svg" width="400px">
+<br>
     Determineu: 
+    
     1. El valor de la constant recuperadora de la molla 
     2. El valor de la velocitat del cos quan té una elongació de 20 cm. 
     <br><a href="sol/prob615.pdf">Solució</a><br><br>
     
 16. L’èmbol d’una màquina de vapor té un recorregut $$D=100\,\mathrm{cm}$$ i comunica a l’eix una velocitat angular de 60 rpm. Si considerem que el moviment de l’èmbol descriu un moviment harmònic simple, deduïu el valor de la velocitat que té quan és a una distància de 20 cm d’un dels extrems del recorregut. 
-<img src="img_prob/embolo.png" width="200px">
+<br><img src="img_prob/embolo.png" width="200px">
 <br><a href="sol/prob616.pdf">Solució</a><br><br>
 
 17. Una massa $$m=0,3\,\mathrm{kg}$$, situada en un pla horitzontal sense fricció i unida a una molla horitzontal, descriu un moviment vibratori harmònic. L’energia cinètica màxima de la massa és 15 J. 
@@ -116,8 +126,9 @@ d’1 s. Determineu:
 <br><a href="sol/prob618.pdf">Solució</a><br><br>
 
 19. Una massa de 0,5 kg descriu un moviment harmònic unida a l’extrem d’una molla, de massa negligible, sobre una superfície horitzontal sense fregament. En la gràfica següent es relaciona el valor de l’energia mecànica de la molla amb el quadrat de l’amplitud d’oscil·lació del moviment harmònic: 
-<img src="img_prob/energia_mec_vs_a2.png" width="300px">
+<br><img src="img_prob/energia_mec_vs_a2.png" width="300px">
     Calculeu: 
+    
     1. El valor de la freqüència d’oscil·lació.
     2. El valor de la velocitat màxima de la massa quan l’amplitud d’oscil·lació del moviment és 0,141 4 m.
 <br><a href="sol/prob619.pdf">Solució</a><br><br>
@@ -139,33 +150,33 @@ d’1 s. Determineu:
 <br><a href="sol/prob622.pdf">Solució</a><br><br>
 
 23. La gràfica següent representa el moviment d’un cos de 250 g de massa que oscil·la, sense fregament, unit a una molla.
-    <img src="img_prob/oscilacions.png" width="300px">
+    <br><img src="img_prob/oscilacions.png" width="300px">
+    
     1. Calculeu l’amplitud, la freqüència angular, el període i la fase inicial d’aquest moviment. 
     2. Escriviu l’equació del moviment i calculeu l’energia mecànica total del sistema.
-<br><a href="sol/prob623.pdf">Solució</a><br><br>
+	<br><a href="sol/prob623.pdf">Solució</a><br><br>
 
 24. Una partícula de massa 500 g descriu un moviment vibratori harmònic de manera que la seva posició (en unitats del sistema internacional) ve donada per $$x=0,20\sin(10\pi t)$$, on $$t$$ és el temps. Calculeu l’energia cinètica màxima de la partícula i la força màxima que actua sobre ella. Indiqueu en quins punts de l’oscil·lació s’assoleixen aquests valors màxims. 
 <br><a href="sol/prob624.pdf">Solució</a><br><br>
 
 ## Moviment ondulatori
 
-<ol>
-<li>Un radar utilitza ones electromagnètiques de freqüència $$5\times10^{11}\,\mathrm{Hz}$$. 
-    <ol>
-    <li>Quantes longituds d’ona hi ha entre l’estació i un avió situat a 25 km de distància? </li>
-    <li>Quant de temps transcorre des que s’emet un pols fins que retorna a l’estació, després de rebotar a l’avió?</li>
-    </ol>
-    Dada: Velocitat de la llum: $$c=3\times10^{8}\,\mathrm{m/s}$$
-</li>
-<br><a href="sol/prob6101.pdf">Solució</a><br><br>
 
-<li>L'equació d'una ona harmònica és, en unitats de l'SI, 
+1. Un radar utilitza ones electromagnètiques de freqüència $$5\times10^{11}\,\mathrm{Hz}$$. 
+	1. Quantes longituds d’ona hi ha entre l’estació i un avió situat a 25 km de distància? </li>
+	2. Quant de temps transcorre des que s’emet un pols fins que retorna a l’estació, després de rebotar a l’avió?
+
+    Dada: Velocitat de la llum: $$c=3\times10^{8}\,\mathrm{m/s}$$
+
+	<br><a href="sol/prob6101.pdf">Solució</a><br><br>
+
+2. L'equació d'una ona harmònica és, en unitats de l'SI, 
 
     $$y=20\cos\pi(20t-4x)$$
 
     Quina és l'amplitud, la longitud d'ona, la velocitat de propagació i el període?
-</li>
-<br><a href="sol/prob6102.pdf">Solució</a><br><br>
+
+	<br><a href="sol/prob6102.pdf">Solució</a><br><br>
 
 <li>Una ona sonora de 440 Hz té una longitud d'ona de 77 cm. Quina serà la longitud d'ona d'una ona sonora de 200 Hz que es propagui en el mateix medi?
 </li>
