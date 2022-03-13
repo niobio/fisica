@@ -1,7 +1,7 @@
 
 # Problemes Unitat 1: Les ones i el so
 
-Style type="text/css">
+<style type="text/css">
     ol ol { list-style-type: lower-alpha; }
     .aligncenter {text-align: center;}
 </style>
@@ -86,20 +86,19 @@ d’1 s. Determineu:
     1. Les constants A, $$\omega$$, $$\phi$$, en unitats de l’SI, de l’equació $$y=A\cos(\omega t+\phi)$$ que descriu el moviment de l’objecte. 
     2. El valor màxim de l’acceleració de l’objecte, la seva direcció i sentit, i els punts de la trajectòria en què s’assoleix. 
     3. La constant recuperadora de la molla. 
-    
-    <br><a href="sol/prob612.pdf" target="_blank">Solució</a><br><br>
+    <p><a href="sol/prob612.pdf" target="_blank">Solució</a></p>
 
 13. Un gronxador està format per una cadira d’1,5 kg i una cadena d’1,80 m de longitud i massa negligible. Una nena de 20 kg s’hi gronxa. En el punt més alt de l’oscil·lació, la cadena forma un angle de 40° amb la vertical. Determineu: 
     1. L’acceleració del gronxador i la tensió de la cadena en el punt més alt de l’oscil·lació.
     2. La velocitat del gronxador en el punt més baix de l’oscil·lació.
     3. La tensió màxima de la cadena.
-    <br><a href="sol/prob613.pdf" target="_blank">Solució</a><br><br>
+    <br><a href="sol/prob613.pdf" target="_blank">Solució</a><br>
     
 14. Un oscil·lador harmònic està format per una molla ideal de massa negligible i una partícula puntual unida a l’extrem de la molla, de massa $$m=40\,\mathrm{g}$$. El període d’oscil·lació és de 2 s.
     1. Si l’amplitud de les oscil·lacions és de 10 cm, quina velocitat màxima adquireix la massa m?
     2. Representeu en un gràfic l’acceleració de l’oscil·lador en funció del temps, i indiqueu en els eixos les escales corresponents.
     3. Quant hauria de valer la massa m perquè la freqüència de l’oscil·lador es multipliqués per dos? 
-    <br><a href="sol/prob614.pdf" target="_blank">Solució</a><br><br>
+    <p><a href="sol/prob614.pdf" target="_blank">Solució</a></p>
 
 15. Una molla, situada sobre una taula horitzontal sense fregament, està fixada per un dels extrems a una paret i a l’altre extrem hi ha lligat un cos de 0,5 kg de massa. La molla no està deformada inicialment. Desplacem el cos una distància de 50 cm de la seva posició d’equilibri i el deixem moure lliurement, amb la qual cosa descriu un moviment vibratori harmònic simple. L’energia potencial del sistema en funció del desplaçament es representa amb la paràbola de la gràfica següent. 
 	<p class="aligncenter"><img src="img_prob/molla.svg" width="200px"/>
@@ -109,16 +108,16 @@ d’1 s. Determineu:
     
     1. El valor de la constant recuperadora de la molla 
     2. El valor de la velocitat del cos quan té una elongació de 20 cm. 
-    <br><a href="sol/prob615.pdf" target="_blank">Solució</a><br><br>
+    <p><a href="sol/prob615.pdf" target="_blank">Solució</a></p>
     
 16. L’èmbol d’una màquina de vapor té un recorregut $$D=100\,\mathrm{cm}$$ i comunica a l’eix una velocitat angular de 60 rpm. Si considerem que el moviment de l’èmbol descriu un moviment harmònic simple, deduïu el valor de la velocitat que té quan és a una distància de 20 cm d’un dels extrems del recorregut. 
 	<p class="aligncenter"><img src="img_prob/embolo.png" width="200px"/></p>
-	<a href="sol/prob616.pdf" target="_blank">Solució</a><br>
+	<p><a href="sol/prob616.pdf" target="_blank">Solució</a></p>
 
 17. Una massa $$m=0,3\,\mathrm{kg}$$, situada en un pla horitzontal sense fricció i unida a una molla horitzontal, descriu un moviment vibratori harmònic. L’energia cinètica màxima de la massa és 15 J. 
     1. Si sabem que entre els dos punts del recorregut en què el cos té una velocitat nul·la hi ha una distància de 50 cm, calculeu l’amplitud, la freqüència i el període del moviment i la constant elàstica de la molla. 
     2. Calculeu la posició, la velocitat i l’acceleració del cos en l’instant $$t=3\,\mathrm{s}$$, considerant que quan $$t=0$$ el cos té l’energia cinètica màxima. 
-<br><a href="sol/prob617.pdf" target="_blank">Solució</a><br><br>
+<br><a href="sol/prob617.pdf" target="_blank">Solució</a><br>
 
 18. Una molla de constant $$k=125\,\mathrm{N/m}$$ té un extrem fix i, en l’altre, hi ha lligada una massa de 200 g que pot lliscar sobre una superfície horitzontal sense fregament. Desplacem inicialment la massa 12 cm de la posició d’equilibri, tot allargant la molla, i la deixem anar. Determineu: 
     1. El valors màxims de les energies cinètica i potencial assolides durant el moviment i la velocitat màxima de la massa. 
@@ -312,6 +311,7 @@ d’1 s. Determineu:
 	<a href="sol/prob6120.pdf" target="_blank">Solució</a><br>
 
 	<!-- Llei d'Snell-->
+	### Refracció
 
 21. La velocitat del so a l’aigua és més gran que a l’aire. Quan una ona harmònica de so passa de l’aire a l’aigua: 
 
@@ -329,6 +329,7 @@ d’1 s. Determineu:
     Dades: Velocitat del so a l'aire: $$v_{aire}=340\,\mathrm{m/s}$$; velocitat del so a l'aigua $$v_{aigua}=1500\,\mathrm{m/s}$$. 
 
 	<!-- Efecte Doppler -->
+	### Efecte Doppler
 
 23. La membrana d’un altaveu vibra amb una freqüència de 300 Hz i una amplitud de 1,00 mm i produeix un to pur. En les condicions de l’experiment, la velocitat del so és $$340\,\mathrm{ms^{-1}}$$. 
 
@@ -353,6 +354,7 @@ d’1 s. Determineu:
 
 
 	<!-- Interferència -->
+	### Interferència
 
 25. Dos focus puntuals situats a 20 cm l'un de l'altre en la superfície de l'aigua emeten ones circulars de la mateixa amplitud, freqüència i fase. La velocitat de propagació de les ones és de 60 cm/s i la seva freqüència de 20 Hz.
 
@@ -378,6 +380,7 @@ d’1 s. Determineu:
 	4. De la difracció de la llum.
 
 	<!-- ones estacionàries-->
+	### Ones estacionàries
 
 28. En un instrument musical de vent, les freqüències dels tres primers models normals de vibració són 440, 1320, i 2200 Hz. Si prenem 340 m/s com a velocitat del so en l'aire:
     
@@ -399,6 +402,7 @@ d’1 s. Determineu:
 	<p><a href="sol/prob6130.pdf" target="_blank">Solució</a></p>
 	
 	<!-- Intensitat sonora, decibels --> 
+	### Intensitat sonora 
 
 31. El clarinet és un instrument de fusta en forma de tub en el qual es generen ones estacionàries. L’instrument es pot assimilar a un tub ple d’aire obert per un extrem i tancat per l’altre. La figura mostra el mode tercer harmònic, on l’aire vibra amb una freqüència de 637 Hz. 
     <p class="aligncenter"><img src="img_prob/clarinet.png" width="300px"/> </p>
