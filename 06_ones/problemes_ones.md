@@ -3,6 +3,7 @@
 
 <style type="text/css">
     ol ol { list-style-type: lower-alpha; }
+    .aligncenter {text-align: center;}
 </style>
 
 ## Moviment Vibratori Harmònic Simple
@@ -35,7 +36,7 @@ $$v=\frac{4\pi}{3}\cos\left(\frac{\pi}{3}t+\frac{\pi}{2}\right)\,\mathrm{m/s}$$
     <br><a href="sol/prob604.pdf">Solució</a><br><br>
     
 5. La gràfica següent correspon a un moviment vibratori harmònic simple. Podeu escriure la seva equació de moviment?
-    <img src="img_prob/mvhs.png" width="400px">
+    <p class="aligncenter"><img src="img_prob/mvhs.png" width="400px"/></p>
     <br><a href="sol/prob605.pdf">Solució</a><br><br>
 
 6. Dues masses $$m_{1}$$ i $$m_{2}$$ tal que $$m_{1}=2m_{2}$$, es pengen dels extrems de dues molles iguals i es deixen oscil·lar, quina serà la relació entre els períodes $$T_{1}$$ i $$T_{2}$$ dels respectius moviments? Justifica la teva resposta. 
@@ -71,7 +72,7 @@ $$v=\frac{4\pi}{3}\cos\left(\frac{\pi}{3}t+\frac{\pi}{2}\right)\,\mathrm{m/s}$$
 
 11. Sobre una taula horitzontal hi ha una massa de 380 g lligada a l’extrem d’una molla de constant recuperadora $$k=15\,\mathrm{N/m}$$. L’altre extrem de la molla és fix, i el fregament del conjunt és negligible. Desplacem la massa 10 cm des de la posició d’equilibri, tal com es veu a les figures següents, i la deixem anar.
 	<br> 
-    <img src="img_prob/08_molla.png" width="200px">
+    <p class="aligncenter"><img src="img_prob/08_molla.png" width="200px"/></p>
     <br>
     Trobeu: 
     
@@ -101,10 +102,9 @@ d’1 s. Determineu:
     <br><a href="sol/prob614.pdf">Solució</a><br><br>
 
 15. Una molla, situada sobre una taula horitzontal sense fregament, està fixada per un dels extrems a una paret i a l’altre extrem hi ha lligat un cos de 0,5 kg de massa. La molla no està deformada inicialment. Desplacem el cos una distància de 50 cm de la seva posició d’equilibri i el deixem moure lliurement, amb la qual cosa descriu un moviment vibratori harmònic simple. L’energia potencial del sistema en funció del desplaçament es representa amb la paràbola de la gràfica següent. 
-<br>
-<img src="img_prob/molla.svg" width="200px">
-<img src="img_prob/parabola.svg" width="400px">
-<br>
+	<p class="aligncenter"><img src="img_prob/molla.svg" width="200px"/>
+	<img src="img_prob/parabola.svg" width="400px"/>
+	</p>
     Determineu: 
     
     1. El valor de la constant recuperadora de la molla 
@@ -112,8 +112,8 @@ d’1 s. Determineu:
     <br><a href="sol/prob615.pdf">Solució</a><br><br>
     
 16. L’èmbol d’una màquina de vapor té un recorregut $$D=100\,\mathrm{cm}$$ i comunica a l’eix una velocitat angular de 60 rpm. Si considerem que el moviment de l’èmbol descriu un moviment harmònic simple, deduïu el valor de la velocitat que té quan és a una distància de 20 cm d’un dels extrems del recorregut. 
-<br><img src="img_prob/embolo.png" width="200px">
-<br><a href="sol/prob616.pdf">Solució</a><br><br>
+	<p class="aligncenter"><img src="img_prob/embolo.png" width="200px"/></p>
+	<a href="sol/prob616.pdf">Solució</a><br>
 
 17. Una massa $$m=0,3\,\mathrm{kg}$$, situada en un pla horitzontal sense fricció i unida a una molla horitzontal, descriu un moviment vibratori harmònic. L’energia cinètica màxima de la massa és 15 J. 
     1. Si sabem que entre els dos punts del recorregut en què el cos té una velocitat nul·la hi ha una distància de 50 cm, calculeu l’amplitud, la freqüència i el període del moviment i la constant elàstica de la molla. 
@@ -126,38 +126,36 @@ d’1 s. Determineu:
 <br><a href="sol/prob618.pdf">Solució</a><br><br>
 
 19. Una massa de 0,5 kg descriu un moviment harmònic unida a l’extrem d’una molla, de massa negligible, sobre una superfície horitzontal sense fregament. En la gràfica següent es relaciona el valor de l’energia mecànica de la molla amb el quadrat de l’amplitud d’oscil·lació del moviment harmònic: 
-<br><img src="img_prob/energia_mec_vs_a2.png" width="300px">
+	<p class="aligncenter"><img src="img_prob/energia_mec_vs_a2.png" width="300px"/></p>
     Calculeu: 
-    
     1. El valor de la freqüència d’oscil·lació.
     2. El valor de la velocitat màxima de la massa quan l’amplitud d’oscil·lació del moviment és 0,141 4 m.
-<br><a href="sol/prob619.pdf">Solució</a><br><br>
+	<br><a href="sol/prob619.pdf">Solució</a><br><br>
 
 20. La massa dels astronautes a l’espai es mesura amb un aparell que es basa en el moviment vibratori harmònic. Quan l’astronauta s’hi col·loca, l’aparell inicia un moviment vibratori i en mesura la freqüència. Sabem que per a una massa de 60 kg, la freqüència d’oscil·lació és 0,678 Hz. 
     1. Calculeu la velocitat màxima d’oscil·lació d’aquesta massa si sabem que l’amplitud màxima d’oscil·lació és 20 cm. 
     2. Si la massa d’un astronauta fa oscil·lar l’aparell a una freqüència de 0,6064 Hz, calculeu la constant elàstica de la molla i la massa de l’astronauta. 
-<br><a href="sol/prob620.pdf">Solució</a><br><br>
+	<br><a href="sol/prob620.pdf">Solució</a><br><br>
 
 21. Duem a terme l’experiència següent: pengem d’una molla fixada en un suport per un dels seus extrems set masses diferents, i provoquem que aquestes masses facin petites oscil·lacions i realitzin un MVHS. Mesurem amb molta cura el temps que triga a fer deu oscil·lacions cadascuna de les masses i, a partir d’aquí, obtenim els períodes (T) del moviment, el quadrat dels quals es representa en la gràfica. 
     1. Calculeu la constant elàstica de la molla i expliqueu raonadament si depèn de la massa. Indiqueu el període que mesuraríem si provoquéssim les oscil·lacions amb una massa de 32,0 g. 
     2. El MVHS que descriu la massa de 100 g que hem penjat de la molla té una amplitud de 10,0 cm. Calculeu l’elongació i l’acceleració que tindrà la massa quan hauran transcorregut 3,00 s des del moment en què l’hem deixat oscil·lar a partir del punt més baix de la trajectòria. 
-<img src="img_prob/grafica_molla.png" width="300px">
-<br><a href="sol/prob621.pdf">Solució</a><br><br>
+	<p class="aligncenter"><img src="img_prob/grafica_molla.png" width="300px"/></p>
+	<a href="sol/prob621.pdf">Solució</a><br>
 
 22. En la vida quotidiana estem sotmesos a moviments vibratoris. Per exemple, en caminar, córrer, viatjar amb algun mitjà de locomoció o estar a prop d’alguna màquina. A l’hora de dissenyar vehicles i màquines, cal fer un estudi d’aquests moviments per tal d’aconseguir que siguin confortables i segurs, ja que els efectes de les vibracions poden anar des de simples molèsties fins al dolor o la mort. Aquests estudis solen utilitzar l’acceleració màxima del moviment vibratori com a variable, per a relacionar-la amb les molèsties que percebem. Se sap que som molt sensibles a un moviment vibratori de 6,0 Hz i que, amb aquesta freqüència, a partir d’una acceleració màxima de $$6,0\,\mathrm{ms^{-2}}$$, les molèsties són tan fortes que ens poden arribar a alarmar. 
     1. Calculeu l’amplitud d’oscil·lació que correspon a un moviment vibratori harmònic de 6,0 Hz i una acceleració màxima de $$6,0\,\mathrm{ms^{-2}}$$. 
     2. Calculeu el valor de la constant elàstica d’una molla per tal que una massa de 85 kg que hi estigui enganxada oscil·li amb una freqüència de 6,0 Hz. 
-<br><a href="sol/prob622.pdf">Solució</a><br><br>
+	<br><a href="sol/prob622.pdf">Solució</a><br><br>
 
 23. La gràfica següent representa el moviment d’un cos de 250 g de massa que oscil·la, sense fregament, unit a una molla.
-    <br><img src="img_prob/oscilacions.png" width="300px">
-    
+    <p class="aligncenter"><img src="img_prob/oscilacions.png" width="300px"/></p>
     1. Calculeu l’amplitud, la freqüència angular, el període i la fase inicial d’aquest moviment. 
     2. Escriviu l’equació del moviment i calculeu l’energia mecànica total del sistema.
-	<br><a href="sol/prob623.pdf">Solució</a><br><br>
+	<br><a href="sol/prob623.pdf">Solució</a><br>
 
 24. Una partícula de massa 500 g descriu un moviment vibratori harmònic de manera que la seva posició (en unitats del sistema internacional) ve donada per $$x=0,20\sin(10\pi t)$$, on $$t$$ és el temps. Calculeu l’energia cinètica màxima de la partícula i la força màxima que actua sobre ella. Indiqueu en quins punts de l’oscil·lació s’assoleixen aquests valors màxims. 
-<br><a href="sol/prob624.pdf">Solució</a><br><br>
+<br><a href="sol/prob624.pdf">Solució</a><br>
 
 ## Moviment ondulatori
 
@@ -349,7 +347,7 @@ d’1 s. Determineu:
     3. És l'aparent canvi de freqüència d'una ona causat pel moviment relatiu de la font amb respecte a l'observador.
 	4. És el principi per al qual es pot interpretar qualsevol punt d'un front d'ona com un nou generador d'ones.
     
-    <img src="img_prob/doppler_sheldon.png" width="300px">
+    <p class="aligncenter"><img src="img_prob/doppler_sheldon.png" width="300px"/> </p>
 
     Explica alguna situació de la realitat on es posi en evidència l'efecte Doppler. 
 
@@ -392,32 +390,34 @@ d’1 s. Determineu:
     
 	1. Dibuixeu el perfil de l’ona quan la corda vibra en l’harmònic fonamental. Quina serà la longitud d’ona del so produït? Quina és la velocitat de propagació de les ones que, per superposició, han format l’ona estacionària de la corda?
 	2. Dibuixeu la corda quan vibra i emet un so corresponent al tercer harmònic. Indiqueu, en aquest cas, els nodes i els ventres de l’ona i calculeu-ne les posicions.
-
+	<a href="sol/prob6129.pdf">Solució</a><br>
 
 30. En una corda d’1,25 metres de longitud es produeix un so que conté tots els harmònics. Si agafem un valor de 340 m/s per a la velocitat del so, calculeu: 
     
     1. La longitud d’ona i la freqüència del so fonamental. 
     2. Les longituds d’ona i les freqüències corresponents a tots els harmònics. 
-
+	<a href="sol/prob6130.pdf">Solució</a><br>
 	<!-- Intensitat sonora, decibels --> 
 
 31. El clarinet és un instrument de fusta en forma de tub en el qual es generen ones estacionàries. L’instrument es pot assimilar a un tub ple d’aire obert per un extrem i tancat per l’altre. La figura mostra el mode tercer harmònic, on l’aire vibra amb una freqüència de 637 Hz. 
-    <img src="img_prob/clarinet.png" width="300px">
+    <p class="aligncenter"><img src="img_prob/clarinet.png" width="300px"/> </p>
     
 	1. Quina és la llargària del clarinet?
 	2. Si la nota es toca amb una intensitat d’$$1,00\times10^{-5}\mathrm{Wm^{-2}}$$ i produeix una intensitat sonora determinada a dos metres de distància, en quants decibels augmenta el nivell de sensació sonora a la mateixa distància si la intensitat es duplica?
 
     Dada: $$v_{so}=340\,\mathrm{ms^{-1}}$$
-
+	<a href="sol/prob6131.pdf">Solució</a><br>
+	
 32. Alguns instruments musicals, com la flauta, estan formats per un tub en què es produeixen ones estacionàries. Podem imaginar-nos la flauta com un tub ple d’aire, obert pels dos extrems, en què es formen ones estacionàries amb ventres en els dos extrems. Si la llargària del tub és 70,0 cm: 
     
 	1. Dibuixeu el perfil de l’ona corresponent a l’harmònic fonamental produït a l’interior del tub de la flauta. Determineu la freqüència de l’harmònic fonamental i la dels dos primers sobretons (segon i tercer harmònics) que es produiran en aquest tub.
 	2. Quan fem sonar la flauta, produïm una sensació sonora de 65 dB en un observador situat a 2,0 m. Quina sensació sonora percebrà el mateix observador si en comptes d’una flauta sonen tres flautes idèntiques alhora?
 
     Dada: $$v_{so}=340\,\mathrm{m/s}$$.
-
+	<a href="sol/prob6132.pdf">Solució</a><br>
 
 33. Un cor està format per 40 cantants. Si cada un d'ells emet un so el nivell d'intensitat del qual per a un oient és de 56 dB, quin serà el nivell d'intensitat de tot el cor?
+	<a href="sol/prob6133.pdf">Solució</a><br>
 
 34. En el campionat mundial futbol de Sud-àfrica, la vuvuzela, un instrument musical d’animació molt sorollós, atesa la forma cònica i acampanada que té, va despertar una gran controvèrsia per les molèsties que causava. Aquest instrument produeix el so a una freqüència de 235 Hz i crea uns harmònics, és a dir, sons múltiples de la freqüència fonamental (235 Hz), d’entre 470 Hz i 1 645 Hz de freqüència. La vuvuzela és molt irritant, perquè els harmònics amb freqüències més altes són els més sensibles per a l’oïda humana. 
     Nota: Considereu que el tub sonor és obert pels dos cantons. 
@@ -426,4 +426,5 @@ d’1 s. Determineu:
 	2. Un espectador es troba a 1 m d’una vuvuzela i percep 116 dB. Molest pel soroll, s’allunya fins a una distància de 50 m. Quants decibels percep, aleshores?
 
     Dades: $$v_{so}=340\,\mathrm{m/s}$$; $$I_{0}=10^{-12}\,\mathrm{W/m^{2}}$$. 
+    <a href="sol/prob6134.pdf">Solució</a><br>
 
