@@ -180,7 +180,7 @@ d’1 s. Determineu:
 
 3. Una ona sonora de 440 Hz té una longitud d'ona de 77 cm. Quina serà la longitud d'ona d'una ona sonora de 200 Hz que es propagui en el mateix medi?
 
-<a href="sol/prob6103.pdf">Solució</a><br>
+	<a href="sol/prob6103.pdf">Solució</a><br>
 
 4. Una ona elàstica ve descrita per l’equació d’ones $$y(x,t)=0,1\sin2\pi(x-10t)$$, en unitats de l’SI. Determineu: 
 	1. La longitud d’ona i el període.
@@ -193,7 +193,7 @@ d’1 s. Determineu:
 	1. Calcula la velocitat de propagació d'aquesta ona.
 	2. Quina és la distància mínima entre dos punts de l'ona la diferència de fase de la qual és de $$\pi/2$$ radians? Quant tarda l'ona a propagar-se aquesta distància.
 
-<a href="sol/prob6105.pdf">Solució</a><br>
+	<a href="sol/prob6105.pdf">Solució</a><br>
 
 6. Troba a quina distància es propaga en 1 minut l'ona l'equació de la qual en unitats del SI és:
 
@@ -203,15 +203,15 @@ d’1 s. Determineu:
 
 7. La freqüència de les ones del mar durant un temporal és de 0,2 Hz i la longitud d'ona és de 20 metres. Calcula la velocitat de propagació, el nombre d'ona i escriu l'equació d'ona si sabem que l'alçada de les ones és de 5 metres. 
 
-<a href="sol/prob6107.pdf">Solució</a><br>
+	<a href="sol/prob6107.pdf">Solució</a><br>
 
 8. Una ona harmònica de freqüència 550 Hz es propaga a una velocitat de 300 m/s. Quina és la distància mínima entre dos punts que en tot moment es troben en el mateix estat de vibració? 
 
-<a href="sol/prob6108.pdf">Solució</a><br>
+	<a href="sol/prob6108.pdf">Solució</a><br>
 
 9. La Xarxa d’Instruments Oceanogràfics i Meteorològics (XIOM) fa servir boies marines per a estudiar l’onatge. De les estadístiques dels últims deu anys es pot extreure que, de mitjana, l’onatge a la costa catalana té una alçada (distància entre el punt més baix i el més alt de l’onada) de 70 cm i un període de 5 s. Escriviu l’equació del moviment d’una boia que es mou com aquesta onada mitjana. 
 
-<a href="sol/prob6109.pdf">Solució</a><br>
+	<a href="sol/prob6109.pdf">Solució</a><br>
 
 10. Una ona harmònica es propaga per una corda tensa. Trieu la resposta que considereu correcta.
 	1. Si la freqüència es redueix a la meitat, 
@@ -224,7 +224,7 @@ d’1 s. Determineu:
 		2. l’ona es propaga a la velocitat constant de 340 m/s.
 		3. l’ona vibra en una direcció que és perpendicular a la de propagació.
 
-<a href="sol/prob6110.pdf">Solució</a><br>
+	<a href="sol/prob6110.pdf">Solució</a><br>
 
 11. Un cos de 100 g de massa realitza un moviment vibratori harmònic simple de 20 cm d’amplitud i fa 10 oscil·lacions en 2 s. Deduïu: 
     
@@ -232,7 +232,7 @@ d’1 s. Determineu:
 	2. El valor de l’energia mecànica del cos.
 	3. L’equació de l’ona generada, si es transmet amb una velocitat de 20 m/s.
 
-<a href="sol/prob6111.pdf">Solució</a><br>
+	<a href="sol/prob6111.pdf">Solució</a><br>
 
 12. Una corda està unida per un extrem a una paret i està lliure per l’altre extrem. Fem vibrar l’extrem lliure harmònicament i es genera una ona transversal, descrita per l’equació 
 
@@ -244,7 +244,7 @@ d’1 s. Determineu:
 	2. La diferència de fase entre dos punts de la corda que disten 1 m i 3 m de la paret, respectivament, en un mateix instant.
 	3. Quant tardaria la vibració a arribar a la paret des de l’extrem lliure en què es genera, si la corda tingués una longitud de 10 m.
 
-<a href="sol/prob6112.pdf">Solució</a><br>
+	<a href="sol/prob6112.pdf">Solució</a><br>
 
 13. Fent servir un diapasó es genera una ona sonora unidimensional de 440 Hz de freqüència i 10 mm d’amplitud, que viatja en direcció radial des del focus emissor. La velocitat de propagació del so en l’aire, en les condicions de l’experiment, és de $$330\,\mathrm{m\cdot s^{-1}}$$. Determineu: 
 
@@ -252,7 +252,7 @@ d’1 s. Determineu:
 	2. El desfasament en la vibració de dos punts separats 1,875 m en un mateix instant.
 	3. La màxima velocitat de vibració (en unitats de l’SI) d’una molècula d’oxigen de l’aire que fa de transmissor de l’ona, que es troba a 1 m del diapasó.
 
-<a href="sol/prob6113.pdf">Solució</a><br>
+	<a href="sol/prob6113.pdf">Solució</a><br>
 
 14. En una cubeta d’ones es generen ones transversals planes de 10 cm d’amplitud. El generador fa 10 oscil·lacions cada 5 s. La vora de la cubeta es troba a 60 cm de distància, i les ones tarden 1 s a arribar-hi. Determineu: 
 
@@ -262,15 +262,15 @@ d’1 s. Determineu:
 	2. L’energia cinètica del suro quan la seva elongació és de 5 cm.
 	3. L’energia mecànica total del suro.
 
-<a href="sol/prob6114.pdf">Solució</a><br>
+	<a href="sol/prob6114.pdf">Solució</a><br>
 
 15. L'oïda d'una persona és sensible als sons de freqüències compreses entre 30 Hz i 16.000 Hz. Quina serà la mínima longitud d'ona sonora en l'aire que serà capaç d'apreciar aquesta persona? Velocitat de propagació del so a l'aire: 340 m/s. 
 
-<a href="sol/prob6115.pdf">Solució</a><br>
+	<a href="sol/prob6115.pdf">Solució</a><br>
 
 16. El focus emissor d'una ona harmònica vibra amb una freqüència de 20 Hz i una amplitud de 2 cm. Si la distància mínima entre dos punts que estan en fase és de 15 cm, quina serà la velocitat de propagació de l’ona? 
 
-<a href="sol/prob6116.pdf">Solució</a><br>
+	<a href="sol/prob6116.pdf">Solució</a><br>
 
 17. L’equació d’una ona harmònica transversal que es propaga en una corda tensa de gran longitud és $$y(x,t)=0,03\sin(2\pi t-\pi x)$$, on $$x$$ i $$y$$ s’expressen en metres i t, en segons. Calculeu: 
 
@@ -278,7 +278,7 @@ d’1 s. Determineu:
 	2. L’expressió de la velocitat d’oscil·lació de les partícules de la corda i la velocitat màxima d’oscil·lació. 
 	3. A l’instant $$t=2,0\,\mathrm{s}$$, el valor del desplaçament i la velocitat d’un punt de la corda situat a $$x=0,75\,\mathrm{m}$$.
 
-<a href="sol/prob6117.pdf">Solució</a><br>
+	<a href="sol/prob6117.pdf">Solució</a><br>
 
 18. La corda del violí, en produir la nota LA, vibra amb una freqüència de 440 Hz, i aquesta vibració es transmet a l’aire com una ona acústica de 5 mm d’amplitud. 
     
@@ -298,21 +298,21 @@ d’1 s. Determineu:
         
     Dades: La velocitat del so en l’aire és de 340 m/s.
 
-<a href="sol/prob6118.pdf">Solució</a><br>
+	<a href="sol/prob6118.pdf">Solució</a><br>
 
 19. Observem que dues boies de senyalització en una zona de bany d’una platja, separades una distància de 2 m, oscil·len de la mateixa manera amb l’onatge de l’aigua del mar. Veiem que la mínima distància en què té lloc aquest fet és, justament, la separació entre les dues boies. Comptem que oscil·len trenta vegades en un minut i observem que pugen fins a una alçada de 20 cm. 
 
 	1. Determineu la freqüència, la longitud d’ona i la velocitat de les ones del mar.
 	2. Escriviu l’equació que descriu el moviment de les boies en funció del temps, si comencem a comptar el temps quan les boies són en la posició més alta. Escriviu l’equació de la velocitat de les boies en funció del temps.
 
-<a href="sol/prob6119.pdf">Solució</a><br>
+	<a href="sol/prob6119.pdf">Solució</a><br>
 
 20. Una ona harmònica transversal es propaga per una corda a una velocitat de 6,00 m/s. L’amplitud de l’ona és 20 mm i la distància mínima entre dos punts que estan en fase és 0,40 m. Considereu la direcció de la corda com l’eix x i que l’ona es propaga en el sentit positiu d’aquest eix. 
     
 	1. Calculeu la longitud d’ona, el nombre d’ona, la freqüència, el període i la freqüència angular (pulsació).
 	2. Escriviu l’equació de l’ona sabent que, en l’instant inicial, l’elongació d’un punt situat a l’origen de coordenades és màxima. Calculeu l’expressió de la velocitat amb què vibra un punt de la corda situat a una distància de 10 m respecte de l’origen de la vibració. Quina és la velocitat màxima d’aquest punt?
 
-<a href="sol/prob6120.pdf">Solució</a><br>
+	<a href="sol/prob6120.pdf">Solució</a><br>
 
 <!-- Llei d'Snell-->
 
@@ -322,7 +322,7 @@ d’1 s. Determineu:
 	2. La seva longitud d’ona augmenta, disminueix o queda inalterada? 
     Justifiqueu la resposta. 
 
-<a href="sol/prob6121.pdf">Solució</a><br>
+	<a href="sol/prob6121.pdf">Solució</a><br>
 
 22. Els grills perceben sons de freqüència d’entre 20 Hz i 100 kHz i els saltamartins perceben sons d’entre 15 Hz i 35 kHz de freqüència. Les balenes blanques emeten sons de 20 Hz. Si el so de la balena arriba a la superfície amb un angle de 60° respecte de la normal, calculeu: 
 
@@ -341,7 +341,7 @@ d’1 s. Determineu:
 		1. L’altaveu s’acosta ràpidament a l’observador.
 		2. El so arriba a l’observador després d’haver-se reflectit en una paret.
 
-<a href="sol/prob6123.pdf">Solució</a><br>
+	<a href="sol/prob6123.pdf">Solució</a><br>
 
 24. A la sèrie televisiva Big Bang Theory, Sheldon Cooper es disfresa d'efecte Doppler (veure imatge) per a anar a una festa. Penny pregunta què és l'efecte Doppler i aleshores Sheldon li explica. Tria l'explicació d'en Sheldon:
     
@@ -362,7 +362,7 @@ d’1 s. Determineu:
     1. Què passarà si les dues ones interfereixen en un punt situat a 20 cm d'un focus i a 12,5 cm de l'altre?
 	2. I en un punt situat a 30 cm d'un focus i 24 de l'altre?
 	
-<a href="sol/prob6125.pdf">Solució</a><br>
+	<a href="sol/prob6125.pdf">Solució</a><br>
 
 26. Cadascun dels extrems d’un diapasó presenta un moviment vibratori harmònic amb una freqüència de 1 000 Hz i una amplitud d’1 mm. Aquest moviment genera en l’aire una ona harmònica de so de la mateixa freqüència. El moviment dels dos extrems està en fase. 
 
@@ -371,7 +371,7 @@ d’1 s. Determineu:
 
     Dada: Velocitat del so a l'aire: $$v_{so}=340\,\mathrm{m/s}$$.
 
-<a href="sol/prob6126.pdf">Solució</a><br>
+	<a href="sol/prob6126.pdf">Solució</a><br>
 
 27. Si observem el fons d’una piscina, sembla que sigui menys profunda del que realment és. Raoneu si això és conseqüència: 
     
@@ -387,7 +387,7 @@ d’1 s. Determineu:
 	1. Com té els extrems aquest tub sonor: oberts, tancats o un de cada?
 	2. Calcula la longitud del tub.
 
-<a href="sol/prob6128.pdf">Solució</a><br>
+	<a href="sol/prob6128.pdf">Solució</a><br>
 
 29. Les cordes d’una guitarra tenen una longitud de 78,0 cm. Sabem que una de les cordes, quan vibra en el seu harmònic fonamental, emet un LA, que correspon a una freqüència de 220 Hz. 
     
