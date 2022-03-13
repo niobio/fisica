@@ -282,16 +282,12 @@ d’1 s. Determineu:
 
 18. La corda del violí, en produir la nota LA, vibra amb una freqüència de 440 Hz, i aquesta vibració es transmet a l’aire com una ona acústica de 5 mm d’amplitud. 
     
-	1. L’ona acústica generada per la corda del violí és descrita per l’equació
-    
+	1. L’ona acústica generada per la corda del violí és descrita per l’equació  
 		1. $$y=5\times10^{-3}\sin\left(\frac{44\pi}{17}t-880\pi x\right)$$,
 		2. $$y=5\times10^{-3}\sin\left(440\pi t-\frac{440}{340}x\right)$$,
 		3. $$y=5\times10^{-3}\sin\left(880\pi t-\frac{44\pi}{17}x\right)$$,
-        
         en què la $$y$$ representa el desplaçament en la posició $$x$$. L’amplitud, el desplaçament, $$y$$, i la distància, $$x$$, s’expressen en metres i el temps, $$t$$, en segons.
-
-	2.La distància mínima entre dos punts que estan en fase és de 
-
+	2. La distància mínima entre dos punts que estan en fase és de 
 		1. 0,773 m.
         2. 0,386 m.
         3. 340 m.
@@ -310,7 +306,8 @@ d’1 s. Determineu:
 20. Una ona harmònica transversal es propaga per una corda a una velocitat de 6,00 m/s. L’amplitud de l’ona és 20 mm i la distància mínima entre dos punts que estan en fase és 0,40 m. Considereu la direcció de la corda com l’eix x i que l’ona es propaga en el sentit positiu d’aquest eix. 
     
 	1. Calculeu la longitud d’ona, el nombre d’ona, la freqüència, el període i la freqüència angular (pulsació).
-	2. Escriviu l’equació de l’ona sabent que, en l’instant inicial, l’elongació d’un punt situat a l’origen de coordenades és màxima. Calculeu l’expressió de la velocitat amb què vibra un punt de la corda situat a una distància de 10 m respecte de l’origen de la vibració. Quina és la velocitat màxima d’aquest punt?
+	2. Escriviu l’equació de l’ona sabent que, en l’instant inicial, l’elongació d’un punt situat a l’origen de coordenades és màxima.
+	3. Calculeu l’expressió de la velocitat amb què vibra un punt de la corda situat a una distància de 10 m respecte de l’origen de la vibració. Quina és la velocitat màxima d’aquest punt?
 
 	<a href="sol/prob6120.pdf">Solució</a><br>
 
@@ -331,7 +328,7 @@ d’1 s. Determineu:
 
     Dades: Velocitat del so a l'aire: $$v_{aire}=340\,\mathrm{m/s}$$; velocitat del so a l'aigua $$v_{aigua}=1500\,\mathrm{m/s}$$. 
 
-<!-- Efecte Doppler -->
+	<!-- Efecte Doppler -->
 
 23. La membrana d’un altaveu vibra amb una freqüència de 300 Hz i una amplitud de 1,00 mm i produeix un to pur. En les condicions de l’experiment, la velocitat del so és $$340\,\mathrm{ms^{-1}}$$. 
 
@@ -355,7 +352,7 @@ d’1 s. Determineu:
     Explica alguna situació de la realitat on es posi en evidència l'efecte Doppler. 
 
 
-<!-- Interferència -->
+	<!-- Interferència -->
 
 25. Dos focus puntuals situats a 20 cm l'un de l'altre en la superfície de l'aigua emeten ones circulars de la mateixa amplitud, freqüència i fase. La velocitat de propagació de les ones és de 60 cm/s i la seva freqüència de 20 Hz.
 
@@ -380,7 +377,7 @@ d’1 s. Determineu:
 	3. D’un fenomen d’interferències.
 	4. De la difracció de la llum.
 
-<!-- ones estacionàries-->
+	<!-- ones estacionàries-->
 
 28. En un instrument musical de vent, les freqüències dels tres primers models normals de vibració són 440, 1320, i 2200 Hz. Si prenem 340 m/s com a velocitat del so en l'aire:
     
@@ -400,7 +397,7 @@ d’1 s. Determineu:
     1. La longitud d’ona i la freqüència del so fonamental. 
     2. Les longituds d’ona i les freqüències corresponents a tots els harmònics. 
 
-<!-- Intensitat sonora, decibels --> 
+	<!-- Intensitat sonora, decibels --> 
 
 31. El clarinet és un instrument de fusta en forma de tub en el qual es generen ones estacionàries. L’instrument es pot assimilar a un tub ple d’aire obert per un extrem i tancat per l’altre. La figura mostra el mode tercer harmònic, on l’aire vibra amb una freqüència de 637 Hz. 
     <img src="img_prob/clarinet.png" width="300px">
