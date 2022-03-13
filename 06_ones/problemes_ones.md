@@ -9,23 +9,22 @@
 ## Moviment Vibratori Harmònic Simple
 
 1. Sigui un m.v.h.s. amb equació $$x=2\sin\left(4\pi t+\frac{\pi}{4}\right)$$ en què $$x$$ s'expressa en cm i $$t$$ en s. Digues quina de les següents respostes és la correcta: 
-
     1. La freqüència és $$4\pi\,\mathrm{Hz}$$, l'amplitud és 2 cm i la fase inicial és $$\pi/4$$.
     2. La freqüència angular és 4 rad/s, l'amplitud és 2 cm i la fase inicial és $$\pi/4$$.
     3. La freqüència és 2 Hz, l'amplitud és 2 cm i la fase inicial és $$\pi/4$$.
     4. La freqüència angular és $$4\pi$$, l'amplitud és 2 m i la fase inicial és $$\pi/4$$.
     5. La freqüència és 2 Hz, l'amplitud és 2 cm i la fase inicial $$4\pi$$.
-    <br><a href="sol/prob601.pdf" target="_blank">Solució</a><br><br>
+    <p><a href="sol/prob601.pdf" target="_blank">Solució</a></p>
 
 2. En el m.v.h.s. d'equació $$x=12\sin(2\pi t)$$ amb unitats del sistema SI, calcula el valor de l'acceleració quan l'elongació val 8 m.
-<br><a href="sol/prob602.pdf" target="_blank">Solució</a><br><br>
+	<p><a href="sol/prob602.pdf" target="_blank">Solució</a></p>
 
 3. Un mòbil presenta un moviment vibratori harmònic simple amb un període de 0,5 s i una amplitud de 2 mm. 
     1. Escriviu l'equació de l'elongació com funció del temps. 
     2. Quina serà l'equació d'un mòbil que es mou amb la mateixa amplitud i freqüència, però en oposició de fase? 
     3. Quant valen la velocitat màxima i l'acceleració màxima que assoleix el mòbil? 
     4. Trobeu l'expressió dels instants de temps en què el mòbil té velocitat nul·la.
-    <br><a href="sol/prob603.pdf" target="_blank">Solució</a><br><br>
+    <p><a href="sol/prob603.pdf" target="_blank">Solució</a></p>
 
 4. La velocitat d'un m.v.h.s. en funció del temps en segons és:
 $$v=\frac{4\pi}{3}\cos\left(\frac{\pi}{3}t+\frac{\pi}{2}\right)\,\mathrm{m/s}$$
@@ -33,20 +32,18 @@ $$v=\frac{4\pi}{3}\cos\left(\frac{\pi}{3}t+\frac{\pi}{2}\right)\,\mathrm{m/s}$$
     2. Expressa l'elongació del mòbil en funció del temps. 
     3. Expressa l'acceleració del móbil en funció del temps. 
     4. Digues quant val l'acceleració en l'instant que el mòbil passa pel punt d'equilibri.
-    <br><a href="sol/prob604.pdf" target="_blank">Solució</a><br><br>
+    <p><a href="sol/prob604.pdf" target="_blank">Solució</a></p>
     
 5. La gràfica següent correspon a un moviment vibratori harmònic simple. Podeu escriure la seva equació de moviment?
     <p class="aligncenter"><img src="img_prob/mvhs.png" width="400px"/></p>
-    <br><a href="sol/prob605.pdf" target="_blank">Solució</a><br><br>
+    <p><a href="sol/prob605.pdf" target="_blank">Solució</a></p>
 
 6. Dues masses $$m_{1}$$ i $$m_{2}$$ tal que $$m_{1}=2m_{2}$$, es pengen dels extrems de dues molles iguals i es deixen oscil·lar, quina serà la relació entre els períodes $$T_{1}$$ i $$T_{2}$$ dels respectius moviments? Justifica la teva resposta. 
-
-	1. $$T_{1}=T_{2}$$
-	2. $$T_{1}=2T_{2}$$
-	3. $$T_{1}=0,5T_{2}$$
-	4. $$T_{1}=1,4T_{2}$$
-    
-    <br><a href="sol/prob606.pdf" target="_blank">Solució</a><br><br>
+	1. $$T_{1}=T_{2}$$,
+	2. $$T_{1}=2T_{2}$$,
+	3. $$T_{1}=0,5T_{2}$$,
+	4. $$T_{1}=1,4T_{2}$$.
+    <p><a href="sol/prob606.pdf" target="_blank">Solució</a></p>
     
 7. Tenim dos pèndols de la mateixa massa, però la longitud d'un és el doble de la de l'altre. Aleshores, digues quines d'aquestes afirmacions és correcta (justifica la teva resposta): 
     1. Els períodes són iguals. 
@@ -54,7 +51,7 @@ $$v=\frac{4\pi}{3}\cos\left(\frac{\pi}{3}t+\frac{\pi}{2}\right)\,\mathrm{m/s}$$
     3. El període d'un és $$\sqrt{2}$$ vegades el de l'altre. 
     4. El període d'un és $$2\pi$$ vegades el de l'altre. 
     5. No es pot dir res de la relació entre períodes si no se sap el valor de la massa dels pèndols.
-    <br><a href="sol/prob607.pdf" target="_blank">Solució</a><br><br>
+    <p><a href="sol/prob607.pdf" target="_blank">Solució</a></p>
 
 8. Un pèndol està compost per una massa de 10 kg i un fil d’1 m de longitud. ($$\lvert g \rvert=9,8\,\mathrm{m/s^{2}}$$): 
     1. Troba el seu període d’oscil·lació per a petites oscil·lacions. 
