@@ -313,7 +313,7 @@ d’1 s. Determineu:
 
 	<a href="sol/prob6120.pdf">Solució</a><br>
 
-<!-- Llei d'Snell-->
+	<!-- Llei d'Snell-->
 
 21. La velocitat del so a l’aigua és més gran que a l’aire. Quan una ona harmònica de so passa de l’aire a l’aigua: 
 
