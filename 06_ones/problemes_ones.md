@@ -390,13 +390,14 @@ d’1 s. Determineu:
     
 	1. Dibuixeu el perfil de l’ona quan la corda vibra en l’harmònic fonamental. Quina serà la longitud d’ona del so produït? Quina és la velocitat de propagació de les ones que, per superposició, han format l’ona estacionària de la corda?
 	2. Dibuixeu la corda quan vibra i emet un so corresponent al tercer harmònic. Indiqueu, en aquest cas, els nodes i els ventres de l’ona i calculeu-ne les posicions.
-	<a href="sol/prob6129.pdf">Solució</a><br>
+	<p><a href="sol/prob6129.pdf">Solució</a></p>
 
 30. En una corda d’1,25 metres de longitud es produeix un so que conté tots els harmònics. Si agafem un valor de 340 m/s per a la velocitat del so, calculeu: 
     
     1. La longitud d’ona i la freqüència del so fonamental. 
     2. Les longituds d’ona i les freqüències corresponents a tots els harmònics. 
-	<a href="sol/prob6130.pdf">Solució</a><br>
+	<p><a href="sol/prob6130.pdf">Solució</a></p>
+	
 	<!-- Intensitat sonora, decibels --> 
 
 31. El clarinet és un instrument de fusta en forma de tub en el qual es generen ones estacionàries. L’instrument es pot assimilar a un tub ple d’aire obert per un extrem i tancat per l’altre. La figura mostra el mode tercer harmònic, on l’aire vibra amb una freqüència de 637 Hz. 
@@ -406,7 +407,7 @@ d’1 s. Determineu:
 	2. Si la nota es toca amb una intensitat d’$$1,00\times10^{-5}\mathrm{Wm^{-2}}$$ i produeix una intensitat sonora determinada a dos metres de distància, en quants decibels augmenta el nivell de sensació sonora a la mateixa distància si la intensitat es duplica?
 
     Dada: $$v_{so}=340\,\mathrm{ms^{-1}}$$
-	<a href="sol/prob6131.pdf">Solució</a><br>
+	<p><a href="sol/prob6131.pdf">Solució</a></p>
 	
 32. Alguns instruments musicals, com la flauta, estan formats per un tub en què es produeixen ones estacionàries. Podem imaginar-nos la flauta com un tub ple d’aire, obert pels dos extrems, en què es formen ones estacionàries amb ventres en els dos extrems. Si la llargària del tub és 70,0 cm: 
     
@@ -414,10 +415,10 @@ d’1 s. Determineu:
 	2. Quan fem sonar la flauta, produïm una sensació sonora de 65 dB en un observador situat a 2,0 m. Quina sensació sonora percebrà el mateix observador si en comptes d’una flauta sonen tres flautes idèntiques alhora?
 
     Dada: $$v_{so}=340\,\mathrm{m/s}$$.
-	<a href="sol/prob6132.pdf">Solució</a><br>
+	<p><a href="sol/prob6132.pdf">Solució</a></p>
 
 33. Un cor està format per 40 cantants. Si cada un d'ells emet un so el nivell d'intensitat del qual per a un oient és de 56 dB, quin serà el nivell d'intensitat de tot el cor?
-	<a href="sol/prob6133.pdf">Solució</a><br>
+	<p><a href="sol/prob6133.pdf">Solució</a></p>
 
 34. En el campionat mundial futbol de Sud-àfrica, la vuvuzela, un instrument musical d’animació molt sorollós, atesa la forma cònica i acampanada que té, va despertar una gran controvèrsia per les molèsties que causava. Aquest instrument produeix el so a una freqüència de 235 Hz i crea uns harmònics, és a dir, sons múltiples de la freqüència fonamental (235 Hz), d’entre 470 Hz i 1 645 Hz de freqüència. La vuvuzela és molt irritant, perquè els harmònics amb freqüències més altes són els més sensibles per a l’oïda humana. 
     Nota: Considereu que el tub sonor és obert pels dos cantons. 
@@ -426,5 +427,5 @@ d’1 s. Determineu:
 	2. Un espectador es troba a 1 m d’una vuvuzela i percep 116 dB. Molest pel soroll, s’allunya fins a una distància de 50 m. Quants decibels percep, aleshores?
 
     Dades: $$v_{so}=340\,\mathrm{m/s}$$; $$I_{0}=10^{-12}\,\mathrm{W/m^{2}}$$. 
-    <a href="sol/prob6134.pdf">Solució</a><br>
+    <p><a href="sol/prob6134.pdf">Solució</a></p>
 
