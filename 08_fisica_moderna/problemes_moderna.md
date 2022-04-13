@@ -2,6 +2,7 @@
 
 <style type="text/css">
     ol ol { list-style-type: lower-alpha; }
+    .aligncenter {text-align: center;}
 </style>
 
 ## Efecte fotoelèctric
@@ -248,14 +249,14 @@
     1. Determineu els valors dels coeficients a, b, c i d. Quin nom té la partícula que el Pu-240 ha capturat en la primera reacció? Com s’anomena la desintegració descrita en la segona reacció?
     2. Calculeu el percentatge de nuclis de Am-241 que s’han desintegrat des del 1944 fins ara. 
     <br>**Dada**: <br>Període de semidesintegració de l’americi 241, $$t_{1/2}=432\,\mathrm{anys}$$.
-    <img src="img_prob/seaborg.png" alt="Glenn Theodore Seaborg">
-    <br><a href="sol/nuclear_38.pdf">Solució</a><br>
+    <p class="aligncenter"><img src="img_prob/seaborg.png" alt="Glenn Theodore Seaborg"></p>
+    <p><a href="sol/nuclear_38.pdf">Solució</a></p>
 
 39. L’urani 235 té uns quaranta modes possibles de desintegració per absorció d’un neutró. 
-    1. Completeu la reacció nuclear següent, que s’esdevé quan un nucli d’urani 235 absorbeix un neutró:     
-    <br>
+    1. Completeu la reacció nuclear següent, que s’esdevé quan un nucli d’urani 235 absorbeix un neutró:
+    <p>
             $$\mathrm{_{a}^{b}n+_{92}^{235}U\longrightarrow_{38}^{95}Sr+_{d}^{c}Xe+2_{a}^{b}n}$$
-    <br><br>
+    </p>
     Indiqueu també quants neutrons i protons té aquest nucli d’urani.
     2. Calculeu l’energia produïda en la fissió d’un nucli d’urani 235, d’acord amb la reacció anterior.
     <br>**Dades**: <br>
@@ -268,21 +269,21 @@
     <br><a href="sol/nuclear_39.pdf">Solució</a><br>
 
 40. Completa les reaccions nuclears següents: 
-    1. $$^{9}\mathrm{Be+{}^{4}He}\longrightarrow\mathrm{^{12}C+\ldots+\gamma}$$
-    2. $$^{128}\mathrm{I}\longrightarrow\mathrm{^{128}Xe+\ldots+\gamma}$$
-    3. $$^{129}\mathrm{Ba}\longrightarrow\mathrm{^{129}Cs+\ldots+\gamma}$$
-    4. $$^{35}\mathrm{Cl+{}^{1}n}\longrightarrow\mathrm{^{36}S+\ldots+\gamma}$$
-    5. $$^{208}\mathrm{Po}\longrightarrow\mathrm{^{204}Pb+\ldots+\gamma}$$
-    6. $$\ldots+{}^{222}\mathrm{Rn}\longrightarrow\mathrm{^{226}Ra+\gamma}$$
+    1. $$^{9}\mathrm{Be+{}^{4}He}\longrightarrow\mathrm{^{12}C+\ldots+\gamma}$$.
+    2. $$^{128}\mathrm{I}\longrightarrow\mathrm{^{128}Xe+\ldots+\gamma}$$.
+    3. $$^{129}\mathrm{Ba}\longrightarrow\mathrm{^{129}Cs+\ldots+\gamma}$$.
+    4. $$^{35}\mathrm{Cl+{}^{1}n}\longrightarrow\mathrm{^{36}S+\ldots+\gamma}$$.
+    5. $$^{208}\mathrm{Po}\longrightarrow\mathrm{^{204}Pb+\ldots+\gamma}$$.
+    6. $$\ldots+{}^{222}\mathrm{Rn}\longrightarrow\mathrm{^{226}Ra+\gamma}$$.
     
     <br><a href="sol/nuclear_40.pdf">Solució</a><br>
     <br>
 
 41. Completa les reaccions de fissió nuclear següents:
-    1. $$\mathrm{^{235}U+_{0}^{1}n\longrightarrow^{101}Mo+^{132}Sn+\ldots}$$
-    2. $$\mathrm{^{239}Pu+_{0}^{1}n\longrightarrow^{100}Tc+\ldots+4_{0}^{1}n}$$
-    3. $$\mathrm{^{235}U+_{0}^{1}n\longrightarrow^{94}Sr+\ldots+2{}_{0}^{1}n}$$
-    4. $$\mathrm{^{239}Pu+_{0}^{1}n\longrightarrow\ldots+^{133}In+3_{0}^{1}n}$$
+    1. $$\mathrm{^{235}U+_{0}^{1}n\longrightarrow^{101}Mo+^{132}Sn+\ldots}$$.
+    2. $$\mathrm{^{239}Pu+_{0}^{1}n\longrightarrow^{100}Tc+\ldots+4_{0}^{1}n}$$.
+    3. $$\mathrm{^{235}U+_{0}^{1}n\longrightarrow^{94}Sr+\ldots+2{}_{0}^{1}n}$$.
+    4. $$\mathrm{^{239}Pu+_{0}^{1}n\longrightarrow\ldots+^{133}In+3_{0}^{1}n}$$.
     
     <br><a href="sol/nuclear_41.pdf">Solució</a><br>
 
@@ -295,7 +296,7 @@
 * Número d'Avogadro: $$N_{Av} =	6,02\times10^{23}\,\mathrm{nuclis/mol}$$
 * Càrrega de l'electró:	$$e =-1,6\times10^{-19}\,\mathrm{C}$$
 * Velocitat de la llum al buit: $$c = 3\times10^{8}\,\mathrm{m\cdot s^{-1}}$$
-<br><br><br>
-<img src="img_prob/Periodic_table_blanco.png">
+<p class="aligncenter"><img src="img_prob/Periodic_table_blanco.png" width="400px"/></p>
+
 
 
