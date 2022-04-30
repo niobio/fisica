@@ -74,8 +74,8 @@
     
     2. A continuació canviem l’elèctrode A per un altre que és fet d’un material desconegut. Per tal de determinar de quin material es tracta, l’il·luminem un altre cop amb la mateixa llum d’abans, i determinem que el potencial de frenada dels electrons de l’elèctrode A és $$V_{f}=0,17\,\mathrm{V}$$. Determineu el treball d’extracció del material i indiqueu de quin element és fet a partir de la taula de valors següent:
 
-    |Element|Ba|Li|Mg|As|Al|Bi|Cr|Ag|Be|
-    |-------|--|--|--|--|--|--|--|--|--|
+    |Element|Ba|Li|Mg|As|Al|
+    |-------|--|--|--|--|--|
     |$$W_{0}$$ (eV)|2,70|2,93|3,66|3,75|4,08|
 
     |Element|Bi|Cr|Ag|Be|
