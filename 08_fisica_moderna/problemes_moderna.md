@@ -23,9 +23,15 @@
 5. Una llum de freqüència $$6\times10^{14}\,\mathrm{Hz}$$ incideix sobre una superfície metàl·lica i en surten electrons amb una energia cinètica de $$2\times10^{-19}\,\mathrm{J}$$. Calcula el treball d'extracció dels electrons i expressa'l en electronvolts. 
     Resposta: $$1,975\times10^{-19}\,\mathrm{J}$$ <a href="sol/prob805.pdf">Solució</a><br>
   
-6. Se sap que un determinat metall experimenta l’efecte fotoelèctric quan s’hi fan incidir fotons d’energia superior a 1 eV. Suposeu que sobre aquest metall hi incideixen fotons de longitud d’ona $$6\times10^{-7}\,\mathrm{m}$$. 
-    1. Quant val la freqüència dels fotons incidents? 
-    2.Es produeix l’efecte fotoelèctric? Per què? 
+6. En un experiment fotoelèctric, iŀluminem una superfície metàŀlica amb una llum verda que té una longitud d’ona de 546,1 nm. Observem que el potencial de frenada és de 0,376 V (tensió per la qual desapareix el corrent).
+	1. Determineu la funció de treball (treball d’extracció) d’aquesta superfície metàŀlica. Calculeu el llindar de freqüència per a l’extracció de fotoelectrons d’aquest metall.
+	2. Si iŀluminem la superfície anterior amb una llum groga de 587,5 nm, determineu l’energia dels fotons incidents. Calculeu el potencial de frenada amb aquesta nova font de llum.
+	**Dades**: <br>
+	$$m_e=9,11\times 10^{-31}\,\mathrm{kg}$$; <br>
+	$$|e|=1,602\times 10^{-19}\,\mathrm{C}$$; <br>
+    $$1\,\mathrm{eV=1,602\times10^{-19}\,J}$$; <br>
+    $$c=3,00\times10^{8}\,\mathrm{m\cdot s^{-1}}$$; <br>
+    $$h=6,63\times10^{-34}\,\mathrm{J\cdot s}$$. <br>
     <br><a href="sol/prob806.pdf">Solució</a><br>
 
 7. Una radiació de llum ultraviolada, d’una freqüència d’$$1,5\times10^{15}\,\mathrm{Hz}$$, incideix sobre una làmina de coure de manera que es produeix efecte fotoelèctric. La freqüència mínima perquè es produeixi efecte fotoelèctric en aquest metall és $$1,1\times10^{15}\,\mathrm{Hz}$$. 
@@ -70,7 +76,10 @@
 
     |Element|Ba|Li|Mg|As|Al|Bi|Cr|Ag|Be|
     |-------|--|--|--|--|--|--|--|--|--|
-    |$$W_{0}$$ (eV)|2,70|2,93|3,66|3,75|4,08|4,34|4,50|4,73|4,98|
+    |$$W_{0}$$ (eV)|2,70|2,93|3,66|3,75|4,08|
+    |Element|Bi|Cr|Ag|Be|
+    |-------|--|--|--|--|
+	|$$W_{0}$$ (eV)|4,34|4,50|4,73|4,98|
 
     **Dades**: <br>
     Massa de l’electró, $$m_{\mathrm{electr\acute{o}}}=9,11\times10^{-31}\,\mathrm{kg}$$, <br>

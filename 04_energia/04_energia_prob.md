@@ -1,67 +1,43 @@
 # Problemes Unitat 4: Energia
+<style type="text/css">
+    ol ol { list-style-type: lower-alpha; }
+    .aligncenter {text-align: center;}
+</style>
 
 ## Treball i energia
 
-<ol>
+1. Un cos de 2 kg, inicialment en repòs, baixa per un pla inclinat 42º respecte de l'horitzontal. Després de recórrer una distància de 3 m sobre el pla inclinat, arriba a un terra horitzontal i, finalment, puja per un altre pla inclinat 30º respecte de l'horitzontal (observa el dibuix). 
+<p class="aligncenter"><img src="img_prob/planos_inclin.png" width="400px"/></p>
+    Suposant que els efectes del fregament són negligibles, calcula: 
+    1. El temps que triga a arribar al peu del primer pla inclinat i la velocitat del cos en aquest moment.
+    2. La màxima longitud recorreguda pel cos en la pujada pel pla inclinat de la dreta. 
+    3. Si el coeficient de fregament entre el cos i el primer pla inclinat fos $$\mu=0,4$$; quanta energia s'alliberaria en forma de calor des de l'instant inicial fins a arribar al peu del primer pla inclinat?
+    <p><a href="sol/prob401.pdf">Solució</a></p>
 
-<li>Un cos de 2 kg, inicialment en repòs, baixa per un pla inclinat 42º respecte de l'horitzontal. Després de recórrer una distància de 3 m sobre el pla inclinat, arriba a un terra horitzontal i, finalment, puja per un altre pla inclinat 30º respecte de l'horitzontal (observa el dibuix). 
-        <div align="middle">
-        <img src="img_prob/planos_inclin.png" width="70%">
-        </div>
-Suposant que els efectes del fregament són negligibles, calcula: 
-<ol>
-<li>El temps que triga a arribar al peu del primer pla inclinat i la velocitat del cos en aquest moment. </li>
-    <li>La màxima longitud recorreguda pel cos en la pujada pel pla inclinat de la dreta. </li>
-<li>Si el coeficient de fregament entre el cos i el primer pla inclinat fos $$\mu=0,4$$; quanta energia s'alliberaria en forma de calor des de l'instant inicial fins a arribar al peu del primer pla inclinat?</li>
-    </ol>
-    <br><a href="sol/prob401.pdf">Solució</a><br>
-</li>
-<br>
+2. La figura representa la vessant d'una muntanya, sobre la qual llisca amb fregament menyspreable un esquiador de 80 kg. Sabem que passa pel punt A amb una velocitat de 5 m/s, i que passa pel punt C amb una velocitat de 10 m/s.
+    1. Determineu l'energia potencial gravitatòria, l'energia cinètica i l'energia mecànica de l'esquiador en els punts indicats.
+    2. Determineu la velocitat en els punts B, D, E i F.
+    3. Trobeu la distància que necessitarà per aturar-se si, a partir del punt F actua una força de fregament constant de 500 N.
+    <p class="aligncenter"><img src="img_prob/mont_rusa.png" width="400px"></p>
+    <p><a href="sol/prob402.pdf">Solució</a></p>
 
-<li>La figura representa la vessant d'una muntanya, sobre la qual llisca amb fregament menyspreable un esquiador de 80 kg. Sabem que passa pel punt A amb una velocitat de 5 m/s, i que passa pel punt C amb una velocitat de 10 m/s.
-<ol>
-<li>Determineu l'energia potencial gravitatòria, l'energia cinètica i l'energia mecànica de l'esquiador en els punts indicats.</li>
-<li>Determineu la velocitat en els punts B, D, E i F. </li>
-<li>Trobeu la distància que necessitarà per aturar-se si, a partir del punt F actua una força de fregament constant de 500 N.</li>
+3. Des de la part superior d’un pla inclinat, d’angle 37° amb el pla horitzontal i longitud 5 m, deixem caure una partícula de massa 10 kg. La partícula arriba a la part inferior del pla inclinat amb una velocitat de 6 m/s.
+    1. Quant val el treball que la força pes ha fet sobre la partícula en aquest trajecte?
+    2. Quant val el treball fet per la força de fregament?
+    <p><a href="sol/prob403.pdf">Solució</a></p>
 
-<div align="middle">
-<img src="img_prob/mont_rusa.png" width="70%">
-</div>
-</ol>
-    <br><a href="sol/prob402.pdf">Solució</a><br>
-</li>
-<br>
+4. En la gràfica següent es mostra com varia l’acceleració d’un cos de massa 10 kg que es mou en línia recta. Quin treball s’ha efectuat sobre el cos per a moure’l des de $$x=0$$ fins a $$x=8\,\mathrm{m}$$?
+    <p class="aligncenter"><img src="img_prob/treball.png" width="400px"></p>
+    <p><a href="sol/prob404.pdf">Solució</a><br>
 
-<li>Des de la part superior d’un pla inclinat, d’angle 37° amb el pla horitzontal i longitud 5 m, deixem caure una partícula de massa 10 kg. La partícula arriba a la part inferior del pla inclinat amb una velocitat de 6 m/s.
-<ol>
-<li>Quant val el treball que la força pes ha fet sobre la partícula en aquest trajecte?</li>
-<li>Quant val el treball fet per la força de fregament? </li>
-</ol>
-    <br><a href="sol/prob403.pdf">Solució</a><br>
-</li>
-<br>
+5. Un bloc de massa 20 kg cau lliscant per un pla inclinat, salvant un desnivell de 25 m. Si parteix del repòs i assoleix una velocitat final de 15 m/s, determineu l’energia perduda per fricció. 
+    <p><a href="sol/prob405.pdf">Solució</a></p>
 
-<li>En la gràfica següent es mostra com varia l’acceleració d’un cos de massa 10 kg que es mou en línia recta. Quin treball s’ha efectuat sobre el cos per a moure’l des de $$x=0$$ fins a $$x=8\,\mathrm{m}$$?
-<br>
-<div align="middle">
-<img src="img_prob/treball.png" width="70%">
-</div>
-    <br><a href="sol/prob404.pdf">Solució</a><br>
-</li>
-<br>
-
-<li>Un bloc de massa 20 kg cau lliscant per un pla inclinat, salvant un desnivell de 25 m. Si parteix del repòs i assoleix una velocitat final de 15 m/s, determineu l’energia perduda per fricció. 
-    <br><a href="sol/prob405.pdf">Solució</a><br>
-</li>
-<br>
-
-<li>Deixem anar un cos d’1 kg de massa des del punt A, situat sobre una pista constituïda per un quadrant de circumferència de radi $$R=1,5\,\mathrm{m}$$ i en la qual es considera negligible el fregament, tal com es veu a la figura de sota. Quan el cos arriba a la part inferior del quadrant (punt C), llisca sobre una superfície horitzontal fins que queda aturat a una distància de $$2,7\,\mathrm{m}$$ del punt C. Trobeu: 
-<ol>
-    <li>La velocitat del cos en el punt C. </li>
-    <li>El coeficient de fregament cinètic entre la pista i el cos a la part horitzontal.</li> 
-    <li>La força que fa el cos sobre la pista quan passa pel punt B. </li>
-
-<div align="middle">
+6. Deixem anar un cos d’1 kg de massa des del punt A, situat sobre una pista constituïda per un quadrant de circumferència de radi $$R=1,5\,\mathrm{m}$$ i en la qual es considera negligible el fregament, tal com es veu a la figura de sota. Quan el cos arriba a la part inferior del quadrant (punt C), llisca sobre una superfície horitzontal fins que queda aturat a una distància de $$2,7\,\mathrm{m}$$ del punt C. Trobeu: 
+    1. La velocitat del cos en el punt C.
+    2. El coeficient de fregament cinètic entre la pista i el cos a la part horitzontal.
+    3. La força que fa el cos sobre la pista quan passa pel punt B.
+    <p class=""e">
 <img src="img_prob/08_circular.png" width="50%">
 </div>
 </ol>
