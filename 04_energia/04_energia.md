@@ -18,13 +18,8 @@ Per a fer el càlcul del treball utilitzarem la definició de producte escalar, 
 $$W=\left|\vec{F}\right|\left|\Delta\vec{r}\right|\cos\alpha$$
 
 És important destacar que aquesta definició de treball serveix per a una força constant. En la figura següent es veu una situació on la força forma un angle $$\alpha$$ amb el desplaçament.
-
-<p>
-<figure>
-  <img src="img/treball2.svg" alt="" width="70%">
-  <figcaption> <strong>Cas en que la força aplicada a un cos i el seu desplaçament no són paral·lels. L'angle format entre ells és $\alpha$.</strong> </figcaption>
-</figure>
-</p>
+<p class="aligncenter"><img src="img/treball2.svg" width="400px"></p>
+<p>Cas en que la força aplicada a un cos i el seu desplaçament no són paral·lels. L'angle format entre ells és $$\alpha$$.</p>
 
 És important destacar que una força no realitza treball si la seva direcció és perpendicular al desplaçament, ja que en aquest cas l'angle és $$\alpha=90^{\circ}$$ i $$\cos(90^{\circ})=0$$.
 

@@ -67,7 +67,7 @@
     <p class="aligncenter"><img src="img_prob/06_muntanya_rusa.png" width="400px"></p>
 
 11. Una vagoneta d'unes muntanyes russes amb els seus passatgers té una massa total de 400 kg. Quan es troba en un punt de la seva trajectòria a 6 m d'alçada sobre el terra, la seva velocitat és de 12 m/s. 
-	<p class="aligncenter"><img src="img_prob/ollerCoaster2.png" width="400px"></p>
+	<p class="aligncenter"><img src="img_prob/rollerCoaster2.png" width="400px"></p>
 	Si no perdés energia per fregament: 
 	1. Quina seria la seva velocitat en el punt situat a 10 m d'alçada?
     2. Quina velocitat tindrà a nivell del terra?
