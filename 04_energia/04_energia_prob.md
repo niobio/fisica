@@ -7,7 +7,7 @@
 ## Treball i energia
 
 1. Un cos de 2 kg, inicialment en repòs, baixa per un pla inclinat 42º respecte de l'horitzontal. Després de recórrer una distància de 3 m sobre el pla inclinat, arriba a un terra horitzontal i, finalment, puja per un altre pla inclinat 30º respecte de l'horitzontal (observa el dibuix). 
-<p class="aligncenter"><img src="img_prob/planos_inclin.png" width="400px"/></p>
+<p class="aligncenter"><img src="img_prob/planos_inclin.png" width="400px"></p>
     Suposant que els efectes del fregament són negligibles, calcula: 
     1. El temps que triga a arribar al peu del primer pla inclinat i la velocitat del cos en aquest moment.
     2. La màxima longitud recorreguda pel cos en la pujada pel pla inclinat de la dreta. 
@@ -60,7 +60,7 @@
     Considereu $$g=10\,\mathrm{m/s^{2}}$$.
     <p class="aligncenter"><img src="img_prob/04_pla_inclinat.png" width="400px"></p>
 
-10. En una atracció de fira, una vagoneta de massa M=300\,\mathrm{kg} arrenca del repòs en el punt A i arriba al punt B amb una velocitat de $$10\,\mathrm{m\cdot s^{-1}}$$, després de recórrer el circuit representat en la figura. Preneu $$g=10\,\mathrm{m\cdot s^{-2}}$$ i calculeu: 
+10. En una atracció de fira, una vagoneta de massa $$M=300\,\mathrm{kg}$$ arrenca del repòs en el punt A i arriba al punt B amb una velocitat de $$10\,\mathrm{m\cdot s^{-1}}$$, després de recórrer el circuit representat en la figura. Preneu $$g=10\,\mathrm{m\cdot s^{-2}}$$ i calculeu: 
     1. El treball fet pel pes de la vagoneta des del punt A fins al punt B.
     2. La quantitat de calor alliberada, com a conseqüència del fregament, en el descens de A a B.
     3. El valor de la força de contacte entre la vagoneta i el punt B de la pista, si tenim en compte que el punt B és el punt més baix d’un arc de circumferència de 6 m de radi.
