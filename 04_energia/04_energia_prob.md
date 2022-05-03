@@ -7,7 +7,7 @@
 ## Treball i energia
 
 1. Un cos de 2 kg, inicialment en repòs, baixa per un pla inclinat 42º respecte de l'horitzontal. Després de recórrer una distància de 3 m sobre el pla inclinat, arriba a un terra horitzontal i, finalment, puja per un altre pla inclinat 30º respecte de l'horitzontal (observa el dibuix). 
-<p class="aligncenter"><img src="img_prob/planos_inclin.png" width="400px"></p>
+	<p class="aligncenter"><img src="img_prob/planos_inclin.png" width="400px"></p>
     Suposant que els efectes del fregament són negligibles, calcula: 
     1. El temps que triga a arribar al peu del primer pla inclinat i la velocitat del cos en aquest moment.
     2. La màxima longitud recorreguda pel cos en la pujada pel pla inclinat de la dreta. 
