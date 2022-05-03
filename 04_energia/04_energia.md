@@ -21,7 +21,7 @@ $$W=\left|\vec{F}\right|\left|\Delta\vec{r}\right|\cos\alpha$$
 <p>
 <figure>
 <img src="img/treball2.svg" width="400px">
-<figcaption> <strong>Cas en que la força aplicada a un cos i el seu desplaçament no són paral·lels. L'angle format entre ells és <img src="https://render.githubusercontent.com/render/math?math=\alpha">$$\alpha$$.</strong> </figcaption>
+<figcaption> <strong>Cas en que la força aplicada a un cos i el seu desplaçament no són paral·lels. L'angle format entre ells és <img src="https://render.githubusercontent.com/render/math?math=\alpha">.</strong> </figcaption>
 </figure>
 </p>
 
