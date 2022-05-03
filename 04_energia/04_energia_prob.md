@@ -81,7 +81,7 @@
     3. La pèrdua d'energia en el procés.
 	<p><a href="sol/prob412.pdf">Solució</a></p>
 
-13.Un vagó de massa 1.000 kg es desplaça a una velocitat constant de 5 m/s per una via horitzontal sense fricció. En un moment determinat xoca amb un altre vagó de massa 2.000 kg que estava aturat, de manera que després de la col·lisió queden units. Calculeu: 
+13. Un vagó de massa 1.000 kg es desplaça a una velocitat constant de 5 m/s per una via horitzontal sense fricció. En un moment determinat xoca amb un altre vagó de massa 2.000 kg que estava aturat, de manera que després de la col·lisió queden units. Calculeu: 
 	1. La velocitat que tindrà el conjunt després del xoc.
 	2.L’energia mecànica perduda en el xoc.
 	<p><a href="sol/prob413.pdf">Solució</a></p>
