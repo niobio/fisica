@@ -253,9 +253,8 @@
     <br><a href="sol/nuclear_37.pdf">Solució</a><br>
     
 38. L’americi (Am) és l’element de nombre atòmic 95. Els primers àtoms d’americi 241 van ser produïts el 1944 per Glenn Theodore Seaborg i els seus col·laboradors fent servir un seguit de reaccions nuclears a partir del plutoni (Pu). A continuació, es mostren, incompletes, les dues últimes etapes del procés: 
-    <br><br>
-            $$\mathrm{_{94}^{240}Pu}+_{b}^{a}\mathrm{X\longrightarrow_{94}^{241}Pu}$$
-    <br><br>
+    <p>$$\mathrm{_{94}^{240}Pu}+_{b}^{a}\mathrm{X\longrightarrow_{94}^{241}Pu}$$</p>
+    <p>$$\mathrm{_{94}^{241}Pu}\longrightarrow \mathrm{_{95}^{241}Am}+\mathrm{_{d}^{c}Y}$$</p>
     1. Determineu els valors dels coeficients a, b, c i d. Quin nom té la partícula que el Pu-240 ha capturat en la primera reacció? Com s’anomena la desintegració descrita en la segona reacció?
     2. Calculeu el percentatge de nuclis de Am-241 que s’han desintegrat des del 1944 fins ara. 
     <br>**Dada**: <br>Període de semidesintegració de l’americi 241, $$t_{1/2}=432\,\mathrm{anys}$$.
