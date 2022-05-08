@@ -59,12 +59,14 @@
     3. La deformació màxima que es produeix en la molla, si no s’ha perdut energia mecànica en la col·lisió.
     Considereu $$g=10\,\mathrm{m/s^{2}}$$.
     <p class="aligncenter"><img src="img_prob/04_pla_inclinat.png" width="400px"></p>
+    <p><a href="sol/prob409.pdf">Solució</a></p>
 
 10. En una atracció de fira, una vagoneta de massa $$M=300\,\mathrm{kg}$$ arrenca del repòs en el punt A i arriba al punt B amb una velocitat de $$10\,\mathrm{m\cdot s^{-1}}$$, després de recórrer el circuit representat en la figura. Preneu $$g=10\,\mathrm{m\cdot s^{-2}}$$ i calculeu: 
     1. El treball fet pel pes de la vagoneta des del punt A fins al punt B.
     2. La quantitat de calor alliberada, com a conseqüència del fregament, en el descens de A a B.
     3. El valor de la força de contacte entre la vagoneta i el punt B de la pista, si tenim en compte que el punt B és el punt més baix d’un arc de circumferència de 6 m de radi.
     <p class="aligncenter"><img src="img_prob/06_muntanya_rusa.png" width="400px"></p>
+    <p><a href="sol/prob410.pdf">Solució</a></p>
 
 11. Una vagoneta d'unes muntanyes russes amb els seus passatgers té una massa total de 400 kg. Quan es troba en un punt de la seva trajectòria a 6 m d'alçada sobre el terra, la seva velocitat és de 12 m/s. 
 	<p class="aligncenter"><img src="img_prob/rollerCoaster2.png" width="400px"></p>
@@ -72,6 +74,7 @@
 	1. Quina seria la seva velocitat en el punt situat a 10 m d'alçada?
     2. Quina velocitat tindrà a nivell del terra?
     3. Quina és l'alçada màxima que podria assolir?
+    <p><a href="sol/prob411.pdf">Solució</a></p>
 
 	## Xocs
 
@@ -83,7 +86,7 @@
 
 13. Un vagó de massa 1.000 kg es desplaça a una velocitat constant de 5 m/s per una via horitzontal sense fricció. En un moment determinat xoca amb un altre vagó de massa 2.000 kg que estava aturat, de manera que després de la col·lisió queden units. Calculeu: 
 	1. La velocitat que tindrà el conjunt després del xoc.
-	2.L’energia mecànica perduda en el xoc.
+	2. L’energia mecànica perduda en el xoc.
 	<p><a href="sol/prob413.pdf">Solució</a></p>
 
 14. Una massa $$m_{1}=200\,\mathrm{g}$$ es troba en repòs sobre una superfície horitzontal, sense fricció apreciable, unida a l’extrem d’una molla de massa negligible que per l’altre extrem està unida a una paret i inicialment no està ni comprimida ni estirada. Una segona massa $$m_{2}=600\,\mathrm{g}$$ es desplaça sobre la mateixa superfície amb una velocitat $$v=4\,\mathrm{m/s}$$ en el sentit indicat en la figura i experimenta un xoc frontal, perfectament inelàstic, amb $$m_{1}$$. La constant recuperadora de la molla val $$k=500\,\mathrm{N/m}$$.
