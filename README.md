@@ -45,6 +45,7 @@
 
 ### [Unitat 5: La nova visió de l'univers](08_fisica_moderna/moderna.md){:target="_blank"}
 * [Problemes](08_fisica_moderna/problemes_moderna.md){:target="_blank"}
+* [relativitat especial](08_fisica_moderna/slides/relativitat.html){:target="_blank"}
 * Física computacional:
 	* [Decaiment radioactiu (integració numèrica)](http://niobio.github.io/fisicacomp/modern/decaiment_radioactiu.html){:target="_blank"}
 
