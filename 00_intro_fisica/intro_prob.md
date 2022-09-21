@@ -20,7 +20,7 @@
     1. Escriviu aquestes quantitats en notació científica. 
     2. Determineu la distància en km de la Terra a l'estrella més propera. 
 
-5. La Neus mesura la longitud d'una corda i obté una mesura de 45 cm amb un error absolut de 2 mm, l'Horaci mesura la quantitat d'aigua que hi ha en una proveta i obté una mesura de $$45\,\mathrm{cm^{3}}$$ amb un error absolut de $$10\,\mathrm{m^{3}}$$ i la Mercè mesura el pes d'un tros de fusta i obté una mesura de 4,5 kg amb un error absolut de 200 g. Si ordenéssim les mesures de menor a major precisió, el resultat seria: 
+5. La Neus mesura la longitud d'una corda i obté una mesura de 45 cm amb un error absolut de 2 mm, l'Horaci mesura la quantitat d'aigua que hi ha en una proveta i obté una mesura de $$45\,\mathrm{cm^{3}}$$ amb un error absolut de $$10\,\mathrm{mm^{3}}$$ i la Mercè mesura el pes d'un tros de fusta i obté una mesura de 4,5 kg amb un error absolut de 200 g. Si ordenéssim les mesures de menor a major precisió, el resultat seria: 
     1. La Neus, l'Horaci i la Mercè 
     2. L'Horaci, la Neus i la Mercè 
     3. La Mercè, la Neus i l'Horaci 
