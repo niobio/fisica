@@ -28,11 +28,11 @@
     5. La Neus, la Mercè i l'Horaci 
 
 6. Digues quantes xifres significatives tenen les següents magnituds: 
-    1.$$1,230\times10^{-12}\,\mathrm{kg}$$
-    2.$$0,0000230\,\mathrm{mm}$$
-    3.$$1,0234\,\mathrm{nm}$$
-    4.$$3,2\times10^{12}\,\mathrm{cm^{3}}$$
-    5.$$0,0123\,\mathrm{ml}$$
+    1. $$1,230\times10^{-12}\,\mathrm{kg}$$
+    2. $$0,0000230\,\mathrm{mm}$$
+    3. $$1,0234\,\mathrm{nm}$$
+    4. $$3,2\times10^{12}\,\mathrm{cm^{3}}$$
+    5. $$0,0123\,\mathrm{ml}$$
 
 7. S'ha mesurat el període d'un pèndol cinc vegades i s'han obtingut , en segons, els següents resultats: 2,1 – 2,0 – 1,9 – 2,1 – 2,2 
     1. Digueu quin és el resultat del mesurament. 
