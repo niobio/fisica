@@ -305,7 +305,7 @@ Com saber quantes xifres significatives te un valor donat? Podem seguir les seg�
 
 Ara veurem com es decideix quantes xifres significatives té el resultat d'una operació matemàtica.
 
-* **En una multiplicació o divisió, ens hem de quedar amb el nombre de xifres significatives del factor menys precís**: Per exemple $$1,5\times3,14159265359=4,7$$. No importa que la calculadora digui $$4,712388$$. El resultat té només dues xifres significatives i s'ha de reportar com $$4,7$$. No hem d'oblidar que hem d'arrodonir l'últim dígit: per exemple $$10,0/1,5=6,7$$, encara que la calculadora ens digui $$6,66666666$$.
+* **En una multiplicació o divisió, ens hem de quedar amb el nombre de xifres significatives del factor menys precís**: Per exemple $$1,5+3,14159265359=4,7$$. No importa que la calculadora digui $$4,64159265359$$. El resultat té només dues xifres significatives i s'ha de reportar com $$4,7$$. No hem d'oblidar que hem d'arrodonir l'últim dígit: per exemple $$10,0/1,5=6,7$$, encara que la calculadora ens digui $$6,66666666$$.
 
 * **En una suma o resta, s'han d'alinear els punts decimals i ens quedem amb la precisió del nombre que tingui menys xifres després de la coma decimal**: Veiem alguns exemples. $$1,44+2,35\times10^{-5}=1,44$$. Encara que la calculadora digui $$1,4400235$$, el segon sumant és menyspreable amb respecte al primer, per tant no afecta a la suma. Per a que quedi clar què volem dir amb això d'alinear la coma decimal, hem de veure la suma de la següent manera: 
 
