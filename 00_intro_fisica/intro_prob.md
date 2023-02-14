@@ -36,10 +36,10 @@
 
 7. S'ha mesurat el període d'un pèndol cinc vegades i s'han obtingut , en segons, els següents resultats: 2,1 – 2,0 – 1,9 – 2,1 – 2,2 
     1. Digueu quin és el resultat del mesurament. 
-    2. Determineu la cota de l'error absolut. 
-    3. Determineu la cota de l'error relatiu. 
+    2. Determineu l'error absolut. 
+    3. Determineu l'error relatiu. 
 
-8. Amb quantes xifres significatives s'ha expressat cada una de les quantitats següents? 26380,0 m; 0,008502 g; 30870 km; 300000 kg i 100,74 s.Escriu-les en notació científica amb tres xifres significatives.
+8. Amb quantes xifres significatives s'ha expressat cada una de les quantitats següents? 26380,0 m; 0,008502 g; 30870 km; 300000 kg i 100,74 s. Escriu-les en notació científica amb tres xifres significatives.
 
 9. Fem mesures de massa i volum de cinc mostres de coure i trobem els resultats que apareixen en la taula de sota. 
     1. Representeu gràficament els volums en abscises i les masses en ordenades. Què se n'obtè?
