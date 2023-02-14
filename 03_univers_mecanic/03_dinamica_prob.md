@@ -8,7 +8,7 @@
 ## Dinàmica
 
 1. És possible que la velocitat d'un cos estigui dirigida cap a l'est i la força que actua sobre ell cap a l'oest? Raona la resposta.
-<p><a href="sol/prob301.pdf">Solució</a></p>
+    <p><a href="sol/prob301.pdf">Solució</a></p>
 
 2. Un home que s'està pesant a sobre d'un ascensor observa que el pes que marca la bàscula és major que el seu pes real. Aleshores: 
     1. L'ascensor es mou cap amunt amb velocitat decreixent.
