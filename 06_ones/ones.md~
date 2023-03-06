@@ -121,13 +121,13 @@ Veiem que la velocitat també varia periòdicament amb el temps i prenent com a 
 
 $$\begin{equation}\label{eq:vmax}
 v_{\mathrm{max}}=A\omega
-\end{equation}$$
+\end{equation}$$  
 
 Si ara prenem la derivada de la velocitat obtindrem l'acceleració com a funció del temps
 
 $$\begin{equation}\label{eq:acceleracio}
 a=\frac{dv}{dt}=-A\omega^{2}\sin(\omega t+\varphi_{0})
-\end{equation}$$
+\end{equation}$$  
 
 En aquest cas obtenim que l'acceleració es comporta de manera contraria a l'elongació, quan l'elongació pren el seu valor màxim positiu, l'acceleració pren el valor màxim però negatiu. L'acceleració pren el seu valor màxim
 
@@ -355,13 +355,13 @@ Si, per exemple, pensem que la freqüència angular és de $$\pi/3$$, el movimen
   <figcaption> Moviment vibratori de l'extrem d'una corda d'amplitud 2 m i pulsació $$\pi/3$$ amb elongació màxima en l'instant inicial.</figcaption>
 </figure>
 
-Suposarem que l'ona generada per aquest moviment harmònic es propaga amb una velocitat $$v=0,5\,\mathrm{m/s}$$. Aleshores el màxim que tenim a la posició $$x=0$$ es trobarà a la posició $$x=1,5\,\mathrm{m}$$ al cap de 3 segons (veure Figura). Per tant per a descriure el comportament de l'ona en la posició $$x=1,5\,\mathrm{m}$$ hem de tenir un retràs de fase, ja que el moviment porta un retràs igual al temps que ha tardat la pertorbació a arribar a la posició $$x=1,5\,\mathrm{m}$$. El temps es pot calcular com 
+Suposarem que l'ona generada per aquest moviment harmònic es propaga amb una velocitat $$v=0,5\,\mathrm{m/s}$$. Aleshores el màxim que tenim a la posició $$x=0$$ es trobarà a la posició $$x=1,5\,\mathrm{m}$$ al cap de 3 segons (veure Figura). Per tant per a descriure el comportament de l'ona en la posició $$x=1,5\,\mathrm{m}$$ hem de tenir un retràs de fase, ja que el moviment porta un retràs igual al temps que ha tardat la pertorbació a arribar a la posició $$x=3\,\mathrm{m}$$. El temps es pot calcular com 
 
 $$t=\frac{x}{v}=\frac{1,5\,\mathrm{m}}{0,5\,\mathrm{m/s}}=3\mathrm{\,s}$$
 
 <figure>
   <img src="img/ona2.png" width="70%">
-  <figcaption> Variació de l'elongació en el temps en un punt ubicat en la posició $$x=1,5\,\mathrm{m}$$. Veiem com el màxim que es trobava en l'instant inicial en l'extrem de la corda ($$x=0$$), ara el tenim en l'instant $$t=3\,\mathrm{s}$$ en la posició $$x=1,5\,\mathrm{m}$$ com a resultat de que la pertorbació va tardar 3 s en recórrer aquella distància a una velocitat de $$0,5\,\mathrm{m/s}$$. </figcaption>
+  <figcaption> Variació de l'elongació en el temps en un punt ubicat en la posició $$x=3\,\mathrm{m}$$. Veiem com el màxim que es trobava en l'instant inicial en l'extrem de la corda ($$x=0$$), ara el tenim en l'instant $$t=3\,\mathrm{s}$$ en la posició $$x=1,5\,\mathrm{m}$$ com a resultat de que la pertorbació va tardar 3 s en recórrer aquella distància a una velocitat de $$0,5\,\mathrm{m/s}$$. </figcaption>
 </figure>
 
 Fent servir aquest raonament per a qualsevol posició genèrica $$x$$ podem obtenir l'equació d'ona
@@ -370,7 +370,7 @@ $$y=A\sin\big(\omega\big(t-\frac{x}{v}\big)+\varphi_{0}\big)$$
 
 per a qualsevol parell de valors $$t$$ i $$x$$. 
 
-Si distribuïm $$\omega$$ obtenim
+Si distribuïm $$\omega obtenim
 
 $$y=A\sin\big(\omega t-\frac{\omega}{v}x+\varphi_{0}\big)$$
 
