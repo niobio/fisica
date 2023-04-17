@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg908"
+   width="2044.0553"
+   height="989.5249"
+   viewBox="0 0 2044.0553 989.5249"
+   sodipodi:docname="efecte_fotoelectric.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs912" />
+  <sodipodi:namedview
+     id="namedview910"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:zoom="0.51397629"
+     inkscape:cx="1037.9856"
+     inkscape:cy="271.4133"
+     inkscape:window-width="1316"
+     inkscape:window-height="704"
+     inkscape:window-x="50"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g914"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g914"
+     transform="translate(431.63697,88.659292)">
+    <image
+       width="1028"
+       height="681"
+       preserveAspectRatio="none"
+       xlink:href="efecte_fotoelectric.png"
+       id="image916" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1022"
+       ry="31.272354"
+       rx="146.33076"
+       cy="102.26692"
+       cx="596.71661" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none"
+       id="ellipse1345"
+       ry="36.4436"
+       rx="157.65414"
+       cy="168.24098"
+       cx="568.22791" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none"
+       id="ellipse1545"
+       ry="31.272354"
+       rx="87.96077"
+       cy="549.73615"
+       cx="357.75604" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none"
+       id="ellipse1646"
+       ry="31.272354"
+       rx="87.96077"
+       cy="518.72961"
+       cx="536.44696" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none"
+       id="ellipse1648"
+       ry="31.272354"
+       rx="87.96077"
+       cy="130.95532"
+       cx="885.45648" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 712.66023,84.102784 1044.6479,-68.179919"
+       id="path1683" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 969.81107,149.69794 1115.9982,272.08222"
+       id="path1775" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 280.16061,565.43095 26.541784,720.15609"
+       id="path1890"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 560.03491,549.73327 706.22204,672.11755"
+       id="path1892" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 408.44153,164.65658 -44.604799,144.31508"
+       id="path1993"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:26.6667px;line-height:1.25;font-family:sans-serif"
+       x="1066.924"
+       y="-58.398849"
+       id="text11512"><tspan
+         sodipodi:role="line"
+         id="tspan11510"
+         x="1066.924"
+         y="-58.398849">Permet controlar la intensitat</tspan><tspan
+         sodipodi:role="line"
+         x="1066.924"
+         y="-25.065474"
+         id="tspan11514">lluminosa de la làmpada.</tspan><tspan
+         sodipodi:role="line"
+         x="1066.924"
+         y="8.2679014"
+         id="tspan15354">Com més intensitat més fotons </tspan><tspan
+         sodipodi:role="line"
+         x="1066.924"
+         y="41.601276"
+         id="tspan15356">emet la làmpada i el nombre </tspan><tspan
+         sodipodi:role="line"
+         x="1066.924"
+         y="74.934654"
+         id="tspan15358">d'electrons que surten del metall</tspan><tspan
+         sodipodi:role="line"
+         x="1066.924"
+         y="108.26803"
+         id="tspan15360">augmenta.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:26.6667px;line-height:1.25;font-family:sans-serif"
+       x="1128.2788"
+       y="271.06821"
+       id="text16920"><tspan
+         sodipodi:role="line"
+         id="tspan16918"
+         x="1128.2788"
+         y="271.06821">Amb aquest desplegable podem </tspan><tspan
+         sodipodi:role="line"
+         x="1128.2788"
+         y="304.40158"
+         id="tspan16922">escollir el metall del càtode.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:26.6667px;line-height:1.25;font-family:sans-serif"
+       x="-421.84531"
+       y="26.838806"
+       id="text20974"><tspan
+         sodipodi:role="line"
+         id="tspan20972"
+         x="-421.84531"
+         y="26.838806">Aquí seleccioneu el &quot;color&quot; </tspan><tspan
+         sodipodi:role="line"
+         x="-421.84531"
+         y="60.17218"
+         id="tspan20976">de la llum que ematrà la </tspan><tspan
+         sodipodi:role="line"
+         x="-421.84531"
+         y="93.505554"
+         id="tspan20978">làmpada. Està indicada per</tspan><tspan
+         sodipodi:role="line"
+         x="-421.84531"
+         y="126.83894"
+         id="tspan20980">la longitud d'ona en </tspan><tspan
+         sodipodi:role="line"
+         x="-421.84531"
+         y="160.1723"
+         id="tspan20982">nanòmetres. Si movem el</tspan><tspan
+         sodipodi:role="line"
+         x="-421.84531"
+         y="193.50568"
+         id="tspan20984">cursor anirà de 3 en 3 nm,</tspan><tspan
+         sodipodi:role="line"
+         x="-421.84531"
+         y="226.83907"
+         id="tspan20986">però si escrivim el número</tspan><tspan
+         sodipodi:role="line"
+         x="-421.84531"
+         y="260.17242"
+         id="tspan20988">podem canviar d'1 en 1 nm.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:26.6667px;line-height:1.25;font-family:sans-serif"
+       x="662.62549"
+       y="716.20245"
+       id="text24636"><tspan
+         sodipodi:role="line"
+         id="tspan24634"
+         x="662.62549"
+         y="716.20245">Amperímetre: ens indica la intensitat de corrent que  passa pel circuit.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:26.6667px;line-height:1.25;font-family:sans-serif"
+       x="-370.28564"
+       y="751.98523"
+       id="text34312"><tspan
+         sodipodi:role="line"
+         id="tspan34310"
+         x="-370.28564"
+         y="751.98523">Font de potencial variable. Pot variar de 0,2V en 0,2 V.</tspan><tspan
+         sodipodi:role="line"
+         x="-370.28564"
+         y="785.3186"
+         id="tspan34314">Ens permetrà mesurar l'energia cinètica màxima dels elsctrons emesos, </tspan><tspan
+         sodipodi:role="line"
+         x="-370.28564"
+         y="818.65198"
+         id="tspan34316">s'aconsegueix aplicant una diferència de potencial entre les plaques que </tspan><tspan
+         sodipodi:role="line"
+         x="-370.28564"
+         y="851.98535"
+         id="tspan34318">frenen el moviment dels electrons emesos, impedint que arribin a l'altra </tspan><tspan
+         sodipodi:role="line"
+         x="-370.28564"
+         y="885.31873"
+         id="tspan36588">placa. Aquest potencial coincideix amb l'energia màxima dels fotoelectrons.</tspan></text>
+  </g>
+</svg>
