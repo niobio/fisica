@@ -59,7 +59,7 @@
     3. La deformació màxima que es produeix en la molla, si no s’ha perdut energia mecànica en la col·lisió.
     Considereu $$g=10\,\mathrm{m/s^{2}}$$.
     <p class="aligncenter"><img src="img_prob/04_pla_inclinat.png" width="400px"></p>
-    <p><a href="sol/prob409.pdf">Solució</a></p>
+    <!--<p><a href="sol/prob409.pdf">Solució</a></p>-->
 
 10. En una atracció de fira, una vagoneta de massa $$M=300\,\mathrm{kg}$$ arrenca del repòs en el punt A i arriba al punt B amb una velocitat de $$10\,\mathrm{m\cdot s^{-1}}$$, després de recórrer el circuit representat en la figura. Preneu $$g=10\,\mathrm{m\cdot s^{-2}}$$ i calculeu: 
     1. El treball fet pel pes de la vagoneta des del punt A fins al punt B.
