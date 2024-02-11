@@ -35,6 +35,13 @@ Els fenòmens ondulatoris s’han demostrat com una forma fonamental del comport
         * [Modes normals de vibració en tubs oberts per un extrem i tancats per l’altre](#6.2.2)
         * [Modes normals de vibració en tubs oberts pels dos extrems](#6.2.3)
 * [Formació d'imatges](#7)
+    * [Llei de la reflexió](#7.1)
+    * [Refracció de la llum](#7.2)
+        * [Índex de refracció](7.2.1)
+        * [Reflexió total interna](#7.2.2)
+        * [Miralls esfèrics](#7.3)
+    * [Lents](#7.4)
+    * [La visió i l'ull](#7.5)
     
 
 ## Fenòmens periòdics i oscil·lacions <a class="anchor" id="1"></a>
@@ -82,10 +89,10 @@ Definim el MHS com la projecció d'un moviment circular uniforme sobre la recta 
 
 <figure>
   <img src="img/mvhs_def.svg" width="70%">
-  <figcaption> En la figura es poden veure posicions successives (A0, A1, A2, ...) d'un mòbil amb moviment circular a intervals iguals de temps . La seva projecció sobre la recta (B0, B1, B2, ...) descriu un MHS. La freqüència angular del MHS coincideix amb la velocitat angular, $$\omega$$, del moviment circular. </figcaption>
+  <figcaption> En la figura es poden veure posicions successives (A0, A1, A2, ...) d'un mòbil amb moviment circular a intervals iguals de temps . La seva projecció sobre la recta (B0, B1, B2, ...) descriu un MHS. La freqüència angular del MHS coincideix amb la velocitat angular, $\omega$, del moviment circular. </figcaption>
 </figure>
 
-### L'Equació del moviment harmònic simple <a class="anchor" id="2.1"></a>
+### L'equació del moviment harmònic simple <a class="anchor" id="2.1"></a>
 
 Si tenim en compte la definició de MHS com la projecció d'un moviment circular uniforme podem deduir l'equació de moviment del MHS. Considerem un moviment circular de radi A amb velocitat angular $$\omega$$, l'angle girat durant un temps $$t$$ serà $$\varphi=\omega t$$ i la projecció sobre la recta serà 
 
@@ -788,7 +795,7 @@ Per a l'estudi de la formació d'imatges tindrem en compte un parell de fets ben
 * La velocitat de la llum és constant en un medi homogeni. Al buit la velocitat és $$c=3\times10^{8}\,\mathrm{m/s}$$
   i, a efectes pràctics, considerarem que la velocitat a l'aire és la mateixa.
 
-## Llei de la reflexió
+## Llei de la reflexió <a class="anchor" id="7.1"></a>
 
 Podem destacar dos tipus de reflexió. Quan la superfície especular és plana tenim reflexió especular i l'exemple més clar és el mirall o una superfície metàl·lica polida i, fins i tot la superfície d'aigua quan està quieta. En cas de tenir una superfície rugosa la reflexió és difusa i no podem formar una imatge. La llei de la reflexió es compleix a nivell local però como l'angle d'incidència de cada raig és diferent respecte a la superfície, els raigs emergents no són pas paral·lels.
 
@@ -808,7 +815,7 @@ Els angles d'incidència i reflexió es mesuren respecte de la línia perpendicu
   <figcaption> <strong> Llei de la reflexió. L'angle de reflexió és igual a l'angle d'incidència. Mesurem els alngles respecte de la recta normal.</strong> </figcaption>
 </figure>
 
-## Refracció de la llum
+## Refracció de la llum <a class="anchor" id="7.2"></a>
 
 Com ja ho hem dit, la llum es propaga en un medi homogeni a una velocitat constant, però quan la llum passa d'un medi a un altre la seva velocitat de propagació canvia i això pot produir un canvi en la direcció de propagació de la llum. Aquest canvi en la direcció de propagació de la llum l'anomenen refracció de la llum. A la Figura [fig:refrac] es pot veure un raig de llum que incideix des d'una medi 1 amb un angle $$\alpha_{1}$$ respecte a la normal de la superfície de separació dels dos medis. Quan travessa la superfície passa a propagar-se en el medi 2 amb un angle $$\alpha_{2}$$ respecte a la mateixa recta normal. També es pot veure un raig reflectit. Sempre que hi ha una superfície de separació de dos medis hi haurà llum reflectida què, com ja hem vist, segueix la llei de la reflexió $$(\alpha_{1}=\alpha_{1}^{,})$$.
 
@@ -823,7 +830,7 @@ $$\frac{\sin(\alpha_{1})}{v_{1}}=\frac{\sin(\alpha_{2})}{v_{2}}$$
 
 Podem deduir de la llei que si la llum passa a un segon medi on es propaga a una velocitat més petita, $$(v_{2}<v_{1})$$, l'angle de sortida serà més petit que l'angle d'entrada $$(\alpha_{2}<\alpha_{1})$$. El mateix raonament és valid en cas contrari, si la velocitat del segon medi és més gran, també ho serà l'angle de sortida. Pots dir quin dels dos casos mostra la figura anterior? 
 
-## Índex de refracció
+## Índex de refracció <a class="anchor" id="7.2.1"></a>
 
 A la llei de Snell apareixen les velocitats de propagació de la llum. Per a no tenir que treballar amb valors de velocitats tan grans (recordem que la velocitat de la llum al buit és $$c=3\times10^{8}\mathrm{m/s})$$ el que es fa és multiplicar ambdós membres de l'equació $$\eqref{eq:snell}$$ per la velocitat de la llum al buit, $$c$$, per a obtenir
 
@@ -858,7 +865,7 @@ A la taula següent es pot observar el llistat dels índex de refracció d'algun
 |Vidre flint|1,62              |
 |Diamant    |2,42              |
 
-## Reflexió total interna
+## Reflexió total interna <a class="anchor" id="7.2.2"></a>
 
 Ja hem vist que quan la llum travessa una superfície de separació entre dos medis transparents de diferent índex de refracció es produeix un canvi en la direcció de la llum al passar d'un medi a l'altre. 
 
@@ -890,7 +897,7 @@ $$
 
 La relació $$\eqref{eq:angle_limit}$$ és la condició d'angle límit. A partir d'aquest valor d'angle d'incidència tindrem reflexió total. De la relació [eq:angle_limit] podem veure que la condició només es satisfà si el quocient $$n_{2}/n_{1}<1$$, ja que la funció sinus és una funció que sempre és menor a 1. En cas contrari, si el medi 2 tingués un índex de refracció major que el medi 1, no trobaríem solució.
 
-## Miralls esfèrics
+## Miralls esfèrics <a class="anchor" id="7.3"></a>
 
 Els miralls esfèrics són superfícies reflectants de forma esfèrica que, per les seves característiques que estudiarem a continuació, es fan servir en diverses aplicacions, com ser els miralls que hi ha en les cantonades on hi ha entrecreuaments de carrers amb poca visibilitat, miralls retrovisors dels cotxes, telescopis reflectors, etc.
 
@@ -1018,7 +1025,7 @@ $$
 Les equacions $$\eqref{eq:formula_miralls}$$ i $$\eqref{eq:augment2}$$ ens permeten obtenir de manera analítica la posició i altura de la imatge a partir de la posició i altura de l'objecte per a un mirall de distància focal coneguda. D'aquesta manera hem obtingut un mètode alternatiu al mètode gràfic per a obtenir la imatge donada per un mirall. <sup><a href="#fn14" id="ref14">14</a></sup>
 
 
-## Lents
+## Lents <a class="anchor" id="7.4"></a>
 
 Les lents són sistemes òptics formades per dues superfícies, una de les quals al menys ha de ser corba. Les dues superfícies refracten els raig de llum que hi incideixen, de manera que la trajectòria dels raigs canvia i formen una imatge que depèn del tipus de lent i de la posició relativa de l'objecte respecte de la lent. Per a estudiar el camí que segueix la llum en travessar les superfícies de la lent s'ha de fer servir la llei de Snell.
 
@@ -1147,7 +1154,7 @@ Resulta important detenir-se en la convenció de signes necessària per a que le
 
 Amb la convenció adoptada les lents convergents tenen distància focal positiva (també són conegudes com a lents positives) i les lents divergents tenen distància focal negativa (lents negatives). També passa que les imatges reals tenen una posició positiva i les virtuals tenen una posició negativa. Les imatges que estan dretes tindran una altura positiva i les que estan invertides tindran una altura negativa.
 
-## La visió i l'ull
+## La visió i l'ull <a class="anchor" id="7.5"></a>
 
 L'ull és un dels aparells més meravellosos que es poden trobar a la natura, han estat necessaris milers de milions d'anys d'evolució per a que la natura hagi pogut arribar a un grau de sofisticació tal. Aquí ens interessarem per l'ull com a instrument òptic i deixarem de banda altres aspectes de la visió com ser els biològics o psicològics. Com a instrument òptic podem dir que l'ull és un sistema convergent que acaba formant una imatge real sobre una pantalla que tenim al fons de l'ull anomenada **retina**. La imatge que es forma a la retina és una imatge invertida, però es el nostre cervell qui s'encarrega de que la veiéssim de manera dreta. 
 
