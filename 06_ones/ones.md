@@ -89,7 +89,7 @@ Definim el MHS com la projecció d'un moviment circular uniforme sobre la recta 
 
 <figure>
   <img src="img/mvhs_def.svg" width="70%">
-  <figcaption> En la figura es poden veure posicions successives (A0, A1, A2, ...) d'un mòbil amb moviment circular a intervals iguals de temps . La seva projecció sobre la recta (B0, B1, B2, ...) descriu un MHS. La freqüència angular del MHS coincideix amb la velocitat angular, $\omega$, del moviment circular. </figcaption>
+  <figcaption> En la figura es poden veure posicions successives (A0, A1, A2, ...) d'un mòbil amb moviment circular a intervals iguals de temps . La seva projecció sobre la recta (B0, B1, B2, ...) descriu un MHS. La freqüència angular del MHS coincideix amb la velocitat angular, $`\omega`$, del moviment circular. </figcaption>
 </figure>
 
 ### L'equació del moviment harmònic simple <a class="anchor" id="2.1"></a>
