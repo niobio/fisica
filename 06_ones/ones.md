@@ -34,7 +34,7 @@ Els fenòmens ondulatoris s’han demostrat com una forma fonamental del comport
         * [Modes normals de vibració en cordes](#6.2.1)
         * [Modes normals de vibració en tubs oberts per un extrem i tancats per l’altre](#6.2.2)
         * [Modes normals de vibració en tubs oberts pels dos extrems](#6.2.3)
-* [Formació d'imatges](01_imatges/01_imatges.md){:target="_blank"}
+* [Formació d'imatges](../01_imatges/01_imatges.md){:target="_blank"}
     
 
 ## Fenòmens periòdics i oscil·lacions <a class="anchor" id="1"></a>
