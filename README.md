@@ -22,12 +22,15 @@
 ### [Unitat 3: Energia](04_energia/04_energia.md){:target="_blank"}
 * [Problemes](04_energia/04_energia_prob.md){:target="_blank"}
 
+<!--
 ### [Unitat 4: Imatges](01_imatges/01_imatges.md){:target="_blank"}
 * [Problemes](01_imatges/01_imatges_prob.md){:target="_blank"}
 
 ### Unitat 5: Corrent elèctric
+-->
 
 ### [Reptes de física](reptes/reptes.md){:target="_blank"}
+
 
 ## Física 2
 
@@ -37,13 +40,13 @@
 ### [Unitat 2: Camp elèctric](09_camp_electric/camp_electric.md){:target="_blank"}
 * [Problemes](09_camp_electric/problemes_camp_electric.md){:target="_blank"}
 
-### [Unitat 3: Les màquines electromagnètiques](10_electromagnetisme/electromagnetisme.md){:target="_blank"}
+### [Unitat 3: Magnetisme i electromagnetisme](10_electromagnetisme/electromagnetisme.md){:target="_blank"}
 * [Problemes](10_electromagnetisme/problemes_electromagnetisme.md){:target="_blank"}
 
 ### [Unitat 4: Les ones i el so](06_ones/ones.md){:target="_blank"}
 * [Problemes](06_ones/problemes_ones.md){:target="_blank"}
 
-### [Unitat 5: La nova visió de l'univers](08_fisica_moderna/moderna.md){:target="_blank"}
+### [Unitat 5: Física del segle XX](08_fisica_moderna/moderna.md){:target="_blank"}
 * [Problemes](08_fisica_moderna/problemes_moderna.md){:target="_blank"}
 * Física computacional:
 	* [Decaiment radioactiu (integració numèrica)](http://niobio.github.io/fisicacomp/modern/decaiment_radioactiu.html){:target="_blank"}
