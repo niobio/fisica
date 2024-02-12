@@ -64,7 +64,7 @@ Les ones no només transmeten informació sinó també energia, gairebé tota la
 
 En els moviments periòdics hi ha magnituds que varien amb els temps, tot i això arriba un moment en que aquestes magnituds tornen a prendre el valor inicial i, a partir d'aquell moment, repeteixen els mateixos valors. Diem aleshores que s'ha completat un cicle.
 
-En els moviments periòdics s'anomena període, T, al temps que dura un cicle. Si mesurem el temps $$\Delta t$$ que tarda un sistema en fer \(n\) cicles podem obtenir el valor del període com
+En els moviments periòdics s'anomena període, T, al temps que dura un cicle. Si mesurem el temps $$\Delta t$$ que tarda un sistema en fer $$n$$ cicles podem obtenir el valor del període com
 
 $$T=\frac{\Delta t}{n}$$
  
@@ -74,11 +74,7 @@ $$\nu=\frac{n}{\Delta t}$$
 
 i que està relacionada amb el període a través de la relació
 
-$$
-\begin{equation}\label{eq:freq}
-\nu=\frac{1}{T}
-\end{equation}
-$$
+$$\nu=\frac{1}{T}$$
 
 ## Moviment harmònic simple (MHS) <a class="anchor" id="2"></a>
 
@@ -97,12 +93,10 @@ Definim el MHS com la projecció d'un moviment circular uniforme sobre la recta 
 Si tenim en compte la definició de MHS com la projecció d'un moviment circular uniforme podem deduir l'equació de moviment del MHS. Considerem un moviment circular de radi A amb velocitat angular $$\omega$$, l'angle girat durant un temps $$t$$ serà $$\varphi=\omega t$$ i la projecció sobre la recta serà 
 
 
-$$\begin{equation}\label{eq:mhs}
-x=A\sin(\varphi)=A\sin(\omega t)
-\end{equation}$$
+$$x=A\sin(\varphi)=A\sin(\omega t)\;\;\;(1)$$
 
 Direm que $$\varphi$$ és la fase del MHS i, com veiem, és una funció del temps. El moviment està limitat a moure's dintre del rang [-A, A]. La posició del mòbil es coneix com elongació i anomenarem amplitud de l'oscil·lació a la quantitat A, 
-que correspon a l'elongació màxima. La freqüència angular, $$\omega$$, del MHS coincideix amb la velocitat angular del MCU generatriu. De l'equació $$\eqref{eq:mhs}$$ veiem que l'elongació corresponent a l'instant inicial $$(t=0)$$ és igual a zero i això pot ser diferent si el moviment comença des d'una altra posició. Per aquest motiu no podem considerar l'equació $$\eqref{eq:mhs}$$ com a una equació general per a descriure un MHS. Per a poder tenir una descripció general del MHS hem de donar a l'equació la llibertat de prende qualsevol valor inicial entre -A i A. Això ho podem aconseguir afegint una constant de fase o fase inicial, $$\varphi_{0}$$, a la fase $$\varphi$$ de l'equació $$\eqref{eq:mhs}$$. D'aquesta manera ens queda:
+que correspon a l'elongació màxima. La freqüència angular, $$\omega$$, del MHS coincideix amb la velocitat angular del MCU generatriu. De l'equació (1) veiem que l'elongació corresponent a l'instant inicial $$(t=0)$$ és igual a zero i això pot ser diferent si el moviment comença des d'una altra posició. Per aquest motiu no podem considerar l'equació $$\eqref{eq:mhs}$$ com a una equació general per a descriure un MHS. Per a poder tenir una descripció general del MHS hem de donar a l'equació la llibertat de prende qualsevol valor inicial entre -A i A. Això ho podem aconseguir afegint una constant de fase o fase inicial, $$\varphi_{0}$$, a la fase $$\varphi$$ de l'equació $$\eqref{eq:mhs}$$. D'aquesta manera ens queda:
 
 $$\begin{equation}
 x=A\sin(\omega t+\varphi_{0})\label{eq:eq_mov_mhs}
