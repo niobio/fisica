@@ -554,7 +554,7 @@ L'efecte Doppler és un fenomen que es produeix quan un observador rep una ona (
 
 <figure>
   <img src="img/doppler.svg" width="80%">
-  <figcaption>Efecte Doppler. (a) La font emissora està en repòs respecte a l'observador. (b) Quan la font està en moviment, un observador que vegi apropar-se la font sentirà un so més agut $$(\lambda<\lambda_{0})$$ i un observador que vegi la font allunyar-se sentirà un so més greu $$(\lambda>\lambda_{0})$$.</figcaption>
+  <figcaption>Efecte Doppler. (a) La font emissora està en repòs respecte a l'observador. (b) Quan la font està en moviment, un observador que vegi apropar-se la font sentirà un so més agut i un observador que vegi la font allunyar-se sentirà un so més greu.</figcaption>
 </figure>
 
 Aquest fenomen es produeix no només amb el so, sinó amb tot tipus d'ones. Per a poder veure l'efecte Doppler amb la llum serà necessari que la font emissora es desplaci a una velocitat molt gran. De fet, l'efecte Doppler de la llum va permetre a l'astrònom [Edwin Hubble](https://ca.wikipedia.org/wiki/Edwin_Hubble) deduir que l'univers es troba en expansió a partir de la llum que ens arriba de les estrelles llunyanes. Quan va observar la llum que ens arriba de les estrelles, va trobar que l'espectre de la llum corresponia al dels elements químics que ja coneixem a la Terra però va trobar que les línies espectrals mostraven un petit desplaçament cap a freqüències més petites (longitud d'ona més llargues), un desplaçament cap al vermell, la qual cosa volia dir que les estrelles s'estaven allunyant de nosaltres. Va observar el mateix efecte en totes les direccions del cel i també va observar que quan més lluny es troba una galàxia, més ràpid s'allunya de nosaltres<sup><a href="#fn7" id="ref7">7</a></sup>. Aquesta observació va establir les bases de la teoria que posteriorment es va desenvolupar sobre l'univers en expansió, coneguda com teoria del Big Bang.
@@ -973,7 +973,7 @@ Si observem la figura de sota, observem que els dos triangles que queden definit
 
 <figure>
   <img src="img/mirall_triang.svg" alt="" width="90%">
-  <figcaption>Degut a que l'angle de reflexió és igual a l'angle d'incidència, tenim que els dos triangles són semblants i, per tant, podem deduir que $$y/s=y'/s'$$.</figcaption>
+  <figcaption>Degut a que l'angle de reflexió és igual a l'angle d'incidència, tenim que els dos triangles són semblants.</figcaption>
 </figure>
 
 Degut a que els triangles són semblants tenim que es compleix les següent relació:
@@ -988,7 +988,7 @@ m=\frac{y'}{y}=-\frac{s'}{s}\;\;\;\;\;\;(22)
 \end{equation}
 $$
 
-Les equacions $$\eqref{eq:formula_miralls}$$ i (22) ens permeten obtenir de manera analítica la posició i altura de la imatge a partir de la posició i altura de l'objecte per a un mirall de distància focal coneguda. D'aquesta manera hem obtingut un mètode alternatiu al mètode gràfic per a obtenir la imatge donada per un mirall. <sup><a href="#fn14" id="ref14">14</a></sup>
+Les equacions (21) i (22) ens permeten obtenir de manera analítica la posició i altura de la imatge a partir de la posició i altura de l'objecte per a un mirall de distància focal coneguda. D'aquesta manera hem obtingut un mètode alternatiu al mètode gràfic per a obtenir la imatge donada per un mirall. <sup><a href="#fn14" id="ref14">14</a></sup>
 
 
 ## Lents <a class="anchor" id="7.4"></a>
