@@ -64,7 +64,7 @@ Les ones no només transmeten informació sinó també energia, gairebé tota la
 
 En els moviments periòdics hi ha magnituds que varien amb els temps, tot i això arriba un moment en que aquestes magnituds tornen a prendre el valor inicial i, a partir d'aquell moment, repeteixen els mateixos valors. Diem aleshores que s'ha completat un cicle.
 
-En els moviments periòdics s'anomena període, T, al temps que dura un cicle. Si mesurem el temps $$\Delta t$$ que tarda un sistema en fer $$n$$ cicles podem obtenir el valor del període com
+En els moviments periòdics s'anomena període, T, al temps que dura un cicle. Si mesurem el temps $$\Delta t$$ que tarda un sistema en fer \(n\) cicles podem obtenir el valor del període com
 
 $$T=\frac{\Delta t}{n}$$
  
@@ -89,7 +89,7 @@ Definim el MHS com la projecció d'un moviment circular uniforme sobre la recta 
 
 <figure>
   <img src="img/mvhs_def.svg" width="70%">
-  <figcaption> En la figura es poden veure posicions successives (A0, A1, A2, ...) d'un mòbil amb moviment circular a intervals iguals de temps . La seva projecció sobre la recta (B0, B1, B2, ...) descriu un MHS. La freqüència angular del MHS coincideix amb la velocitat angular, $`\omega`$, del moviment circular. </figcaption>
+  <figcaption> En la figura es poden veure posicions successives (A0, A1, A2, ...) d'un mòbil amb moviment circular a intervals iguals de temps . La seva projecció sobre la recta (B0, B1, B2, ...) descriu un MHS. La freqüència angular del MHS coincideix amb la velocitat angular del moviment circular. </figcaption>
 </figure>
 
 ### L'equació del moviment harmònic simple <a class="anchor" id="2.1"></a>
@@ -777,7 +777,7 @@ $$\nu_{n}=\frac{v}{\lambda_{n}}=n\frac{v}{2L}=n\nu_{1}\,\,\,\,\,\,\,\,\,\,\,\,\,
   <figcaption>Modes normals de vibració en tubs oberts pels dos extrems.</figcaption>
 </figure>
 
-# Imatges <a class="anchor" id="7"></a>
+# Formació d'imatges <a class="anchor" id="7"></a>
 
 La llum i el seu comportament ha estat un misteri durant molt temps i encara avui, que el seu comportament està molt ben descrit per l'electrodinàmica quàntica, mostra comportaments que costen d'entendre. En aquesta unitat ens dedicarem a entendre el comportament bàsic de la llum per a la formació d'imatges. El primer en fer una descripció satisfactòria del comportament de la llum per ala formació d'imatges ha estat Isaac Newton al seu treball Opticks. Newton va entendre la llum com formada per petits corpuscles, com si estigués formada per boletes diminutes, i això li va permetre explicar el rebot de la llum sobre una superfície plana seguint el mateix comportament que les boles de billar. Aquest model s'anomena model corpuscular de la llum.
 
@@ -1223,25 +1223,25 @@ El glaucoma és una altra malaltia de l'ull que es produeix al nervi òptic que 
 
 <sup id="fn8">8. En realitat el ventre es produeix una mica més enllà de la boca del tub però, per a simplificar els càlculs, suposarem que el ventre es produeix en la boca del tub.<a href="#ref8" title="Tornar al text.">↩</a></sup>
 
-<sup id="fn9">9. Aquests fenòmens els estudiarem al segon curs de Física. <a href="#ref1" title="Tornar al text.">↩</a></sup>
+<sup id="fn9">9. Aquests fenòmens els estudiarem al segon curs de Física. <a href="#ref9" title="Tornar al text.">↩</a></sup>
 
-<sup id="fn10">10. Anomenem medi homogeni a un medi que té les mateixes propietats físiques en tots els seus punts. Per exemple, l'aigua a temperatura ambient és un medi homogeni, mentre que l'aigua bullint no ho és, ja que hi ha bombolles que tenen propietats físiques diferents a les de l'aigua líquida.<a href="#ref2" title="Tornar al text.">↩</a></sup>
+<sup id="fn10">10. Anomenem medi homogeni a un medi que té les mateixes propietats físiques en tots els seus punts. Per exemple, l'aigua a temperatura ambient és un medi homogeni, mentre que l'aigua bullint no ho és, ja que hi ha bombolles que tenen propietats físiques diferents a les de l'aigua líquida.<a href="#ref10" title="Tornar al text.">↩</a></sup>
 
-<sup id="fn11">11. En realitat, per a que hi hagi un punt focal ben definit la superfície del mirall ha de ser parabòlica. Fer miralls parabòlics és molt més complicat que fer miralls esfèrics, per això s'utilitzen miralls esfèrics. Els errors que es cometen per utilitzar superfícies esfèriques son petits si els raigs viatgen en direccions que no s'aparten massa de l'eix òptic (raigs paraxials). Nosaltres sempre treballarem fent servir l'aproximació paraxial.<a href="#ref3" title="Tornar al text.">↩</a></sup>
+<sup id="fn11">11. En realitat, per a que hi hagi un punt focal ben definit la superfície del mirall ha de ser parabòlica. Fer miralls parabòlics és molt més complicat que fer miralls esfèrics, per això s'utilitzen miralls esfèrics. Els errors que es cometen per utilitzar superfícies esfèriques son petits si els raigs viatgen en direccions que no s'aparten massa de l'eix òptic (raigs paraxials). Nosaltres sempre treballarem fent servir l'aproximació paraxial.<a href="#ref11" title="Tornar al text.">↩</a></sup>
 
-<sup id="fn12">12.Per a la construcció de la imatge estudiarem el comportament de raigs que surten de la punta de la fletxa. Si l'objecte no emet llum, la llum serà la que reflecteix a partir d'una il·luminació externa. Els objectes reflecteixen llum en totes direccions, de tots aquests raig estudiarem el camí dels que ens interessen.<a href="#ref4" title="Tornar al text.">↩</a></sup>
+<sup id="fn12">12.Per a la construcció de la imatge estudiarem el comportament de raigs que surten de la punta de la fletxa. Si l'objecte no emet llum, la llum serà la que reflecteix a partir d'una il·luminació externa. Els objectes reflecteixen llum en totes direccions, de tots aquests raig estudiarem el camí dels que ens interessen.<a href="#ref12" title="Tornar al text.">↩</a></sup>
 
-<sup id="fn13">13. Observeu que encara que el mirall és esfèric, tracem una línia recta i fem reflectir els raigs sobre aquesta recta, això ho fem per a què la construcció pugui sortir bé quan fem servir l'aproximació paraxial (raigs propers a l'eix òptic).<a href="#ref5" title="Tornar al text.">↩</a></sup>
+<sup id="fn13">13. Observeu que encara que el mirall és esfèric, tracem una línia recta i fem reflectir els raigs sobre aquesta recta, això ho fem per a què la construcció pugui sortir bé quan fem servir l'aproximació paraxial (raigs propers a l'eix òptic).<a href="#ref13" title="Tornar al text.">↩</a></sup>
 
-<sup id="fn14">14. La relació [eq:augment2] que ha estat deduïda utilitzant un mirall còncau també és vàlida per a miralls convexos i la seva deducció és anàloga a la que hem fet aquí.<a href="#ref6" title="Tornar al text.">↩</a></sup>
+<sup id="fn14">14. La relació [eq:augment2] que ha estat deduïda utilitzant un mirall còncau també és vàlida per a miralls convexos i la seva deducció és anàloga a la que hem fet aquí.<a href="#ref14" title="Tornar al text.">↩</a></sup>
 
-<sup id="fn15">15. És important no oblidar que per calcular la potència en diòptries és obligatori que la distància focal estigui expressada en metres.<a href="#ref7" title="Tornar al text.">↩</a></sup>
+<sup id="fn15">15. És important no oblidar que per calcular la potència en diòptries és obligatori que la distància focal estigui expressada en metres.<a href="#ref15" title="Tornar al text.">↩</a></sup>
 
-<sup id="fn16">16. Recordem que per a formar una imatge real és necessari que els raigs es tornin a trobar en un punt, ja que són portadors de la informació d'un punt de l'objecte. Si posem una pantalla en la posició on es forma la imatge podrem observar la imatge projectada sobre ella.<a href="#ref8" title="Tornar al text.">↩</a></sup>
+<sup id="fn16">16. Recordem que per a formar una imatge real és necessari que els raigs es tornin a trobar en un punt, ja que són portadors de la informació d'un punt de l'objecte. Si posem una pantalla en la posició on es forma la imatge podrem observar la imatge projectada sobre ella.<a href="#ref16" title="Tornar al text.">↩</a></sup>
 
-<sup id="fn17">17. Nosaltres podem veure les imatges virtuals perquè el nostres ulls acaben formant una imatge real sobre la retina. Els raigs que ingresen al nostre ull com raigs divergents acaben convergint a la nostra retina degut a a que l'ull és un sistema òptic convergent. <a href="#ref9" title="Tornar al text.">↩</a></sup>
+<sup id="fn17">17. Nosaltres podem veure les imatges virtuals perquè el nostres ulls acaben formant una imatge real sobre la retina. Els raigs que ingresen al nostre ull com raigs divergents acaben convergint a la nostra retina degut a a que l'ull és un sistema òptic convergent. <a href="#ref17" title="Tornar al text.">↩</a></sup>
 
-<sup id="fn18">18. La deducció de les relacions següents es pot fer de manera anàloga a la que vam fer servir pels miralls, tot es basa en les relacions de triangles semblants, en aquest cas es fa servir el raig que passa pel centre de la lent per a trobar els angles congruents.<a href="#ref10" title="Tornar al text.">↩</a></sup>
+<sup id="fn18">18. La deducció de les relacions següents es pot fer de manera anàloga a la que vam fer servir pels miralls, tot es basa en les relacions de triangles semblants, en aquest cas es fa servir el raig que passa pel centre de la lent per a trobar els angles congruents.<a href="#ref18" title="Tornar al text.">↩</a></sup>
 
 
 
