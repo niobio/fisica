@@ -74,7 +74,7 @@ $$\nu=\frac{n}{\Delta t}$$
 
 i que està relacionada amb el període a través de la relació
 
-$$\nu=\frac{1}{T}$$
+$$\nu=\frac{1}{T}\;\;\;\;\;\;(1)$$
 
 ## Moviment harmònic simple (MHS) <a class="anchor" id="2"></a>
 
@@ -93,14 +93,12 @@ Definim el MHS com la projecció d'un moviment circular uniforme sobre la recta 
 Si tenim en compte la definició de MHS com la projecció d'un moviment circular uniforme podem deduir l'equació de moviment del MHS. Considerem un moviment circular de radi A amb velocitat angular $$\omega$$, l'angle girat durant un temps $$t$$ serà $$\varphi=\omega t$$ i la projecció sobre la recta serà 
 
 
-$$x=A\sin(\varphi)=A\sin(\omega t)\;\;\;(1)$$
+$$x=A\sin(\varphi)=A\sin(\omega t)\;\;\;\;\;\;(2)$$
 
 Direm que $$\varphi$$ és la fase del MHS i, com veiem, és una funció del temps. El moviment està limitat a moure's dintre del rang [-A, A]. La posició del mòbil es coneix com elongació i anomenarem amplitud de l'oscil·lació a la quantitat A, 
-que correspon a l'elongació màxima. La freqüència angular, $$\omega$$, del MHS coincideix amb la velocitat angular del MCU generatriu. De l'equació (1) veiem que l'elongació corresponent a l'instant inicial $$(t=0)$$ és igual a zero i això pot ser diferent si el moviment comença des d'una altra posició. Per aquest motiu no podem considerar l'equació $$\eqref{eq:mhs}$$ com a una equació general per a descriure un MHS. Per a poder tenir una descripció general del MHS hem de donar a l'equació la llibertat de prende qualsevol valor inicial entre -A i A. Això ho podem aconseguir afegint una constant de fase o fase inicial, $$\varphi_{0}$$, a la fase $$\varphi$$ de l'equació $$\eqref{eq:mhs}$$. D'aquesta manera ens queda:
+que correspon a l'elongació màxima. La freqüència angular, $$\omega$$, del MHS coincideix amb la velocitat angular del MCU generatriu. De l'equació (2) veiem que l'elongació corresponent a l'instant inicial $$(t=0)$$ és igual a zero i això pot ser diferent si el moviment comença des d'una altra posició. Per aquest motiu no podem considerar l'equació (1) com a una equació general per a descriure un MHS. Per a poder tenir una descripció general del MHS hem de donar a l'equació la llibertat de prende qualsevol valor inicial entre -A i A. Això ho podem aconseguir afegint una constant de fase o fase inicial, $$\varphi_{0}$$, a la fase $$\varphi$$ de l'equació (2). D'aquesta manera ens queda:
 
-$$\begin{equation}
-x=A\sin(\omega t+\varphi_{0})\label{eq:eq_mov_mhs}
-\end{equation}$$
+$$x=A\sin(\omega t+\varphi_{0})\;\;\;\;\;\;(3)$$
 
 on $$A$$, $$\omega$$ i $$\varphi_{0}$$ són paràmetres constants. Un cop determinats aquests paràmetres el MHS queda completament determinat. 
 
@@ -108,28 +106,24 @@ El moviment es torna a repetir quan ha passat un temps $$T$$ al que anomenem per
 
 $$T=\frac{2\pi}{\omega}$$
 
-Utilitzant la relació $$\eqref{eq:freq}$$ també podem escriure 
+Utilitzant la relació (1) també podem escriure 
 
 $$\omega=2\pi\nu$$
 
 ### Velocitat i acceleració <a class="anchor" id="2.2"></a>
 
-Un cop tenim l'equació de moviment $$\eqref{eq:eq_mov_mhs}$$ que ens dóna la posició del mòbil com a funció del temps, podem deduir l'equació de la velocitat perquè sabem que la derivada de la posició ens dóna la velocitat. Si prenem la derivada de l'equació $$\eqref{eq:eq_mov_mhs}$$ obtenim
+Un cop tenim l'equació de moviment (3) que ens dóna la posició del mòbil com a funció del temps, podem deduir l'equació de la velocitat perquè sabem que la derivada de la posició ens dóna la velocitat. Si prenem la derivada de l'equació (3) obtenim
 
 $$v=\frac{dx}{dt}=A\omega\cos(\omega t+\varphi_{0})$$
  
 
 Veiem que la velocitat també varia periòdicament amb el temps i prenent com a valor màxim
 
-$$\begin{equation}\label{eq:vmax}
-v_{\mathrm{max}}=A\omega
-\end{equation}$$
+$$v_{\mathrm{max}}=A\omega\;\;\;\;\;\;(4)$$
 
 Si ara prenem la derivada de la velocitat obtindrem l'acceleració com a funció del temps
 
-$$\begin{equation}\label{eq:acceleracio}
-a=\frac{dv}{dt}=-A\omega^{2}\sin(\omega t+\varphi_{0})
-\end{equation}$$
+$$a=\frac{dv}{dt}=-A\omega^{2}\sin(\omega t+\varphi_{0})\;\;\;\;\;\;(5)$$
 
 En aquest cas obtenim que l'acceleració es comporta de manera contraria a l'elongació, quan l'elongació pren el seu valor màxim positiu, l'acceleració pren el valor màxim però negatiu. L'acceleració pren el seu valor màxim
 
@@ -139,45 +133,35 @@ quan $$\sin(\omega t+\varphi_{0})=-1$$.
 
 ### Oscil·lació d'una molla <a class="anchor" id="2.3"></a>
 
-Si comparem l'equació $$\eqref{eq:acceleracio}$$ amb l'equació $$\eqref{eq:eq_mov_mhs}$$ veiem que l'acceleració està relacionada amb l'elongació a través de l'expressió <sup><a href="#fn2" id="ref2">2</a></sup>
+Si comparem l'equació (3) amb l'equació (5) veiem que l'acceleració està relacionada amb l'elongació a través de l'expressió <sup><a href="#fn2" id="ref2">2</a></sup>
 
-$$\begin{equation}\label{eq:a_vs_x}
-a=-\omega^{2}x
-\end{equation}$$  
+$$a=-\omega^{2}x\;\;\;\;\;\;(6)$$  
 
 Si multipliquem l'acceleració per la massa del cos que es mou seguint un MHS i apliquem la segona llei de Newton obtenim la força que actua sobre la massa
 
-$$\begin{equation}\label{eq:hooke}
-F=ma=-m\omega^{2}x
-\end{equation}$$  
+$$F=ma=-m\omega^{2}x\;\;\;\;\;\;(7)$$  
  
-Veiem de l'expressió $$\eqref{eq:hooke}$$ que la força és proporcional a l'elongació. Però nosaltres ja coneixem un sistema per al qual la força resulta proporcional a l'elongació, es tracta de la molla, que segueix la llei de Hooke:
+Veiem de l'expressió (7) que la força és proporcional a l'elongació. Però nosaltres ja coneixem un sistema per al qual la força resulta proporcional a l'elongació, es tracta de la molla, que segueix la llei de Hooke:
 
-$$\begin{equation}\label{eq:hooke2}
-F=-kx
-\end{equation}$$  
+$$F=-kx\;\;\;\;\;\;(8)$$  
 
-on $$k$$ és la constant elàstica. Veiem que si apartem una molla de la seva posició d'equilibri i la deixem anar, aquesta descriurà un MHS. Si igualem l'equació $$\eqref{eq:hooke}$$ amb l'equació $$\eqref{eq:hooke2}$$ obtenim que 
+on $$k$$ és la constant elàstica. Veiem que si apartem una molla de la seva posició d'equilibri i la deixem anar, aquesta descriurà un MHS. Si igualem l'equació (7) amb l'equació (8) obtenim que 
 
-$$\begin{equation}\label{eq:k=mw2}
-k=m\omega^{2}
-\end{equation}$$  
+$$k=m\omega^{2}\;\;\;\;\;\;(9)$$  
 
 que relaciona els valors de la constant elàstica de la molla i la massa unida a ella amb la freqüència angular amb la que oscil·larà la molla. Reagrupant els factors podem obtenir la freqüència angular d'oscil·lació
 
-$$
-\begin{equation}\label{eq:freq_molla}\omega=\sqrt{\frac{k}{m}}\end{equation}
-$$ 
+$$\omega=\sqrt{\frac{k}{m}}\;\;\;\;\;\;(10)$$ 
 
 
 <figure>
   <img src="img/molla.png" width="50%">
-  <figcaption> Oscil·lació d'una molla. La força resulta proporcional a l'elongació i intenta restaurar l'equilibri. El moviment resultant és un MHS, la freqüència angular del qual està relacionada amb la constant elàstica, $$k$$, de la molla i de la massa, $$m$$, unida a ella a través de l'equació $$\eqref{eq:freq_molla}$$.</figcaption>
+  <figcaption> Oscil·lació d'una molla. La força resulta proporcional a l'elongació i intenta restaurar l'equilibri. El moviment resultant és un MHS, la freqüència angular del qual està relacionada amb la constant elàstica, k, de la molla i de la massa, m, unida a ella a través de l'equació (10).</figcaption>
 </figure>
 
-### El pèndol senzill <a class="anchor" id="2.4"></a>
+### El pèndol simple <a class="anchor" id="2.4"></a>
 
-Anomenarem pèndol senzill a una cos petit (que considerarem puntual) que penja d'un fil inextensible i de massa menyspreable. Si enganxem l'extrem lliure del fil del sostre i el deixem penjar amb la massa en l'altre extrem, el fil tindrà una posició vertical. Si apartem el fil una mica d'aquesta posició vertical i el deixem lliure començarà a moure's fent un moviment oscil·latori. Demostrarem aquí que, sota determinades condicions, aquest moviment serà un MHS.
+Anomenarem pèndol simple a un cos petit (que considerarem puntual) que penja d'un fil inextensible i de massa negligible. Si enganxem l'extrem lliure del fil del sostre i el deixem penjar amb la massa en l'altre extrem, el fil tindrà una posició vertical. Si apartem el fil una mica d'aquesta posició vertical i el deixem lliure començarà a moure's fent un moviment oscil·latori. Demostrarem aquí que, sota determinades condicions, aquest moviment serà un MHS.
 
 El pèndol de la figura té una longitud L. Per a veure quin tipus de moviment tindrà el pèndol mirarem a quines forces està sotmès. Les úniques interaccions a les que està sotmès són el pes de la massa m i la tensió del fil. Si descomposem la força pes en les direcció radial i tangencial veiem que la força que produeix el moviment és la component tangencial (la component radial del pes i la tensió del fil es resten, donat coma resultat la força centrípeta que produeix la curvatura de la trajectòria). Per tant, la força motriu serà:
 
@@ -187,14 +171,12 @@ on $$g$$ correspon al mòdul de l'acceleració de la gravetat. El signe negatiu 
 
 Per tant, l'acceleració serà
 
-$$\begin{equation}\label{eq:a_t}
-a_{t}=-g\sin(\varphi)
-\end{equation}$$ 
+$$a_{t}=-g\sin(\varphi)\;\;\;\;\;\;(11)$$ 
  
  
 <figure>
   <img src="img/pendol.svg" width="50%">
-  <figcaption> Pèndol senzill de longitud L.</figcaption>
+  <figcaption> Pèndol simple de longitud L.</figcaption>
 </figure>
  
 
@@ -215,7 +197,7 @@ Hauríem d'aclarir què volem dir amb oscil·lacions petites. Farem una taula am
 |20	              |0,349066	      |0,342020       |
 |30	              |0,523598	      |0,500000       |
 
-Podem considerar oscil·lacions d'amplituds petites les que tenen un apartament de la vertical més petit que $$10^{\circ}$$, ja que la diferència entre l'angle i el seu sinus està en el quart decimal. Com sempre tot depèn de la precisió amb la que volem mesurar l'elongació però, per a angles per sota dels 10 graus l'aproximació resulta prou bona. Fent l'aproximació, l'equació $$\eqref{eq:a_t}$$ es transforma en
+Podem considerar oscil·lacions d'amplituds petites les que tenen un apartament de la vertical més petit que $$10^{\circ}$$, ja que la diferència entre l'angle i el seu sinus està en el quart decimal. Com sempre tot depèn de la precisió amb la que volem mesurar l'elongació però, per a angles per sota dels 10 graus l'aproximació resulta prou bona. Fent l'aproximació, l'equació (11) es transforma en
 
 $$a_{t}=-g\varphi$$
 
@@ -231,7 +213,7 @@ Agrupant les constants ens queda
 
 $$a_{t}=-\frac{g}{L}x$$
 
-una relació on l'acceleració es proporcional a l'elongació i de signe contrari. Ja havíem vist que aquest tipus de relació segueix un MHS (veure equació $$\eqref{eq:a_vs_x}$$). Si igualem ambdues equacions obtenim que el moviment té una freqüència angular: 
+una relació on l'acceleració es proporcional a l'elongació i de signe contrari. Ja havíem vist que aquest tipus de relació segueix un MHS (veure equació (6). Si igualem ambdues equacions obtenim que el moviment té una freqüència angular: 
 
 $$\omega=\sqrt{\frac{g}{L}}$$
 
@@ -265,21 +247,17 @@ Podem estudiar alguns casos particulars:
 
 * Quan l'elongació és màxima tenim que $$v=0$$ i $$x=A$$, en aquest cas l'expressió de l'energia mecànica ens dóna 
 
-$$\begin{equation}\label{eq:EM1}
-E_{M}=\frac{1}{2}kA^{2}
-\end{equation}$$ 
+$$E_{M}=\frac{1}{2}kA^{2}\;\;\;\;\;\;(12)$$ 
 
-* Quan la massa passa pel punt d'equilibri (part central), la velocitat pren el seu valor màxim donat per l'equació $$\eqref{eq:vmax}$$ i l'elongació és nul·la, per tant, només tindrem energia cinètica
+* Quan la massa passa pel punt d'equilibri (part central), la velocitat pren el seu valor màxim donat per l'equació (4) i l'elongació és nul·la, per tant, només tindrem energia cinètica
 
-$$\begin{equation}\label{eq:EM2}
-E_{M}=E_{C}=\frac{1}{2}mv_{\mathrm{max}}^{2}=\frac{1}{2}m(A\omega)^{2}
-\end{equation}$$ 
+$$E_{M}=E_{C}=\frac{1}{2}mv_{\mathrm{max}}^{2}=\frac{1}{2}m(A\omega)^{2}\;\;\;\;\;\;(13)$$ 
 
 Podem veure que si igualem les expressions de les energies mecàniques dels dos casos anteriors arribem a la igualtat
 
 $$k=m\omega^{2}$$
 
-expressió a la que ja hi havíem arribat en l'equació $$\eqref{eq:k=mw2}$$, la qual cosa demostra que les dues energies mecàniques són iguals i que és una constant de moviment. Per altra banda el fet de comptar amb una expressió per a l'energia potencial elàstica fa que aquesta sigui conservativa i, per tant, l'energia mecànica s'ha de conservar. Tant l'expressió $$\eqref{eq:EM1}$$, com la $$\eqref{eq:EM2}$$ ens serveixen per a calcular l'energia mecànica en qualsevol punt de la trajectòria degut a la seva constància i això ens serà de gran utilitat a l'hora de resoldre problemes.
+expressió a la que ja hi havíem arribat en l'equació (9), la qual cosa demostra que les dues energies mecàniques són iguals i que és una constant de moviment. Per altra banda el fet de comptar amb una expressió per a l'energia potencial elàstica fa que aquesta sigui conservativa i, per tant, l'energia mecànica s'ha de conservar. Tant l'expressió (12), com la (13) ens serveixen per a calcular l'energia mecànica en qualsevol punt de la trajectòria degut a la seva constància i això ens serà de gran utilitat a l'hora de resoldre problemes.
 
 ## Moviment ondulatori <a class="anchor" id="3"></a>
 
@@ -354,7 +332,7 @@ Si, per exemple, pensem que la freqüència angular és de $$\pi/3$$, el movimen
 
 <figure>
   <img src="img/ona1.png" width="70%">
-  <figcaption> Moviment vibratori de l'extrem d'una corda d'amplitud 2 m i pulsació $$\pi/3$$ amb elongació màxima en l'instant inicial.</figcaption>
+  <figcaption> Moviment vibratori de l'extrem d'una corda d'amplitud 2 m i període T = 6 s amb elongació màxima en l'instant inicial.</figcaption>
 </figure>
 
 Suposarem que l'ona generada per aquest moviment harmònic es propaga amb una velocitat $$v=0,5\,\mathrm{m/s}$$. Aleshores el màxim que tenim a la posició $$x=0$$ es trobarà a la posició $$x=1,5\,\mathrm{m}$$ al cap de 3 segons (veure Figura). Per tant per a descriure el comportament de l'ona en la posició $$x=1,5\,\mathrm{m}$$ hem de tenir un retràs de fase, ja que el moviment porta un retràs igual al temps que ha tardat la pertorbació a arribar a la posició $$x=1,5\,\mathrm{m}$$. El temps es pot calcular com 
@@ -363,7 +341,7 @@ $$t=\frac{x}{v}=\frac{1,5\,\mathrm{m}}{0,5\,\mathrm{m/s}}=3\mathrm{\,s}$$
 
 <figure>
   <img src="img/ona2.png" width="70%">
-  <figcaption> Variació de l'elongació en el temps en un punt ubicat en la posició $$x=1,5\,\mathrm{m}$$. Veiem com el màxim que es trobava en l'instant inicial en l'extrem de la corda ($$x=0$$), ara el tenim en l'instant $$t=3\,\mathrm{s}$$ en la posició $$x=1,5\,\mathrm{m}$$ com a resultat de que la pertorbació va tardar 3 s en recórrer aquella distància a una velocitat de $$0,5\,\mathrm{m/s}$$. </figcaption>
+  <figcaption> Variació de l'elongació en el temps en un punt ubicat en la posició x = 1,5 m. Veiem com el màxim que es trobava en l'instant inicial en l'extrem de la corda (x = 0), ara el tenim en l'instant t = 3 s en la posició x = 1,5 m com a resultat de que la pertorbació va tardar 3 s en recórrer aquella distància a una velocitat de 0,5 m/s. </figcaption>
 </figure>
 
 Fent servir aquest raonament per a qualsevol posició genèrica $$x$$ podem obtenir l'equació d'ona
@@ -376,15 +354,13 @@ Si distribuïm $$\omega$$ obtenim
 
 $$y=A\sin\big(\omega t-\frac{\omega}{v}x+\varphi_{0}\big)$$
 
-Anomenarem nombre d'ona, $$k$$, a la quantitat 
+Anomenarem **nombre d'ona**, $$k$$, a la quantitat 
 
 $$k=\frac{\omega}{v}$$
 
 que té unitats de rad/m i, per tant, en queda l'equació d'ones
 
-$$\begin{equation}\label{eq:eq_ones}
-y(x,t)=A\sin\big(\omega t-kx+\varphi_{0}\big)
-\end{equation}$$ 
+$$y(x,t)=A\sin\big(\omega t-kx+\varphi_{0}\big)\;\;\;\;\;\;(14)$$ 
 
 Veiem que el moviment ondulatori és un moviment periòdic tant en els temps com a l'espai. Quant al temps sabem que el període d'oscil·lació està relacionat amb la freqüència angular o pulsació a través de l'expressió
 
@@ -400,7 +376,7 @@ $$\lambda=\frac{2\pi}{k}$$
 
 La longitud d'ona té unitats de longitud i en l'SI es mesura en metres.
 
-Hem vista que quan una ona es propaga en la direcció positiva de l'eix $$x$$, l'equació corresponent és la $$\eqref{eq:eq_ones}$$. Si l'ona es propaga en el sentit negatiu de l'eix $$x$$, l'equació serà
+Hem vista que quan una ona es propaga en la direcció positiva de l'eix $$x$$, l'equació corresponent és la (14). Si l'ona es propaga en el sentit negatiu de l'eix $$x$$, l'equació serà
 
 $$y(x,t)=A\sin\big(\omega t+kx+\varphi_{0}\big)$$
 
@@ -440,6 +416,7 @@ El fenomen de refracció és el canvi en la direcció de propagació de les ones
 Podem deduir la llei de Snell a partir de l'esquema de la dreta de la figura anterior. Els triangles ABB' i AA'B' tenen en comú el costat AB'. A partir dels dos triangles podem escriure les expressions 
 
 $$\sin(\alpha_{1})=\frac{BB'}{AB'}=\frac{v_{1}t}{AB'}$$
+
 i
 
 $$\sin(\alpha_{2})=\frac{AA'}{AB'}=\frac{v_{2}t}{AB'}$$
@@ -492,7 +469,7 @@ El tractament matemàtic per a entendre què està passant sobre la pantalla no 
  
 <figure>
   <img src="img/young1.svg" width="80%">
-  <figcaption>Esquema de l'experiment de Young on es veu el camí recorregut per cada ona $$r_{1}$$ i $$r_{2}$$ des de que surten de les escletxes A i B fins arribar al punt P.</figcaption>
+  <figcaption>Esquema de l'experiment de Young on es veu el camí recorregut per cada ona (en color verd) des de que surten de les escletxes A i B fins arribar al punt P.</figcaption>
 </figure>
 
 Per tant, hem vist que al punt central ha d'haver-hi llum. Però, es clar, si en movem sobre la pantalla els camins traçats per les ones deixaran de ser de la mateixa longitud i les ones deixaran d'arribar en fase a la pantalla, en alguns punts arribaran en oposició de fase (contrafase) i allí es produirà interferència destructiva. El que veurem aleshores és foscor<sup><a href="#fn5" id="ref5">5</a></sup>. Si ens allunyem una mica més les ones tornen a estar en fase i tornem a tenir interferència constructiva i allí veurem una banda il·luminada, i així el patró s'anirà reproduint. 
@@ -509,23 +486,19 @@ $$\Delta\varphi_{P}=\frac{2\pi}{\lambda}(r_{2}-r_{1})=2n\pi\,\,\,\,\,\,\,\,\,\,\
 
 o, equivalentment,
 
-$$\begin{equation}\label{eq:interf_const}
-r_{2}-r_{1}=n\lambda\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,\,n\in\mathbb{Z}
-\end{equation}$$ 
+$$r_{2}-r_{1}=n\lambda\;\;\;\;n\in\mathbb{Z}\;\;\;\;\;\;(15)$$ 
 
 Es a dir, per tenir interferència constructiva, la diferència de camí entre les ones ha de ser un nombre entre de longituds d'ona. 
 
 Per a trobar la condició d'interferència destructiva hem d'imposar que la diferència de fase sigui un nombre senar de vegades $$\pi$$, d'aquesta manera les ones arribaran al punt P en oposició de fase. Imposant la condició queda:
 
-$$\Delta\varphi_{P}=\frac{2\pi}{\lambda}(r_{2}-r_{1})=(2n+1)\pi\,\,\,\,\,\,\,\,\,\,\,\,\,n\in\mathbb{Z}$$
+$$\Delta\varphi_{P}=\frac{2\pi}{\lambda}(r_{2}-r_{1})=(2n+1)\pi\;\;\;\;n\in\mathbb{Z}$$
 
 o, equivalentment,
 
-$$\begin{equation}\label{eq:interf_destr}
-r_{2}-r_{1}=(2n+1)\frac{\lambda}{2}\,\,\,\,\,\,\,\,\,\,\,\,\,n\in\mathbb{Z}
-\end{equation}$$ 
+$$r_{2}-r_{1}=(2n+1)\frac{\lambda}{2}\;\;\;\;n\in\mathbb{Z}\;\;\;\;\;\;(16)$$ 
 
-Les relacions $$\eqref{eq:interf_const}$$ i $$\eqref{eq:interf_destr}$$ ens donen les condicions d'interferència constructiva i destructiva respectivament en funció de la diferència de camins, per tant tindrem:
+Les relacions (15) i (16) ens donen les condicions d'interferència constructiva i destructiva respectivament en funció de la diferència de camins, per tant tindrem:
 
 $$r_{2}-r_{1}=\begin{cases}
 n\lambda & \,\,\,\,n\in\mathbb{Z\,\,\,\,\mathrm{interfer\grave{e}ncia\,constructiva}}\\
@@ -549,7 +522,7 @@ n\lambda & \,\,\,\,n\in\mathbb{Z\,\,\,\,\mathrm{interf.\,constructiva}}\\
 \end{cases}
 \end{equation}$$ 
 
-La relació $$\eqref{eq:interf}$$ ens dóna les condicions d'interferència constructiva o destructiva depenent de l'angle $$\theta$$ o la distància y de la pantalla.
+La relació anterior ens dóna les condicions d'interferència constructiva o destructiva depenent de l'angle $$\theta$$ o la distància y de la pantalla.
 
 La interferència és un fenomen que s'ens apareix molt sovint a la vida quotidiana però moltes vegades o el sabem reconèixer. Quan veiem taques d'oli sobre aigua podem apreciar bandes de diferents colors a la llum reflectida sobre l'oli, això també passa amb la bombolles de sabó.
 
@@ -572,8 +545,7 @@ Fins ara hem estat estudiant ones viatgeres o de propagació, ara veurem que pas
 
 <figure>
   <img src="img/estacionaries.png" width="70%">
-  <figcaption>Ones estacionàries.Quan se superposen dues ones d'igual freqüència que viatgen en sentit contrari es produeixen ones estacionàries. Hi ha punts de l'ona que no es mouen anomenats nodes (x=0.5,\,1.0,\,1.5,\ldots
- ) i d'altres que tenen una gran mobilitat anomenats ventres.</figcaption>
+  <figcaption>Ones estacionàries.Quan se superposen dues ones d'igual freqüència que viatgen en sentit contrari es produeixen ones estacionàries. Hi ha punts de l'ona que no es mouen anomenats nodes (x = 0.5, 1.0, 1.5, ...) i d'altres que tenen una gran mobilitat anomenats ventres.</figcaption>
 </figure>
 
 ### Efecte Doppler <a class="anchor" id="5.7"></a>
@@ -811,7 +783,7 @@ Els angles d'incidència i reflexió es mesuren respecte de la línia perpendicu
 
 ## Refracció de la llum <a class="anchor" id="7.2"></a>
 
-Com ja ho hem dit, la llum es propaga en un medi homogeni a una velocitat constant, però quan la llum passa d'un medi a un altre la seva velocitat de propagació canvia i això pot produir un canvi en la direcció de propagació de la llum. Aquest canvi en la direcció de propagació de la llum l'anomenen refracció de la llum. A la Figura [fig:refrac] es pot veure un raig de llum que incideix des d'una medi 1 amb un angle $$\alpha_{1}$$ respecte a la normal de la superfície de separació dels dos medis. Quan travessa la superfície passa a propagar-se en el medi 2 amb un angle $$\alpha_{2}$$ respecte a la mateixa recta normal. També es pot veure un raig reflectit. Sempre que hi ha una superfície de separació de dos medis hi haurà llum reflectida què, com ja hem vist, segueix la llei de la reflexió $$(\alpha_{1}=\alpha_{1}^{,})$$.
+Com ja ho hem dit, la llum es propaga en un medi homogeni a una velocitat constant, però quan la llum passa d'un medi a un altre la seva velocitat de propagació canvia i això pot produir un canvi en la direcció de propagació de la llum. Aquest canvi en la direcció de propagació de la llum l'anomenen refracció de la llum. A la figura inferior es pot veure un raig de llum que incideix des d'una medi 1 amb un angle $$\alpha_{1}$$ respecte a la normal de la superfície de separació dels dos medis. Quan travessa la superfície passa a propagar-se en el medi 2 amb un angle $$\alpha_{2}$$ respecte a la mateixa recta normal. També es pot veure un raig reflectit. Sempre que hi ha una superfície de separació de dos medis hi haurà llum reflectida què, com ja hem vist, segueix la llei de la reflexió $$(\alpha_{1}=\alpha_{1}^{,})$$.
 
 <figure>
   <img src="img/llei_refrac.svg" alt="" width="60%">
@@ -820,17 +792,17 @@ Com ja ho hem dit, la llum es propaga en un medi homogeni a una velocitat consta
 
 Els dos angles $$\alpha_{1}$$ i $$\alpha_{2}$$ estan relacionats amb la velocitat de propagació de la llum ens els dos medis, $$v_{1}$$ i $$v_{2}$$ respectivament, a través de la llei de la refracció de la llum o **llei de Snell**:
 
-$$\frac{\sin(\alpha_{1})}{v_{1}}=\frac{\sin(\alpha_{2})}{v_{2}}$$
+$$\frac{\sin(\alpha_{1})}{v_{1}}=\frac{\sin(\alpha_{2})}{v_{2}}\;\;\;\;\;\;(17)$$
 
 Podem deduir de la llei que si la llum passa a un segon medi on es propaga a una velocitat més petita, $$(v_{2}<v_{1})$$, l'angle de sortida serà més petit que l'angle d'entrada $$(\alpha_{2}<\alpha_{1})$$. El mateix raonament és valid en cas contrari, si la velocitat del segon medi és més gran, també ho serà l'angle de sortida. Pots dir quin dels dos casos mostra la figura anterior? 
 
 ## Índex de refracció <a class="anchor" id="7.2.1"></a>
 
-A la llei de Snell apareixen les velocitats de propagació de la llum. Per a no tenir que treballar amb valors de velocitats tan grans (recordem que la velocitat de la llum al buit és $$c=3\times10^{8}\mathrm{m/s})$$ el que es fa és multiplicar ambdós membres de l'equació $$\eqref{eq:snell}$$ per la velocitat de la llum al buit, $$c$$, per a obtenir
+A la llei de Snell apareixen les velocitats de propagació de la llum. Per a no tenir que treballar amb valors de velocitats tan grans (recordem que la velocitat de la llum al buit és $$c=3\times10^{8}\mathrm{m/s})$$ el que es fa és multiplicar ambdós membres de l'equació (18) per la velocitat de la llum al buit, $$c$$, per a obtenir
 
 $$
 \begin{equation}\label{eq:snell}
-\frac{c}{v_{1}}\sin(\alpha_{1})=\frac{c}{v_{2}}\sin(\alpha_{2})
+\frac{c}{v_{1}}\sin(\alpha_{1})=\frac{c}{v_{2}}\sin(\alpha_{2})\;\;\;\;\;\;(18)
 \end{equation}
 $$
 
@@ -865,7 +837,7 @@ Ja hem vist que quan la llum travessa una superfície de separació entre dos me
 
 <figure>
   <img src="img/angle_limit.svg" alt="" width="100%">
-  <figcaption> <strong>Reflexió total interna. Quan la llum passa de l'aigua a l'aire, l'angle refractat, $$\alpha_{2}^{,}$$, resulta més gran que l'angle d'incidència, $$\alpha_{1}$$. Si augmentem l'angle $$\alpha_{1}$$ arribarà a un valor per al qual l'angle de refracció és rasant $$(\alpha_{2}^{,}=90^{\circ})$$. Aquest angle d'incidència es diu angle límit, $$\alpha_{L}$$, i a partir d'aquest valor no hi ha raig refractat i només tenim llum reflectida.</strong></figcaption>
+  <figcaption> <strong>Reflexió total interna. Quan la llum passa de l'aigua a l'aire, l'angle de sortida de l'aigua resulta més gran que l'angle d'incidència. Si augmentem l'angle d'incidència arribarà a un valor per al qual l'angle de refracció és rasant (paral·l3l a la superfície de l'aigua. Aquest angle d'incidència es diu angle límit, i a partir d'aquest valor no hi ha raig refractat i només tenim llum reflectida.</strong></figcaption>
 </figure>
 
 Aquest fenomen es diu refracció i hem vist que quan la llum passa d'un medi a un altre d'índex de refracció més alt, la llum transmesa surt amb un angle més petit respecte a la normal. Si tenim el cas invers on la llum passa d'un medi d'índex més alt cap a un d'índex més baix, com és el cas de passar d'aigua a l'aire o de vidre a l'aire, la relació d'angles s'inverteix, en aquest cas tenim que $$\alpha_{2}^{,}>\alpha_{1}$$ (veure figura anterior).
@@ -885,11 +857,11 @@ i, com $$\sin(90^{\circ})=1$$, obtenim:
 
 $$
 \begin{equation}\label{eq:angle_limit}
-\sin(\alpha_{L})=\frac{n_{2}}{n_{1}}
+\sin(\alpha_{L})=\frac{n_{2}}{n_{1}}\;\;\;\;\;\;(19)
 \end{equation}
 $$
 
-La relació $$\eqref{eq:angle_limit}$$ és la condició d'angle límit. A partir d'aquest valor d'angle d'incidència tindrem reflexió total. De la relació [eq:angle_limit] podem veure que la condició només es satisfà si el quocient $$n_{2}/n_{1}<1$$, ja que la funció sinus és una funció que sempre és menor a 1. En cas contrari, si el medi 2 tingués un índex de refracció major que el medi 1, no trobaríem solució.
+La relació (19) és la condició d'angle límit. A partir d'aquest valor d'angle d'incidència tindrem reflexió total. De la relació (19) podem veure que la condició només es satisfà si el quocient $$n_{2}/n_{1}<1$$, ja que la funció sinus és una funció que sempre és menor a 1. En cas contrari, si el medi 2 tingués un índex de refracció major que el medi 1, no trobaríem solució.
 
 ## Miralls esfèrics <a class="anchor" id="7.3"></a>
 
@@ -979,11 +951,11 @@ L'augment lateral, $$m$$, és la relació que hi ha entre la grandària de la im
 
 $$
 \begin{equation}\label{eq:augment}
-m=\frac{y'}{y}
+m=\frac{y'}{y}\;\;\;\;\;\;(20)
 \end{equation}
 $$
 
-El valor de $$y'$$ serà positiu quan la imatge estigui dreta i negatiu quan la imatge estigui invertida. Per altra banda si la imatge és més gran que l'objecte tindrem que $$\lvert y'\rvert > y$$, i quan la imatge sigui més petita que l'objecte tindrem que $$\lvert y' \rvert <y$$.
+El valor de $$y'$$ serà positiu quan la imatge estigui dreta i negatiu quan la imatge estigui invertida. Per altra banda si la imatge és més gran que l'objecte tindrem que $$\lvert y'\rvert > y$$, i quan la imatge sigui més petita que l'objecte tindrem que $$\lvert y' \rvert < y$$.
 
 ## Les matemàtiques dels miralls
 
@@ -991,7 +963,7 @@ Fins ara havíem fet servir la construcció gràfica per a trobar la posició on
 
 $$
 \begin{equation}\label{eq:formula_miralls}
-\frac{1}{s}+\frac{1}{s'}=\frac{1}{f}
+\frac{1}{s}+\frac{1}{s'}=\frac{1}{f}\;\;\;\;\;\;(21)
 \end{equation}
 $$
 
@@ -1008,15 +980,15 @@ Degut a que els triangles són semblants tenim que es compleix les següent rela
 
 $$\frac{y}{s}=-\frac{y'}{s'}$$
 
-on el signe negatiu apareix degut a que $$y'$$ resulta negativa per estar la imatge invertida i la resta de quantitats són positives. Per a poder igualar ambdós costats de l'equació, hem de posar el signe negatiu al membra de la dreta. Aquesta relació ens porta a una altra manera de calcular l'augment lateral si reconsiderem l'expressió $$\eqref{eq:augment}$$:
+on el signe negatiu apareix degut a que $$y'$$ resulta negativa per estar la imatge invertida i la resta de quantitats són positives. Per a poder igualar ambdós costats de l'equació, hem de posar el signe negatiu al membra de la dreta. Aquesta relació ens porta a una altra manera de calcular l'augment lateral si reconsiderem l'expressió (20):
 
 $$
 \begin{equation}\label{eq:augment2}
-m=\frac{y'}{y}=-\frac{s'}{s}
+m=\frac{y'}{y}=-\frac{s'}{s}\;\;\;\;\;\;(22)
 \end{equation}
 $$
 
-Les equacions $$\eqref{eq:formula_miralls}$$ i $$\eqref{eq:augment2}$$ ens permeten obtenir de manera analítica la posició i altura de la imatge a partir de la posició i altura de l'objecte per a un mirall de distància focal coneguda. D'aquesta manera hem obtingut un mètode alternatiu al mètode gràfic per a obtenir la imatge donada per un mirall. <sup><a href="#fn14" id="ref14">14</a></sup>
+Les equacions $$\eqref{eq:formula_miralls}$$ i (22) ens permeten obtenir de manera analítica la posició i altura de la imatge a partir de la posició i altura de l'objecte per a un mirall de distància focal coneguda. D'aquesta manera hem obtingut un mètode alternatiu al mètode gràfic per a obtenir la imatge donada per un mirall. <sup><a href="#fn14" id="ref14">14</a></sup>
 
 
 ## Lents <a class="anchor" id="7.4"></a>
