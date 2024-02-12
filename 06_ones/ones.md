@@ -745,7 +745,7 @@ $$\nu_{n}=\frac{v}{\lambda_{n}}=n\frac{v}{2L}=n\nu_{1}\,\,\,\,\,\,\,\,\,\,\,\,\,
 
 # Formació d'imatges <a class="anchor" id="7"></a>
 
-La llum i el seu comportament ha estat un misteri durant molt temps i encara avui, que el seu comportament està molt ben descrit per l'electrodinàmica quàntica, mostra comportaments que costen d'entendre. En aquesta unitat ens dedicarem a entendre el comportament bàsic de la llum per a la formació d'imatges. El primer en fer una descripció satisfactòria del comportament de la llum per ala formació d'imatges ha estat Isaac Newton al seu treball Opticks. Newton va entendre la llum com formada per petits corpuscles, com si estigués formada per boletes diminutes, i això li va permetre explicar el rebot de la llum sobre una superfície plana seguint el mateix comportament que les boles de billar. Aquest model s'anomena model corpuscular de la llum.
+La llum i el seu comportament ha estat un misteri durant molt temps i encara avui, que el seu comportament està molt ben descrit per l'electrodinàmica quàntica, mostra comportaments que costen d'entendre. Ara ens dedicarem a entendre el comportament bàsic de la llum per a la formació d'imatges. El primer en fer una descripció satisfactòria del comportament de la llum per la formació d'imatges ha estat l'Isaac Newton al seu treball Opticks. Newton va entendre la llum com formada per petits corpuscles, com si estigués formada per boletes diminutes, i això li va permetre explicar el rebot de la llum sobre una superfície plana seguint el mateix comportament que les boles de billar. Aquest model s'anomena model corpuscular de la llum.
 
 <figure>
   <img src="img/billiard-balls.svg" alt="" width="50%">
