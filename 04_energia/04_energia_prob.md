@@ -28,7 +28,7 @@
     <p class="aligncenter"><img src="img_prob/rifle.svg"></p>
     <p><a href="sol/prob324.pdf">Solució</a></p>
 
-## Treball i energia
+ ## Treball i energia
 
 4. Un cos de 2 kg, inicialment en repòs, baixa per un pla inclinat 42º respecte de l'horitzontal. Després de recórrer una distància de 3 m sobre el pla inclinat, arriba a un terra horitzontal i, finalment, puja per un altre pla inclinat 30º respecte de l'horitzontal (observa el dibuix). 
 	<p class="aligncenter"><img src="img_prob/planos_inclin.png" width="400px"></p>
