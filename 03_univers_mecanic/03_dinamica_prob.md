@@ -144,27 +144,4 @@ variable. Els coeficients de fricció estàtic i cinètic entre $$m_1$$ i la tau
     2. L'ascensor pugi a una velocitat constant?
     <p>R: 2,71 m i 2,59 m. <a href="sol/prob321.pdf">Solució</a></p>
 
-    ## Quantitat de moviment
-
-22. Una persona, la massa de la qual és de 60 kg, es troba en mig d'un llac glaçat, sense fricció. Aquesta persona té, en les seves mans, una capsa de 5 kg de massa. Si llença la capsa horitzontalment, la persona adquireix una velocitat de 0,5 m/s en sentit contrari. Aleshores, arriba a la conclusió de que la capsa ha estat llençada amb una velocitat de:
-    1. 6 m/s
-    2. 0,5 m/s
-    3. 60 m/s
-    4. 10 m/s
-    2. 2 m/s
-    <p><a href="sol/prob322.pdf">Solució</a></p>
-
-23. Un cos de massa $$m=6\,\mathrm{kg}$$ es mou amb una velocitat $$v_{0}=2\,\mathrm{m/s}$$ quan comença a rebre una força $$F$$ variable en el temps segons la gràfica que s'observa a continuació.
-    <p class="aligncenter"><img src="img_prob/impuls.png"></p>
-    Tenint en compte la informació proporcionada determineu:
-    1. L'impuls total proporcionat al cos per la força $$F$$.
-    2. La velocitat del cos quan $$t=3\,\mathrm{s}$$.
-    3. La velocitat del cos quan $$t=6\,\mathrm{s}$$.
-    <p><a href="sol/prob323.pdf">Solució</a></p>
-
-24. En un joc de fira disparem un petit balí de plom de 8 g de massa amb una escopeta d’aire comprimit de 3,5 kg de massa. El balí surt amb una velocitat de 68 m/s, i sabem que la força impulsora ha actuat durant un temps de 0,085 s. 
-    1. Quina força mitjana s’ha efectuat sobre el balí?
-    2. Quina és la velocitat de retrocés del fusell?
-    <p class="aligncenter"><img src="img_prob/rifle.svg"></p>
-    <p><a href="sol/prob324.pdf">Solució</a></p>
 

@@ -1,5 +1,92 @@
+# Principis de conservació
 
-# Energia
+Una de les conquistes més importants del saber humà ha estat el descobriment de magnituds físiques que romanen constants durant l’evolució d’un sistema físic. Quan trobem una magnitud que no canvia mentre un sistema evoluciona imposa límits sobre aquest procés i ens proporciona eines matemàtiques que ens permeten descriure aquesta evolució de manera que d’una altra forma seria impossible o molt més difícil de fer. 
+
+Quan tenim una magnitud que roman constant durant l’evolució d’un sistema direm que la magnitud es conserva, que es conservativa o que és un invariant. El nom de principi de conservació té origen històric, actualment resulta més correcte dir que es tracta de teoremes de conservació, ja que aquestes lleis de conservació es poden deduir de les lleis del moviment que adoptem com principis, com ser les lleis de Newton de la dinàmica.
+
+Una característica molt important de les magnituds que es conserven és que cadascuna d’elles està associada a alguna simetria del sistema. Avui sabem que si descobrim una simetria en un sistema físic, hi haurà una magnitud física que es conservarà. Aquesta aproximació ha estat molt exitosa en la física moderna. 
+
+# Conservació de la quantitat de moviment
+
+## Quantitat de moviment o moment lineal
+
+Ja hem vist que si coneixem les forces implicades en una interacció, a partir de les equacions de Newton podem determinar les acceleracions dels cossos implicats i predir l'evolució del sistema trobant les seves posicions en funció del temps. Moltes vegades les interaccions són massa complexes o no coneixem com són les forces implicades, aleshores no podem utilitzar les equacions de Newton per predir l'evolució del sistema. Però, potser podem definir noves magnituds físiques amb les que podríem predir algunes coses sobre l'evolució dels sistemes. La primera magnitud que definirem serà la **quantitat de moviment**, **moment lineal** o **momentum**:
+
+$$\vec{p}=m\vec{v}$$
+
+És una magnitud vectorial que té la mateixa direcció i sentit que la velocitat i les seves unitats són $$\mathrm{kgm/s}$$ en el SI.
+
+### Teorema de l'impuls i la quantitat de moviment
+
+La quantitat de moviment està relacionat amb les forces aplicades sobre un cos. Podem reescriure la segona llei de Newton de la següent manera:
+
+$$\sum_{i}\vec{F_{i}}=m\vec{a}=m\frac{\Delta\vec{v}}{\Delta t}=\frac{m(\vec{v}-\vec{v}_{0})}{\Delta t}=\frac{m\vec{v}-m\vec{v}_{0}}{\Delta t}=\frac{\vec{p}-\vec{p}_{0}}{\Delta t}=\frac{\Delta\vec{p}}{\Delta t}$$
+
+L'última relació es pot reescriure de la següent manera:
+
+$$\left(\sum_{i}\vec{F_{i}}\right)\Delta t=\Delta\vec{p}$$
+
+És a dir, la força neta sobre el sistema multiplicat pel temps d'actuació d'aquesta força neta, resulta igual a la variació de la quantitat de moviment.
+
+Aprofitarem per definir ara altra magnitud física, l'**impuls mecànic**, $$\vec{I}$$,
+
+$$\vec{I}=\left(\sum_{i}\vec{F_{i}}\right)\Delta t=\vec{F}\Delta t$$
+
+Les unitats de l'impuls són $$\mathrm{Ns}$$ en el SI.
+
+En la figura de sota es pot veure la gràfica de la força en funció del temps en el cas d'una força constant. En aquest cas es pot veure clarament que l'impuls es pot interpretar com l'àrea sota dintre de la gràfica (zona grisa).
+
+<p>
+<figure>
+  <img src="img/impuls1.svg" alt="" width="70%">
+  <figcaption> <strong>L'impuls correspon a l'àrea sota la gràfica.</strong> </figcaption>
+</figure>
+</p>
+
+La interpretació anterior es pot generalitzar en el cas que la força no fos constant, com és el cas de la figura següent. En aquest cas sempre podem subdividir l'àrea en petites regions on la força roman constant i calcular l'impuls com la suma de totes aquestes àrees petites. D'aquesta manera veiem que la interpretació de l'àrea sota la gràfica com l'impuls és completament general i no només per a casos de força constant.
+
+<p>
+<figure>
+  <img src="img/impuls2.svg" alt="" width="70%">
+  <figcaption> <strong>Si la força no és constant, sempre podem dividir la gràfica en petits rectangles on la força resulta constant i calcular l'impuls total com la suma de totes aquestes petites àrees.</strong> </figcaption>
+</figure>
+</p>
+
+Amb la definició d'impuls que hem adoptat podem enunciar el **teorema de l'impuls mecànic i la quantitat de moviment** com:
+
+$$\Delta\vec{p}=\vec{I}$$
+
+Un corol·lari important d'aquest teorema ens diu que si el sistema no rep cap força neta ($$\vec{F}=0$$), aleshores l'increment de quantitat de moviment resulta nul, això vol dir que la quantitat de moviment roman constant, en aquests casos diem que la quantitat de moviment es conserva.
+
+$$\Delta\vec{p}=\vec{p}-\vec{p}_{0}=0$$
+
+o, equivalentment,
+
+$$\vec{p}=\vec{p}_{0}$$
+
+El cas de dos partícules que interactuen de manera aïllada és un cas particular d'aplicació d'aquest corol·lari. Imaginem dos partícules que es mouen sobre una superfície plana, xoquen entre elles i continuen amb trajectòries diferents. En aquest cas les forces que actuen son les forces que es fan una partícula a l'altra i viceversa. Les dues forces formen un parell d'interacció i, per tant, són iguals i contraries i la seva suma resulta nul·la. 
+
+<p>
+<figure>
+  <img src="img/xoc.svg" alt="" width="70%">
+  <figcaption> <strong>Conservació de la quantitat de moviment en la interacció de dos partícules. Les forces d'interacció entre elles són parell d'interacció, per tant la seva suma s'anul·la per la 3a llei de Newton, això fa que la quantitat de moviment total sigui la mateixa abans i desprès de la interacció.</strong> </figcaption>
+</figure>
+</p>
+
+Si considerem les dues partícules alhora com un únic sistema, l'impuls total d'aquest sistema resultarà nul i la quantitat de moviment total del sistema romandrà constant durant tot el procés, independentment de les característiques que tingui la interacció entre elles. **Hem trobat una constant de moviment!**
+
+$$\vec{p'}=\vec{p}$$
+
+$$\vec{p_{1}'}+\vec{p_{2}'}=\vec{p_{1}}+\vec{p_{2}}$$
+
+$$m_{1}\vec{v}'_{1}+m_{2}\vec{v}'_{2}=m_{1}\vec{v}_{1}+m_{2}\vec{v}_{2}$$
+
+Veurem com aquest teorema de conservació juntament amb el de conservació de l'energia ens permetrà resoldre problemes de relativa alta complexitat. 
+
+
+# Conservació de l'energia
+
+## Energia
 
 Probablement el d'energia sigui el concepte més important de la ciència. Tot l'univers està format només d'energia, el que passa és que es manifesta de diferents maneres. Quan parlem de matèria també estem parlant d'energia, avui sabem que la matèria és energia encapsulada i, gràcies a la famosa equació d'Einstein, $$E=mc^{2}$$, coneixem la seva equivalència. L'energia es manifesta en moltes altres formes, però que són més intangibles que la matèria, com ser el moviment, la compressió d'una molla, les ones electromagnètiques, la energia associada a l'atracció gravitatòria, etc.
 
