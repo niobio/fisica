@@ -558,5 +558,5 @@ d’1 s. Determineu:
 24. De quantes diòptries ha de ser una lent biconvexa per tal que la mida de la imatge sigui el doble que la mida de l'objecte, si aquest es troba a 25 cm de la lent? *Resposta: 2D*
 <br><a href="sol/prob124.pdf">Solució</a><br>
 
-<a href="optica_geometrica.pdf"><h3>Mostra de problemes PAU òptica geomètrica</h3></a>
+<h3><a href="optica_geometrica.pdf">Mostra de problemes PAU òptica geomètrica</a></h3>
 
