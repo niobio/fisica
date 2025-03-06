@@ -712,11 +712,13 @@ $$\lambda_{3}=\frac{4L}{5}$$
 
 Si continuem, podem arribar a una expressió completament general per a la resta de modes:
 
-$$\lambda_{n}=\frac{4L}{2n-1}\,\,\,\,\,\,\,\,\,\,\mathrm{amb\,}n\in\mathbb{N}$$
+$$\lambda_{n}=\frac{4L}{n}\,\,\,\,\,\,\,\,\,\,\mathrm{amb\,}n=1,3,5,7,...$$
 
 i la relació corresponent a la freqüència
 
-$$\nu_{n}=(2n-1)\frac{v}{4L}\,\,\,\,\,\,\,\,\,\,\,\,\mathrm{amb}\,n\in\mathbb{N}$$
+$$\nu_{n}=n\frac{v}{4L}\,\,\,\,\,\,\,\,\,\,\,\,\mathrm{amb}\,n=1,3,5,7,...$$
+
+Observem que l'expressió matemàtica dels modes normals és igual a la que tenim en el cas de les cordes però en aquest cas hi ha modes suprimits o absents, que són els modes per $$n$$ parell.
  
 
 #### Modes normals de vibració en tubs oberts pels dos extrems <a class="anchor" id="6.2.3"></a>
