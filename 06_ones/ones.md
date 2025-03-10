@@ -700,15 +700,15 @@ $$\lambda_{1}=4L$$
 
 El segon mode es produeix quan
 
-$$L=\frac{3}{4}\lambda_{2}$$
+$$L=\frac{3}{4}\lambda_{3}$$
 
 o, equivalentment,
 
-$$\lambda_{2}=\frac{4L}{3}$$
+$$\lambda_{3}=\frac{4L}{3}$$
 
 El tercer mode normal:
 
-$$\lambda_{3}=\frac{4L}{5}$$
+$$\lambda_{5}=\frac{4L}{5}$$
 
 Si continuem, podem arribar a una expressió completament general per a la resta de modes:
 
@@ -718,7 +718,7 @@ i la relació corresponent a la freqüència
 
 $$\nu_{n}=n\frac{v}{4L}\,\,\,\,\,\,\,\,\,\,\,\,\mathrm{amb}\,n=1,3,5,7,...$$
 
-Observem que l'expressió matemàtica dels modes normals és igual a la que tenim en el cas de les cordes però en aquest cas hi ha modes suprimits o absents, que són els modes per $$n$$ parell.
+Observem que en aquest cas hi ha modes suprimits o absents, que són els modes per $$n$$ parell.
  
 
 #### Modes normals de vibració en tubs oberts pels dos extrems <a class="anchor" id="6.2.3"></a>
