@@ -73,7 +73,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
      inkscape:cx="219.2031"
-     inkscape:cy="200.26274"
+     inkscape:cy="200.76782"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -244,7 +244,7 @@
          id="tspan4720"
          x="441.90112"
          y="215.16145"
-         style="font-size:15px;line-height:1.25">n = 4</tspan></text>
+         style="font-size:15px;line-height:1.25">n = 5</tspan></text>
     <text
        id="text4722"
        y="275.16144"
@@ -255,7 +255,7 @@
          x="441.90112"
          id="tspan4724"
          sodipodi:role="line"
-         style="font-size:15px;line-height:1.25">n = 5</tspan></text>
+         style="font-size:15px;line-height:1.25">n = 7</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -266,7 +266,7 @@
          id="tspan4728"
          x="441.90112"
          y="333.16144"
-         style="font-size:15px;line-height:1.25">n = 7</tspan></text>
+         style="font-size:15px;line-height:1.25">n = 9</tspan></text>
     <path
        style="fill:none;stroke:#808080;stroke-width:0.90774;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
        d="M 423.96484,75.562994 H 47.847657 V 112.79932 H 423.96484"
