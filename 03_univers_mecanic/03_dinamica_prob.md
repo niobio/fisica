@@ -128,14 +128,14 @@ variable. Els coeficients de fricció estàtic i cinètic entre $$m_1$$ i la tau
 
     ## Força elàstica
 
-19. La constant elàstica $$k$$ d'una molla de longitud 12,7 cm ha estat mesurada penjant-hi dues masses de 50 g i 100 g, respectivament; les longituds que ha assolit la molla han estat 14,8 cm i 16,9 cm, respactivament.
+19. La constant elàstica $$k$$ d'una molla de longitud 12,7 cm ha estat mesurada penjant-hi dues masses de 50 g i 100 g, respectivament; les longituds que ha assolit la molla han estat 14,8 cm i 16,9 cm, respectivament.
     1. Quin és el valor de $$k$$ en unitats de l'SI?
     2. Quin és l'allargament que experimenta la molla quan hi pengem un cos de 60 g?
     3. Si hi pengem un cos i la molla s'allarga una longitud de 3,9 cm, quina és la massa del cos?
     <p>Resposta: 23,3 N/m; 2,5 cm; 93g. <a href="sol/prob319.pdf">Solució</a></p>
 
 20. La longitud d'una molla és de 20 cm quan l'estirem amb una força de 40 N, i de 25 cm quan la força és de 60 N. Calculeu:
-    1. La longitud de la molla quan no hi actuacap força.
+    1. La longitud de la molla quan no hi actua cap força.
     2. La constant elàstica.
     <p>Resposta: 10 cm i 400 N/m. <a href="sol/prob320.pdf">Solució</a></p>
 
